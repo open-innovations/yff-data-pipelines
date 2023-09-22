@@ -32,3 +32,23 @@ stages:
       hash: md5
       md5: e00ba8307ad88754c0aef5a65e4d9576
       size: 968192
+  process-latest-a06:
+    cmd: papermill --no-progress-bar --no-report-mode process-a06.ipynb ../../output/labour-market-a06.ipynb
+    deps:
+    - path: ../../data/raw/a06-latest.xls
+      hash: md5
+      md5: b55c248c9f370fcc9b99c6e0f0182abe
+      size: 1420800
+    - path: process-a06.ipynb
+      hash: md5
+      md5: b64c3f03194f58739ca5d4c7ae969e43
+      size: 4932
+    outs:
+    - path: ../../data/metadata/labour-market/a06-codes.csv
+      hash: md5
+      md5: 5f327c641ecf9793a3db519ffb70f5c4
+      size: 14286
+    - path: ../../data/processed/labour-market/a06.csv
+      hash: md5
+      md5: 09fc5740410ef57ca0dc590b35fe4ebe
+      size: 3333105

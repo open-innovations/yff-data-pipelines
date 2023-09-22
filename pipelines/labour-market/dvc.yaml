@@ -21,3 +21,15 @@ stages:
       - ${top}/data/processed/labour-market/latest_by_pcon_2010.csv:
           cache: false
           persist: false
+  process-latest-a06:
+    cmd: papermill --no-progress-bar --no-report-mode process-a06.ipynb ${top}/output/labour-market-a06.ipynb
+    deps:
+      - process-a06.ipynb
+      - ${top}/data/raw/a06-latest.xls
+    outs:
+      - ${top}/data/processed/labour-market/a06.csv:
+          cache: false
+          persist: true
+      - ${top}/data/metadata/labour-market/a06-codes.csv:
+          cache: false
+          persist: true

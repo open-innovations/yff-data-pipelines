@@ -10,6 +10,7 @@ pandas = "*"
 papermill = "*"
 beautifulsoup4 = "*"
 requests = "*"
+xlrd = "*"
 
 [dev-packages]
 
