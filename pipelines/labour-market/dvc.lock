@@ -16,3 +16,19 @@ stages:
       hash: md5
       md5: bd6e7318a427a11ddf30a66dd20dc7db
       size: 876629
+  download-latest-monthly:
+    cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ../../output/labour-market-latest-monthly-files.ipynb
+    deps:
+    - path: get-latest-monthly-files.ipynb
+      hash: md5
+      md5: 3e1479e26356b97d2dedf8ffe620c5bc
+      size: 3074
+    outs:
+    - path: ../../data/raw/a06-latest.xls
+      hash: md5
+      md5: b55c248c9f370fcc9b99c6e0f0182abe
+      size: 1420800
+    - path: ../../data/raw/unem01-latest.xls
+      hash: md5
+      md5: e00ba8307ad88754c0aef5a65e4d9576
+      size: 968192

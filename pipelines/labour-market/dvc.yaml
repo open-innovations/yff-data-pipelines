@@ -1,6 +1,17 @@
 vars:
   - top: ../..
 stages:
+  download-latest-monthly:
+    cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ${top}/output/labour-market-latest-monthly-files.ipynb
+    deps:
+      - get-latest-monthly-files.ipynb
+    outs:
+      - ${top}/data/raw/a06-latest.xls:
+          cache: false
+          persist: false
+      - ${top}/data/raw/unem01-latest.xls:
+          cache: false
+          persist: false
   process-latest-by-pcon:
     cmd: papermill --no-progress-bar --no-report-mode latest-by-pcon.ipynb ${top}/output/labour-market-latest-by-pcon.ipynb
     deps:

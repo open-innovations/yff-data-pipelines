@@ -8,6 +8,8 @@ dvc = "*"
 ipykernel = "*"
 pandas = "*"
 papermill = "*"
+beautifulsoup4 = "*"
+requests = "*"
 
 [dev-packages]
 
