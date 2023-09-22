@@ -1,0 +1,12 @@
+vars:
+  - top: ../..
+stages:
+  process-latest-by-pcon:
+    cmd: papermill --no-progress-bar --no-report-mode latest-by-pcon.ipynb ${top}/output/labour-market-latest-by-pcon.ipynb
+    deps:
+      - latest-by-pcon.ipynb
+      - ${top}/data/raw/LMS_latest_by_geo.csv
+    outs:
+      - ${top}/data/processed/labour-market/latest_by_pcon_2010.csv:
+          cache: false
+          persist: false

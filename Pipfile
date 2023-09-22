@@ -7,6 +7,7 @@ name = "pypi"
 dvc = "*"
 ipykernel = "*"
 pandas = "*"
+papermill = "*"
 
 [dev-packages]
 

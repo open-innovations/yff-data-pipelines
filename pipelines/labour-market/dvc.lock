@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  process-latest-by-pcon:
+    cmd: papermill --no-progress-bar --no-report-mode latest-by-pcon.ipynb ../../output/labour-market-latest-by-pcon.ipynb
+    deps:
+    - path: ../../data/raw/LMS_latest_by_geo.csv
+      hash: md5
+      md5: 91384a3a91c292af3e15501d5250b46e
+      size: 9118807
+    - path: latest-by-pcon.ipynb
+      hash: md5
+      md5: 4e46db54ba41284a299f42cfd2a6e01d
+      size: 3341
+    outs:
+    - path: ../../data/processed/labour-market/latest_by_pcon_2010.csv
+      hash: md5
+      md5: 4e5dc61e1cc29f6eca2d3b7f76e878de
+      size: 876639
