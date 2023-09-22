@@ -1,4 +1,4 @@
-date,date_name,geography_name,geography_code,variable_name,variable_code,value,obs_status_name
+date,date_name,geography_name,geography_code,variable_name,variable_code,value,notes
 2023-03-01,Apr 2022-Mar 2023,Berwick-upon-Tweed,E14000554,Economic activity rate - aged 16-24,1201,65.3,Normal Value
 2023-03-01,Apr 2022-Mar 2023,Berwick-upon-Tweed,E14000554,% who are economically inactive - aged 16-24,1219,34.7,Normal Value
 2023-03-01,Apr 2022-Mar 2023,Berwick-upon-Tweed,E14000554,Employment rate - aged 16-24,1207,52.3,Normal Value

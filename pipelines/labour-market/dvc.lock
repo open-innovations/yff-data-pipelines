@@ -9,10 +9,10 @@ stages:
       size: 9118807
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: 4e46db54ba41284a299f42cfd2a6e01d
-      size: 3341
+      md5: 16beeebdeab4fac2bd3cfa4812a00399
+      size: 3412
     outs:
     - path: ../../data/processed/labour-market/latest_by_pcon_2010.csv
       hash: md5
-      md5: 4e5dc61e1cc29f6eca2d3b7f76e878de
-      size: 876639
+      md5: bd6e7318a427a11ddf30a66dd20dc7db
+      size: 876629
