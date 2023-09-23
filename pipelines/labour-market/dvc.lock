@@ -46,8 +46,8 @@ stages:
     outs:
     - path: ../../data/metadata/labour-market/a06-codes.csv
       hash: md5
-      md5: ac0a5ca092b0603c990df63bd2062383
-      size: 14291
+      md5: d69c5f3c000d7af1e81230b1d534fdaf
+      size: 14290
     - path: ../../data/processed/labour-market/a06.csv
       hash: md5
       md5: 09fc5740410ef57ca0dc590b35fe4ebe
@@ -66,9 +66,9 @@ stages:
     outs:
     - path: ../../data/metadata/labour-market/unem01-codes.csv
       hash: md5
-      md5: 98750ef72f20263799aee1827f35e984
-      size: 5735
+      md5: 400a4e587dce00a949932aebb18a1ea4
+      size: 5512
     - path: ../../data/processed/labour-market/unem01.csv
       hash: md5
-      md5: b222e80daae74cf4aa834201c055b93e
-      size: 4058780
+      md5: 699a6a765ac753e6a1d857016b3e3a3a
+      size: 3975529

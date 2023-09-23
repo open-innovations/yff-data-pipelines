@@ -13,7 +13,8 @@ def detect_id_row(filename):
 def get_headers(filename, sheet_name, id_row):
     headers = pd.read_excel(filename, sheet_name=sheet_name, index_col=0, header=None).head(id_row+1).T.set_index('Dataset identifier code').ffill()
     headers = headers.loc[:, headers.columns.isna()]
-    headers.columns = ['age', 'category', 'measure_type']
+    headers.columns = ['age', 'measure', 'measure_type']
+    headers.measure = headers.measure.str.replace(r'\s+', ' ', regex=True)
     return headers
 
 
