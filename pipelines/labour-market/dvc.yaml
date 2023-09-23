@@ -33,3 +33,16 @@ stages:
       - ${top}/data/metadata/labour-market/a06-codes.csv:
           cache: false
           persist: true
+
+  process-latest-unem01:
+    cmd: papermill --no-progress-bar --no-report-mode process-unem01.ipynb ${top}/output/labour-market-unem01.ipynb
+    deps:
+      - process-unem01.ipynb
+      - ${top}/data/raw/unem01-latest.xls
+    outs:
+      - ${top}/data/processed/labour-market/unem01.csv:
+          cache: false
+          persist: true
+      - ${top}/data/metadata/labour-market/unem01-codes.csv:
+          cache: false
+          persist: true

@@ -23,7 +23,7 @@ def add_group(data, value):
 
 
 def load_data(filename, sheet_name, id_row):
-    data = pd.read_excel(filename, sheet_name=sheet_name, skiprows=id_row).rename(columns={ 'Dataset identifier code': 'date_name' })
+    data = pd.read_excel(filename, sheet_name=sheet_name, skiprows=id_row, na_values=['*']).rename(columns={ 'Dataset identifier code': 'date_name' })
     data = data[data.iloc[:, 1].notna()]
     return data
 

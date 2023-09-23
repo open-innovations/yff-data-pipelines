@@ -1,0 +1,127 @@
+Dataset identifier code,age,category,measure_type,group
+MGSC,All aged 16 & over,All,level,People
+MGSX,All aged 16 & over,All,rate (%)1,People
+YBWF,All aged 16 & over,Up to 6 months,level,People
+YBWG,All aged 16 & over,Over 6 and up to 12 months,level,People
+YBWH,All aged 16 & over,All over             12 months,level,People
+YBWI,All aged 16 & over,% over 12 months,level,People
+YBWL,All aged 16 & over,All over 24 months,level,People
+LF2I,All aged 16 - 64,All,level,People
+LF2Q,All aged 16 - 64,All,rate (%)1,People
+LF2Y,All aged 16 - 64,Up to 6 months,level,People
+LF32,All aged 16 - 64,Over 6 and up to 12 months,level,People
+LF34,All aged 16 - 64,All over             12 months,level,People
+LF36,All aged 16 - 64,% over 12 months,level,People
+LF38,All aged 16 - 64,All over 24 months,level,People
+YBVH,16-17,All,level,People
+YBVK,16-17,All,rate (%)1,People
+YBXD,16-17,Up to 6 months,level,People
+YBXG,16-17,Over 6 and up to 12 months,level,People
+YBXJ,16-17,All over             12 months,level,People
+YBXM,16-17,% over 12 months,level,People
+YBXP,16-17,All over   24 months,level,People
+YBVN,18-24,All,level,People
+YBVQ,18-24,All,rate (%)1,People
+YBXS,18-24,Up to 6 months ,level,People
+YBXV,18-24,Over 6 and up to 12 months ,level,People
+YBXY,18-24,All over             12 months ,level,People
+YBYB,18-24,% over 12 months,level,People
+YBYE,18-24,All over 24 months,level,People
+MGVI,25-49,All,level,People
+MGXB,25-49,All,rate (%)1,People
+YBYH,25-49,Up to 6 months,level,People
+YBYK,25-49,Over 6 and up to 12 months,level,People
+YBYN,25-49,All over             12 months,level,People
+YBYQ,25-49,% over 12 months,level,People
+YBYT,25-49,All over 24 months,level,People
+YBVT,50 and over,All,level,People
+YBVW,50 and over,All,rate (%)1,People
+YBYW,50 and over,Up to 6 months,level,People
+YBYZ,50 and over,Over 6 and up to 12 months,level,People
+YBZC,50 and over,All over             12 months,level,People
+YBZF,50 and over,% over 12 months,level,People
+YBZI,50 and over,All over 24 months,level,People
+MGSD,All aged 16 & over,All,level,Men
+MGSY,All aged 16 & over,All,rate (%)1,Men
+MGYK,All aged 16 & over,Up to 6 months,level,Men
+MGYM,All aged 16 & over,Over 6 and up to 12 months,level,Men
+MGYO,All aged 16 & over,All over             12 months,level,Men
+YBWJ,All aged 16 & over,% over 12 months,level,Men
+YBWM,All aged 16 & over,All over 24 months,level,Men
+YBSI,All aged 16 - 64,All,level,Men
+YBTJ,All aged 16 - 64,All,rate (%)1,Men
+YBWP,All aged 16 - 64,Up to 6 months,level,Men
+YBWS,All aged 16 - 64,Over 6 and up to 12 months,level,Men
+YBWV,All aged 16 - 64,All over             12 months,level,Men
+YBWY,All aged 16 - 64,% over 12 months,level,Men
+YBXB,All aged 16 - 64,All over 24 months,level,Men
+YBVI,16-17,All,level,Men
+YBVL,16-17,All,rate (%)1,Men
+YBXE,16-17,Up to 6 months,level,Men
+YBXH,16-17,Over 6 and up to 12 months,level,Men
+YBXK,16-17,All over             12 months,level,Men
+YBXN,16-17,% over 12 months,level,Men
+YBXQ,16-17,All over   24 months,level,Men
+YBVO,18-24,All,level,Men
+YBVR,18-24,All,rate (%)1,Men
+YBXT,18-24,Up to 6 months ,level,Men
+YBXW,18-24,Over 6 and up to 12 months ,level,Men
+YBXZ,18-24,All over             12 months ,level,Men
+YBYC,18-24,% over 12 months,level,Men
+YBYF,18-24,All over 24 months,level,Men
+MGVJ,25-49,All,level,Men
+MGXC,25-49,All,rate (%)1,Men
+YBYI,25-49,Up to 6 months,level,Men
+YBYL,25-49,Over 6 and up to 12 months,level,Men
+YBYO,25-49,All over             12 months,level,Men
+YBYR,25-49,% over 12 months,level,Men
+YBYU,25-49,All over 24 months,level,Men
+YBVU,50 and over,All,level,Men
+YBVX,50 and over,All,rate (%)1,Men
+YBYX,50 and over,Up to 6 months,level,Men
+YBZA,50 and over,Over 6 and up to 12 months,level,Men
+YBZD,50 and over,All over             12 months,level,Men
+YBZG,50 and over,% over 12 months,level,Men
+YBZJ,50 and over,All over 24 months,level,Men
+MGSE,All aged 16 & over,All,level,Women
+MGSZ,All aged 16 & over,All,rate (%)1,Women
+MGYL,All aged 16 & over,Up to 6 months,level,Women
+MGYN,All aged 16 & over,Over 6 and up to 12 months,level,Women
+MGYP,All aged 16 & over,All over             12 months,level,Women
+YBWK,All aged 16 & over,% over 12 months,level,Women
+YBWN,All aged 16 & over,All over 24 months,level,Women
+LF2J,All aged 16 - 64,All,level,Women
+LF2R,All aged 16 - 64,All,rate (%)1,Women
+LF2Z,All aged 16 - 64,Up to 6 months,level,Women
+LF33,All aged 16 - 64,Over 6 and up to 12 months,level,Women
+LF35,All aged 16 - 64,All over             12 months,level,Women
+LF37,All aged 16 - 64,% over 12 months,level,Women
+LF39,All aged 16 - 64,All over 24 months,level,Women
+YBVJ,16-17,All,level,Women
+YBVM,16-17,All,rate (%)1,Women
+YBXF,16-17,Up to 6 months,level,Women
+YBXI,16-17,Over 6 and up to 12 months,level,Women
+YBXL,16-17,All over             12 months,level,Women
+YBXO,16-17,% over 12 months,level,Women
+YBXR,16-17,All over   24 months,level,Women
+YBVP,18-24,All,level,Women
+YBVS,18-24,All,rate (%)1,Women
+YBXU,18-24,Up to 6 months ,level,Women
+YBXX,18-24,Over 6 and up to 12 months ,level,Women
+YBYA,18-24,All over             12 months ,level,Women
+YBYD,18-24,% over 12 months,level,Women
+YBYG,18-24,All over 24 months,level,Women
+MGVK,25-49,All,level,Women
+MGXD,25-49,All,rate (%)1,Women
+YBYJ,25-49,Up to 6 months,level,Women
+YBYM,25-49,Over 6 and up to 12 months,level,Women
+YBYP,25-49,All over             12 months,level,Women
+YBYS,25-49,% over 12 months,level,Women
+YBYV,25-49,All over 24 months,level,Women
+YBVV,50 and over,All,level,Women
+YBVY,50 and over,All,rate (%)1,Women
+YBYY,50 and over,Up to 6 months,level,Women
+YBZB,50 and over,Over 6 and up to 12 months,level,Women
+YBZE,50 and over,All over             12 months,level,Women
+YBZH,50 and over,% over 12 months,level,Women
+YBZK,50 and over,All over 24 months,level,Women
