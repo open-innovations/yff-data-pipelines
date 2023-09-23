@@ -1,4 +1,4 @@
-Dataset identifier code,age,variable,measure,group
+Dataset identifier code,age,category,measure_type,group
 AGNH,All aged 16 to 17 not in full-time education (thousands)1,Employed,level,People
 AGNI,All aged 18 to 24 not in full-time education 1,Employed,level,People
 AGNJ,All aged 16 to 24 not in full-time education 1,Employed,level,People
