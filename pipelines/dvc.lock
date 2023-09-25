@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  check-for-page-updates:
+    cmd: python control.py
+    deps:
+    - path: control.py
+      hash: md5
+      md5: 64b22dddf96633c84341fbb72271d0c3
+      size: 542
+    outs:
+    - path: control.csv
+      hash: md5
+      md5: 281cbe09548cd37943a80f132c03d510
+      size: 400

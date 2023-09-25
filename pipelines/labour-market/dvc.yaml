@@ -26,6 +26,7 @@ stages:
     deps:
       - process-a06.ipynb
       - ${top}/data/raw/a06-latest.xls
+      - ../control.csv
     outs:
       - ${top}/data/processed/labour-market/a06.csv:
           cache: false
@@ -39,6 +40,7 @@ stages:
     deps:
       - process-unem01.ipynb
       - ${top}/data/raw/unem01-latest.xls
+      - ../control.csv
     outs:
       - ${top}/data/processed/labour-market/unem01.csv:
           cache: false

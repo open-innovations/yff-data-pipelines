@@ -21,8 +21,8 @@ stages:
     deps:
     - path: get-latest-monthly-files.ipynb
       hash: md5
-      md5: 3e1479e26356b97d2dedf8ffe620c5bc
-      size: 3074
+      md5: 203636ec28bc66f79722048bd42146de
+      size: 1494
     outs:
     - path: ../../data/raw/a06-latest.xls
       hash: md5
@@ -39,6 +39,10 @@ stages:
       hash: md5
       md5: b55c248c9f370fcc9b99c6e0f0182abe
       size: 1420800
+    - path: ../control.csv
+      hash: md5
+      md5: 281cbe09548cd37943a80f132c03d510
+      size: 400
     - path: process-a06.ipynb
       hash: md5
       md5: 81ea6bc97f543d243a96eebafd683fdc
@@ -59,6 +63,10 @@ stages:
       hash: md5
       md5: e00ba8307ad88754c0aef5a65e4d9576
       size: 968192
+    - path: ../control.csv
+      hash: md5
+      md5: 281cbe09548cd37943a80f132c03d510
+      size: 400
     - path: process-unem01.ipynb
       hash: md5
       md5: a5ffa285de40b286ae15c747e9d82863

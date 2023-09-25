@@ -1,0 +1,9 @@
+stages:
+    check-for-page-updates:
+        always_changed: true
+        cmd: python control.py
+        deps:
+          - control.py
+        outs:
+          - control.csv:
+              cache: false
