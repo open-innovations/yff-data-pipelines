@@ -5,17 +5,17 @@ stages:
     deps:
     - path: ../../data/raw/LMS_latest_by_geo.csv
       hash: md5
-      md5: d432fba032f398038e4b5cf7e1569856
-      size: 3055861
+      md5: 43340997ae737e7bd842bd45470eaf90
+      size: 8393780
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: 16beeebdeab4fac2bd3cfa4812a00399
-      size: 3412
+      md5: 7de7c28371135ddbf3b75bb17cd916b0
+      size: 3705
     outs:
     - path: ../../data/processed/labour-market/latest_by_pcon_2010.csv
       hash: md5
-      md5: fa0af3f1cf606b9bcf6e00a12da8bd40
-      size: 1238898
+      md5: 91acf422a1d81bf27f6937c8648d4fe3
+      size: 858704
   download-latest-monthly:
     cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ../../output/labour-market-latest-monthly-files.ipynb
     deps:
