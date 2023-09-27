@@ -11,3 +11,4 @@ outs:
   size: 8393780
   hash: md5
   path: LMS_latest_by_geo.csv
+  isexec: true
