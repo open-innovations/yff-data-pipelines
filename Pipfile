@@ -12,6 +12,9 @@ beautifulsoup4 = "*"
 requests = "*"
 xlrd = "*"
 seaborn = "*"
+geopandas = "*"
+folium = "*"
+mapclassify = "*"
 
 [dev-packages]
 
