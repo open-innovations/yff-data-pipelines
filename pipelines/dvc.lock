@@ -12,3 +12,19 @@ stages:
       hash: md5
       md5: 281cbe09548cd37943a80f132c03d510
       size: 400
+  nomis-download:
+    cmd: python nomis.py
+    deps:
+    - path: nomis.py
+      hash: md5
+      md5: 47ec604aa9c59a1ee1e41e2649959bc4
+      size: 11405
+    outs:
+    - path: ../data/raw/claimants-by-pcon-2010-latest.csv
+      hash: md5
+      md5: 7f387e1ef61579c73dd4f5a496150091
+      size: 488162
+    - path: ../data/raw/population-estimates-by-pcon-2010-latest.csv
+      hash: md5
+      md5: 347e6eb05cdb45f1d08a2d9437bb6956
+      size: 383023

@@ -1,3 +1,5 @@
+vars:
+  - TOP: ..
 stages:
     check-for-page-updates:
         always_changed: true
@@ -6,4 +8,13 @@ stages:
           - control.py
         outs:
           - control.csv:
+              cache: false
+    nomis-download:
+        cmd: python nomis.py
+        deps:
+          - nomis.py
+        outs:
+          - ${TOP}/data/raw/claimants-by-pcon-2010-latest.csv:
+              cache: false
+          - ${TOP}/data/raw/population-estimates-by-pcon-2010-latest.csv:
               cache: false

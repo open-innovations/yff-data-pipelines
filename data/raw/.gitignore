@@ -2,3 +2,7 @@
 /unem01-latest.xls
 /lfs_by_pcon.csv
 /LMS_by_local_authority.csv
+
+# Nomis downloads
+/claimants-by-pcon-2010-latest.csv
+/population-estimates-by-pcon-2010-latest.csv
