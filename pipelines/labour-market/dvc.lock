@@ -9,8 +9,8 @@ stages:
       size: 8393780
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: 7de7c28371135ddbf3b75bb17cd916b0
-      size: 3705
+      md5: 53f14e80ddcb383b4fc9cbf1757a8eed
+      size: 4245
     outs:
     - path: ../../data/processed/labour-market/latest_by_pcon_2010.csv
       hash: md5
@@ -80,3 +80,15 @@ stages:
       hash: md5
       md5: 699a6a765ac753e6a1d857016b3e3a3a
       size: 3975529
+  download-from-nomis:
+    cmd: python download-from-nomis-api.py
+    deps:
+    - path: download-from-nomis-api.py
+      hash: md5
+      md5: f7ddfdbcb234524c3617112d1ff5b326
+      size: 6277
+    outs:
+    - path: ../../data/raw/lfs_by_pcon.csv
+      hash: md5
+      md5: 68030879ee9b5ef660f80bd76edd9e1d
+      size: 68349604

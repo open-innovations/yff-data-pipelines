@@ -1,6 +1,13 @@
 vars:
   - top: ../..
 stages:
+  download-from-nomis:
+    cmd: python download-from-nomis-api.py
+    deps:
+      - download-from-nomis-api.py
+    outs:
+      - ${top}/data/raw/lfs_by_pcon.csv:
+          cache: false
   download-latest-monthly:
     cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ${top}/output/labour-market-latest-monthly-files.ipynb
     deps:
