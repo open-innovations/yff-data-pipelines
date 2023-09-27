@@ -3,19 +3,19 @@ stages:
   process-latest-by-pcon:
     cmd: papermill --no-progress-bar --no-report-mode latest-by-pcon.ipynb ../../output/labour-market-latest-by-pcon.ipynb
     deps:
-    - path: ../../data/raw/LMS_latest_by_geo.csv
+    - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: 43340997ae737e7bd842bd45470eaf90
-      size: 8393780
+      md5: 68030879ee9b5ef660f80bd76edd9e1d
+      size: 68349604
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: 53f14e80ddcb383b4fc9cbf1757a8eed
-      size: 4245
+      md5: 1f863d9e530fe2c934edab20af599e10
+      size: 167937
     outs:
-    - path: ../../data/processed/labour-market/latest_by_pcon_2010.csv
+    - path: ../../data/processed/labour-market/most_recent_by_pcon_2010.csv
       hash: md5
-      md5: 91acf422a1d81bf27f6937c8648d4fe3
-      size: 858704
+      md5: 78d57994fa7e9d42d04a556dba1d82f9
+      size: 761418
   download-latest-monthly:
     cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ../../output/labour-market-latest-monthly-files.ipynb
     deps:

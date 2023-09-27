@@ -23,9 +23,9 @@ stages:
     cmd: papermill --no-progress-bar --no-report-mode latest-by-pcon.ipynb ${top}/output/labour-market-latest-by-pcon.ipynb
     deps:
       - latest-by-pcon.ipynb
-      - ${top}/data/raw/LMS_latest_by_geo.csv
+      - ${top}/data/raw/lfs_by_pcon.csv
     outs:
-      - ${top}/data/processed/labour-market/latest_by_pcon_2010.csv:
+      - ${top}/data/processed/labour-market/most_recent_by_pcon_2010.csv:
           cache: false
           persist: false
   process-latest-a06:

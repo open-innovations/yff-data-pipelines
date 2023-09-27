@@ -11,6 +11,7 @@ papermill = "*"
 beautifulsoup4 = "*"
 requests = "*"
 xlrd = "*"
+seaborn = "*"
 
 [dev-packages]
 
