@@ -6,8 +6,11 @@ date_range='latestMINUS8-latest'
 
 variables = [
   18, 19, 20,
-  84, 85, 86,
-  111, 112, 113,
+  83, 84, 85, 86,
+  110, 111, 112, 113,
+  1213,
+  1219,
+  1493
 ]
 
 def get_variable(variable, geography):
