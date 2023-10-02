@@ -1,190 +1,190 @@
 Dataset identifier code,age,measure,measure_type,group
-AGNH,All aged 16 to 17 not in full-time education (thousands)1,Employed,level,People
-AGNI,All aged 18 to 24 not in full-time education 1,Employed,level,People
-AGNJ,All aged 16 to 24 not in full-time education 1,Employed,level,People
-AGNK,All aged 16 to 17 not in full-time education (thousands)1,Employed,level,Men
-AGNL,All aged 18 to 24 not in full-time education 1,Employed,level,Men
-AGNM,All aged 16 to 24 not in full-time education 1,Employed,level,Men
-AGNN,All aged 16 to 17 not in full-time education (thousands)1,Employed,level,Women
-AGNO,All aged 18 to 24 not in full-time education 1,Employed,level,Women
-AGNP,All aged 16 to 24 not in full-time education 1,Employed,level,Women
-AGNR,All aged 16 to 17 in full-time education (thousands),Employed2,level,People
-AGNS,All aged 18 to 24 in full-time education (thousands),Employed2,level,People
-AGNT,All aged 16 to 24 in full-time education (thousands),Employed2,level,People
-AGNU,All aged 16 to 17 in full-time education (thousands),Employed2,level,Men
-AGNV,All aged 18 to 24 in full-time education (thousands),Employed2,level,Men
-AGNW,All aged 16 to 24 in full-time education (thousands),Employed2,level,Men
-AGNX,All aged 16 to 17 in full-time education (thousands),Employed2,level,Women
-AGNY,All aged 18 to 24 in full-time education (thousands),Employed2,level,Women
-AGNZ,All aged 16 to 24 in full-time education (thousands),Employed2,level,Women
-AGOJ,All aged 16 to 17 not in full-time education (thousands)1,Unemployed,level,People
-AGOK,All aged 18 to 24 not in full-time education 1,Unemployed,level,People
-AGOL,All aged 16 to 24 not in full-time education 1,Unemployed,level,People
-AGOM,All aged 16 to 17 not in full-time education (thousands)1,Unemployed,level,Men
-AGON,All aged 18 to 24 not in full-time education 1,Unemployed,level,Men
-AGOO,All aged 16 to 24 not in full-time education 1,Unemployed,level,Men
-AGOP,All aged 16 to 17 not in full-time education (thousands)1,Unemployed,level,Women
-AGOQ,All aged 18 to 24 not in full-time education 1,Unemployed,level,Women
-AGOR,All aged 16 to 24 not in full-time education 1,Unemployed,level,Women
-AGOS,All aged 16 to 17 in full-time education (thousands),Unemployed2,level,People
-AGOT,All aged 18 to 24 in full-time education (thousands),Unemployed2,level,People
-AGOU,All aged 16 to 24 in full-time education (thousands),Unemployed2,level,People
-AGOV,All aged 16 to 17 in full-time education (thousands),Unemployed2,level,Men
-AGOW,All aged 18 to 24 in full-time education (thousands),Unemployed2,level,Men
-AGOX,All aged 16 to 24 in full-time education (thousands),Unemployed2,level,Men
-AGOY,All aged 16 to 17 in full-time education (thousands),Unemployed2,level,Women
-AGOZ,All aged 18 to 24 in full-time education (thousands),Unemployed2,level,Women
-AGPA,All aged 16 to 24 in full-time education (thousands),Unemployed2,level,Women
-AGPK,All aged 16 to 17 not in full-time education (thousands)1,Economically inactive,level,People
-AGPL,All aged 18 to 24 not in full-time education 1,Economically inactive,level,People
-AGPM,All aged 16 to 24 not in full-time education 1,Economically inactive,level,People
-AGPN,All aged 16 to 17 not in full-time education (thousands)1,Economically inactive,level,Men
-AGPO,All aged 18 to 24 not in full-time education 1,Economically inactive,level,Men
-AGPP,All aged 16 to 24 not in full-time education 1,Economically inactive,level,Men
-AGPQ,All aged 16 to 17 not in full-time education (thousands)1,Economically inactive,level,Women
-AGPR,All aged 18 to 24 not in full-time education 1,Economically inactive,level,Women
-AGPS,All aged 16 to 24 not in full-time education 1,Economically inactive,level,Women
-AGPT,All aged 16 to 17 in full-time education (thousands),Economically inactive,level,People
-AGPU,All aged 18 to 24 in full-time education (thousands),Economically inactive,level,People
-AGPV,All aged 16 to 24 in full-time education (thousands),Economically inactive,level,People
-AGPW,All aged 16 to 17 in full-time education (thousands),Economically inactive,level,Men
-AGPX,All aged 18 to 24 in full-time education (thousands),Economically inactive,level,Men
-AGPY,All aged 16 to 24 in full-time education (thousands),Economically inactive,level,Men
-AGTD,All aged 16 to 17 in full-time education (thousands),Economically inactive,level,Women
-AGTF,All aged 18 to 24 in full-time education (thousands),Economically inactive,level,Women
-AGTO,All aged 16 to 24 in full-time education (thousands),Economically inactive,level,Women
-AIVZ,All aged 16 to 24 (rates)3,Employed,rate (%),People
-AIWC,All aged 16 to 24 (rates)3,Employed,rate (%),Men
-AIWF,All aged 16 to 24 (rates)3,Employed,rate (%),Women
-AIWG,All aged 16 to 17 not in full-time education (rates)13,Employed,rate (%),People
-AIWH,All aged 18 to 24 not in full-time education (rates)13,Employed,rate (%),People
-AIWI,All aged 16 to 24 not in full-time education (rates)13,Employed,rate (%),People
-AIWJ,All aged 16 to 17 not in full-time education (rates)13,Employed,rate (%),Men
-AIWK,All aged 18 to 24 not in full-time education (rates)13,Employed,rate (%),Men
-AIWL,All aged 16 to 24 not in full-time education (rates)13,Employed,rate (%),Men
-AIWM,All aged 16 to 17 not in full-time education (rates)13,Employed,rate (%),Women
-AIWN,All aged 18 to 24 not in full-time education (rates)13,Employed,rate (%),Women
-AIWX,All aged 16 to 24 not in full-time education (rates)13,Employed,rate (%),Women
-AIWY,All aged 16 to 17 in full-time education (rates)3,Employed2,rate (%),People
-AIXA,All aged 18 to 24 in full-time education (rates)3,Employed2,rate (%),People
-AIXB,All aged 16 to 24 in full-time education (rates)3,Employed2,rate (%),People
-AIXC,All aged 16 to 17 in full-time education (rates)3,Employed2,rate (%),Men
-AIXD,All aged 18 to 24 in full-time education (rates)3,Employed2,rate (%),Men
-AIXE,All aged 16 to 24 in full-time education (rates)3,Employed2,rate (%),Men
-AIXF,All aged 16 to 17 in full-time education (rates)3,Employed2,rate (%),Women
-AIXG,All aged 18 to 24 in full-time education (rates)3,Employed2,rate (%),Women
-AIXH,All aged 16 to 24 in full-time education (rates)3,Employed2,rate (%),Women
-AIXR,All aged 16 to 17 not in full-time education (rates)13,Unemployed,rate (%),People
-AIXS,All aged 18 to 24 not in full-time education (rates)13,Unemployed,rate (%),People
-AIXT,All aged 16 to 24 not in full-time education (rates)13,Unemployed,rate (%),People
-AIXU,All aged 16 to 17 not in full-time education (rates)13,Unemployed,rate (%),Men
-AIXV,All aged 18 to 24 not in full-time education (rates)13,Unemployed,rate (%),Men
-AIXW,All aged 16 to 24 not in full-time education (rates)13,Unemployed,rate (%),Men
-AIXX,All aged 16 to 17 not in full-time education (rates)13,Unemployed,rate (%),Women
-AIXY,All aged 18 to 24 not in full-time education (rates)13,Unemployed,rate (%),Women
-AIXZ,All aged 16 to 24 not in full-time education (rates)13,Unemployed,rate (%),Women
-AIYA,All aged 16 to 17 in full-time education (rates)3,Unemployed2,rate (%),People
-AIYB,All aged 18 to 24 in full-time education (rates)3,Unemployed2,rate (%),People
-AIYC,All aged 16 to 24 in full-time education (rates)3,Unemployed2,rate (%),People
-AIYD,All aged 16 to 17 in full-time education (rates)3,Unemployed2,rate (%),Men
-AIYE,All aged 18 to 24 in full-time education (rates)3,Unemployed2,rate (%),Men
-AIYF,All aged 16 to 24 in full-time education (rates)3,Unemployed2,rate (%),Men
-AIYG,All aged 16 to 17 in full-time education (rates)3,Unemployed2,rate (%),Women
-AIYH,All aged 18 to 24 in full-time education (rates)3,Unemployed2,rate (%),Women
-AIYI,All aged 16 to 24 in full-time education (rates)3,Unemployed2,rate (%),Women
-AIYL,All aged 16 to 24 (rates)3,Economically inactive,rate (%),People
-AIYO,All aged 16 to 24 (rates)3,Economically inactive,rate (%),Men
-AIYR,All aged 16 to 24 (rates)3,Economically inactive,rate (%),Women
-AIYS,All aged 16 to 17 not in full-time education (rates)13,Economically inactive,rate (%),People
-AIYT,All aged 18 to 24 not in full-time education (rates)13,Economically inactive,rate (%),People
-AIYU,All aged 16 to 24 not in full-time education (rates)13,Economically inactive,rate (%),People
-AIYV,All aged 16 to 17 not in full-time education (rates)13,Economically inactive,rate (%),Men
-AIYW,All aged 18 to 24 not in full-time education (rates)13,Economically inactive,rate (%),Men
-AIYX,All aged 16 to 24 not in full-time education (rates)13,Economically inactive,rate (%),Men
-AIYY,All aged 16 to 17 not in full-time education (rates)13,Economically inactive,rate (%),Women
-AIYZ,All aged 18 to 24 not in full-time education (rates)13,Economically inactive,rate (%),Women
-AIZA,All aged 16 to 24 not in full-time education (rates)13,Economically inactive,rate (%),Women
-AIZB,All aged 16 to 17 in full-time education (rates)3,Economically inactive,rate (%),People
-AIZC,All aged 18 to 24 in full-time education (rates)3,Economically inactive,rate (%),People
-AIZD,All aged 16 to 24 in full-time education (rates)3,Economically inactive,rate (%),People
-AIZE,All aged 16 to 17 in full-time education (rates)3,Economically inactive,rate (%),Men
-AIZF,All aged 18 to 24 in full-time education (rates)3,Economically inactive,rate (%),Men
-AIZG,All aged 16 to 24 in full-time education (rates)3,Economically inactive,rate (%),Men
-AIZH,All aged 16 to 17 in full-time education (rates)3,Economically inactive,rate (%),Women
-AIZI,All aged 18 to 24 in full-time education (rates)3,Economically inactive,rate (%),Women
-AIZJ,All aged 16 to 24 in full-time education (rates)3,Economically inactive,rate (%),Women
-JN5P,All aged 16 to 17 (thousands),Total,level,People
-JN5Q,All aged 18 to 24 (thousands),Total,level,People
-JN5R,All aged 16 to 24 (thousands),Total,level,People
-JN5S,All aged 16 to 17 (thousands),Total,level,Men
-JN5T,All aged 18 to 24 (thousands),Total,level,Men
-JN5U,All aged 16 to 24 (thousands),Total,level,Men
-JN5V,All aged 16 to 17 (thousands),Total,level,Women
-JN5W,All aged 18 to 24 (thousands),Total,level,Women
-JN5X,All aged 16 to 24 (thousands),Total,level,Women
-JN5Y,All aged 16 to 17 in full-time education (thousands),Total,level,People
-JN5Z,All aged 18 to 24 in full-time education (thousands),Total,level,People
-JN62,All aged 16 to 24 in full-time education (thousands),Total,level,People
-JN63,All aged 16 to 17 in full-time education (thousands),Total,level,Men
-JN64,All aged 18 to 24 in full-time education (thousands),Total,level,Men
-JN65,All aged 16 to 24 in full-time education (thousands),Total,level,Men
-JN66,All aged 16 to 17 in full-time education (thousands),Total,level,Women
-JN67,All aged 18 to 24 in full-time education (thousands),Total,level,Women
-JN68,All aged 16 to 24 in full-time education (thousands),Total,level,Women
-JN69,All aged 16 to 17 not in full-time education (thousands)1,Total,level,People
-JN6A,All aged 18 to 24 not in full-time education 1,Total,level,People
-JN6B,All aged 16 to 24 not in full-time education 1,Total,level,People
-JN6C,All aged 16 to 17 not in full-time education (thousands)1,Total,level,Men
-JN6D,All aged 18 to 24 not in full-time education 1,Total,level,Men
-JN6E,All aged 16 to 24 not in full-time education 1,Total,level,Men
-JN6F,All aged 16 to 17 not in full-time education (thousands)1,Total,level,Women
-JN6G,All aged 18 to 24 not in full-time education 1,Total,level,Women
-JN6H,All aged 16 to 24 not in full-time education 1,Total,level,Women
-LWEX,All aged 16 to 17 (rates)3,Economically inactive,rate (%),People
-LWEY,All aged 16 to 17 (rates)3,Economically inactive,rate (%),Men
-LWEZ,All aged 16 to 17 (rates)3,Economically inactive,rate (%),Women
-LWFA,All aged 18 to 24 (rates)3,Economically inactive,rate (%),People
-LWFB,All aged 18 to 24 (rates)3,Economically inactive,rate (%),Men
-LWFC,All aged 18 to 24 (rates)3,Economically inactive,rate (%),Women
-MGUQ,All aged 16 to 24 (thousands),Employed,level,People
-MGUR,All aged 16 to 24 (thousands),Employed,level,Men
-MGUS,All aged 16 to 24 (thousands),Employed,level,Women
-MGVF,All aged 16 to 24 (thousands),Unemployed,level,People
-MGVG,All aged 16 to 24 (thousands),Unemployed,level,Men
-MGVH,All aged 16 to 24 (thousands),Unemployed,level,Women
-MGVU,All aged 16 to 24 (thousands),Economically inactive,level,People
-MGVV,All aged 16 to 24 (thousands),Economically inactive,level,Men
-MGVW,All aged 16 to 24 (thousands),Economically inactive,level,Women
-MGWY,All aged 16 to 24 (rates)3,Unemployed,rate (%),People
-MGWZ,All aged 16 to 24 (rates)3,Unemployed,rate (%),Men
-MGXA,All aged 16 to 24 (rates)3,Unemployed,rate (%),Women
-YBTO,All aged 16 to 17 (thousands),Employed,level,People
-YBTP,All aged 16 to 17 (thousands),Employed,level,Men
-YBTQ,All aged 16 to 17 (thousands),Employed,level,Women
-YBTR,All aged 18 to 24 (thousands),Employed,level,People
-YBTS,All aged 18 to 24 (thousands),Employed,level,Men
-YBTT,All aged 18 to 24 (thousands),Employed,level,Women
-YBUA,All aged 16 to 17 (rates)3,Employed,rate (%),People
-YBUB,All aged 16 to 17 (rates)3,Employed,rate (%),Men
-YBUC,All aged 16 to 17 (rates)3,Employed,rate (%),Women
-YBUD,All aged 18 to 24 (rates)3,Employed,rate (%),People
-YBUE,All aged 18 to 24 (rates)3,Employed,rate (%),Men
-YBUF,All aged 18 to 24 (rates)3,Employed,rate (%),Women
-YBVH,All aged 16 to 17 (thousands),Unemployed,level,People
-YBVI,All aged 16 to 17 (thousands),Unemployed,level,Men
-YBVJ,All aged 16 to 17 (thousands),Unemployed,level,Women
-YBVK,All aged 16 to 17 (rates)3,Unemployed,rate (%),People
-YBVL,All aged 16 to 17 (rates)3,Unemployed,rate (%),Men
-YBVM,All aged 16 to 17 (rates)3,Unemployed,rate (%),Women
-YBVN,All aged 18 to 24 (thousands),Unemployed,level,People
-YBVO,All aged 18 to 24 (thousands),Unemployed,level,Men
-YBVP,All aged 18 to 24 (thousands),Unemployed,level,Women
-YBVQ,All aged 18 to 24 (rates)3,Unemployed,rate (%),People
-YBVR,All aged 18 to 24 (rates)3,Unemployed,rate (%),Men
-YBVS,All aged 18 to 24 (rates)3,Unemployed,rate (%),Women
-YCAS,All aged 16 to 17 (thousands),Economically inactive,level,People
-YCAT,All aged 16 to 17 (thousands),Economically inactive,level,Men
-YCAU,All aged 16 to 17 (thousands),Economically inactive,level,Women
-YCAV,All aged 18 to 24 (thousands),Economically inactive,level,People
-YCAW,All aged 18 to 24 (thousands),Economically inactive,level,Men
-YCAX,All aged 18 to 24 (thousands),Economically inactive,level,Women
+AGNH,All aged 16 to 17 not in full-time education,Employed,level,People
+AGNI,All aged 18 to 24 not in full-time education,Employed,level,People
+AGNJ,All aged 16 to 24 not in full-time education,Employed,level,People
+AGNK,All aged 16 to 17 not in full-time education,Employed,level,Men
+AGNL,All aged 18 to 24 not in full-time education,Employed,level,Men
+AGNM,All aged 16 to 24 not in full-time education,Employed,level,Men
+AGNN,All aged 16 to 17 not in full-time education,Employed,level,Women
+AGNO,All aged 18 to 24 not in full-time education,Employed,level,Women
+AGNP,All aged 16 to 24 not in full-time education,Employed,level,Women
+AGNR,All aged 16 to 17 in full-time education,Employed,level,People
+AGNS,All aged 18 to 24 in full-time education,Employed,level,People
+AGNT,All aged 16 to 24 in full-time education,Employed,level,People
+AGNU,All aged 16 to 17 in full-time education,Employed,level,Men
+AGNV,All aged 18 to 24 in full-time education,Employed,level,Men
+AGNW,All aged 16 to 24 in full-time education,Employed,level,Men
+AGNX,All aged 16 to 17 in full-time education,Employed,level,Women
+AGNY,All aged 18 to 24 in full-time education,Employed,level,Women
+AGNZ,All aged 16 to 24 in full-time education,Employed,level,Women
+AGOJ,All aged 16 to 17 not in full-time education,Unemployed,level,People
+AGOK,All aged 18 to 24 not in full-time education,Unemployed,level,People
+AGOL,All aged 16 to 24 not in full-time education,Unemployed,level,People
+AGOM,All aged 16 to 17 not in full-time education,Unemployed,level,Men
+AGON,All aged 18 to 24 not in full-time education,Unemployed,level,Men
+AGOO,All aged 16 to 24 not in full-time education,Unemployed,level,Men
+AGOP,All aged 16 to 17 not in full-time education,Unemployed,level,Women
+AGOQ,All aged 18 to 24 not in full-time education,Unemployed,level,Women
+AGOR,All aged 16 to 24 not in full-time education,Unemployed,level,Women
+AGOS,All aged 16 to 17 in full-time education,Unemployed,level,People
+AGOT,All aged 18 to 24 in full-time education,Unemployed,level,People
+AGOU,All aged 16 to 24 in full-time education,Unemployed,level,People
+AGOV,All aged 16 to 17 in full-time education,Unemployed,level,Men
+AGOW,All aged 18 to 24 in full-time education,Unemployed,level,Men
+AGOX,All aged 16 to 24 in full-time education,Unemployed,level,Men
+AGOY,All aged 16 to 17 in full-time education,Unemployed,level,Women
+AGOZ,All aged 18 to 24 in full-time education,Unemployed,level,Women
+AGPA,All aged 16 to 24 in full-time education,Unemployed,level,Women
+AGPK,All aged 16 to 17 not in full-time education,Economically inactive,level,People
+AGPL,All aged 18 to 24 not in full-time education,Economically inactive,level,People
+AGPM,All aged 16 to 24 not in full-time education,Economically inactive,level,People
+AGPN,All aged 16 to 17 not in full-time education,Economically inactive,level,Men
+AGPO,All aged 18 to 24 not in full-time education,Economically inactive,level,Men
+AGPP,All aged 16 to 24 not in full-time education,Economically inactive,level,Men
+AGPQ,All aged 16 to 17 not in full-time education,Economically inactive,level,Women
+AGPR,All aged 18 to 24 not in full-time education,Economically inactive,level,Women
+AGPS,All aged 16 to 24 not in full-time education,Economically inactive,level,Women
+AGPT,All aged 16 to 17 in full-time education,Economically inactive,level,People
+AGPU,All aged 18 to 24 in full-time education,Economically inactive,level,People
+AGPV,All aged 16 to 24 in full-time education,Economically inactive,level,People
+AGPW,All aged 16 to 17 in full-time education,Economically inactive,level,Men
+AGPX,All aged 18 to 24 in full-time education,Economically inactive,level,Men
+AGPY,All aged 16 to 24 in full-time education,Economically inactive,level,Men
+AGTD,All aged 16 to 17 in full-time education,Economically inactive,level,Women
+AGTF,All aged 18 to 24 in full-time education,Economically inactive,level,Women
+AGTO,All aged 16 to 24 in full-time education,Economically inactive,level,Women
+AIVZ,All aged 16 to 24 (rates),Employed,rate (%),People
+AIWC,All aged 16 to 24 (rates),Employed,rate (%),Men
+AIWF,All aged 16 to 24 (rates),Employed,rate (%),Women
+AIWG,All aged 16 to 17 not in full-time education (rates),Employed,rate (%),People
+AIWH,All aged 18 to 24 not in full-time education (rates),Employed,rate (%),People
+AIWI,All aged 16 to 24 not in full-time education (rates),Employed,rate (%),People
+AIWJ,All aged 16 to 17 not in full-time education (rates),Employed,rate (%),Men
+AIWK,All aged 18 to 24 not in full-time education (rates),Employed,rate (%),Men
+AIWL,All aged 16 to 24 not in full-time education (rates),Employed,rate (%),Men
+AIWM,All aged 16 to 17 not in full-time education (rates),Employed,rate (%),Women
+AIWN,All aged 18 to 24 not in full-time education (rates),Employed,rate (%),Women
+AIWX,All aged 16 to 24 not in full-time education (rates),Employed,rate (%),Women
+AIWY,All aged 16 to 17 in full-time education (rates),Employed,rate (%),People
+AIXA,All aged 18 to 24 in full-time education (rates),Employed,rate (%),People
+AIXB,All aged 16 to 24 in full-time education (rates),Employed,rate (%),People
+AIXC,All aged 16 to 17 in full-time education (rates),Employed,rate (%),Men
+AIXD,All aged 18 to 24 in full-time education (rates),Employed,rate (%),Men
+AIXE,All aged 16 to 24 in full-time education (rates),Employed,rate (%),Men
+AIXF,All aged 16 to 17 in full-time education (rates),Employed,rate (%),Women
+AIXG,All aged 18 to 24 in full-time education (rates),Employed,rate (%),Women
+AIXH,All aged 16 to 24 in full-time education (rates),Employed,rate (%),Women
+AIXR,All aged 16 to 17 not in full-time education (rates),Unemployed,rate (%),People
+AIXS,All aged 18 to 24 not in full-time education (rates),Unemployed,rate (%),People
+AIXT,All aged 16 to 24 not in full-time education (rates),Unemployed,rate (%),People
+AIXU,All aged 16 to 17 not in full-time education (rates),Unemployed,rate (%),Men
+AIXV,All aged 18 to 24 not in full-time education (rates),Unemployed,rate (%),Men
+AIXW,All aged 16 to 24 not in full-time education (rates),Unemployed,rate (%),Men
+AIXX,All aged 16 to 17 not in full-time education (rates),Unemployed,rate (%),Women
+AIXY,All aged 18 to 24 not in full-time education (rates),Unemployed,rate (%),Women
+AIXZ,All aged 16 to 24 not in full-time education (rates),Unemployed,rate (%),Women
+AIYA,All aged 16 to 17 in full-time education (rates),Unemployed,rate (%),People
+AIYB,All aged 18 to 24 in full-time education (rates),Unemployed,rate (%),People
+AIYC,All aged 16 to 24 in full-time education (rates),Unemployed,rate (%),People
+AIYD,All aged 16 to 17 in full-time education (rates),Unemployed,rate (%),Men
+AIYE,All aged 18 to 24 in full-time education (rates),Unemployed,rate (%),Men
+AIYF,All aged 16 to 24 in full-time education (rates),Unemployed,rate (%),Men
+AIYG,All aged 16 to 17 in full-time education (rates),Unemployed,rate (%),Women
+AIYH,All aged 18 to 24 in full-time education (rates),Unemployed,rate (%),Women
+AIYI,All aged 16 to 24 in full-time education (rates),Unemployed,rate (%),Women
+AIYL,All aged 16 to 24 (rates),Economically inactive,rate (%),People
+AIYO,All aged 16 to 24 (rates),Economically inactive,rate (%),Men
+AIYR,All aged 16 to 24 (rates),Economically inactive,rate (%),Women
+AIYS,All aged 16 to 17 not in full-time education (rates),Economically inactive,rate (%),People
+AIYT,All aged 18 to 24 not in full-time education (rates),Economically inactive,rate (%),People
+AIYU,All aged 16 to 24 not in full-time education (rates),Economically inactive,rate (%),People
+AIYV,All aged 16 to 17 not in full-time education (rates),Economically inactive,rate (%),Men
+AIYW,All aged 18 to 24 not in full-time education (rates),Economically inactive,rate (%),Men
+AIYX,All aged 16 to 24 not in full-time education (rates),Economically inactive,rate (%),Men
+AIYY,All aged 16 to 17 not in full-time education (rates),Economically inactive,rate (%),Women
+AIYZ,All aged 18 to 24 not in full-time education (rates),Economically inactive,rate (%),Women
+AIZA,All aged 16 to 24 not in full-time education (rates),Economically inactive,rate (%),Women
+AIZB,All aged 16 to 17 in full-time education (rates),Economically inactive,rate (%),People
+AIZC,All aged 18 to 24 in full-time education (rates),Economically inactive,rate (%),People
+AIZD,All aged 16 to 24 in full-time education (rates),Economically inactive,rate (%),People
+AIZE,All aged 16 to 17 in full-time education (rates),Economically inactive,rate (%),Men
+AIZF,All aged 18 to 24 in full-time education (rates),Economically inactive,rate (%),Men
+AIZG,All aged 16 to 24 in full-time education (rates),Economically inactive,rate (%),Men
+AIZH,All aged 16 to 17 in full-time education (rates),Economically inactive,rate (%),Women
+AIZI,All aged 18 to 24 in full-time education (rates),Economically inactive,rate (%),Women
+AIZJ,All aged 16 to 24 in full-time education (rates),Economically inactive,rate (%),Women
+JN5P,All aged 16 to 17,Total,level,People
+JN5Q,All aged 18 to 24,Total,level,People
+JN5R,All aged 16 to 24,Total,level,People
+JN5S,All aged 16 to 17,Total,level,Men
+JN5T,All aged 18 to 24,Total,level,Men
+JN5U,All aged 16 to 24,Total,level,Men
+JN5V,All aged 16 to 17,Total,level,Women
+JN5W,All aged 18 to 24,Total,level,Women
+JN5X,All aged 16 to 24,Total,level,Women
+JN5Y,All aged 16 to 17 in full-time education,Total,level,People
+JN5Z,All aged 18 to 24 in full-time education,Total,level,People
+JN62,All aged 16 to 24 in full-time education,Total,level,People
+JN63,All aged 16 to 17 in full-time education,Total,level,Men
+JN64,All aged 18 to 24 in full-time education,Total,level,Men
+JN65,All aged 16 to 24 in full-time education,Total,level,Men
+JN66,All aged 16 to 17 in full-time education,Total,level,Women
+JN67,All aged 18 to 24 in full-time education,Total,level,Women
+JN68,All aged 16 to 24 in full-time education,Total,level,Women
+JN69,All aged 16 to 17 not in full-time education,Total,level,People
+JN6A,All aged 18 to 24 not in full-time education,Total,level,People
+JN6B,All aged 16 to 24 not in full-time education,Total,level,People
+JN6C,All aged 16 to 17 not in full-time education,Total,level,Men
+JN6D,All aged 18 to 24 not in full-time education,Total,level,Men
+JN6E,All aged 16 to 24 not in full-time education,Total,level,Men
+JN6F,All aged 16 to 17 not in full-time education,Total,level,Women
+JN6G,All aged 18 to 24 not in full-time education,Total,level,Women
+JN6H,All aged 16 to 24 not in full-time education,Total,level,Women
+LWEX,All aged 16 to 17 (rates),Economically inactive,rate (%),People
+LWEY,All aged 16 to 17 (rates),Economically inactive,rate (%),Men
+LWEZ,All aged 16 to 17 (rates),Economically inactive,rate (%),Women
+LWFA,All aged 18 to 24 (rates),Economically inactive,rate (%),People
+LWFB,All aged 18 to 24 (rates),Economically inactive,rate (%),Men
+LWFC,All aged 18 to 24 (rates),Economically inactive,rate (%),Women
+MGUQ,All aged 16 to 24,Employed,level,People
+MGUR,All aged 16 to 24,Employed,level,Men
+MGUS,All aged 16 to 24,Employed,level,Women
+MGVF,All aged 16 to 24,Unemployed,level,People
+MGVG,All aged 16 to 24,Unemployed,level,Men
+MGVH,All aged 16 to 24,Unemployed,level,Women
+MGVU,All aged 16 to 24,Economically inactive,level,People
+MGVV,All aged 16 to 24,Economically inactive,level,Men
+MGVW,All aged 16 to 24,Economically inactive,level,Women
+MGWY,All aged 16 to 24 (rates),Unemployed,rate (%),People
+MGWZ,All aged 16 to 24 (rates),Unemployed,rate (%),Men
+MGXA,All aged 16 to 24 (rates),Unemployed,rate (%),Women
+YBTO,All aged 16 to 17,Employed,level,People
+YBTP,All aged 16 to 17,Employed,level,Men
+YBTQ,All aged 16 to 17,Employed,level,Women
+YBTR,All aged 18 to 24,Employed,level,People
+YBTS,All aged 18 to 24,Employed,level,Men
+YBTT,All aged 18 to 24,Employed,level,Women
+YBUA,All aged 16 to 17 (rates),Employed,rate (%),People
+YBUB,All aged 16 to 17 (rates),Employed,rate (%),Men
+YBUC,All aged 16 to 17 (rates),Employed,rate (%),Women
+YBUD,All aged 18 to 24 (rates),Employed,rate (%),People
+YBUE,All aged 18 to 24 (rates),Employed,rate (%),Men
+YBUF,All aged 18 to 24 (rates),Employed,rate (%),Women
+YBVH,All aged 16 to 17,Unemployed,level,People
+YBVI,All aged 16 to 17,Unemployed,level,Men
+YBVJ,All aged 16 to 17,Unemployed,level,Women
+YBVK,All aged 16 to 17 (rates),Unemployed,rate (%),People
+YBVL,All aged 16 to 17 (rates),Unemployed,rate (%),Men
+YBVM,All aged 16 to 17 (rates),Unemployed,rate (%),Women
+YBVN,All aged 18 to 24,Unemployed,level,People
+YBVO,All aged 18 to 24,Unemployed,level,Men
+YBVP,All aged 18 to 24,Unemployed,level,Women
+YBVQ,All aged 18 to 24 (rates),Unemployed,rate (%),People
+YBVR,All aged 18 to 24 (rates),Unemployed,rate (%),Men
+YBVS,All aged 18 to 24 (rates),Unemployed,rate (%),Women
+YCAS,All aged 16 to 17,Economically inactive,level,People
+YCAT,All aged 16 to 17,Economically inactive,level,Men
+YCAU,All aged 16 to 17,Economically inactive,level,Women
+YCAV,All aged 18 to 24,Economically inactive,level,People
+YCAW,All aged 18 to 24,Economically inactive,level,Men
+YCAX,All aged 18 to 24,Economically inactive,level,Women

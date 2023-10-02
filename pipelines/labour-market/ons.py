@@ -18,6 +18,18 @@ def get_headers(filename, sheet_name, id_row):
     return headers
 
 
+def clean_age_column(data):
+    data.age = data.age.str.replace(r'\s*\d+$', '', regex=True).str.replace(r'\s*\(thousands\)', '', regex=True)
+    return data
+  
+def clean_measure_column(data):
+    data.measure = data.measure.str.replace(r'\s*\d+$', '', regex=True)
+    return data
+
+def clean_measure_type_column(data):
+    data.measure_type = data.measure_type.str.replace(r'\s*\d+$', '', regex=True)
+    return data
+
 def add_group(data, value):
     data['group'] = value
     return data

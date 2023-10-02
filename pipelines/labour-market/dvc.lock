@@ -45,17 +45,17 @@ stages:
       size: 400
     - path: process-a06.ipynb
       hash: md5
-      md5: 244c70dab111edda8bab94b6d55a9b84
-      size: 3103
+      md5: 3b1ec02b4949eb99f6ee5e6f9d5798bf
+      size: 3429
     outs:
     - path: ../../data/metadata/labour-market/a06-codes.csv
       hash: md5
-      md5: d69c5f3c000d7af1e81230b1d534fdaf
-      size: 14290
+      md5: 3f799e9ed3c83566e723403c35e4e6ef
+      size: 13078
     - path: ../../data/processed/labour-market/a06.csv
       hash: md5
-      md5: 0787634f80422af51391c2953f1f0dad
-      size: 8316886
+      md5: f822feee8322b02c493a5331f255a7d7
+      size: 7862386
   process-latest-unem01:
     cmd: papermill --no-progress-bar --no-report-mode process-unem01.ipynb ../../output/labour-market-unem01.ipynb
     deps:
@@ -69,16 +69,16 @@ stages:
       size: 400
     - path: process-unem01.ipynb
       hash: md5
-      md5: 8fc9bd4eeb389ee5d8bab943d5ac75ea
-      size: 8482
+      md5: ee1ea65ea09ad0769e6576218327ab50
+      size: 2954
     outs:
     - path: ../../data/metadata/labour-market/unem01-codes.csv
       hash: md5
-      md5: 400a4e587dce00a949932aebb18a1ea4
+      md5: 87c4fb8da060e2318a9eb70ccc7c41d3
       size: 5512
     - path: ../../data/processed/labour-market/unem01.csv
       hash: md5
-      md5: 699a6a765ac753e6a1d857016b3e3a3a
+      md5: dee70464341c5ce05044253d5cbb236b
       size: 3975529
   download-from-nomis:
     cmd: python download-from-nomis-api.py
