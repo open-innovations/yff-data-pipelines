@@ -9,8 +9,8 @@ stages:
       size: 105859341
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: 093097c4b799eaec207e437e2be4964a
-      size: 179785
+      md5: 5d78a1fa78fefdc02c55a3b71005b615
+      size: 6938
     outs:
     - path: ../../data/processed/labour-market/most_recent_by_pcon_2010.csv
       hash: md5
@@ -45,8 +45,8 @@ stages:
       size: 400
     - path: process-a06.ipynb
       hash: md5
-      md5: 81ea6bc97f543d243a96eebafd683fdc
-      size: 3045
+      md5: 244c70dab111edda8bab94b6d55a9b84
+      size: 3103
     outs:
     - path: ../../data/metadata/labour-market/a06-codes.csv
       hash: md5
@@ -54,8 +54,8 @@ stages:
       size: 14290
     - path: ../../data/processed/labour-market/a06.csv
       hash: md5
-      md5: 09fc5740410ef57ca0dc590b35fe4ebe
-      size: 3333105
+      md5: 0787634f80422af51391c2953f1f0dad
+      size: 8316886
   process-latest-unem01:
     cmd: papermill --no-progress-bar --no-report-mode process-unem01.ipynb ../../output/labour-market-unem01.ipynb
     deps:
@@ -69,8 +69,8 @@ stages:
       size: 400
     - path: process-unem01.ipynb
       hash: md5
-      md5: a5ffa285de40b286ae15c747e9d82863
-      size: 8596
+      md5: 8fc9bd4eeb389ee5d8bab943d5ac75ea
+      size: 8482
     outs:
     - path: ../../data/metadata/labour-market/unem01-codes.csv
       hash: md5
