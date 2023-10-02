@@ -21,8 +21,8 @@ stages:
     deps:
     - path: get-latest-monthly-files.ipynb
       hash: md5
-      md5: 203636ec28bc66f79722048bd42146de
-      size: 1494
+      md5: c94fdb4594f37a06a10d27f9a8f98501
+      size: 1380
     outs:
     - path: ../../data/raw/a06-latest.xls
       hash: md5

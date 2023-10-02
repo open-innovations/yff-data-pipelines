@@ -1,6 +1,6 @@
 name: pipeline
 
-on:
+'on':
   workflow_dispatch:
   schedule:
     - cron: "20 6-9 * * *"
