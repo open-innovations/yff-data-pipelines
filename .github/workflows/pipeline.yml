@@ -26,6 +26,8 @@ jobs:
           pipenv sync
 
       - name: Run DVC pipelines
+        env:
+          GITHUB_TOKEN: ${{ secrets.TRIGGER_TOKEN }}
         run: |
           pipenv run dvc update -R data/raw
           pipenv run dvc repro -R pipelines
