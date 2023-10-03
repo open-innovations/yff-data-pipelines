@@ -17,21 +17,17 @@ stages:
       md5: 8fc25443a0abd19116f82c922fbfc534
       size: 1152838
   download-latest-monthly:
-    cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ../../output/labour-market-latest-monthly-files.ipynb
+    cmd: python get-lms.py
     deps:
-    - path: get-latest-monthly-files.ipynb
+    - path: get-lms.py
       hash: md5
-      md5: c94fdb4594f37a06a10d27f9a8f98501
-      size: 1380
+      md5: d867549a5afa597554480324dbe7a1a6
+      size: 392
     outs:
-    - path: ../../data/raw/a06-latest.xls
+    - path: ../../data/raw/lms.csv
       hash: md5
-      md5: b55c248c9f370fcc9b99c6e0f0182abe
-      size: 1420800
-    - path: ../../data/raw/unem01-latest.xls
-      hash: md5
-      md5: e00ba8307ad88754c0aef5a65e4d9576
-      size: 968192
+      md5: 9a6b4841ae2e20d462a63bc9b5db174a
+      size: 10960377
   process-latest-a06:
     cmd: papermill --no-progress-bar --no-report-mode process-a06.ipynb ../../output/labour-market-a06.ipynb
     deps:
@@ -92,3 +88,23 @@ stages:
       hash: md5
       md5: 4b41e29fa837ea24f2a55d43ffdba3b4
       size: 105859341
+  process-lms:
+    cmd: papermill --no-progress-bar --no-report-mode process-lms.ipynb ../../output/process-lms.ipynb
+    deps:
+    - path: ../../data/raw/lms.csv
+      hash: md5
+      md5: 9a6b4841ae2e20d462a63bc9b5db174a
+      size: 10960377
+    - path: process-lms.ipynb
+      hash: md5
+      md5: e0d91b45e230ef96f7a43928f6b0e533
+      size: 4418
+    outs:
+    - path: ../../data/metadata/labour-market/lms-codes.csv
+      hash: md5
+      md5: 1ab28b2730305c82dcdb124ce296a66b
+      size: 181882
+    - path: ../../data/processed/labour-market/lms.csv
+      hash: md5
+      md5: 1b70b9ddd7f3d579245c1ac6bf8938a8
+      size: 17934704

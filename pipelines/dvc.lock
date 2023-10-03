@@ -10,8 +10,8 @@ stages:
     outs:
     - path: control.csv
       hash: md5
-      md5: 281cbe09548cd37943a80f132c03d510
-      size: 400
+      md5: 934a0caa245c0407a70d196e3b8a936e
+      size: 9
   nomis-download:
     cmd: python nomis.py
     deps:

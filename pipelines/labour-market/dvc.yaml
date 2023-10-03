@@ -9,14 +9,11 @@ stages:
       - ${top}/data/raw/lfs_by_pcon.csv:
           cache: false
   download-latest-monthly:
-    cmd: papermill --no-progress-bar --no-report-mode get-latest-monthly-files.ipynb  ${top}/output/labour-market-latest-monthly-files.ipynb
+    cmd: python get-lms.py
     deps:
-      - get-latest-monthly-files.ipynb
+      - get-lms.py
     outs:
-      - ${top}/data/raw/a06-latest.xls:
-          cache: false
-          persist: false
-      - ${top}/data/raw/unem01-latest.xls:
+      - ${top}/data/raw/lms.csv:
           cache: false
           persist: false
   process-latest-by-pcon:
@@ -28,30 +25,15 @@ stages:
       - ${top}/data/processed/labour-market/most_recent_by_pcon_2010.csv:
           cache: false
           persist: false
-  process-latest-a06:
-    cmd: papermill --no-progress-bar --no-report-mode process-a06.ipynb ${top}/output/labour-market-a06.ipynb
+  process-lms:
+    cmd: papermill --no-progress-bar --no-report-mode process-lms.ipynb ${top}/output/process-lms.ipynb
     deps:
-      - process-a06.ipynb
-      - ${top}/data/raw/a06-latest.xls
-      - ../control.csv
+      - process-lms.ipynb
+      - ${top}/data/raw/lms.csv
     outs:
-      - ${top}/data/processed/labour-market/a06.csv:
+      - ${top}/data/processed/labour-market/lms.csv:
           cache: false
           persist: true
-      - ${top}/data/metadata/labour-market/a06-codes.csv:
-          cache: false
-          persist: true
-
-  process-latest-unem01:
-    cmd: papermill --no-progress-bar --no-report-mode process-unem01.ipynb ${top}/output/labour-market-unem01.ipynb
-    deps:
-      - process-unem01.ipynb
-      - ${top}/data/raw/unem01-latest.xls
-      - ../control.csv
-    outs:
-      - ${top}/data/processed/labour-market/unem01.csv:
-          cache: false
-          persist: true
-      - ${top}/data/metadata/labour-market/unem01-codes.csv:
+      - ${top}/data/metadata/labour-market/lms-codes.csv:
           cache: false
           persist: true
