@@ -28,3 +28,10 @@ stages:
         outs:
           - ${TOP}/data/processed/claimants/claimants-per-population-latest.csv:
               cache: false
+
+    trigger-site-data:
+        cmd: python trigger.py
+        deps:
+            - trigger.py
+            - ${TOP}/data/processed
+            - ${TOP}/data/metadata

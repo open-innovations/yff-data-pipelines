@@ -48,3 +48,20 @@ stages:
       hash: md5
       md5: 228603218411824d513e0774f6429760
       size: 93676
+  trigger-site-data:
+    cmd: python trigger.py
+    deps:
+    - path: ../data/metadata
+      hash: md5
+      md5: 49ad7c9a9f39579d00af9e89c91ad91c.dir
+      size: 182824
+      nfiles: 3
+    - path: ../data/processed
+      hash: md5
+      md5: a4dabbe29f0ad9b6b2215eb201ce5793.dir
+      size: 20471384
+      nfiles: 5
+    - path: trigger.py
+      hash: md5
+      md5: 14ccb69d7e308d2063db4a6212fd850d
+      size: 515
