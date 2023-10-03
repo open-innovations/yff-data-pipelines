@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  get:
+    cmd: python get.py
+    deps:
+    - path: get.py
+      hash: md5
+      md5: 7ae64a527173ff903cfb3e4c27270ab3
+      size: 339
+    outs:
+    - path: ../../data/raw/mm23.csv
+      hash: md5
+      md5: 02ffd24fb9f0422b44b4245a4f058ff1
+      size: 21987050

@@ -1,0 +1,11 @@
+vars:
+  - top: '../..'
+stages:
+  get:
+    cmd: python get.py
+    deps:
+      - get.py
+    outs:
+      - ${top}/data/raw/mm23.csv:
+          cache: false
+          persist: false
