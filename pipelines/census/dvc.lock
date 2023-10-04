@@ -18,5 +18,5 @@ stages:
     deps:
     - path: process-census.py
       hash: md5
-      md5: 649a6b407b89167d8c7a13a5c5daae62
-      size: 709
+      md5: 8bb7f9fca61965504f78982820e65ef2
+      size: 745

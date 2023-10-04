@@ -1,4 +1,4 @@
-index,date,geography,geography_name,geography_code,geography_type,variable_name,c2021_age_7_name,value,rate
+index,date,geography,geography_name,geography_code,geography_type,variable_name,age,value,rate
 0,2021,1929379865,Berwick-upon-Tweed,E14000554,parliamentary constituencies 2010,L14.1 and L14.2: Never worked and long-term unemployed,Total,5920,100.0
 1,2021,1929379865,Berwick-upon-Tweed,E14000554,parliamentary constituencies 2010,L14.1 and L14.2: Never worked and long-term unemployed,Aged 16 to 24 years,520,8.783783783783784
 2,2021,1929379865,Berwick-upon-Tweed,E14000554,parliamentary constituencies 2010,L14.1 and L14.2: Never worked and long-term unemployed,Aged 25 to 34 years,634,10.70945945945946

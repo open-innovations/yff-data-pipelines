@@ -13,7 +13,8 @@ if __name__ == '__main__':
         columns={
         'obs_value': 'value',
         'obs_status_name': 'notes',
-        'c2021_nssec_10_name': 'variable_name'
+        'c2021_nssec_10_name': 'variable_name',
+        'c2021_age_7_name': 'age'
         }
     )
 
