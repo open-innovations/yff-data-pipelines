@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  download-census:
+    cmd: python download-census.py
+    deps:
+    - path: download-census.py
+      hash: md5
+      md5: d176cb0c4d2315dabeeb15a868b88a9b
+      size: 6237
+    outs:
+    - path: ../../data/raw/census.csv
+      hash: md5
+      md5: 06ce3ee289fe85acee751bfaa1425d7f
+      size: 450494
+      isexec: true
+  process-census:
+    cmd: python process-census.py
+    deps:
+    - path: process-census.py
+      hash: md5
+      md5: 649a6b407b89167d8c7a13a5c5daae62
+      size: 709

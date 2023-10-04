@@ -1,0 +1,14 @@
+vars:
+  - top: ../..
+stages:
+  download-census:
+    cmd: python download-census.py
+    deps:
+      - download-census.py
+    outs:
+      - ${top}/data/raw/census.csv:
+          cache: false
+  process-census:
+    cmd: python process-census.py
+    deps:
+      - process-census.py
