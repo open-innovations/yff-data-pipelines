@@ -5,26 +5,26 @@ stages:
     deps:
     - path: download-census.py
       hash: md5
-      md5: fa13e882086826bf19d1ea240ee65d04
-      size: 11780
+      md5: f33d6d4c2e7726846451726318075e9c
+      size: 6253
     outs:
     - path: ../../data/raw/census.csv
       hash: md5
-      md5: 286d31ec63e29cd05e04fc4cd48ac7db
-      size: 590979
+      md5: 7655262ded981220bd311c9365bdcd31
+      size: 1138101
   process-census:
-    cmd: python process-census.py
+    cmd: papermill process-census.ipynb ../../output/process-census.ipynb
     deps:
     - path: ../../data/raw/census.csv
       hash: md5
-      md5: 286d31ec63e29cd05e04fc4cd48ac7db
-      size: 590979
-    - path: process-census.py
+      md5: 7655262ded981220bd311c9365bdcd31
+      size: 1138101
+    - path: process-census.ipynb
       hash: md5
-      md5: 1bf48e0e31fa68e749129ab16af84ebf
-      size: 761
+      md5: c7161c9999238e28cc43435fb1a4fac3
+      size: 2178
     outs:
     - path: ../../data/processed/census/employment-status.csv
       hash: md5
-      md5: f2d53c665f621b083d71511ff1e979ec
-      size: 645842
+      md5: 6593203a1cf5d1132691cdd05260225f
+      size: 417134

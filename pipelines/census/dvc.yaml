@@ -9,9 +9,9 @@ stages:
       - ${top}/data/raw/census.csv:
           cache: false
   process-census:
-    cmd: python process-census.py
+    cmd: papermill process-census.ipynb ${top}/output/process-census.ipynb
     deps:
-      - process-census.py
+      - process-census.ipynb
       - ${top}/data/raw/census.csv
     outs:
       - ${top}/data/processed/census/employment-status.csv:

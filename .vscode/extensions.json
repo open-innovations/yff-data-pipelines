@@ -1,8 +1,7 @@
 {
   "recommendations": [
     "redhat.vscode-yaml",
-    "ms-toolsai.jupyter",
-    "ms-python.python",
-    "donjayamanne.python-environment-manager"
+    "donjayamanne.python-environment-manager",
+    "ms-toolsai.jupyter"
   ]
 }
