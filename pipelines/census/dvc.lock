@@ -5,18 +5,17 @@ stages:
     deps:
     - path: download-census.py
       hash: md5
-      md5: d176cb0c4d2315dabeeb15a868b88a9b
-      size: 6237
+      md5: 9a3c8ba3df5db2d0051318851a1b6e75
+      size: 6211
     outs:
     - path: ../../data/raw/census.csv
       hash: md5
       md5: 06ce3ee289fe85acee751bfaa1425d7f
       size: 450494
-      isexec: true
   process-census:
     cmd: python process-census.py
     deps:
     - path: process-census.py
       hash: md5
-      md5: 8bb7f9fca61965504f78982820e65ef2
-      size: 745
+      md5: 5d56b7b1e44a4b83e1240b9d3a92d8f9
+      size: 714
