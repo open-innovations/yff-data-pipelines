@@ -13,17 +13,21 @@ if __name__ == '__main__':
         columns={
         'obs_value': 'value',
         'obs_status_name': 'notes',
-        'c2021_nssec_10_name': 'variable_name',
-        'c2021_age_7_name': 'age'
+        'c2021_eastat_7_name': 'variable_name',
+        'c2021_age_7_name': 'age',
+        'c_sex_name': 'sex',
         }
     )
 
+    [
+      ('')
+    ]
     data.variable_name = data.variable_name.str.strip()
 
     data['rate'] = (data.value / 
                     (data.groupby('geography_code')['value'].transform('first')) * 100)
 
-    data.to_csv(os.path.join(OUT_PATH, 'unemployed_never_worked.csv'), index=False)
+    data.to_csv(os.path.join(OUT_PATH, 'employment-status.csv'), index=False)
 
 
 

@@ -5,17 +5,26 @@ stages:
     deps:
     - path: download-census.py
       hash: md5
-      md5: 9a3c8ba3df5db2d0051318851a1b6e75
-      size: 6211
+      md5: fa13e882086826bf19d1ea240ee65d04
+      size: 11780
     outs:
     - path: ../../data/raw/census.csv
       hash: md5
-      md5: 06ce3ee289fe85acee751bfaa1425d7f
-      size: 450494
+      md5: 286d31ec63e29cd05e04fc4cd48ac7db
+      size: 590979
   process-census:
     cmd: python process-census.py
     deps:
+    - path: ../../data/raw/census.csv
+      hash: md5
+      md5: 286d31ec63e29cd05e04fc4cd48ac7db
+      size: 590979
     - path: process-census.py
       hash: md5
-      md5: 5d56b7b1e44a4b83e1240b9d3a92d8f9
-      size: 714
+      md5: 1bf48e0e31fa68e749129ab16af84ebf
+      size: 761
+    outs:
+    - path: ../../data/processed/census/employment-status.csv
+      hash: md5
+      md5: f2d53c665f621b083d71511ff1e979ec
+      size: 645842

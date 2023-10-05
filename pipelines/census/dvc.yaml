@@ -12,3 +12,7 @@ stages:
     cmd: python process-census.py
     deps:
       - process-census.py
+      - ${top}/data/raw/census.csv
+    outs:
+      - ${top}/data/processed/census/employment-status.csv:
+          cache: false
