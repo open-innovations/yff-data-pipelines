@@ -24,6 +24,6 @@ if __name__ == '__main__':
     THIS_DIR = os.path.dirname(__file__)
     data = get_data()
     
-    DATA_FILE=f'{THIS_DIR}/../../data/raw/census.csv'
+    DATA_FILE=f'{THIS_DIR}/../../data/raw/census-employment.csv'
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     data.to_csv(DATA_FILE, index=False)
