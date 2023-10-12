@@ -1,0 +1,12 @@
+vars:
+  - TOP: ../..
+stages:
+    process-claimants:
+        cmd: papermill claimants.ipynb ${TOP}/output/claimants.ipynb
+        deps:
+          - claimants.ipynb
+          - ${TOP}/data/raw/claimants-by-pcon-2010-latest.csv
+          - ${TOP}/data/raw/population-estimates-by-pcon-2010-latest.csv
+        outs:
+          - ${TOP}/data/processed/claimants/claimants-per-population-latest.csv:
+              cache: false

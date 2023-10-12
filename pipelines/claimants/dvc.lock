@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  process-claimants:
+    cmd: papermill claimants.ipynb ../../output/claimants.ipynb
+    deps:
+    - path: ../../data/raw/claimants-by-pcon-2010-latest.csv
+      hash: md5
+      md5: 7f387e1ef61579c73dd4f5a496150091
+      size: 488162
+    - path: ../../data/raw/population-estimates-by-pcon-2010-latest.csv
+      hash: md5
+      md5: 347e6eb05cdb45f1d08a2d9437bb6956
+      size: 383023
+    - path: claimants.ipynb
+      hash: md5
+      md5: 30c7baaea2834fae7597112313535cac
+      size: 479196
+    outs:
+    - path: ../../data/processed/claimants/claimants-per-population-latest.csv
+      hash: md5
+      md5: 228603218411824d513e0774f6429760
+      size: 93676
