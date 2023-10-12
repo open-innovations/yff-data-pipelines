@@ -58,9 +58,9 @@ stages:
       nfiles: 3
     - path: ../data/processed
       hash: md5
-      md5: 7a7c4f3acd0d9b834e2b6030eff6657c.dir
-      size: 23036644
-      nfiles: 6
+      md5: 0ad61648b929b0bde1ac745c3df11eed.dir
+      size: 21746478
+      nfiles: 4
     - path: trigger.py
       hash: md5
       md5: 14ccb69d7e308d2063db4a6212fd850d
