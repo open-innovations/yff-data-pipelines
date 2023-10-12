@@ -12,3 +12,23 @@ stages:
       hash: md5
       md5: 02ffd24fb9f0422b44b4245a4f058ff1
       size: 21987050
+  process:
+    cmd: papermill --no-progress-bar --no-report-mode process.ipynb ../../output/process-mm23.ipynb
+    deps:
+    - path: ../../data/raw/mm23.csv
+      hash: md5
+      md5: 02ffd24fb9f0422b44b4245a4f058ff1
+      size: 21987050
+    - path: process.ipynb
+      hash: md5
+      md5: daa7182c22f35615c9bdc230eaa44457
+      size: 10698
+    outs:
+    - path: ../../data/metadata/cpi/mm23-codes.csv
+      hash: md5
+      md5: 83bd378b2ba90ee84ca2546ff6f51dc9
+      size: 398026
+    - path: ../../data/processed/cpi/mm23.csv
+      hash: md5
+      md5: f005c73dc7d1dd709d3e78544e2253d4
+      size: 24858672

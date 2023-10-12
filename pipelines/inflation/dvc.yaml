@@ -9,3 +9,15 @@ stages:
       - ${top}/data/raw/mm23.csv:
           cache: false
           persist: false
+  process:
+    cmd: papermill --no-progress-bar --no-report-mode process.ipynb ${top}/output/process-mm23.ipynb
+    deps:
+      - process.ipynb
+      - ${top}/data/raw/mm23.csv
+    outs:
+      - ${top}/data/processed/cpi/mm23.csv:
+          cache: false
+          persist: true
+      - ${top}/data/metadata/cpi/mm23-codes.csv:
+          cache: false
+          persist: true

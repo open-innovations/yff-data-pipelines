@@ -15,7 +15,7 @@ https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpricein
 <!--
 ### Jobs and Vacancies
 
-We take the estimated number of job vacancies in the UK from the VACS01 release from the Office of National Statistics: 
+We take the estimated number of job vacancies in the UK from the VACS01 release from the Office of National Statistics:
 
 https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/vacanciesandunemploymentvacs01
 
@@ -110,6 +110,7 @@ dimensions.
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [`claimants/claimants-per-population-latest.csv`](../data/processed/claimants/claimants-per-population-latest.csv) | Processed version of Claimant counts - converted to rates, using population estimates as a denominator.                                              | [pipelines/claimants:process-claimants](../pipelines/claimants/dvc.yaml)              |
 | [`census/employment-status.csv`](../data/processed/census/employment-status.csv)                                   | Processed version of Census 2021 employment status                                                                                                   | [pipelines/census:process-census](../pipelines/census/dvc.yaml)                       |
+| [`cpi/mm23.csv`](../data/processed/cpi/mm23.csv)                                                                   | Cleaned monthly CPI stats                                                                                                                            |                                                                                       |
 | [`labour-market/most_recent_by_pcon_2010.csv`](../data/processed/labour-market/most_recent_by_pcon_2010.csv)       | Most recently published APS LFS figures per parliamentary constituency. This creates a backfilled dataset using the [method described below](#patch) | [pipelines/labour-market:process-latest-by-pcon](../pipelines/labour-market/dvc.yaml) |
 | [`labour-market/lms.csv`](../data/processed/labour-market/lms.csv)                                                 | Cleaned monthly LMS time series file                                                                                                                 | [pipelines/labour-market:process-lms](../pipelines/labour-market/dvc.yaml)            |
 
