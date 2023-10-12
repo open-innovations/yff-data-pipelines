@@ -53,15 +53,32 @@ stages:
     deps:
     - path: ../data/metadata
       hash: md5
-      md5: 49ad7c9a9f39579d00af9e89c91ad91c.dir
-      size: 182824
+      md5: 2febbbf356099ba86f558603b398cfbf.dir
+      size: 579988
       nfiles: 3
     - path: ../data/processed
       hash: md5
-      md5: 0ad61648b929b0bde1ac745c3df11eed.dir
-      size: 21746478
-      nfiles: 4
+      md5: 6920d4fed1bb8c9d4f6a29ccd5d8e998.dir
+      size: 46605150
+      nfiles: 5
     - path: trigger.py
       hash: md5
       md5: 14ccb69d7e308d2063db4a6212fd850d
       size: 515
+  write-metadata:
+    cmd: papermill --no-progress-bar --no-report-mode metadata.ipynb ../output/metadata.ipynb
+    deps:
+    - path: ../data/metadata/codes/
+      hash: md5
+      md5: 5a5d88111f34b6431be824b7c157016b.dir
+      size: 579908
+      nfiles: 2
+    - path: metadata.ipynb
+      hash: md5
+      md5: 511eee0b2b0de051653a42611d26e56b
+      size: 2222
+    outs:
+    - path: ../data/metadata/metadata.csv
+      hash: md5
+      md5: eed0c6943d1025e50acdda0ef7aac816
+      size: 80

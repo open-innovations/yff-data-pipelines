@@ -21,10 +21,10 @@ stages:
       size: 21987050
     - path: process.ipynb
       hash: md5
-      md5: daa7182c22f35615c9bdc230eaa44457
-      size: 10698
+      md5: 074454ac2b562027be7cbd84a73a5534
+      size: 10700
     outs:
-    - path: ../../data/metadata/cpi/mm23-codes.csv
+    - path: ../../data/metadata/codes/mm23-codes.csv
       hash: md5
       md5: 83bd378b2ba90ee84ca2546ff6f51dc9
       size: 398026

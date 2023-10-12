@@ -34,6 +34,6 @@ stages:
       - ${top}/data/processed/labour-market/lms.csv:
           cache: false
           persist: true
-      - ${top}/data/metadata/labour-market/lms-codes.csv:
+      - ${top}/data/metadata/codes/lms-codes.csv:
           cache: false
           persist: true

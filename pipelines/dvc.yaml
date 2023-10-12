@@ -20,6 +20,17 @@ stages:
           - ${TOP}/data/raw/population-estimates-by-pcon-2010-latest.csv:
               cache: false
 
+    write-metadata:
+        cmd: papermill --no-progress-bar --no-report-mode metadata.ipynb ${TOP}/output/metadata.ipynb
+        deps:
+          - metadata.ipynb
+          - ${TOP}/data/metadata/codes/
+        outs:
+          - ${TOP}/data/metadata/metadata.csv:
+              persist: false
+              cache: false
+
+
     trigger-site-data:
     # This stage runs if any data has changed in data/processed or data/metadata
     # We use this to start a job running on the main YFF page repo to run pipelines and build the site
