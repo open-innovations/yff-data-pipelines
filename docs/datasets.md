@@ -12,6 +12,16 @@ https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemplo
 
 https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices
 
+### Jobs and Vacancies
+
+We take the estimated number of job vacancies in the UK from the VACS01 release from the Office of National Statistics: 
+
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/vacanciesandunemploymentvacs01
+
+We also use the VACS02 ONS release to derive the percentage growth in quarterly average job vacancies by sector:
+
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/vacanciesbyindustryvacs02
+
 ### Annual Population Survey / Labour Force Survey
 
 From the [Nomis page](https://www.nomisweb.co.uk/datasets/apsnew).
