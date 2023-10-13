@@ -1,12 +1,3 @@
-/a06-latest.xls
-/unem01-latest.xls
-/lms.csv
-/mm23.csv
-/lfs_by_pcon.csv
-/LMS_by_local_authority.csv
-
-# Nomis downloads
-/claimants-by-pcon-2010-latest.csv
-/population-estimates-by-pcon-2010-latest.csv
-/census-employment.csv
-
+/*
+/!.gitignore
+/!*.dvc

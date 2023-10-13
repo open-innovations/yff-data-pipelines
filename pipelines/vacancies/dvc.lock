@@ -1,0 +1,31 @@
+schema: '2.0'
+stages:
+  download:
+    cmd: papermill --no-progress-bar --log-output --no-report-mode download.ipynb
+      ../../output/vacancies-download.ipynb
+    deps:
+    - path: download.ipynb
+      hash: md5
+      md5: 58837e5db57580877874e9f5a166da70
+      size: 3576
+    outs:
+    - path: ../../data/raw/vacancies-by-sector.csv
+      hash: md5
+      md5: d87aa1a94f87db2274f2b87c9ee0d9ab
+      size: 848
+  process:
+    cmd: papermill --no-progress-bar --log-output --no-report-mode process.ipynb ../../output/vacancies-process.ipynb
+    deps:
+    - path: ../../data/raw/vacancies-by-sector.csv
+      hash: md5
+      md5: d87aa1a94f87db2274f2b87c9ee0d9ab
+      size: 848
+    - path: process.ipynb
+      hash: md5
+      md5: d725b4ad0e9fb6dd5be296c7473fffa5
+      size: 4730
+    outs:
+    - path: ../../data/processed/vacancies/vacancies-growth-by-sector.csv
+      hash: md5
+      md5: 8696accdcce4286973199b89da179271
+      size: 1924

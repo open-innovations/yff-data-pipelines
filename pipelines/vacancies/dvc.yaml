@@ -1,0 +1,21 @@
+vars:
+  - top: '../..'
+
+stages:
+  download:
+    cmd: papermill --no-progress-bar --log-output --no-report-mode download.ipynb ${top}/output/vacancies-download.ipynb
+    deps:
+      - download.ipynb
+    outs:
+      - ${top}/data/raw/vacancies-by-sector.csv:
+          persist: false
+          cache: false
+  process:
+    cmd: papermill --no-progress-bar --log-output --no-report-mode process.ipynb ${top}/output/vacancies-process.ipynb
+    deps:
+      - process.ipynb
+      - ${top}/data/raw/vacancies-by-sector.csv
+    outs:
+      - ${top}/data/processed/vacancies/vacancies-growth-by-sector.csv:
+          persist: false
+          cache: false

@@ -1,0 +1,19 @@
+date,Sector,key_youth_sectors,wanted_youth_sectors,variable,value
+2023-06-01,Mining & quarrying,False,False,Growth since previous quarter (%),5.9
+2023-06-01,Arts entertainment & recreation,False,True,Growth since previous quarter (%),5.5
+2023-06-01,Transport & storage,False,False,Growth since previous quarter (%),2.6
+2023-06-01,Education,False,False,Growth since previous quarter (%),-2.6
+2023-06-01,Human health & social work activities,True,False,Growth since previous quarter (%),-4.9
+2023-06-01,Financial & insurance activities,False,True,Growth since previous quarter (%),-7.9
+2023-06-01,Accommodation & food service activities,True,False,Growth since previous quarter (%),-9.3
+2023-06-01,Professional scientific & technical activities,False,True,Growth since previous quarter (%),-12.1
+2023-06-01,Administrative & support service activities,False,False,Growth since previous quarter (%),-15.7
+2023-06-01,Mining & quarrying,False,False,Growth since pre-coronavirus January to March 2020 (%),28.6
+2023-06-01,Arts entertainment & recreation,False,True,Growth since pre-coronavirus January to March 2020 (%),22.3
+2023-06-01,Transport & storage,False,False,Growth since pre-coronavirus January to March 2020 (%),6.0
+2023-06-01,Education,False,False,Growth since pre-coronavirus January to March 2020 (%),35.1
+2023-06-01,Human health & social work activities,True,False,Growth since pre-coronavirus January to March 2020 (%),33.1
+2023-06-01,Financial & insurance activities,False,True,Growth since pre-coronavirus January to March 2020 (%),22.8
+2023-06-01,Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),33.1
+2023-06-01,Professional scientific & technical activities,False,True,Growth since pre-coronavirus January to March 2020 (%),28.3
+2023-06-01,Administrative & support service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),7.6
