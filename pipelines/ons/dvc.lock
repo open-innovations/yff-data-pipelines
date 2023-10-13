@@ -1,0 +1,68 @@
+schema: '2.0'
+stages:
+  process@unem:
+    cmd: papermill process.ipynb ../../output/ons-process-unem.ipynb -p dataset unem
+      -p url 
+      https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/claimantcountandvacanciesdataset/current/unem.csv
+    deps:
+    - path: process.ipynb
+      hash: md5
+      md5: a86ff07c412fc2d80e8fa03cbc0ac244
+      size: 4433
+    outs:
+    - path: ../../data/metadata/codes/unem-codes.csv
+      hash: md5
+      md5: b08d4dba89fdbe5271e40f25178cd7e3
+      size: 35427
+    - path: ../../data/processed/unem.csv
+      hash: md5
+      md5: 985ee5bc4ee9d4458b321d5790ccac5c
+      size: 3641836
+    - path: ../../data/raw/unem.csv
+      hash: md5
+      md5: 8e77cf2fd83c903e3ca0deadd0e76b33
+      size: 1620110
+  process@mm23:
+    cmd: papermill process.ipynb ../../output/ons-process-mm23.ipynb -p dataset mm23
+      -p url 
+      https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/consumerpriceindices/current/mm23.csv
+    deps:
+    - path: process.ipynb
+      hash: md5
+      md5: a86ff07c412fc2d80e8fa03cbc0ac244
+      size: 4433
+    outs:
+    - path: ../../data/metadata/codes/mm23-codes.csv
+      hash: md5
+      md5: 83bd378b2ba90ee84ca2546ff6f51dc9
+      size: 398026
+    - path: ../../data/processed/mm23.csv
+      hash: md5
+      md5: f005c73dc7d1dd709d3e78544e2253d4
+      size: 24858672
+    - path: ../../data/raw/mm23.csv
+      hash: md5
+      md5: 02ffd24fb9f0422b44b4245a4f058ff1
+      size: 21987050
+  process@lms:
+    cmd: papermill process.ipynb ../../output/ons-process-lms.ipynb -p dataset lms
+      -p url 
+      https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics/current/lms.csv
+    deps:
+    - path: process.ipynb
+      hash: md5
+      md5: a86ff07c412fc2d80e8fa03cbc0ac244
+      size: 4433
+    outs:
+    - path: ../../data/metadata/codes/lms-codes.csv
+      hash: md5
+      md5: 1ab28b2730305c82dcdb124ce296a66b
+      size: 181882
+    - path: ../../data/processed/lms.csv
+      hash: md5
+      md5: 72d52598a0ba79effd075f9f66180a4d
+      size: 17934704
+    - path: ../../data/raw/lms.csv
+      hash: md5
+      md5: 9a6b4841ae2e20d462a63bc9b5db174a
+      size: 10960377

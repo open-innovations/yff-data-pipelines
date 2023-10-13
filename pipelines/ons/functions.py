@@ -1,6 +1,22 @@
 import pandas as pd
 
 
+def find_header_length(filename):
+    '''
+    Find the length of the header by finding the 'Important Notes'
+    field which precedes the data.
+    '''
+    first_col = pd.read_csv(
+      filename,
+      usecols=[0],
+      header=None
+    ).iloc[:, 0]
+    return (
+      first_col[first_col == 'Important Notes'].idxmin() + 1,
+      first_col[first_col == 'CDID'].idxmin()
+    )
+
+
 def read_headers(filename, header_rows=7):
     return pd.read_csv(filename, header=None, nrows=header_rows, index_col=0).T.set_index('CDID')
 

@@ -12,17 +12,9 @@ https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemplo
 
 https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices
 
-<!--
-### Jobs and Vacancies
+### Claimant count and vacancies time series
 
-We take the estimated number of job vacancies in the UK from the VACS01 release from the Office of National Statistics:
-
-https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/vacanciesandunemploymentvacs01
-
-We also use the VACS02 ONS release to derive the percentage growth in quarterly average job vacancies by sector:
-
-https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/vacanciesbyindustryvacs02
--->
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/claimantcountandvacanciesdataset
 
 ### Annual Population Survey / Labour Force Survey
 
@@ -93,11 +85,12 @@ which it appears `dvc import-url` does.
 
 | Dataset                                        | Description                                                    | DVC Stage                                                                              |
 | ---------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| `lms.csv`                                      | Latest release of Labour Market Summary time series            | [pipelines/ons:process@lms](../pipelines/ons/dvc.yaml) |
+| `mm23.csv`                                     | Latest release of Consumer Prices Index time series            | [pipelines/ons:process@mm23](../pipelines/ons/dvc.yaml) |
+| `unem.csv`                                     | Latest release of Unemployment and vacancies time series       | [pipelines/ons:process@unem](../pipelines/ons/dvc.yaml) |
 | `census-employment.csv`                        | Employment status from 2021 Census                             | [pipelines/census:download-census](../pipelines/census/dvc.yaml)                       |
 | `claimants-by-pcon-2010-latest.csv`            | Claimant counts                                                | [pipelines:nomis-download](../pipelines/dvc.yaml)                                      |
 | `lfs_by_pcon.csv`                              | APS/LFS stats by parliamentary constituency                    | [pipelines/labour-market:download-from-nomis](../pipelines/labour-market/dvc.yaml)     |
-| `lms.csv`                                      | Latest release of Labour Market Summary time series            | [pipelines/labour-market:download-latest-monthly](../pipelines/labour-market/dvc.yaml) |
-| `mm23.csv`                                     | Latest release of Consumer Prices Index time series            | [pipelines/inflation:get](../pipelines/inflation/dvc.yaml)                             |
 | `population-estimates-by-pcon-2010-latest.csv` | Mid-year population estimates for parliamentary constituencies | [pipelines:nomis-download](../pipelines/dvc.yaml)                                      |
 | `vacancies-by-sector.csv`                      | Result of ONS analysis by sector                               | [pipelines/vacancies:download](../pipelines/vacancies/dvc.yaml)                        |
 

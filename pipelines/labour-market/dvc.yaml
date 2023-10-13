@@ -8,14 +8,6 @@ stages:
     outs:
       - ${top}/data/raw/lfs_by_pcon.csv:
           cache: false
-  download-latest-monthly:
-    cmd: python get-lms.py
-    deps:
-      - get-lms.py
-    outs:
-      - ${top}/data/raw/lms.csv:
-          cache: false
-          persist: false
   process-latest-by-pcon:
     cmd: papermill --no-progress-bar --no-report-mode latest-by-pcon.ipynb ${top}/output/labour-market-latest-by-pcon.ipynb
     deps:
@@ -25,15 +17,3 @@ stages:
       - ${top}/data/processed/labour-market/most_recent_by_pcon_2010.csv:
           cache: false
           persist: false
-  process-lms:
-    cmd: papermill --no-progress-bar --no-report-mode process-lms.ipynb ${top}/output/process-lms.ipynb
-    deps:
-      - process-lms.ipynb
-      - ${top}/data/raw/lms.csv
-    outs:
-      - ${top}/data/processed/labour-market/lms.csv:
-          cache: false
-          persist: true
-      - ${top}/data/metadata/codes/lms-codes.csv:
-          cache: false
-          persist: true

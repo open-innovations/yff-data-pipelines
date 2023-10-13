@@ -1,0 +1,16 @@
+vars:
+  - TOP: ../..
+stages:
+  process:
+    foreach: '${sources}'
+    do:
+      cmd: papermill process.ipynb ${TOP}/output/ons-process-${key}.ipynb -p dataset ${key} -p url ${item.url}
+      deps:
+        - process.ipynb
+      outs:
+        - ${TOP}/data/raw/${key}.csv:
+            cache: false
+        - ${TOP}/data/processed/${key}.csv:
+            cache: false
+        - ${TOP}/data/metadata/codes/${key}-codes.csv:
+            cache: false
