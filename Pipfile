@@ -15,6 +15,7 @@ seaborn = "*"
 geopandas = "*"
 folium = "*"
 mapclassify = "*"
+openpyxl = "*"
 
 [dev-packages]
 

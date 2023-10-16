@@ -1,0 +1,20 @@
+vars:
+  - top: ../..
+stages:
+  download:
+    cmd: PYTHONPATH=${top}/lib python download.py
+    deps:
+      - download.py
+    outs:
+      - ${top}/data/raw/neet-latest.xlsx:
+          cache: false
+  process:
+    cmd: papermill --no-progress-bar process.ipynb ${top}/output/process-neet.ipynb
+    deps:
+      - process.ipynb
+      - ${top}/data/raw/neet-latest.xlsx
+    outs:
+      - ${top}/data/processed/neet.csv:
+          cache: false
+      - ${top}/data/metadata/codes/neet-codes.csv:
+          cache: false
