@@ -16,6 +16,7 @@ stages:
       cmd: papermill process.ipynb ${TOP}/output/ons-process-${key}.ipynb -p dataset ${key} -p url ${item.url}
       deps:
         - process.ipynb
+        - ${TOP}/data/raw/${key}.csv
       outs:
         - ${TOP}/data/processed/${key}.csv:
             cache: false
