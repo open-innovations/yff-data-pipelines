@@ -1,6 +1,15 @@
 vars:
   - TOP: ../..
 stages:
+  download:
+    foreach: '${sources}'
+    do:
+      cmd: python download.py ${key} ${item.url}
+      deps:
+        - download.py
+      outs:
+        - ${TOP}/data/raw/${key}.csv:
+            cache: false
   process:
     foreach: '${sources}'
     do:
@@ -8,8 +17,6 @@ stages:
       deps:
         - process.ipynb
       outs:
-        - ${TOP}/data/raw/${key}.csv:
-            cache: false
         - ${TOP}/data/processed/${key}.csv:
             cache: false
         - ${TOP}/data/metadata/codes/${key}-codes.csv:
