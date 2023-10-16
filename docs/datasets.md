@@ -88,7 +88,7 @@ which it appears `dvc import-url` does.
 | `lms.csv`                                      | Latest release of Labour Market Summary time series            | [pipelines/ons:process@lms](../pipelines/ons/dvc.yaml) |
 | `mm23.csv`                                     | Latest release of Consumer Prices Index time series            | [pipelines/ons:process@mm23](../pipelines/ons/dvc.yaml) |
 | `unem.csv`                                     | Latest release of Unemployment and vacancies time series       | [pipelines/ons:process@unem](../pipelines/ons/dvc.yaml) |
-| `census-employment.csv`                        | Employment status from 2021 Census                             | [pipelines/census:download-census](../pipelines/census/dvc.yaml)                       |
+| `census-employment.csv`                        | Employment status from 2021 Census                             | [pipelines:nomis-download](../pipelines/dvc.yaml)                       |
 | `claimants-by-pcon-2010-latest.csv`            | Claimant counts                                                | [pipelines:nomis-download](../pipelines/dvc.yaml)                                      |
 | `lfs_by_pcon.csv`                              | APS/LFS stats by parliamentary constituency                    | [pipelines/labour-market:download-from-nomis](../pipelines/labour-market/dvc.yaml)     |
 | `population-estimates-by-pcon-2010-latest.csv` | Mid-year population estimates for parliamentary constituencies | [pipelines:nomis-download](../pipelines/dvc.yaml)                                      |
