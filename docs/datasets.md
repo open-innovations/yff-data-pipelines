@@ -12,6 +12,10 @@ https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemplo
 
 https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices
 
+### Young people not in education, employment or training (NEET)
+
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/youngpeoplenotineducationemploymentortrainingneettable1
+
 ### Claimant count and vacancies time series
 
 https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/claimantcountandvacanciesdataset
@@ -83,16 +87,17 @@ pipeline stage. In principle, this could also be done with a `dvc import-url`,
 although there are issues with Nomis rejecting repeated calls to the same URL,
 which it appears `dvc import-url` does.
 
-| Dataset                                        | Description                                                    | DVC Stage                                                                              |
-| ---------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| `lms.csv`                                      | Latest release of Labour Market Summary time series            | [pipelines/ons:process@lms](../pipelines/ons/dvc.yaml) |
-| `mm23.csv`                                     | Latest release of Consumer Prices Index time series            | [pipelines/ons:process@mm23](../pipelines/ons/dvc.yaml) |
-| `unem.csv`                                     | Latest release of Unemployment and vacancies time series       | [pipelines/ons:process@unem](../pipelines/ons/dvc.yaml) |
-| `census-employment.csv`                        | Employment status from 2021 Census                             | [pipelines:nomis-download](../pipelines/dvc.yaml)                       |
-| `claimants-by-pcon-2010-latest.csv`            | Claimant counts                                                | [pipelines:nomis-download](../pipelines/dvc.yaml)                                      |
-| `lfs_by_pcon.csv`                              | APS/LFS stats by parliamentary constituency                    | [pipelines/labour-market:download-from-nomis](../pipelines/labour-market/dvc.yaml)     |
-| `population-estimates-by-pcon-2010-latest.csv` | Mid-year population estimates for parliamentary constituencies | [pipelines:nomis-download](../pipelines/dvc.yaml)                                      |
-| `vacancies-by-sector.csv`                      | Result of ONS analysis by sector                               | [pipelines/vacancies:download](../pipelines/vacancies/dvc.yaml)                        |
+| Dataset                                        | Description                                                    | DVC Stage                                                                          |
+| ---------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `lms.csv`                                      | Latest release of Labour Market Summary time series            | [pipelines/ons:process@lms](../pipelines/ons/dvc.yaml)                             |
+| `mm23.csv`                                     | Latest release of Consumer Prices Index time series            | [pipelines/ons:process@mm23](../pipelines/ons/dvc.yaml)                            |
+| `unem.csv`                                     | Latest release of Unemployment and vacancies time series       | [pipelines/ons:process@unem](../pipelines/ons/dvc.yaml)                            |
+| `neet-latest.xlsx`                             | Latest analysis of NEET statistics                             | [pipelines/neet:download](../pipelines/neet/dvc.yaml)                              |
+| `census-employment.csv`                        | Employment status from 2021 Census                             | [pipelines:nomis-download](../pipelines/dvc.yaml)                                  |
+| `claimants-by-pcon-2010-latest.csv`            | Claimant counts                                                | [pipelines:nomis-download](../pipelines/dvc.yaml)                                  |
+| `lfs_by_pcon.csv`                              | APS/LFS stats by parliamentary constituency                    | [pipelines/labour-market:download-from-nomis](../pipelines/labour-market/dvc.yaml) |
+| `population-estimates-by-pcon-2010-latest.csv` | Mid-year population estimates for parliamentary constituencies | [pipelines:nomis-download](../pipelines/dvc.yaml)                                  |
+| `vacancies-by-sector.csv`                      | Result of ONS analysis by sector                               | [pipelines/vacancies:download](../pipelines/vacancies/dvc.yaml)                    |
 
 ## Processed Data
 
@@ -102,11 +107,13 @@ dimensions.
 
 | Data file                                                                                                          | Description                                                                                                                                          | Pipeline                                                                              |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [`claimants/claimants-per-population-latest.csv`](../data/processed/claimants/claimants-per-population-latest.csv) | Processed version of Claimant counts - converted to rates, using population estimates as a denominator.                                              | [pipelines/claimants:process-claimants](../pipelines/claimants/dvc.yaml)              |
+| [`lms.csv`](../data/processed/lms.csv)                                                                             | Cleaned monthly LMS stats                                                                                                                            | [pipelines/ons:process@lms](../pipelines/neet/dvc.yaml)                               |
+| [`mm23.csv`](../data/processed/mm23.csv)                                                                           | Cleaned monthly CPI stats                                                                                                                            | [pipelines/ons:process@mm23](../pipelines/neet/dvc.yaml)                              |
+| [`unem.csv`](../data/processed/unem.csv)                                                                           | Cleaned monthly Unemployment and Vacancies stats                                                                                                     | [pipelines/ons:process@unem](../pipelines/neet/dvc.yaml)                              |
+| [`neet.csv`](../data/processed/neet.csv)                                                                           | Cleaned quarterly NEET stats                                                                                                                         | [pipelines/neet:process](../pipelines/neet/dvc.yaml)                                  |
 | [`census/employment-status.csv`](../data/processed/census/employment-status.csv)                                   | Processed version of Census 2021 employment status                                                                                                   | [pipelines/census:process-census](../pipelines/census/dvc.yaml)                       |
-| [`cpi/mm23.csv`](../data/processed/cpi/mm23.csv)                                                                   | Cleaned monthly CPI stats                                                                                                                            |                                                                                       |
+| [`claimants/claimants-per-population-latest.csv`](../data/processed/claimants/claimants-per-population-latest.csv) | Processed version of Claimant counts - converted to rates, using population estimates as a denominator.                                              | [pipelines/claimants:process-claimants](../pipelines/claimants/dvc.yaml)              |
 | [`labour-market/most_recent_by_pcon_2010.csv`](../data/processed/labour-market/most_recent_by_pcon_2010.csv)       | Most recently published APS LFS figures per parliamentary constituency. This creates a backfilled dataset using the [method described below](#patch) | [pipelines/labour-market:process-latest-by-pcon](../pipelines/labour-market/dvc.yaml) |
-| [`labour-market/lms.csv`](../data/processed/labour-market/lms.csv)                                                 | Cleaned monthly LMS time series file                                                                                                                 | [pipelines/labour-market:process-lms](../pipelines/labour-market/dvc.yaml)            |
 | [`vacancies/vacancies-growth-by-sector.csv`](../data/processed/vacancies/vacancies-growth-by-sector.csv)           | Processed version of vacancies by sector, including details of key youth employment sector, and sectors that young people want to work in.           | [pipelines/vacancies:process](../pipelines/vacancies/dvc.yaml)                        |
 
 ### Backfill patching of data
