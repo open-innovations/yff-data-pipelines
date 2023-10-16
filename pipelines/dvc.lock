@@ -17,17 +17,21 @@ stages:
     deps:
     - path: nomis.py
       hash: md5
-      md5: 47ec604aa9c59a1ee1e41e2649959bc4
-      size: 11405
+      md5: 7c40270bf7ad1e4922e0def3948438b6
+      size: 17151
     outs:
+    - path: ../data/raw/census-employment.csv
+      hash: md5
+      md5: e6b993be28111700e3da6b52e95e353a
+      size: 7596612
     - path: ../data/raw/claimants-by-pcon-2010-latest.csv
       hash: md5
-      md5: 7f387e1ef61579c73dd4f5a496150091
-      size: 488162
+      md5: c5eb8b0fed5594ebfe17fddf0f8140e6
+      size: 423425
     - path: ../data/raw/population-estimates-by-pcon-2010-latest.csv
       hash: md5
-      md5: 347e6eb05cdb45f1d08a2d9437bb6956
-      size: 383023
+      md5: 9aac6feb9b7be6aab6a9a63a1175ffb7
+      size: 334976
   process-claimants:
     cmd: papermill claimants.ipynb ../output/claimants.ipynb
     deps:

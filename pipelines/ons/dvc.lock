@@ -5,6 +5,10 @@ stages:
       -p url 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/claimantcountandvacanciesdataset/current/unem.csv
     deps:
+    - path: ../../data/raw/unem.csv
+      hash: md5
+      md5: 8e77cf2fd83c903e3ca0deadd0e76b33
+      size: 1620110
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424
@@ -23,6 +27,10 @@ stages:
       -p url 
       https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/consumerpriceindices/current/mm23.csv
     deps:
+    - path: ../../data/raw/mm23.csv
+      hash: md5
+      md5: 02ffd24fb9f0422b44b4245a4f058ff1
+      size: 21987050
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424
@@ -41,6 +49,10 @@ stages:
       -p url 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics/current/lms.csv
     deps:
+    - path: ../../data/raw/lms.csv
+      hash: md5
+      md5: 9a6b4841ae2e20d462a63bc9b5db174a
+      size: 10960377
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424

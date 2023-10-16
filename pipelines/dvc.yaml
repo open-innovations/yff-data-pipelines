@@ -19,6 +19,8 @@ stages:
           cache: false
       - ${TOP}/data/raw/population-estimates-by-pcon-2010-latest.csv:
           cache: false
+      - ${TOP}/data/raw/census-employment.csv:
+          cache: false
 
   write-metadata:
     cmd: papermill --no-progress-bar --no-report-mode metadata.ipynb ${TOP}/output/metadata.ipynb

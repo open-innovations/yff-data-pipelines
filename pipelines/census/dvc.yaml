@@ -1,13 +1,6 @@
 vars:
   - top: ../..
 stages:
-  download-census:
-    cmd: python download-census.py
-    deps:
-      - download-census.py
-    outs:
-      - ${top}/data/raw/census-employment.csv:
-          cache: false
   process-census:
     cmd: papermill process-census.ipynb ${top}/output/process-census.ipynb
     deps:
