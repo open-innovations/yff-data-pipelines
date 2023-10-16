@@ -1,41 +1,31 @@
 vars:
   - TOP: ..
 stages:
-    check-for-page-updates:
-        always_changed: true
-        cmd: python control.py
-        deps:
-          - control.py
-        outs:
-          - control.csv:
-              cache: false
+  check-for-page-updates:
+    always_changed: true
+    cmd: python control.py
+    deps:
+      - control.py
+    outs:
+      - control.csv:
+          cache: false
 
-    nomis-download:
-        cmd: python nomis.py
-        deps:
-          - nomis.py
-        outs:
-          - ${TOP}/data/raw/claimants-by-pcon-2010-latest.csv:
-              cache: false
-          - ${TOP}/data/raw/population-estimates-by-pcon-2010-latest.csv:
-              cache: false
+  nomis-download:
+    cmd: python nomis.py
+    deps:
+      - nomis.py
+    outs:
+      - ${TOP}/data/raw/claimants-by-pcon-2010-latest.csv:
+          cache: false
+      - ${TOP}/data/raw/population-estimates-by-pcon-2010-latest.csv:
+          cache: false
 
-    write-metadata:
-        cmd: papermill --no-progress-bar --no-report-mode metadata.ipynb ${TOP}/output/metadata.ipynb
-        deps:
-          - metadata.ipynb
-          - ${TOP}/data/metadata/codes/
-        outs:
-          - ${TOP}/data/metadata/metadata.csv:
-              persist: false
-              cache: false
-
-
-    trigger-site-data:
-    # This stage runs if any data has changed in data/processed or data/metadata
-    # We use this to start a job running on the main YFF page repo to run pipelines and build the site
-        cmd: python trigger.py
-        deps:
-            - trigger.py
-            - ${TOP}/data/processed
-            - ${TOP}/data/metadata
+  write-metadata:
+    cmd: papermill --no-progress-bar --no-report-mode metadata.ipynb ${TOP}/output/metadata.ipynb
+    deps:
+      - metadata.ipynb
+      - ${TOP}/data/metadata/codes/
+    outs:
+      - ${TOP}/data/metadata/metadata.csv:
+          persist: false
+          cache: false

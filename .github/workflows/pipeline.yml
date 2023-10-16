@@ -1,6 +1,6 @@
 name: pipeline
 
-'on':
+"on":
   workflow_dispatch:
   schedule:
     - cron: "20 6-9 * * 1-5"
@@ -17,7 +17,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
           cache: pipenv
 
       - name: Install dependencies
@@ -32,8 +32,16 @@ jobs:
           pipenv run dvc update -R data/raw
           pipenv run dvc repro -R pipelines
 
+      - name: Check for updates
+        id: updated
+        run: echo "changes=$(git status --short data/processed data/metadata | wc -l)" >> $GITHUB_OUTPUT
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Data updates
           file_pattern: data output pipelines
+
+      - if: steps.updated.outputs.changes > 0
+        run: |
+          pipenv run python pipelines/trigger.py
