@@ -75,8 +75,8 @@ stages:
       nfiles: 3
     - path: metadata.ipynb
       hash: md5
-      md5: 6e844900646a14d144b22f1f371167df
-      size: 3795
+      md5: a5edc8a0995089c00917fdef9fd05ca7
+      size: 2480
     outs:
     - path: ../data/metadata/metadata.csv
       hash: md5
