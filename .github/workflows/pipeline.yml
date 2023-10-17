@@ -43,5 +43,7 @@ jobs:
           file_pattern: data output pipelines
 
       - if: steps.updated.outputs.changes > 0
+        env:
+          GITHUB_TOKEN: ${{ secrets.TRIGGER_TOKEN }}
         run: |
           pipenv run python pipelines/trigger.py
