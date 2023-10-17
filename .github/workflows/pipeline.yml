@@ -42,7 +42,8 @@ jobs:
           commit_message: Data updates
           file_pattern: data output pipelines
 
-      - if: steps.updated.outputs.changes > 0
+      - name: Trigger downstream pipeline
+        if: steps.updated.outputs.changes > 0
         env:
           GITHUB_TOKEN: ${{ secrets.TRIGGER_TOKEN }}
         run: |
