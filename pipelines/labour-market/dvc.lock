@@ -108,3 +108,35 @@ stages:
       hash: md5
       md5: 72d52598a0ba79effd075f9f66180a4d
       size: 17934704
+  download-x10:
+    cmd: PYTHONPATH=../../lib python download-x10.py
+    deps:
+    - path: download-x10.py
+      hash: md5
+      md5: 26bf579c0225c3c734c0084150f77fce
+      size: 660
+    outs:
+    - path: ../../data/raw/x10.xlsx
+      hash: md5
+      md5: 73380ce012659081e683787be3e116ec
+      size: 398729
+  process-x10:
+    cmd: papermill process-x10.ipynb ../../output/process-x10.ipynb
+    deps:
+    - path: ../../data/raw/x10.xlsx
+      hash: md5
+      md5: 73380ce012659081e683787be3e116ec
+      size: 398729
+    - path: process-x10.ipynb
+      hash: md5
+      md5: 5c73ef9f93a2ad205ad98991ca1ae5ac
+      size: 3963
+    outs:
+    - path: ../../data/metadata/codes/x10-codes.csv
+      hash: md5
+      md5: bd82191c54efb70386b7148f07034999
+      size: 4010
+    - path: ../../data/processed/x10.csv
+      hash: md5
+      md5: 880b219711cd72031bcd0ebe355ac1a9
+      size: 1336087

@@ -17,3 +17,21 @@ stages:
       - ${top}/data/processed/labour-market/most_recent_by_pcon_2010.csv:
           cache: false
           persist: false
+
+  download-x10:
+    cmd: PYTHONPATH=${top}/lib python download-x10.py
+    deps:
+      - download-x10.py
+    outs:
+      - ${top}/data/raw/x10.xlsx:
+          cache: false
+  process-x10:
+    cmd: papermill process-x10.ipynb ${top}/output/process-x10.ipynb
+    deps:
+      - process-x10.ipynb
+      - ${top}/data/raw/x10.xlsx
+    outs:
+      - ${top}/data/processed/x10.csv:
+          cache: false
+      - ${top}/data/metadata/codes/x10-codes.csv:
+          cache: false

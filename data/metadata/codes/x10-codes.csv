@@ -1,0 +1,65 @@
+sheet,column,age,measure,Release Date,Next release
+People,1,Aged 16 and over,Employment_level,2023-10-24,2023-11-14
+People,2,Aged 16 and over,Employment_rate (%),2023-10-24,2023-11-14
+People,3,Aged 16 and over,Unemployment_level,2023-10-24,2023-11-14
+People,4,Aged 16 and over,Unemployment_rate (%),2023-10-24,2023-11-14
+People,5,Aged 16 and over,Activity_level,2023-10-24,2023-11-14
+People,6,Aged 16 and over,Activity_rate (%),2023-10-24,2023-11-14
+People,7,Aged 16 and over,Inactivity_level,2023-10-24,2023-11-14
+People,8,Aged 16 and over,Inactivity_rate (%),2023-10-24,2023-11-14
+People,9,Aged 16-64 ,Employment_level,2023-10-24,2023-11-14
+People,10,Aged 16-64 ,Employment_rate (%),2023-10-24,2023-11-14
+People,11,Aged 16-64 ,Unemployment_level,2023-10-24,2023-11-14
+People,12,Aged 16-64 ,Unemployment_rate (%),2023-10-24,2023-11-14
+People,13,Aged 16-64 ,Activity_level,2023-10-24,2023-11-14
+People,14,Aged 16-64 ,Activity_rate (%),2023-10-24,2023-11-14
+People,15,Aged 16-64 ,Inactivity_level,2023-10-24,2023-11-14
+People,16,Aged 16-64 ,Inactivity_rate (%),2023-10-24,2023-11-14
+People,17,Aged 16-17,Employment_level,2023-10-24,2023-11-14
+People,18,Aged 16-17,Employment_rate (%),2023-10-24,2023-11-14
+People,19,Aged 16-17,Unemployment_level,2023-10-24,2023-11-14
+People,20,Aged 16-17,Unemployment_rate (%),2023-10-24,2023-11-14
+People,21,Aged 16-17,Activity_level,2023-10-24,2023-11-14
+People,22,Aged 16-17,Activity_rate (%),2023-10-24,2023-11-14
+People,23,Aged 16-17,Inactivity_level,2023-10-24,2023-11-14
+People,24,Aged 16-17,Inactivity_rate (%),2023-10-24,2023-11-14
+People,25,Aged 18-24,Employment_level,2023-10-24,2023-11-14
+People,26,Aged 18-24,Employment_rate (%),2023-10-24,2023-11-14
+People,27,Aged 18-24,Unemployment_level,2023-10-24,2023-11-14
+People,28,Aged 18-24,Unemployment_rate (%),2023-10-24,2023-11-14
+People,29,Aged 18-24,Activity_level,2023-10-24,2023-11-14
+People,30,Aged 18-24,Activity_rate (%),2023-10-24,2023-11-14
+People,31,Aged 18-24,Inactivity_level,2023-10-24,2023-11-14
+People,32,Aged 18-24,Inactivity_rate (%),2023-10-24,2023-11-14
+People,33,Aged 25-34,Employment_level,2023-10-24,2023-11-14
+People,34,Aged 25-34,Employment_rate (%),2023-10-24,2023-11-14
+People,35,Aged 25-34,Unemployment_level,2023-10-24,2023-11-14
+People,36,Aged 25-34,Unemployment_rate (%),2023-10-24,2023-11-14
+People,37,Aged 25-34,Activity_level,2023-10-24,2023-11-14
+People,38,Aged 25-34,Activity_rate (%),2023-10-24,2023-11-14
+People,39,Aged 25-34,Inactivity_level,2023-10-24,2023-11-14
+People,40,Aged 25-34,Inactivity_rate (%),2023-10-24,2023-11-14
+People,41,Aged 35-49,Employment_level,2023-10-24,2023-11-14
+People,42,Aged 35-49,Employment_rate (%),2023-10-24,2023-11-14
+People,43,Aged 35-49,Unemployment_level,2023-10-24,2023-11-14
+People,44,Aged 35-49,Unemployment_rate (%),2023-10-24,2023-11-14
+People,45,Aged 35-49,Activity_level,2023-10-24,2023-11-14
+People,46,Aged 35-49,Activity_rate (%),2023-10-24,2023-11-14
+People,47,Aged 35-49,Inactivity_level,2023-10-24,2023-11-14
+People,48,Aged 35-49,Inactivity_rate (%),2023-10-24,2023-11-14
+People,49,Aged 50-64,Employment_level,2023-10-24,2023-11-14
+People,50,Aged 50-64,Employment_rate (%),2023-10-24,2023-11-14
+People,51,Aged 50-64,Unemployment_level,2023-10-24,2023-11-14
+People,52,Aged 50-64,Unemployment_rate (%),2023-10-24,2023-11-14
+People,53,Aged 50-64,Activity_level,2023-10-24,2023-11-14
+People,54,Aged 50-64,Activity_rate (%),2023-10-24,2023-11-14
+People,55,Aged 50-64,Inactivity_level,2023-10-24,2023-11-14
+People,56,Aged 50-64,Inactivity_rate (%),2023-10-24,2023-11-14
+People,57,Age 65+,Employment_level,2023-10-24,2023-11-14
+People,58,Age 65+,Employment_rate (%),2023-10-24,2023-11-14
+People,59,Age 65+,Unemployment_level,2023-10-24,2023-11-14
+People,60,Age 65+,Unemployment_rate (%),2023-10-24,2023-11-14
+People,61,Age 65+,Activity_level,2023-10-24,2023-11-14
+People,62,Age 65+,Activity_rate (%),2023-10-24,2023-11-14
+People,63,Age 65+,Inactivity_level,2023-10-24,2023-11-14
+People,64,Age 65+,Inactivity_rate (%),2023-10-24,2023-11-14
