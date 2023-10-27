@@ -19,7 +19,7 @@ stages:
           persist: false
 
   download-x10:
-    cmd: PYTHONPATH=${top}/lib python download-x10.py
+    cmd: PYTHONPATH=${top} python download-x10.py
     deps:
       - download-x10.py
     outs:

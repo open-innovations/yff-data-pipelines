@@ -1,7 +1,7 @@
 import os
 import re
-from scraper import get_links, download_file
-from util import set_working_directory
+from lib.scraper import get_links, download_file
+from lib.util import set_working_directory
 
 SOURCE_PAGE = 'https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/x10adjustedemploymentunemploymentandeconomicinactivity'
 

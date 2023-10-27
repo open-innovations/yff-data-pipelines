@@ -109,12 +109,12 @@ stages:
       md5: 72d52598a0ba79effd075f9f66180a4d
       size: 17934704
   download-x10:
-    cmd: PYTHONPATH=../../lib python download-x10.py
+    cmd: PYTHONPATH=../.. python download-x10.py
     deps:
     - path: download-x10.py
       hash: md5
-      md5: 26bf579c0225c3c734c0084150f77fce
-      size: 660
+      md5: 3a6e6ce56d89506b92246cd2ac1fb245
+      size: 668
     outs:
     - path: ../../data/raw/x10.xlsx
       hash: md5
