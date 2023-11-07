@@ -1,0 +1,15 @@
+schema: '2.0'
+stages:
+  prepare:
+    cmd: papermill prepare.ipynb ../../output/prepare-neet-factors.ipynb
+    deps:
+    - path: ../../data/reference/Copy of NatCen 2023 - Administrative data on factors
+        associated with youth NEET rates - Dataset.xlsx
+      hash: md5
+      md5: e61cb144a0e6ae9f9202ef686bde4208
+      size: 5840597
+    outs:
+    - path: ../../data/processed/yff/neet-factors.csv
+      hash: md5
+      md5: 7335083d5c50b867eb0ff321b0a71459
+      size: 555225

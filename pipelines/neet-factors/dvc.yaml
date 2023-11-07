@@ -1,0 +1,11 @@
+vars:
+  - top: ../..
+stages:
+  prepare:
+    cmd: papermill prepare.ipynb ${top}/output/prepare-neet-factors.ipynb
+    deps:
+      - ${top}/data/reference/Copy of NatCen 2023 - Administrative data on factors associated with youth NEET rates - Dataset.xlsx
+    outs:
+      - ${top}/data/processed/yff/neet-factors.csv:
+          cache: false
+          persist: false
