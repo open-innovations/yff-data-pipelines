@@ -8,6 +8,10 @@ stages:
       hash: md5
       md5: e61cb144a0e6ae9f9202ef686bde4208
       size: 5840597
+    - path: prepare.ipynb
+      hash: md5
+      md5: d0d363666adda39da96ee36a55817b2e
+      size: 335646
     outs:
     - path: ../../data/processed/yff/neet-factors.csv
       hash: md5
