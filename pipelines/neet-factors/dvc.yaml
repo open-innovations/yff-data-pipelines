@@ -1,6 +1,14 @@
 vars:
   - top: ../..
 stages:
+  download:
+    cmd: python3 download.py
+    deps:
+      - download.py
+    outs:
+      - ${top}/data/raw/neet-factors/:
+          cache: false
+          persist: false
   prepare:
     cmd: papermill prepare.ipynb ${top}/output/prepare-neet-factors.ipynb
     deps:
