@@ -1,0 +1,310 @@
+Local Authority Code,Local Authority Name,Group
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy"
+E06000002,Middlesbrough,Manufacturing Traits
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy"
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy"
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy"
+E06000006,Halton,"Services, Manufacturing and Mining Legacy"
+E06000007,Warrington,Town Living
+E06000008,Blackburn with Darwen,Manufacturing Traits
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy"
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits
+E06000011,East Riding of Yorkshire,English and Welsh Countryside
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy"
+E06000013,North Lincolnshire,Country Living
+E06000014,York,Larger Towns and Cities
+E06000015,Derby,Manufacturing Traits
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living
+E06000017,Rutland,English and Welsh Countryside
+E06000018,Nottingham,University Towns and Cities
+E06000019,"Herefordshire, County of",English and Welsh Countryside
+E06000020,Telford and Wrekin,Manufacturing Traits
+E06000021,Stoke-on-Trent,Manufacturing Traits
+E06000022,Bath and North East Somerset,Larger Towns and Cities
+E06000023,"Bristol, City of",Larger Towns and Cities
+E06000024,North Somerset,English and Welsh Countryside
+E06000025,South Gloucestershire,Town Living
+E06000026,Plymouth,Larger Towns and Cities
+E06000027,Torbay,Remoter Coastal Living
+E06000030,Swindon,Suburban Traits
+E06000031,Peterborough,Suburban Traits
+E06000032,Luton,Ethnically Diverse Metropolitan  Living
+E06000033,Southend-on-Sea,Manufacturing Traits
+E06000034,Thurrock,Suburban Traits
+E06000035,Medway,Suburban Traits
+E06000036,Bracknell Forest,Rural-Urban Fringe
+E06000037,West Berkshire,Thriving Rural
+E06000038,Reading,University Towns and Cities
+E06000039,Slough,Ethnically Diverse Metropolitan  Living
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe
+E06000041,Wokingham,Thriving Rural
+E06000042,Milton Keynes,Suburban Traits
+E06000043,Brighton and Hove,University Towns and Cities
+E06000044,Portsmouth,Larger Towns and Cities
+E06000045,Southampton,Larger Towns and Cities
+E06000046,Isle of Wight,Remoter Coastal Living
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy"
+E06000049,Cheshire East,Country Living
+E06000050,Cheshire West and Chester,Town Living
+E06000051,Shropshire,English and Welsh Countryside
+E06000052,Cornwall,
+E06000053,Isles of Scilly,
+E06000054,Wiltshire,Country Living
+E06000055,Bedford,Suburban Traits
+E06000056,Central Bedfordshire,Thriving Rural
+E06000057,Northumberland,English and Welsh Countryside
+E06000058,"Bournemouth, Christchurch and Poole",
+E06000059,Dorset,
+E06000060,Buckinghamshire,
+E06000061,North Northamptonshire,
+E06000062,West Northamptonshire,
+E07000008,Cambridge,University Towns and Cities
+E07000009,East Cambridgeshire,Country Living
+E07000010,Fenland,Country Living
+E07000011,Huntingdonshire,Country Living
+E07000012,South Cambridgeshire,Thriving Rural
+E07000026,Allerdale,English and Welsh Countryside
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy"
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy"
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy"
+E07000030,Eden,English and Welsh Countryside
+E07000031,South Lakeland,English and Welsh Countryside
+E07000032,Amber Valley,Country Living
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy"
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy"
+E07000035,Derbyshire Dales,English and Welsh Countryside
+E07000036,Erewash,Country Living
+E07000037,High Peak,Town Living
+E07000038,North East Derbyshire,Town Living
+E07000039,South Derbyshire,Country Living
+E07000040,East Devon,Remoter Coastal Living
+E07000041,Exeter,Larger Towns and Cities
+E07000042,Mid Devon,English and Welsh Countryside
+E07000043,North Devon,Remoter Coastal Living
+E07000044,South Hams,English and Welsh Countryside
+E07000045,Teignbridge,Remoter Coastal Living
+E07000046,Torridge,English and Welsh Countryside
+E07000047,West Devon,English and Welsh Countryside
+E07000061,Eastbourne,Larger Towns and Cities
+E07000062,Hastings,Manufacturing Traits
+E07000063,Lewes,Remoter Coastal Living
+E07000064,Rother,Remoter Coastal Living
+E07000065,Wealden,English and Welsh Countryside
+E07000066,Basildon,Suburban Traits
+E07000067,Braintree,Country Living
+E07000068,Brentwood,Thriving Rural
+E07000069,Castle Point,Town Living
+E07000070,Chelmsford,Thriving Rural
+E07000071,Colchester,Thriving Rural
+E07000072,Epping Forest,Thriving Rural
+E07000073,Harlow,Suburban Traits
+E07000074,Maldon,Country Living
+E07000075,Rochford,Town Living
+E07000076,Tendring,Remoter Coastal Living
+E07000077,Uttlesford,Thriving Rural
+E07000078,Cheltenham,Larger Towns and Cities
+E07000079,Cotswold,English and Welsh Countryside
+E07000080,Forest of Dean,Country Living
+E07000081,Gloucester,Manufacturing Traits
+E07000082,Stroud,Country Living
+E07000083,Tewkesbury,Country Living
+E07000084,Basingstoke and Deane,Thriving Rural
+E07000085,East Hampshire,Thriving Rural
+E07000086,Eastleigh,Town Living
+E07000087,Fareham,Town Living
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy"
+E07000089,Hart,Thriving Rural
+E07000090,Havant,"Services, Manufacturing and Mining Legacy"
+E07000091,New Forest,Remoter Coastal Living
+E07000092,Rushmoor,Suburban Traits
+E07000093,Test Valley,Thriving Rural
+E07000094,Winchester,Thriving Rural
+E07000095,Broxbourne,Suburban Traits
+E07000096,Dacorum,Thriving Rural
+E07000098,Hertsmere,Rural-Urban Fringe
+E07000099,North Hertfordshire,Thriving Rural
+E07000102,Three Rivers,Rural-Urban Fringe
+E07000103,Watford,Suburban Traits
+E07000105,Ashford,Country Living
+E07000106,Canterbury,Larger Towns and Cities
+E07000107,Dartford,Suburban Traits
+E07000108,Dover,Remoter Coastal Living
+E07000109,Gravesham,Suburban Traits
+E07000110,Maidstone,Thriving Rural
+E07000111,Sevenoaks,Thriving Rural
+E07000112,Folkestone and Hythe,Remoter Coastal Living
+E07000113,Swale,Country Living
+E07000114,Thanet,Remoter Coastal Living
+E07000115,Tonbridge and Malling,Thriving Rural
+E07000116,Tunbridge Wells,Thriving Rural
+E07000117,Burnley,Manufacturing Traits
+E07000118,Chorley,Town Living
+E07000119,Fylde,English and Welsh Countryside
+E07000120,Hyndburn,Manufacturing Traits
+E07000121,Lancaster,Larger Towns and Cities
+E07000122,Pendle,Manufacturing Traits
+E07000123,Preston,Larger Towns and Cities
+E07000124,Ribble Valley,English and Welsh Countryside
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy"
+E07000126,South Ribble,Town Living
+E07000127,West Lancashire,Town Living
+E07000128,Wyre,English and Welsh Countryside
+E07000129,Blaby,Town Living
+E07000130,Charnwood,Town Living
+E07000131,Harborough,Country Living
+E07000132,Hinckley and Bosworth,Country Living
+E07000133,Melton,Country Living
+E07000134,North West Leicestershire,Country Living
+E07000135,Oadby and Wigston,Town Living
+E07000136,Boston,Manufacturing Traits
+E07000137,East Lindsey,Remoter Coastal Living
+E07000138,Lincoln,Larger Towns and Cities
+E07000139,North Kesteven,English and Welsh Countryside
+E07000140,South Holland,Country Living
+E07000141,South Kesteven,Country Living
+E07000142,West Lindsey,English and Welsh Countryside
+E07000143,Breckland,English and Welsh Countryside
+E07000144,Broadland,Country Living
+E07000145,Great Yarmouth,Remoter Coastal Living
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside
+E07000147,North Norfolk,Remoter Coastal Living
+E07000148,Norwich,Larger Towns and Cities
+E07000149,South Norfolk,Country Living
+E07000163,Craven,English and Welsh Countryside
+E07000164,Hambleton,English and Welsh Countryside
+E07000165,Harrogate,English and Welsh Countryside
+E07000166,Richmondshire,English and Welsh Countryside
+E07000167,Ryedale,English and Welsh Countryside
+E07000168,Scarborough,Remoter Coastal Living
+E07000169,Selby,Country Living
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy"
+E07000171,Bassetlaw,Country Living
+E07000172,Broxtowe,Town Living
+E07000173,Gedling,Town Living
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy"
+E07000175,Newark and Sherwood,Country Living
+E07000176,Rushcliffe,Thriving Rural
+E07000177,Cherwell,Thriving Rural
+E07000178,Oxford,University Towns and Cities
+E07000179,South Oxfordshire,Thriving Rural
+E07000180,Vale of White Horse,Thriving Rural
+E07000181,West Oxfordshire,Thriving Rural
+E07000187,Mendip,English and Welsh Countryside
+E07000188,Sedgemoor,English and Welsh Countryside
+E07000189,South Somerset,English and Welsh Countryside
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy"
+E07000193,East Staffordshire,Country Living
+E07000194,Lichfield,Town Living
+E07000195,Newcastle-under-Lyme,Town Living
+E07000196,South Staffordshire,Town Living
+E07000197,Stafford,Town Living
+E07000198,Staffordshire Moorlands,Country Living
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy"
+E07000200,Babergh,Country Living
+E07000202,Ipswich,Manufacturing Traits
+E07000203,Mid Suffolk,Country Living
+E07000207,Elmbridge,Rural-Urban Fringe
+E07000208,Epsom and Ewell,Rural-Urban Fringe
+E07000209,Guildford,Rural-Urban Fringe
+E07000210,Mole Valley,Thriving Rural
+E07000211,Reigate and Banstead,Rural-Urban Fringe
+E07000212,Runnymede,Rural-Urban Fringe
+E07000213,Spelthorne,Rural-Urban Fringe
+E07000214,Surrey Heath,Rural-Urban Fringe
+E07000215,Tandridge,Thriving Rural
+E07000216,Waverley,Thriving Rural
+E07000217,Woking,Rural-Urban Fringe
+E07000218,North Warwickshire,Country Living
+E07000219,Nuneaton and Bedworth,Manufacturing Traits
+E07000220,Rugby,Suburban Traits
+E07000221,Stratford-on-Avon,English and Welsh Countryside
+E07000222,Warwick,Larger Towns and Cities
+E07000223,Adur,Town Living
+E07000224,Arun,Remoter Coastal Living
+E07000225,Chichester,English and Welsh Countryside
+E07000226,Crawley,Suburban Traits
+E07000227,Horsham,Thriving Rural
+E07000228,Mid Sussex,Thriving Rural
+E07000229,Worthing,Manufacturing Traits
+E07000234,Bromsgrove,Town Living
+E07000235,Malvern Hills,English and Welsh Countryside
+E07000236,Redditch,Manufacturing Traits
+E07000237,Worcester,Manufacturing Traits
+E07000238,Wychavon,Country Living
+E07000239,Wyre Forest,Country Living
+E07000240,St Albans,Rural-Urban Fringe
+E07000241,Welwyn Hatfield,Larger Towns and Cities
+E07000242,East Hertfordshire,Thriving Rural
+E07000243,Stevenage,Suburban Traits
+E07000244,East Suffolk,
+E07000245,West Suffolk,
+E07000246,Somerset West and Taunton,
+E08000001,Bolton,Manufacturing Traits
+E08000002,Bury,Manufacturing Traits
+E08000003,Manchester,University Towns and Cities
+E08000004,Oldham,Manufacturing Traits
+E08000005,Rochdale,Manufacturing Traits
+E08000006,Salford,Manufacturing Traits
+E08000007,Stockport,Town Living
+E08000008,Tameside,Manufacturing Traits
+E08000009,Trafford,Suburban Traits
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy"
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy"
+E08000012,Liverpool,Larger Towns and Cities
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy"
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy"
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy"
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy"
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy"
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy"
+E08000019,Sheffield,Larger Towns and Cities
+E08000021,Newcastle upon Tyne,Larger Towns and Cities
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy"
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy"
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy"
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living
+E08000026,Coventry,Larger Towns and Cities
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy"
+E08000028,Sandwell,Manufacturing Traits
+E08000029,Solihull,Town Living
+E08000030,Walsall,Manufacturing Traits
+E08000031,Wolverhampton,Manufacturing Traits
+E08000032,Bradford,Manufacturing Traits
+E08000033,Calderdale,Manufacturing Traits
+E08000034,Kirklees,Manufacturing Traits
+E08000035,Leeds,Larger Towns and Cities
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy"
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy"
+E09000001,City of London,
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living
+E09000004,Bexley,Suburban Traits
+E09000005,Brent,Ethnically Diverse Metropolitan  Living
+E09000006,Bromley,Rural-Urban Fringe
+E09000007,Camden,London Cosmopolitan
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living
+E09000012,Hackney,London Cosmopolitan
+E09000013,Hammersmith and Fulham,London Cosmopolitan
+E09000014,Haringey,London Cosmopolitan
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living
+E09000016,Havering,Suburban Traits
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living
+E09000019,Islington,London Cosmopolitan
+E09000020,Kensington and Chelsea,London Cosmopolitan
+E09000021,Kingston upon Thames,University Towns and Cities
+E09000022,Lambeth,London Cosmopolitan
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living
+E09000024,Merton,Ethnically Diverse Metropolitan  Living
+E09000025,Newham,Ethnically Diverse Metropolitan  Living
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living
+E09000027,Richmond upon Thames,Rural-Urban Fringe
+E09000028,Southwark,London Cosmopolitan
+E09000029,Sutton,Suburban Traits
+E09000030,Tower Hamlets,London Cosmopolitan
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living
+E09000032,Wandsworth,London Cosmopolitan
+E09000033,Westminster,
