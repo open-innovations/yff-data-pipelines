@@ -16,6 +16,7 @@ geopandas = "*"
 folium = "*"
 mapclassify = "*"
 openpyxl = "*"
+odfpy = "*"
 
 [dev-packages]
 

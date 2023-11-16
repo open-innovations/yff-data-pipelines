@@ -30,3 +30,20 @@ stages:
       md5: 50023c4527f5155246ca8f91b9da8da5.dir
       size: 2894516
       nfiles: 1
+  collate:
+    cmd: papermill collate.ipynb ../../output/collate-neet-factors.ipynb
+    deps:
+    - path: ../../data/raw/neet-factors/
+      hash: md5
+      md5: 50023c4527f5155246ca8f91b9da8da5.dir
+      size: 2894516
+      nfiles: 1
+    - path: collate.ipynb
+      hash: md5
+      md5: 2659e74ceb27d217a42832574d7b5194
+      size: 2524
+    outs:
+    - path: ../../data/processed/yff/neet-factors-sources.csv
+      hash: md5
+      md5: 5e8eeae2afcbd3833613cf0633a39b11
+      size: 21589

@@ -9,6 +9,15 @@ stages:
       - ${top}/data/raw/neet-factors/:
           cache: false
           persist: false
+  collate:
+    cmd: papermill collate.ipynb ${top}/output/collate-neet-factors.ipynb
+    deps:
+      - collate.ipynb
+      - ${top}/data/raw/neet-factors/
+    outs:
+      - ${top}/data/processed/yff/neet-factors-sources.csv:
+          cache: false
+          persist: false
   prepare:
     cmd: papermill prepare.ipynb ${top}/output/prepare-neet-factors.ipynb
     deps:
