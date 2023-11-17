@@ -51,8 +51,8 @@ stages:
     deps:
     - path: ../../data/raw/lms.csv
       hash: md5
-      md5: cf3c1ce387b5842b52fb750ab50601fc
-      size: 11148589
+      md5: fe055bf000c2b195f7c50f42de9651c0
+      size: 11194809
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424
@@ -64,8 +64,8 @@ stages:
       size: 189655
     - path: ../../data/processed/lms.csv
       hash: md5
-      md5: 9064ed42556d22c218b241542428af1b
-      size: 17944847
+      md5: 3b11cff5eba3e1ccf4cbcf47903ab5b6
+      size: 18260347
   download@mm23:
     cmd: python download.py mm23 
       https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/consumerpriceindices/current/mm23.csv
@@ -103,5 +103,5 @@ stages:
     outs:
     - path: ../../data/raw/lms.csv
       hash: md5
-      md5: cf3c1ce387b5842b52fb750ab50601fc
-      size: 11148589
+      md5: fe055bf000c2b195f7c50f42de9651c0
+      size: 11194809
