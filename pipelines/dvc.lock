@@ -74,8 +74,8 @@ stages:
     deps:
     - path: ../data/metadata/codes/
       hash: md5
-      md5: 8d8c0fe144469f1e4b8d717de3eb550b.dir
-      size: 635761
+      md5: ba4a90e26b31ef92449a1be9598d55e0.dir
+      size: 635765
       nfiles: 5
     - path: metadata.ipynb
       hash: md5
