@@ -26,7 +26,7 @@ stages:
       - ${top}/data/raw/x10.xlsx:
           cache: false
   process-x10:
-    frozen: true
+    # frozen: true
     cmd: papermill process-x10.ipynb ${top}/output/process-x10.ipynb
     deps:
       - process-x10.ipynb
