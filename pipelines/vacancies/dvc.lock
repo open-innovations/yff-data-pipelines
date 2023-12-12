@@ -11,15 +11,15 @@ stages:
     outs:
     - path: ../../data/raw/vacancies-by-sector.csv
       hash: md5
-      md5: bae730445e6dc741529490afc6beb400
-      size: 795
+      md5: b6af0766a790567dc73a48b09e9b43ca
+      size: 886
   process:
     cmd: papermill --no-progress-bar --log-output --no-report-mode process.ipynb ../../output/vacancies-process.ipynb
     deps:
     - path: ../../data/raw/vacancies-by-sector.csv
       hash: md5
-      md5: bae730445e6dc741529490afc6beb400
-      size: 795
+      md5: b6af0766a790567dc73a48b09e9b43ca
+      size: 886
     - path: process.ipynb
       hash: md5
       md5: d725b4ad0e9fb6dd5be296c7473fffa5
@@ -27,5 +27,5 @@ stages:
     outs:
     - path: ../../data/processed/vacancies/vacancies-growth-by-sector.csv
       hash: md5
-      md5: 49a5a3290b57b5ddadcae4cbda7a5f58
-      size: 1803
+      md5: 1bc4b80ff3b49d0548b56762df5c34f5
+      size: 1951
