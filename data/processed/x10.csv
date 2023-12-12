@@ -374,7 +374,8 @@ date,sheet,age,measure,value
 2023-05-01,UK,Aged 16 and over,Employment_level,32929.0
 2023-06-01,UK,Aged 16 and over,Employment_level,32957.0
 2023-07-01,UK,Aged 16 and over,Employment_level,32972.0
-2023-08-01,UK,Aged 16 and over,Employment_level,32984.0
+2023-08-01,UK,Aged 16 and over,Employment_level,32982.0
+2023-09-01,UK,Aged 16 and over,Employment_level,33007.0
 1992-05-01,UK,Aged 16 and over,Employment_rate (%),0.0
 1992-06-01,UK,Aged 16 and over,Employment_rate (%),0.0
 1992-07-01,UK,Aged 16 and over,Employment_rate (%),0.0
@@ -751,6 +752,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16 and over,Employment_rate (%),0.0
 2023-07-01,UK,Aged 16 and over,Employment_rate (%),0.0
 2023-08-01,UK,Aged 16 and over,Employment_rate (%),0.0
+2023-09-01,UK,Aged 16 and over,Employment_rate (%),0.0
 1992-05-01,UK,Aged 16 and over,Unemployment_level,2777.0
 1992-06-01,UK,Aged 16 and over,Unemployment_level,2803.0
 1992-07-01,UK,Aged 16 and over,Unemployment_level,2816.0
@@ -1127,6 +1129,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16 and over,Unemployment_level,1440.0
 2023-07-01,UK,Aged 16 and over,Unemployment_level,1444.0
 2023-08-01,UK,Aged 16 and over,Unemployment_level,1448.0
+2023-09-01,UK,Aged 16 and over,Unemployment_level,1453.0
 1992-05-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
 1992-06-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
 1992-07-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
@@ -1503,6 +1506,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
 2023-07-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
 2023-08-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
+2023-09-01,UK,Aged 16 and over,Unemployment_rate (%),0.0
 1992-05-01,UK,Aged 16 and over,Activity_level,28382788.319427684
 1992-06-01,UK,Aged 16 and over,Activity_level,28344255.93322379
 1992-07-01,UK,Aged 16 and over,Activity_level,28341195.678697743
@@ -1876,9 +1880,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 16 and over,Activity_level,34394189.07737595
 2023-04-01,UK,Aged 16 and over,Activity_level,34422706.02293313
 2023-05-01,UK,Aged 16 and over,Activity_level,34368324.05945687
-2023-06-01,UK,Aged 16 and over,Activity_level,34396775.910082415
-2023-07-01,UK,Aged 16 and over,Activity_level,34416792.55502787
-2023-08-01,UK,Aged 16 and over,Activity_level,34431814.91880518
+2023-06-01,UK,Aged 16 and over,Activity_level,34397053.32079981
+2023-07-01,UK,Aged 16 and over,Activity_level,34416029.94165343
+2023-08-01,UK,Aged 16 and over,Activity_level,34429720.48110345
+2023-09-01,UK,Aged 16 and over,Activity_level,34459971.122338526
 1992-05-01,UK,Aged 16 and over,Activity_rate (%),0.0
 1992-06-01,UK,Aged 16 and over,Activity_rate (%),0.0
 1992-07-01,UK,Aged 16 and over,Activity_rate (%),0.0
@@ -2255,6 +2260,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16 and over,Activity_rate (%),0.0
 2023-07-01,UK,Aged 16 and over,Activity_rate (%),0.0
 2023-08-01,UK,Aged 16 and over,Activity_rate (%),0.0
+2023-09-01,UK,Aged 16 and over,Activity_rate (%),0.0
 1992-05-01,UK,Aged 16 and over,Inactivity_level,16613.0
 1992-06-01,UK,Aged 16 and over,Inactivity_level,16655.0
 1992-07-01,UK,Aged 16 and over,Inactivity_level,16659.0
@@ -2628,9 +2634,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 16 and over,Inactivity_level,19600.0
 2023-04-01,UK,Aged 16 and over,Inactivity_level,19585.0
 2023-05-01,UK,Aged 16 and over,Inactivity_level,19670.0
-2023-06-01,UK,Aged 16 and over,Inactivity_level,19701.0
+2023-06-01,UK,Aged 16 and over,Inactivity_level,19700.0
 2023-07-01,UK,Aged 16 and over,Inactivity_level,19713.0
-2023-08-01,UK,Aged 16 and over,Inactivity_level,19720.0
+2023-08-01,UK,Aged 16 and over,Inactivity_level,19723.0
+2023-09-01,UK,Aged 16 and over,Inactivity_level,19704.0
 1992-05-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
 1992-06-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
 1992-07-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
@@ -3007,6 +3014,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
 2023-07-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
 2023-08-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
+2023-09-01,UK,Aged 16 and over,Inactivity_rate (%),0.0
 1992-05-01,UK,Aged 16-64 ,Employment_level,25122.0
 1992-06-01,UK,Aged 16-64 ,Employment_level,25071.0
 1992-07-01,UK,Aged 16-64 ,Employment_level,25061.0
@@ -3381,8 +3389,9 @@ date,sheet,age,measure,value
 2023-04-01,UK,Aged 16-64 ,Employment_level,31614.0
 2023-05-01,UK,Aged 16-64 ,Employment_level,31525.0
 2023-06-01,UK,Aged 16-64 ,Employment_level,31546.0
-2023-07-01,UK,Aged 16-64 ,Employment_level,31556.0
-2023-08-01,UK,Aged 16-64 ,Employment_level,31563.0
+2023-07-01,UK,Aged 16-64 ,Employment_level,31555.0
+2023-08-01,UK,Aged 16-64 ,Employment_level,31560.0
+2023-09-01,UK,Aged 16-64 ,Employment_level,31578.0
 1992-05-01,UK,Aged 16-64 ,Employment_rate (%),69.09527377876968
 1992-06-01,UK,Aged 16-64 ,Employment_rate (%),68.95566992438664
 1992-07-01,UK,Aged 16-64 ,Employment_rate (%),68.931148810274
@@ -3756,9 +3765,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 16-64 ,Employment_rate (%),75.97214972559577
 2023-04-01,UK,Aged 16-64 ,Employment_rate (%),75.97318705203497
 2023-05-01,UK,Aged 16-64 ,Employment_rate (%),75.7297628205256
-2023-06-01,UK,Aged 16-64 ,Employment_rate (%),75.71727763737664
-2023-07-01,UK,Aged 16-64 ,Employment_rate (%),75.68355764790526
-2023-08-01,UK,Aged 16-64 ,Employment_rate (%),75.67462082608513
+2023-06-01,UK,Aged 16-64 ,Employment_rate (%),75.71699095665402
+2023-07-01,UK,Aged 16-64 ,Employment_rate (%),75.68023769647894
+2023-08-01,UK,Aged 16-64 ,Employment_rate (%),75.66760260216019
+2023-09-01,UK,Aged 16-64 ,Employment_rate (%),75.71711010281184
 1992-05-01,UK,Aged 16-64 ,Unemployment_level,2755.0
 1992-06-01,UK,Aged 16-64 ,Unemployment_level,2780.0
 1992-07-01,UK,Aged 16-64 ,Unemployment_level,2794.0
@@ -4135,6 +4145,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-64 ,Unemployment_level,1411.0
 2023-07-01,UK,Aged 16-64 ,Unemployment_level,1416.0
 2023-08-01,UK,Aged 16-64 ,Unemployment_level,1420.0
+2023-09-01,UK,Aged 16-64 ,Unemployment_level,1424.0
 1992-05-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
 1992-06-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
 1992-07-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
@@ -4511,6 +4522,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
 2023-07-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
 2023-08-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
+2023-09-01,UK,Aged 16-64 ,Unemployment_rate (%),0.0
 1992-05-01,UK,Aged 16-64 ,Activity_level,27877.0
 1992-06-01,UK,Aged 16-64 ,Activity_level,27851.0
 1992-07-01,UK,Aged 16-64 ,Activity_level,27855.0
@@ -4885,8 +4897,9 @@ date,sheet,age,measure,value
 2023-04-01,UK,Aged 16-64 ,Activity_level,32961.0
 2023-05-01,UK,Aged 16-64 ,Activity_level,32935.0
 2023-06-01,UK,Aged 16-64 ,Activity_level,32957.0
-2023-07-01,UK,Aged 16-64 ,Activity_level,32972.0
-2023-08-01,UK,Aged 16-64 ,Activity_level,32983.0
+2023-07-01,UK,Aged 16-64 ,Activity_level,32971.0
+2023-08-01,UK,Aged 16-64 ,Activity_level,32980.0
+2023-09-01,UK,Aged 16-64 ,Activity_level,33003.0
 1992-05-01,UK,Aged 16-64 ,Activity_rate (%),0.0
 1992-06-01,UK,Aged 16-64 ,Activity_rate (%),0.0
 1992-07-01,UK,Aged 16-64 ,Activity_rate (%),0.0
@@ -5263,6 +5276,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-64 ,Activity_rate (%),0.0
 2023-07-01,UK,Aged 16-64 ,Activity_rate (%),0.0
 2023-08-01,UK,Aged 16-64 ,Activity_rate (%),0.0
+2023-09-01,UK,Aged 16-64 ,Activity_rate (%),0.0
 1992-05-01,UK,Aged 16-64 ,Inactivity_level,8481002.73632233
 1992-06-01,UK,Aged 16-64 ,Inactivity_level,8506768.27929266
 1992-07-01,UK,Aged 16-64 ,Inactivity_level,8500965.717829408
@@ -5636,9 +5650,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 16-64 ,Inactivity_level,8717631.731197637
 2023-04-01,UK,Aged 16-64 ,Inactivity_level,8650663.880072046
 2023-05-01,UK,Aged 16-64 ,Inactivity_level,8692832.57788294
-2023-06-01,UK,Aged 16-64 ,Inactivity_level,8705412.417327521
-2023-07-01,UK,Aged 16-64 ,Inactivity_level,8722870.972891334
-2023-08-01,UK,Aged 16-64 ,Inactivity_level,8726252.53458932
+2023-06-01,UK,Aged 16-64 ,Inactivity_level,8705531.856698431
+2023-07-01,UK,Aged 16-64 ,Inactivity_level,8724255.236399198
+2023-08-01,UK,Aged 16-64 ,Inactivity_level,8729179.76279888
+2023-09-01,UK,Aged 16-64 ,Inactivity_level,8703044.075909046
 1992-05-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
 1992-06-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
 1992-07-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
@@ -6015,6 +6030,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
 2023-07-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
 2023-08-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
+2023-09-01,UK,Aged 16-64 ,Inactivity_rate (%),0.0
 1992-05-01,UK,Aged 16-17,Employment_level,665.0
 1992-06-01,UK,Aged 16-17,Employment_level,657.0
 1992-07-01,UK,Aged 16-17,Employment_level,655.0
@@ -6388,9 +6404,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 16-17,Employment_level,443.0
 2023-04-01,UK,Aged 16-17,Employment_level,446.0
 2023-05-01,UK,Aged 16-17,Employment_level,429.0
-2023-06-01,UK,Aged 16-17,Employment_level,425.0
+2023-06-01,UK,Aged 16-17,Employment_level,424.0
 2023-07-01,UK,Aged 16-17,Employment_level,419.0
 2023-08-01,UK,Aged 16-17,Employment_level,414.0
+2023-09-01,UK,Aged 16-17,Employment_level,410.0
 1992-05-01,UK,Aged 16-17,Employment_rate (%),0.0
 1992-06-01,UK,Aged 16-17,Employment_rate (%),0.0
 1992-07-01,UK,Aged 16-17,Employment_rate (%),0.0
@@ -6767,6 +6784,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-17,Employment_rate (%),0.0
 2023-07-01,UK,Aged 16-17,Employment_rate (%),0.0
 2023-08-01,UK,Aged 16-17,Employment_rate (%),0.0
+2023-09-01,UK,Aged 16-17,Employment_rate (%),0.0
 1992-05-01,UK,Aged 16-17,Unemployment_level,154.0
 1992-06-01,UK,Aged 16-17,Unemployment_level,161.0
 1992-07-01,UK,Aged 16-17,Unemployment_level,155.0
@@ -7143,6 +7161,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-17,Unemployment_level,94.0
 2023-07-01,UK,Aged 16-17,Unemployment_level,94.0
 2023-08-01,UK,Aged 16-17,Unemployment_level,95.0
+2023-09-01,UK,Aged 16-17,Unemployment_level,96.0
 1992-05-01,UK,Aged 16-17,Unemployment_rate (%),18.84643322644202
 1992-06-01,UK,Aged 16-17,Unemployment_rate (%),19.635095554303238
 1992-07-01,UK,Aged 16-17,Unemployment_rate (%),19.158961815477348
@@ -7516,9 +7535,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 16-17,Unemployment_rate (%),14.792869304228686
 2023-04-01,UK,Aged 16-17,Unemployment_rate (%),15.74592669801405
 2023-05-01,UK,Aged 16-17,Unemployment_rate (%),17.89734149666063
-2023-06-01,UK,Aged 16-17,Unemployment_rate (%),18.0971572922514
-2023-07-01,UK,Aged 16-17,Unemployment_rate (%),18.3504991730531
-2023-08-01,UK,Aged 16-17,Unemployment_rate (%),18.63666097974564
+2023-06-01,UK,Aged 16-17,Unemployment_rate (%),18.10099389493776
+2023-07-01,UK,Aged 16-17,Unemployment_rate (%),18.342934623561487
+2023-08-01,UK,Aged 16-17,Unemployment_rate (%),18.62497445409354
+2023-09-01,UK,Aged 16-17,Unemployment_rate (%),18.906321265424797
 1992-05-01,UK,Aged 16-17,Activity_level,819.0
 1992-06-01,UK,Aged 16-17,Activity_level,818.0
 1992-07-01,UK,Aged 16-17,Activity_level,810.0
@@ -7894,7 +7914,8 @@ date,sheet,age,measure,value
 2023-05-01,UK,Aged 16-17,Activity_level,523.0
 2023-06-01,UK,Aged 16-17,Activity_level,518.0
 2023-07-01,UK,Aged 16-17,Activity_level,513.0
-2023-08-01,UK,Aged 16-17,Activity_level,508.0
+2023-08-01,UK,Aged 16-17,Activity_level,509.0
+2023-09-01,UK,Aged 16-17,Activity_level,505.0
 1992-05-01,UK,Aged 16-17,Activity_rate (%),0.0
 1992-06-01,UK,Aged 16-17,Activity_rate (%),0.0
 1992-07-01,UK,Aged 16-17,Activity_rate (%),0.0
@@ -8271,6 +8292,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-17,Activity_rate (%),0.0
 2023-07-01,UK,Aged 16-17,Activity_rate (%),0.0
 2023-08-01,UK,Aged 16-17,Activity_rate (%),0.0
+2023-09-01,UK,Aged 16-17,Activity_rate (%),0.0
 1992-05-01,UK,Aged 16-17,Inactivity_level,554.0
 1992-06-01,UK,Aged 16-17,Inactivity_level,552.0
 1992-07-01,UK,Aged 16-17,Inactivity_level,554.0
@@ -8645,8 +8667,9 @@ date,sheet,age,measure,value
 2023-04-01,UK,Aged 16-17,Inactivity_level,942.0
 2023-05-01,UK,Aged 16-17,Inactivity_level,949.0
 2023-06-01,UK,Aged 16-17,Inactivity_level,955.0
-2023-07-01,UK,Aged 16-17,Inactivity_level,961.0
+2023-07-01,UK,Aged 16-17,Inactivity_level,960.0
 2023-08-01,UK,Aged 16-17,Inactivity_level,966.0
+2023-09-01,UK,Aged 16-17,Inactivity_level,969.0
 1992-05-01,UK,Aged 16-17,Inactivity_rate (%),0.0
 1992-06-01,UK,Aged 16-17,Inactivity_rate (%),0.0
 1992-07-01,UK,Aged 16-17,Inactivity_rate (%),0.0
@@ -9023,6 +9046,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 16-17,Inactivity_rate (%),0.0
 2023-07-01,UK,Aged 16-17,Inactivity_rate (%),0.0
 2023-08-01,UK,Aged 16-17,Inactivity_rate (%),0.0
+2023-09-01,UK,Aged 16-17,Inactivity_rate (%),0.0
 1992-05-01,UK,Aged 18-24,Employment_level,3773820.3228135183
 1992-06-01,UK,Aged 18-24,Employment_level,3732657.648883261
 1992-07-01,UK,Aged 18-24,Employment_level,3719998.31268919
@@ -9396,9 +9420,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 18-24,Employment_level,3345068.615257141
 2023-04-01,UK,Aged 18-24,Employment_level,3315145.850152465
 2023-05-01,UK,Aged 18-24,Employment_level,3295829.038443516
-2023-06-01,UK,Aged 18-24,Employment_level,3291557.1293366128
-2023-07-01,UK,Aged 18-24,Employment_level,3283416.647140614
-2023-08-01,UK,Aged 18-24,Employment_level,3279583.228630503
+2023-06-01,UK,Aged 18-24,Employment_level,3288066.9349704827
+2023-07-01,UK,Aged 18-24,Employment_level,3276536.244461861
+2023-08-01,UK,Aged 18-24,Employment_level,3268841.9021475464
+2023-09-01,UK,Aged 18-24,Employment_level,3269721.856083684
 1992-05-01,UK,Aged 18-24,Employment_rate (%),0.0
 1992-06-01,UK,Aged 18-24,Employment_rate (%),0.0
 1992-07-01,UK,Aged 18-24,Employment_rate (%),0.0
@@ -9775,6 +9800,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 18-24,Employment_rate (%),0.0
 2023-07-01,UK,Aged 18-24,Employment_rate (%),0.0
 2023-08-01,UK,Aged 18-24,Employment_rate (%),0.0
+2023-09-01,UK,Aged 18-24,Employment_rate (%),0.0
 1992-05-01,UK,Aged 18-24,Unemployment_level,703.0
 1992-06-01,UK,Aged 18-24,Unemployment_level,704.0
 1992-07-01,UK,Aged 18-24,Unemployment_level,714.0
@@ -10151,6 +10177,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 18-24,Unemployment_level,432.0
 2023-07-01,UK,Aged 18-24,Unemployment_level,433.0
 2023-08-01,UK,Aged 18-24,Unemployment_level,436.0
+2023-09-01,UK,Aged 18-24,Unemployment_level,439.0
 1992-05-01,UK,Aged 18-24,Unemployment_rate (%),0.0
 1992-06-01,UK,Aged 18-24,Unemployment_rate (%),0.0
 1992-07-01,UK,Aged 18-24,Unemployment_rate (%),0.0
@@ -10527,6 +10554,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 18-24,Unemployment_rate (%),0.0
 2023-07-01,UK,Aged 18-24,Unemployment_rate (%),0.0
 2023-08-01,UK,Aged 18-24,Unemployment_rate (%),0.0
+2023-09-01,UK,Aged 18-24,Unemployment_rate (%),0.0
 1992-05-01,UK,Aged 18-24,Activity_level,4477.0
 1992-06-01,UK,Aged 18-24,Activity_level,4437.0
 1992-07-01,UK,Aged 18-24,Activity_level,4434.0
@@ -10900,9 +10928,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 18-24,Activity_level,3733.0
 2023-04-01,UK,Aged 18-24,Activity_level,3714.0
 2023-05-01,UK,Aged 18-24,Activity_level,3726.0
-2023-06-01,UK,Aged 18-24,Activity_level,3723.0
-2023-07-01,UK,Aged 18-24,Activity_level,3717.0
-2023-08-01,UK,Aged 18-24,Activity_level,3715.0
+2023-06-01,UK,Aged 18-24,Activity_level,3720.0
+2023-07-01,UK,Aged 18-24,Activity_level,3710.0
+2023-08-01,UK,Aged 18-24,Activity_level,3705.0
+2023-09-01,UK,Aged 18-24,Activity_level,3709.0
 1992-05-01,UK,Aged 18-24,Activity_rate (%),77.6459398529073
 1992-06-01,UK,Aged 18-24,Activity_rate (%),77.17375267268
 1992-07-01,UK,Aged 18-24,Activity_rate (%),77.34450825549541
@@ -11276,9 +11305,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 18-24,Activity_rate (%),69.46822246615332
 2023-04-01,UK,Aged 18-24,Activity_rate (%),69.08772568482286
 2023-05-01,UK,Aged 18-24,Activity_rate (%),69.27863211643859
-2023-06-01,UK,Aged 18-24,Activity_rate (%),69.17531560166854
-2023-07-01,UK,Aged 18-24,Activity_rate (%),68.99500275262744
-2023-08-01,UK,Aged 18-24,Activity_rate (%),68.95559314608542
+2023-06-01,UK,Aged 18-24,Activity_rate (%),69.11046723219594
+2023-07-01,UK,Aged 18-24,Activity_rate (%),68.86727476541076
+2023-08-01,UK,Aged 18-24,Activity_rate (%),68.75624319012708
+2023-09-01,UK,Aged 18-24,Activity_rate (%),68.85313843827163
 1992-05-01,UK,Aged 18-24,Inactivity_level,1289.0
 1992-06-01,UK,Aged 18-24,Inactivity_level,1312.0
 1992-07-01,UK,Aged 18-24,Inactivity_level,1299.0
@@ -11652,9 +11682,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 18-24,Inactivity_level,1641.0
 2023-04-01,UK,Aged 18-24,Inactivity_level,1662.0
 2023-05-01,UK,Aged 18-24,Inactivity_level,1652.0
-2023-06-01,UK,Aged 18-24,Inactivity_level,1659.0
-2023-07-01,UK,Aged 18-24,Inactivity_level,1670.0
-2023-08-01,UK,Aged 18-24,Inactivity_level,1673.0
+2023-06-01,UK,Aged 18-24,Inactivity_level,1663.0
+2023-07-01,UK,Aged 18-24,Inactivity_level,1677.0
+2023-08-01,UK,Aged 18-24,Inactivity_level,1683.0
+2023-09-01,UK,Aged 18-24,Inactivity_level,1678.0
 1992-05-01,UK,Aged 18-24,Inactivity_rate (%),0.0
 1992-06-01,UK,Aged 18-24,Inactivity_rate (%),0.0
 1992-07-01,UK,Aged 18-24,Inactivity_rate (%),0.0
@@ -12031,6 +12062,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 18-24,Inactivity_rate (%),0.0
 2023-07-01,UK,Aged 18-24,Inactivity_rate (%),0.0
 2023-08-01,UK,Aged 18-24,Inactivity_rate (%),0.0
+2023-09-01,UK,Aged 18-24,Inactivity_rate (%),0.0
 1992-05-01,UK,Aged 25-34,Employment_level,6562.0
 1992-06-01,UK,Aged 25-34,Employment_level,6564.0
 1992-07-01,UK,Aged 25-34,Employment_level,6567.0
@@ -12406,7 +12438,8 @@ date,sheet,age,measure,value
 2023-05-01,UK,Aged 25-34,Employment_level,7595.0
 2023-06-01,UK,Aged 25-34,Employment_level,7604.0
 2023-07-01,UK,Aged 25-34,Employment_level,7611.0
-2023-08-01,UK,Aged 25-34,Employment_level,7615.0
+2023-08-01,UK,Aged 25-34,Employment_level,7616.0
+2023-09-01,UK,Aged 25-34,Employment_level,7622.0
 1992-05-01,UK,Aged 25-34,Employment_rate (%),0.0
 1992-06-01,UK,Aged 25-34,Employment_rate (%),0.0
 1992-07-01,UK,Aged 25-34,Employment_rate (%),0.0
@@ -12783,6 +12816,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 25-34,Employment_rate (%),0.0
 2023-07-01,UK,Aged 25-34,Employment_rate (%),0.0
 2023-08-01,UK,Aged 25-34,Employment_rate (%),0.0
+2023-09-01,UK,Aged 25-34,Employment_rate (%),0.0
 1992-05-01,UK,Aged 25-34,Unemployment_level,774481.1417618303
 1992-06-01,UK,Aged 25-34,Unemployment_level,774921.4221932207
 1992-07-01,UK,Aged 25-34,Unemployment_level,775662.2435214121
@@ -13159,6 +13193,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 25-34,Unemployment_level,305613.62542452756
 2023-07-01,UK,Aged 25-34,Unemployment_level,307060.28695433796
 2023-08-01,UK,Aged 25-34,Unemployment_level,307588.4014005405
+2023-09-01,UK,Aged 25-34,Unemployment_level,308132.89062497363
 1992-05-01,UK,Aged 25-34,Unemployment_rate (%),0.0
 1992-06-01,UK,Aged 25-34,Unemployment_rate (%),0.0
 1992-07-01,UK,Aged 25-34,Unemployment_rate (%),0.0
@@ -13535,6 +13570,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 25-34,Unemployment_rate (%),0.0
 2023-07-01,UK,Aged 25-34,Unemployment_rate (%),0.0
 2023-08-01,UK,Aged 25-34,Unemployment_rate (%),0.0
+2023-09-01,UK,Aged 25-34,Unemployment_rate (%),0.0
 1992-05-01,UK,Aged 25-34,Activity_level,7337.0
 1992-06-01,UK,Aged 25-34,Activity_level,7338.0
 1992-07-01,UK,Aged 25-34,Activity_level,7342.0
@@ -13908,9 +13944,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 25-34,Activity_level,7888.0
 2023-04-01,UK,Aged 25-34,Activity_level,7894.0
 2023-05-01,UK,Aged 25-34,Activity_level,7900.0
-2023-06-01,UK,Aged 25-34,Activity_level,7909.0
+2023-06-01,UK,Aged 25-34,Activity_level,7910.0
 2023-07-01,UK,Aged 25-34,Activity_level,7918.0
 2023-08-01,UK,Aged 25-34,Activity_level,7923.0
+2023-09-01,UK,Aged 25-34,Activity_level,7930.0
 1992-05-01,UK,Aged 25-34,Activity_rate (%),0.0
 1992-06-01,UK,Aged 25-34,Activity_rate (%),0.0
 1992-07-01,UK,Aged 25-34,Activity_rate (%),0.0
@@ -14287,6 +14324,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 25-34,Activity_rate (%),0.0
 2023-07-01,UK,Aged 25-34,Activity_rate (%),0.0
 2023-08-01,UK,Aged 25-34,Activity_rate (%),0.0
+2023-09-01,UK,Aged 25-34,Activity_rate (%),0.0
 1992-05-01,UK,Aged 25-34,Inactivity_level,1578.0
 1992-06-01,UK,Aged 25-34,Inactivity_level,1586.0
 1992-07-01,UK,Aged 25-34,Inactivity_level,1587.0
@@ -14660,9 +14698,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 25-34,Inactivity_level,1065.0
 2023-04-01,UK,Aged 25-34,Inactivity_level,1061.0
 2023-05-01,UK,Aged 25-34,Inactivity_level,1059.0
-2023-06-01,UK,Aged 25-34,Inactivity_level,1058.0
+2023-06-01,UK,Aged 25-34,Inactivity_level,1057.0
 2023-07-01,UK,Aged 25-34,Inactivity_level,1056.0
-2023-08-01,UK,Aged 25-34,Inactivity_level,1054.0
+2023-08-01,UK,Aged 25-34,Inactivity_level,1053.0
+2023-09-01,UK,Aged 25-34,Inactivity_level,1046.0
 1992-05-01,UK,Aged 25-34,Inactivity_rate (%),17.704855598600716
 1992-06-01,UK,Aged 25-34,Inactivity_rate (%),17.76997795458567
 1992-07-01,UK,Aged 25-34,Inactivity_rate (%),17.770878805542694
@@ -15036,9 +15075,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 25-34,Inactivity_rate (%),11.898220920308773
 2023-04-01,UK,Aged 25-34,Inactivity_rate (%),11.848730562076426
 2023-05-01,UK,Aged 25-34,Inactivity_rate (%),11.819729847704494
-2023-06-01,UK,Aged 25-34,Inactivity_rate (%),11.794259555212596
-2023-07-01,UK,Aged 25-34,Inactivity_rate (%),11.768433233630999
-2023-08-01,UK,Aged 25-34,Inactivity_rate (%),11.738369946082038
+2023-06-01,UK,Aged 25-34,Inactivity_rate (%),11.788514718141606
+2023-07-01,UK,Aged 25-34,Inactivity_rate (%),11.762576472806433
+2023-08-01,UK,Aged 25-34,Inactivity_rate (%),11.730123029700042
+2023-09-01,UK,Aged 25-34,Inactivity_rate (%),11.65293024340349
 1992-05-01,UK,Aged 35-49,Employment_level,9155.0
 1992-06-01,UK,Aged 35-49,Employment_level,9148.0
 1992-07-01,UK,Aged 35-49,Employment_level,9144.0
@@ -15412,9 +15452,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 35-49,Employment_level,10909.0
 2023-04-01,UK,Aged 35-49,Employment_level,10932.0
 2023-05-01,UK,Aged 35-49,Employment_level,10883.0
-2023-06-01,UK,Aged 35-49,Employment_level,10898.0
-2023-07-01,UK,Aged 35-49,Employment_level,10912.0
-2023-08-01,UK,Aged 35-49,Employment_level,10922.0
+2023-06-01,UK,Aged 35-49,Employment_level,10900.0
+2023-07-01,UK,Aged 35-49,Employment_level,10914.0
+2023-08-01,UK,Aged 35-49,Employment_level,10926.0
+2023-09-01,UK,Aged 35-49,Employment_level,10937.0
 1992-05-01,UK,Aged 35-49,Employment_rate (%),0.0
 1992-06-01,UK,Aged 35-49,Employment_rate (%),0.0
 1992-07-01,UK,Aged 35-49,Employment_rate (%),0.0
@@ -15791,6 +15832,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 35-49,Employment_rate (%),0.0
 2023-07-01,UK,Aged 35-49,Employment_rate (%),0.0
 2023-08-01,UK,Aged 35-49,Employment_rate (%),0.0
+2023-09-01,UK,Aged 35-49,Employment_rate (%),0.0
 1992-05-01,UK,Aged 35-49,Unemployment_level,691.0
 1992-06-01,UK,Aged 35-49,Unemployment_level,703.0
 1992-07-01,UK,Aged 35-49,Unemployment_level,704.0
@@ -16167,6 +16209,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 35-49,Unemployment_level,299.0
 2023-07-01,UK,Aged 35-49,Unemployment_level,300.0
 2023-08-01,UK,Aged 35-49,Unemployment_level,301.0
+2023-09-01,UK,Aged 35-49,Unemployment_level,301.0
 1992-05-01,UK,Aged 35-49,Unemployment_rate (%),0.0
 1992-06-01,UK,Aged 35-49,Unemployment_rate (%),0.0
 1992-07-01,UK,Aged 35-49,Unemployment_rate (%),0.0
@@ -16543,6 +16586,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 35-49,Unemployment_rate (%),0.0
 2023-07-01,UK,Aged 35-49,Unemployment_rate (%),0.0
 2023-08-01,UK,Aged 35-49,Unemployment_rate (%),0.0
+2023-09-01,UK,Aged 35-49,Unemployment_rate (%),0.0
 1992-05-01,UK,Aged 35-49,Activity_level,9846016.816510336
 1992-06-01,UK,Aged 35-49,Activity_level,9850766.85041318
 1992-07-01,UK,Aged 35-49,Activity_level,9847770.79422782
@@ -16916,9 +16960,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 35-49,Activity_level,11169003.12347764
 2023-04-01,UK,Aged 35-49,Activity_level,11210908.49351501
 2023-05-01,UK,Aged 35-49,Activity_level,11181641.921929972
-2023-06-01,UK,Aged 35-49,Activity_level,11196795.463746587
-2023-07-01,UK,Aged 35-49,Activity_level,11211821.172042523
-2023-08-01,UK,Aged 35-49,Activity_level,11222906.628773998
+2023-06-01,UK,Aged 35-49,Activity_level,11198489.729918944
+2023-07-01,UK,Aged 35-49,Activity_level,11214738.577242628
+2023-08-01,UK,Aged 35-49,Activity_level,11226392.38809561
+2023-09-01,UK,Aged 35-49,Activity_level,11238333.27696482
 1992-05-01,UK,Aged 35-49,Activity_rate (%),0.0
 1992-06-01,UK,Aged 35-49,Activity_rate (%),0.0
 1992-07-01,UK,Aged 35-49,Activity_rate (%),0.0
@@ -17295,6 +17340,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 35-49,Activity_rate (%),0.0
 2023-07-01,UK,Aged 35-49,Activity_rate (%),0.0
 2023-08-01,UK,Aged 35-49,Activity_rate (%),0.0
+2023-09-01,UK,Aged 35-49,Activity_rate (%),0.0
 1992-05-01,UK,Aged 35-49,Inactivity_level,1642.0
 1992-06-01,UK,Aged 35-49,Inactivity_level,1649.0
 1992-07-01,UK,Aged 35-49,Inactivity_level,1661.0
@@ -17668,9 +17714,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 35-49,Inactivity_level,1552.0
 2023-04-01,UK,Aged 35-49,Inactivity_level,1512.0
 2023-05-01,UK,Aged 35-49,Inactivity_level,1546.0
-2023-06-01,UK,Aged 35-49,Inactivity_level,1542.0
-2023-07-01,UK,Aged 35-49,Inactivity_level,1536.0
-2023-08-01,UK,Aged 35-49,Inactivity_level,1530.0
+2023-06-01,UK,Aged 35-49,Inactivity_level,1540.0
+2023-07-01,UK,Aged 35-49,Inactivity_level,1533.0
+2023-08-01,UK,Aged 35-49,Inactivity_level,1527.0
+2023-09-01,UK,Aged 35-49,Inactivity_level,1514.0
 1992-05-01,UK,Aged 35-49,Inactivity_rate (%),0.0
 1992-06-01,UK,Aged 35-49,Inactivity_rate (%),0.0
 1992-07-01,UK,Aged 35-49,Inactivity_rate (%),0.0
@@ -18047,6 +18094,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 35-49,Inactivity_rate (%),0.0
 2023-07-01,UK,Aged 35-49,Inactivity_rate (%),0.0
 2023-08-01,UK,Aged 35-49,Inactivity_rate (%),0.0
+2023-09-01,UK,Aged 35-49,Inactivity_rate (%),0.0
 1992-05-01,UK,Aged 50-64,Employment_level,4966.0
 1992-06-01,UK,Aged 50-64,Employment_level,4970.0
 1992-07-01,UK,Aged 50-64,Employment_level,4975.0
@@ -18420,9 +18468,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 50-64,Employment_level,9309.0
 2023-04-01,UK,Aged 50-64,Employment_level,9334.0
 2023-05-01,UK,Aged 50-64,Employment_level,9322.0
-2023-06-01,UK,Aged 50-64,Employment_level,9328.0
-2023-07-01,UK,Aged 50-64,Employment_level,9332.0
-2023-08-01,UK,Aged 50-64,Employment_level,9333.0
+2023-06-01,UK,Aged 50-64,Employment_level,9330.0
+2023-07-01,UK,Aged 50-64,Employment_level,9334.0
+2023-08-01,UK,Aged 50-64,Employment_level,9336.0
+2023-09-01,UK,Aged 50-64,Employment_level,9340.0
 1992-05-01,UK,Aged 50-64,Employment_rate (%),56.33417562562355
 1992-06-01,UK,Aged 50-64,Employment_rate (%),56.375813741232854
 1992-07-01,UK,Aged 50-64,Employment_rate (%),56.40164280575187
@@ -18796,9 +18845,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 50-64,Employment_rate (%),71.14967272395992
 2023-04-01,UK,Aged 50-64,Employment_rate (%),71.32334898814318
 2023-05-01,UK,Aged 50-64,Employment_rate (%),71.2081664914676
-2023-06-01,UK,Aged 50-64,Employment_rate (%),71.19653493450684
-2023-07-01,UK,Aged 50-64,Employment_rate (%),71.16676177463393
-2023-08-01,UK,Aged 50-64,Employment_rate (%),71.147856408987
+2023-06-01,UK,Aged 50-64,Employment_rate (%),71.20623736419807
+2023-07-01,UK,Aged 50-64,Employment_rate (%),71.18080551020437
+2023-08-01,UK,Aged 50-64,Employment_rate (%),71.17277808632913
+2023-09-01,UK,Aged 50-64,Employment_rate (%),71.20863553719158
 1992-05-01,UK,Aged 50-64,Unemployment_level,432.0
 1992-06-01,UK,Aged 50-64,Unemployment_level,438.0
 1992-07-01,UK,Aged 50-64,Unemployment_level,445.0
@@ -19175,6 +19225,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 50-64,Unemployment_level,282.0
 2023-07-01,UK,Aged 50-64,Unemployment_level,281.0
 2023-08-01,UK,Aged 50-64,Unemployment_level,281.0
+2023-09-01,UK,Aged 50-64,Unemployment_level,280.0
 1992-05-01,UK,Aged 50-64,Unemployment_rate (%),0.0
 1992-06-01,UK,Aged 50-64,Unemployment_rate (%),0.0
 1992-07-01,UK,Aged 50-64,Unemployment_rate (%),0.0
@@ -19551,6 +19602,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 50-64,Unemployment_rate (%),0.0
 2023-07-01,UK,Aged 50-64,Unemployment_rate (%),0.0
 2023-08-01,UK,Aged 50-64,Unemployment_rate (%),0.0
+2023-09-01,UK,Aged 50-64,Unemployment_rate (%),0.0
 1992-05-01,UK,Aged 50-64,Activity_level,5398.0
 1992-06-01,UK,Aged 50-64,Activity_level,5408.0
 1992-07-01,UK,Aged 50-64,Activity_level,5420.0
@@ -19924,9 +19976,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 50-64,Activity_level,9575.0
 2023-04-01,UK,Aged 50-64,Activity_level,9613.0
 2023-05-01,UK,Aged 50-64,Activity_level,9605.0
-2023-06-01,UK,Aged 50-64,Activity_level,9610.0
-2023-07-01,UK,Aged 50-64,Activity_level,9613.0
-2023-08-01,UK,Aged 50-64,Activity_level,9613.0
+2023-06-01,UK,Aged 50-64,Activity_level,9611.0
+2023-07-01,UK,Aged 50-64,Activity_level,9615.0
+2023-08-01,UK,Aged 50-64,Activity_level,9616.0
+2023-09-01,UK,Aged 50-64,Activity_level,9620.0
 1992-05-01,UK,Aged 50-64,Activity_rate (%),0.0
 1992-06-01,UK,Aged 50-64,Activity_rate (%),0.0
 1992-07-01,UK,Aged 50-64,Activity_rate (%),0.0
@@ -20303,6 +20356,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 50-64,Activity_rate (%),0.0
 2023-07-01,UK,Aged 50-64,Activity_rate (%),0.0
 2023-08-01,UK,Aged 50-64,Activity_rate (%),0.0
+2023-09-01,UK,Aged 50-64,Activity_rate (%),0.0
 1992-05-01,UK,Aged 50-64,Inactivity_level,3416969.9980795477
 1992-06-01,UK,Aged 50-64,Inactivity_level,3407949.814079129
 1992-07-01,UK,Aged 50-64,Inactivity_level,3400501.874379008
@@ -20676,9 +20730,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Aged 50-64,Inactivity_level,3509019.27236331
 2023-04-01,UK,Aged 50-64,Inactivity_level,3473390.858480776
 2023-05-01,UK,Aged 50-64,Inactivity_level,3486462.5254758764
-2023-06-01,UK,Aged 50-64,Inactivity_level,3492266.896460263
-2023-07-01,UK,Aged 50-64,Inactivity_level,3499591.9404900987
-2023-08-01,UK,Aged 50-64,Inactivity_level,3503991.787750747
+2023-06-01,UK,Aged 50-64,Inactivity_level,3490995.6533654146
+2023-07-01,UK,Aged 50-64,Inactivity_level,3497750.416340964
+2023-08-01,UK,Aged 50-64,Inactivity_level,3500722.7609919906
+2023-09-01,UK,Aged 50-64,Inactivity_level,3496602.443760367
 1992-05-01,UK,Aged 50-64,Inactivity_rate (%),0.0
 1992-06-01,UK,Aged 50-64,Inactivity_rate (%),0.0
 1992-07-01,UK,Aged 50-64,Inactivity_rate (%),0.0
@@ -21055,6 +21110,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Aged 50-64,Inactivity_rate (%),0.0
 2023-07-01,UK,Aged 50-64,Inactivity_rate (%),0.0
 2023-08-01,UK,Aged 50-64,Inactivity_rate (%),0.0
+2023-09-01,UK,Aged 50-64,Inactivity_rate (%),0.0
 1992-05-01,UK,Age 65+,Employment_level,484.0
 1992-06-01,UK,Age 65+,Employment_level,471.0
 1992-07-01,UK,Age 65+,Employment_level,464.0
@@ -21429,8 +21485,9 @@ date,sheet,age,measure,value
 2023-04-01,UK,Age 65+,Employment_level,1439.0
 2023-05-01,UK,Age 65+,Employment_level,1405.0
 2023-06-01,UK,Age 65+,Employment_level,1411.0
-2023-07-01,UK,Age 65+,Employment_level,1416.0
-2023-08-01,UK,Age 65+,Employment_level,1421.0
+2023-07-01,UK,Age 65+,Employment_level,1417.0
+2023-08-01,UK,Age 65+,Employment_level,1422.0
+2023-09-01,UK,Age 65+,Employment_level,1429.0
 1992-05-01,UK,Age 65+,Employment_rate (%),0.0
 1992-06-01,UK,Age 65+,Employment_rate (%),0.0
 1992-07-01,UK,Age 65+,Employment_rate (%),0.0
@@ -21807,6 +21864,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Age 65+,Employment_rate (%),0.0
 2023-07-01,UK,Age 65+,Employment_rate (%),0.0
 2023-08-01,UK,Age 65+,Employment_rate (%),0.0
+2023-09-01,UK,Age 65+,Employment_rate (%),0.0
 1992-05-01,UK,Age 65+,Unemployment_level,22.0
 1992-06-01,UK,Age 65+,Unemployment_level,22.0
 1992-07-01,UK,Age 65+,Unemployment_level,22.0
@@ -22183,6 +22241,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Age 65+,Unemployment_level,28.0
 2023-07-01,UK,Age 65+,Unemployment_level,28.0
 2023-08-01,UK,Age 65+,Unemployment_level,28.0
+2023-09-01,UK,Age 65+,Unemployment_level,28.0
 1992-05-01,UK,Age 65+,Unemployment_rate (%),4.348305132393324
 1992-06-01,UK,Age 65+,Unemployment_rate (%),4.513649979153773
 1992-07-01,UK,Age 65+,Unemployment_rate (%),4.456234242406583
@@ -22556,9 +22615,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Age 65+,Unemployment_rate (%),1.7524188488234247
 2023-04-01,UK,Age 65+,Unemployment_rate (%),1.562569111507461
 2023-05-01,UK,Age 65+,Unemployment_rate (%),1.9934935889588927
-2023-06-01,UK,Age 65+,Unemployment_rate (%),1.977756159382056
-2023-07-01,UK,Age 65+,Unemployment_rate (%),1.9680118260396486
-2023-08-01,UK,Age 65+,Unemployment_rate (%),1.9570788163725459
+2023-06-01,UK,Age 65+,Unemployment_rate (%),1.9772110071211553
+2023-07-01,UK,Age 65+,Unemployment_rate (%),1.967165167019978
+2023-08-01,UK,Age 65+,Unemployment_rate (%),1.955954744764627
+2023-09-01,UK,Age 65+,Unemployment_rate (%),1.9411086585459858
 1992-05-01,UK,Age 65+,Activity_level,506.0
 1992-06-01,UK,Age 65+,Activity_level,493.0
 1992-07-01,UK,Age 65+,Activity_level,486.0
@@ -22932,9 +22992,10 @@ date,sheet,age,measure,value
 2023-03-01,UK,Age 65+,Activity_level,1510.0
 2023-04-01,UK,Age 65+,Activity_level,1462.0
 2023-05-01,UK,Age 65+,Activity_level,1433.0
-2023-06-01,UK,Age 65+,Activity_level,1439.0
-2023-07-01,UK,Age 65+,Activity_level,1444.0
-2023-08-01,UK,Age 65+,Activity_level,1449.0
+2023-06-01,UK,Age 65+,Activity_level,1440.0
+2023-07-01,UK,Age 65+,Activity_level,1445.0
+2023-08-01,UK,Age 65+,Activity_level,1450.0
+2023-09-01,UK,Age 65+,Activity_level,1457.0
 1992-05-01,UK,Age 65+,Activity_rate (%),0.0
 1992-06-01,UK,Age 65+,Activity_rate (%),0.0
 1992-07-01,UK,Age 65+,Activity_rate (%),0.0
@@ -23311,6 +23372,7 @@ date,sheet,age,measure,value
 2023-06-01,UK,Age 65+,Activity_rate (%),0.0
 2023-07-01,UK,Age 65+,Activity_rate (%),0.0
 2023-08-01,UK,Age 65+,Activity_rate (%),0.0
+2023-09-01,UK,Age 65+,Activity_rate (%),0.0
 1992-05-01,UK,Age 65+,Inactivity_level,8132.0
 1992-06-01,UK,Age 65+,Inactivity_level,8148.0
 1992-07-01,UK,Age 65+,Inactivity_level,8158.0
@@ -23685,8 +23747,9 @@ date,sheet,age,measure,value
 2023-04-01,UK,Age 65+,Inactivity_level,10934.0
 2023-05-01,UK,Age 65+,Inactivity_level,10977.0
 2023-06-01,UK,Age 65+,Inactivity_level,10995.0
-2023-07-01,UK,Age 65+,Inactivity_level,10990.0
-2023-08-01,UK,Age 65+,Inactivity_level,10994.0
+2023-07-01,UK,Age 65+,Inactivity_level,10989.0
+2023-08-01,UK,Age 65+,Inactivity_level,10993.0
+2023-09-01,UK,Age 65+,Inactivity_level,11001.0
 1992-05-01,UK,Age 65+,Inactivity_rate (%),0.0
 1992-06-01,UK,Age 65+,Inactivity_rate (%),0.0
 1992-07-01,UK,Age 65+,Inactivity_rate (%),0.0
@@ -24063,3 +24126,4 @@ date,sheet,age,measure,value
 2023-06-01,UK,Age 65+,Inactivity_rate (%),0.0
 2023-07-01,UK,Age 65+,Inactivity_rate (%),0.0
 2023-08-01,UK,Age 65+,Inactivity_rate (%),0.0
+2023-09-01,UK,Age 65+,Inactivity_rate (%),0.0
