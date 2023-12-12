@@ -308,3 +308,621 @@ E09000030,Tower Hamlets,London Cosmopolitan,Children in poverty,21.8
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Children in poverty,16.8
 E09000032,Wandsworth,London Cosmopolitan,Children in poverty,9.4
 E09000033,Westminster,,Children in poverty,11.6
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Children looked after,155
+E06000002,Middlesbrough,Manufacturing Traits,Children looked after,150
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Children looked after,125
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Children looked after,133
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Children looked after,123
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Children looked after,134
+E06000007,Warrington,Town Living,Children looked after,77
+E06000008,Blackburn with Darwen,Manufacturing Traits,Children looked after,97
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Children looked after,218
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Children looked after,150
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Children looked after,53
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Children looked after,186
+E06000013,North Lincolnshire,Country Living,Children looked after,56
+E06000014,York,Larger Towns and Cities,Children looked after,80
+E06000015,Derby,Manufacturing Traits,Children looked after,107
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Children looked after,71
+E06000017,Rutland,English and Welsh Countryside,Children looked after,31
+E06000018,Nottingham,University Towns and Cities,Children looked after,109
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Children looked after,112
+E06000020,Telford and Wrekin,Manufacturing Traits,Children looked after,102
+E06000021,Stoke-on-Trent,Manufacturing Traits,Children looked after,175
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Children looked after,55
+E06000023,"Bristol, City of",Larger Towns and Cities,Children looked after,75
+E06000024,North Somerset,English and Welsh Countryside,Children looked after,46
+E06000025,South Gloucestershire,Town Living,Children looked after,43
+E06000026,Plymouth,Larger Towns and Cities,Children looked after,95
+E06000027,Torbay,Remoter Coastal Living,Children looked after,118
+E06000030,Swindon,Suburban Traits,Children looked after,65
+E06000031,Peterborough,Suburban Traits,Children looked after,66
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Children looked after,65
+E06000033,Southend-on-Sea,Manufacturing Traits,Children looked after,86
+E06000034,Thurrock,Suburban Traits,Children looked after,67
+E06000035,Medway,Suburban Traits,Children looked after,69
+E06000036,Bracknell Forest,Rural-Urban Fringe,Children looked after,49
+E06000037,West Berkshire,Thriving Rural,Children looked after,48
+E06000038,Reading,University Towns and Cities,Children looked after,64
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Children looked after,53
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Children looked after,38
+E06000041,Wokingham,Thriving Rural,Children looked after,33
+E06000042,Milton Keynes,Suburban Traits,Children looked after,52
+E06000043,Brighton and Hove,University Towns and Cities,Children looked after,82
+E06000044,Portsmouth,Larger Towns and Cities,Children looked after,93
+E06000045,Southampton,Larger Towns and Cities,Children looked after,114
+E06000046,Isle of Wight,Remoter Coastal Living,Children looked after,116
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Children looked after,99
+E06000049,Cheshire East,Country Living,Children looked after,67
+E06000050,Cheshire West and Chester,Town Living,Children looked after,77
+E06000051,Shropshire,English and Welsh Countryside,Children looked after,104
+E06000052,Cornwall,,Children looked after,48
+E06000053,Isles of Scilly,,Children looked after,0
+E06000054,Wiltshire,Country Living,Children looked after,41
+E06000055,Bedford,Suburban Traits,Children looked after,65
+E06000056,Central Bedfordshire,Thriving Rural,Children looked after,51
+E06000057,Northumberland,English and Welsh Countryside,Children looked after,73
+E06000058,"Bournemouth, Christchurch and Poole",,Children looked after,66
+E06000059,Dorset,,Children looked after,68
+E06000060,Buckinghamshire,,Children looked after,41
+E06000061,North Northamptonshire,,Children looked after,66
+E06000062,West Northamptonshire,,Children looked after,72
+E07000008,Cambridge,University Towns and Cities,Children looked after,
+E07000009,East Cambridgeshire,Country Living,Children looked after,
+E07000010,Fenland,Country Living,Children looked after,
+E07000011,Huntingdonshire,Country Living,Children looked after,
+E07000012,South Cambridgeshire,Thriving Rural,Children looked after,
+E07000026,Allerdale,English and Welsh Countryside,Children looked after,
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000030,Eden,English and Welsh Countryside,Children looked after,
+E07000031,South Lakeland,English and Welsh Countryside,Children looked after,
+E07000032,Amber Valley,Country Living,Children looked after,
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000035,Derbyshire Dales,English and Welsh Countryside,Children looked after,
+E07000036,Erewash,Country Living,Children looked after,
+E07000037,High Peak,Town Living,Children looked after,
+E07000038,North East Derbyshire,Town Living,Children looked after,
+E07000039,South Derbyshire,Country Living,Children looked after,
+E07000040,East Devon,Remoter Coastal Living,Children looked after,
+E07000041,Exeter,Larger Towns and Cities,Children looked after,
+E07000042,Mid Devon,English and Welsh Countryside,Children looked after,
+E07000043,North Devon,Remoter Coastal Living,Children looked after,
+E07000044,South Hams,English and Welsh Countryside,Children looked after,
+E07000045,Teignbridge,Remoter Coastal Living,Children looked after,
+E07000046,Torridge,English and Welsh Countryside,Children looked after,
+E07000047,West Devon,English and Welsh Countryside,Children looked after,
+E07000061,Eastbourne,Larger Towns and Cities,Children looked after,
+E07000062,Hastings,Manufacturing Traits,Children looked after,
+E07000063,Lewes,Remoter Coastal Living,Children looked after,
+E07000064,Rother,Remoter Coastal Living,Children looked after,
+E07000065,Wealden,English and Welsh Countryside,Children looked after,
+E07000066,Basildon,Suburban Traits,Children looked after,
+E07000067,Braintree,Country Living,Children looked after,
+E07000068,Brentwood,Thriving Rural,Children looked after,
+E07000069,Castle Point,Town Living,Children looked after,
+E07000070,Chelmsford,Thriving Rural,Children looked after,
+E07000071,Colchester,Thriving Rural,Children looked after,
+E07000072,Epping Forest,Thriving Rural,Children looked after,
+E07000073,Harlow,Suburban Traits,Children looked after,
+E07000074,Maldon,Country Living,Children looked after,
+E07000075,Rochford,Town Living,Children looked after,
+E07000076,Tendring,Remoter Coastal Living,Children looked after,
+E07000077,Uttlesford,Thriving Rural,Children looked after,
+E07000078,Cheltenham,Larger Towns and Cities,Children looked after,
+E07000079,Cotswold,English and Welsh Countryside,Children looked after,
+E07000080,Forest of Dean,Country Living,Children looked after,
+E07000081,Gloucester,Manufacturing Traits,Children looked after,
+E07000082,Stroud,Country Living,Children looked after,
+E07000083,Tewkesbury,Country Living,Children looked after,
+E07000084,Basingstoke and Deane,Thriving Rural,Children looked after,
+E07000085,East Hampshire,Thriving Rural,Children looked after,
+E07000086,Eastleigh,Town Living,Children looked after,
+E07000087,Fareham,Town Living,Children looked after,
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000089,Hart,Thriving Rural,Children looked after,
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000091,New Forest,Remoter Coastal Living,Children looked after,
+E07000092,Rushmoor,Suburban Traits,Children looked after,
+E07000093,Test Valley,Thriving Rural,Children looked after,
+E07000094,Winchester,Thriving Rural,Children looked after,
+E07000095,Broxbourne,Suburban Traits,Children looked after,
+E07000096,Dacorum,Thriving Rural,Children looked after,
+E07000098,Hertsmere,Rural-Urban Fringe,Children looked after,
+E07000099,North Hertfordshire,Thriving Rural,Children looked after,
+E07000102,Three Rivers,Rural-Urban Fringe,Children looked after,
+E07000103,Watford,Suburban Traits,Children looked after,
+E07000105,Ashford,Country Living,Children looked after,
+E07000106,Canterbury,Larger Towns and Cities,Children looked after,
+E07000107,Dartford,Suburban Traits,Children looked after,
+E07000108,Dover,Remoter Coastal Living,Children looked after,
+E07000109,Gravesham,Suburban Traits,Children looked after,
+E07000110,Maidstone,Thriving Rural,Children looked after,
+E07000111,Sevenoaks,Thriving Rural,Children looked after,
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Children looked after,
+E07000113,Swale,Country Living,Children looked after,
+E07000114,Thanet,Remoter Coastal Living,Children looked after,
+E07000115,Tonbridge and Malling,Thriving Rural,Children looked after,
+E07000116,Tunbridge Wells,Thriving Rural,Children looked after,
+E07000117,Burnley,Manufacturing Traits,Children looked after,
+E07000118,Chorley,Town Living,Children looked after,
+E07000119,Fylde,English and Welsh Countryside,Children looked after,
+E07000120,Hyndburn,Manufacturing Traits,Children looked after,
+E07000121,Lancaster,Larger Towns and Cities,Children looked after,
+E07000122,Pendle,Manufacturing Traits,Children looked after,
+E07000123,Preston,Larger Towns and Cities,Children looked after,
+E07000124,Ribble Valley,English and Welsh Countryside,Children looked after,
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000126,South Ribble,Town Living,Children looked after,
+E07000127,West Lancashire,Town Living,Children looked after,
+E07000128,Wyre,English and Welsh Countryside,Children looked after,
+E07000129,Blaby,Town Living,Children looked after,
+E07000130,Charnwood,Town Living,Children looked after,
+E07000131,Harborough,Country Living,Children looked after,
+E07000132,Hinckley and Bosworth,Country Living,Children looked after,
+E07000133,Melton,Country Living,Children looked after,
+E07000134,North West Leicestershire,Country Living,Children looked after,
+E07000135,Oadby and Wigston,Town Living,Children looked after,
+E07000136,Boston,Manufacturing Traits,Children looked after,
+E07000137,East Lindsey,Remoter Coastal Living,Children looked after,
+E07000138,Lincoln,Larger Towns and Cities,Children looked after,
+E07000139,North Kesteven,English and Welsh Countryside,Children looked after,
+E07000140,South Holland,Country Living,Children looked after,
+E07000141,South Kesteven,Country Living,Children looked after,
+E07000142,West Lindsey,English and Welsh Countryside,Children looked after,
+E07000143,Breckland,English and Welsh Countryside,Children looked after,
+E07000144,Broadland,Country Living,Children looked after,
+E07000145,Great Yarmouth,Remoter Coastal Living,Children looked after,
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Children looked after,
+E07000147,North Norfolk,Remoter Coastal Living,Children looked after,
+E07000148,Norwich,Larger Towns and Cities,Children looked after,
+E07000149,South Norfolk,Country Living,Children looked after,
+E07000163,Craven,English and Welsh Countryside,Children looked after,
+E07000164,Hambleton,English and Welsh Countryside,Children looked after,
+E07000165,Harrogate,English and Welsh Countryside,Children looked after,
+E07000166,Richmondshire,English and Welsh Countryside,Children looked after,
+E07000167,Ryedale,English and Welsh Countryside,Children looked after,
+E07000168,Scarborough,Remoter Coastal Living,Children looked after,
+E07000169,Selby,Country Living,Children looked after,
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000171,Bassetlaw,Country Living,Children looked after,
+E07000172,Broxtowe,Town Living,Children looked after,
+E07000173,Gedling,Town Living,Children looked after,
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000175,Newark and Sherwood,Country Living,Children looked after,
+E07000176,Rushcliffe,Thriving Rural,Children looked after,
+E07000177,Cherwell,Thriving Rural,Children looked after,
+E07000178,Oxford,University Towns and Cities,Children looked after,
+E07000179,South Oxfordshire,Thriving Rural,Children looked after,
+E07000180,Vale of White Horse,Thriving Rural,Children looked after,
+E07000181,West Oxfordshire,Thriving Rural,Children looked after,
+E07000187,Mendip,English and Welsh Countryside,Children looked after,
+E07000188,Sedgemoor,English and Welsh Countryside,Children looked after,
+E07000189,South Somerset,English and Welsh Countryside,Children looked after,
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000193,East Staffordshire,Country Living,Children looked after,
+E07000194,Lichfield,Town Living,Children looked after,
+E07000195,Newcastle-under-Lyme,Town Living,Children looked after,
+E07000196,South Staffordshire,Town Living,Children looked after,
+E07000197,Stafford,Town Living,Children looked after,
+E07000198,Staffordshire Moorlands,Country Living,Children looked after,
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Children looked after,
+E07000200,Babergh,Country Living,Children looked after,
+E07000202,Ipswich,Manufacturing Traits,Children looked after,
+E07000203,Mid Suffolk,Country Living,Children looked after,
+E07000207,Elmbridge,Rural-Urban Fringe,Children looked after,
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Children looked after,
+E07000209,Guildford,Rural-Urban Fringe,Children looked after,
+E07000210,Mole Valley,Thriving Rural,Children looked after,
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Children looked after,
+E07000212,Runnymede,Rural-Urban Fringe,Children looked after,
+E07000213,Spelthorne,Rural-Urban Fringe,Children looked after,
+E07000214,Surrey Heath,Rural-Urban Fringe,Children looked after,
+E07000215,Tandridge,Thriving Rural,Children looked after,
+E07000216,Waverley,Thriving Rural,Children looked after,
+E07000217,Woking,Rural-Urban Fringe,Children looked after,
+E07000218,North Warwickshire,Country Living,Children looked after,
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Children looked after,
+E07000220,Rugby,Suburban Traits,Children looked after,
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Children looked after,
+E07000222,Warwick,Larger Towns and Cities,Children looked after,
+E07000223,Adur,Town Living,Children looked after,
+E07000224,Arun,Remoter Coastal Living,Children looked after,
+E07000225,Chichester,English and Welsh Countryside,Children looked after,
+E07000226,Crawley,Suburban Traits,Children looked after,
+E07000227,Horsham,Thriving Rural,Children looked after,
+E07000228,Mid Sussex,Thriving Rural,Children looked after,
+E07000229,Worthing,Manufacturing Traits,Children looked after,
+E07000234,Bromsgrove,Town Living,Children looked after,
+E07000235,Malvern Hills,English and Welsh Countryside,Children looked after,
+E07000236,Redditch,Manufacturing Traits,Children looked after,
+E07000237,Worcester,Manufacturing Traits,Children looked after,
+E07000238,Wychavon,Country Living,Children looked after,
+E07000239,Wyre Forest,Country Living,Children looked after,
+E07000240,St Albans,Rural-Urban Fringe,Children looked after,
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Children looked after,
+E07000242,East Hertfordshire,Thriving Rural,Children looked after,
+E07000243,Stevenage,Suburban Traits,Children looked after,
+E07000244,East Suffolk,,Children looked after,
+E07000245,West Suffolk,,Children looked after,
+E07000246,Somerset West and Taunton,,Children looked after,
+E08000001,Bolton,Manufacturing Traits,Children looked after,77
+E08000002,Bury,Manufacturing Traits,Children looked after,82
+E08000003,Manchester,University Towns and Cities,Children looked after,109
+E08000004,Oldham,Manufacturing Traits,Children looked after,87
+E08000005,Rochdale,Manufacturing Traits,Children looked after,101
+E08000006,Salford,Manufacturing Traits,Children looked after,95
+E08000007,Stockport,Town Living,Children looked after,72
+E08000008,Tameside,Manufacturing Traits,Children looked after,130
+E08000009,Trafford,Suburban Traits,Children looked after,66
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Children looked after,90
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Children looked after,88
+E08000012,Liverpool,Larger Towns and Cities,Children looked after,172
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Children looked after,128
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Children looked after,113
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Children looked after,120
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Children looked after,70
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Children looked after,92
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Children looked after,99
+E08000019,Sheffield,Larger Towns and Cities,Children looked after,59
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Children looked after,116
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Children looked after,84
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Children looked after,96
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Children looked after,102
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Children looked after,73
+E08000026,Coventry,Larger Towns and Cities,Children looked after,94
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Children looked after,85
+E08000028,Sandwell,Manufacturing Traits,Children looked after,98
+E08000029,Solihull,Town Living,Children looked after,113
+E08000030,Walsall,Manufacturing Traits,Children looked after,97
+E08000031,Wolverhampton,Manufacturing Traits,Children looked after,84
+E08000032,Bradford,Manufacturing Traits,Children looked after,103
+E08000033,Calderdale,Manufacturing Traits,Children looked after,75
+E08000034,Kirklees,Manufacturing Traits,Children looked after,62
+E08000035,Leeds,Larger Towns and Cities,Children looked after,80
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Children looked after,88
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Children looked after,125
+E09000001,City of London,,Children looked after,153
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Children looked after,65
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Children looked after,37
+E09000004,Bexley,Suburban Traits,Children looked after,41
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Children looked after,47
+E09000006,Bromley,Rural-Urban Fringe,Children looked after,45
+E09000007,Camden,London Cosmopolitan,Children looked after,52
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Children looked after,61
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Children looked after,41
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Children looked after,47
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Children looked after,70
+E09000012,Hackney,London Cosmopolitan,Children looked after,73
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Children looked after,68
+E09000014,Haringey,London Cosmopolitan,Children looked after,71
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Children looked after,32
+E09000016,Havering,Suburban Traits,Children looked after,45
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Children looked after,57
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Children looked after,45
+E09000019,Islington,London Cosmopolitan,Children looked after,105
+E09000020,Kensington and Chelsea,London Cosmopolitan,Children looked after,44
+E09000021,Kingston upon Thames,University Towns and Cities,Children looked after,36
+E09000022,Lambeth,London Cosmopolitan,Children looked after,73
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Children looked after,72
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Children looked after,26
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Children looked after,51
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Children looked after,37
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Children looked after,29
+E09000028,Southwark,London Cosmopolitan,Children looked after,79
+E09000029,Sutton,Suburban Traits,Children looked after,48
+E09000030,Tower Hamlets,London Cosmopolitan,Children looked after,52
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Children looked after,53
+E09000032,Wandsworth,London Cosmopolitan,Children looked after,41
+E09000033,Westminster,,Children looked after,56
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.124733116080458
+E06000002,Middlesbrough,Manufacturing Traits,Disability (age < 25),8.978449117781105
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.040149598504016
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.688021888213767
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.393366209552118
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.958279933466038
+E06000007,Warrington,Town Living,Disability (age < 25),7.963935574229692
+E06000008,Blackburn with Darwen,Manufacturing Traits,Disability (age < 25),7.473262537319074
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Disability (age < 25),11.141773025181097
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Disability (age < 25),8.928399576556636
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Disability (age < 25),7.369970802197258
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.427886262418635
+E06000013,North Lincolnshire,Country Living,Disability (age < 25),8.403417138810198
+E06000014,York,Larger Towns and Cities,Disability (age < 25),9.895749223950762
+E06000015,Derby,Manufacturing Traits,Disability (age < 25),9.005891016200295
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Disability (age < 25),6.8401217909884116
+E06000017,Rutland,English and Welsh Countryside,Disability (age < 25),7.435525287484649
+E06000018,Nottingham,University Towns and Cities,Disability (age < 25),9.324917181484466
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Disability (age < 25),8.20854008589039
+E06000020,Telford and Wrekin,Manufacturing Traits,Disability (age < 25),9.62379230312517
+E06000021,Stoke-on-Trent,Manufacturing Traits,Disability (age < 25),8.838494330612194
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Disability (age < 25),9.345810863205385
+E06000023,"Bristol, City of",Larger Towns and Cities,Disability (age < 25),9.445298115923972
+E06000024,North Somerset,English and Welsh Countryside,Disability (age < 25),8.514805648047577
+E06000025,South Gloucestershire,Town Living,Disability (age < 25),8.725160501375726
+E06000026,Plymouth,Larger Towns and Cities,Disability (age < 25),12.077549192634935
+E06000027,Torbay,Remoter Coastal Living,Disability (age < 25),12.199241436529572
+E06000030,Swindon,Suburban Traits,Disability (age < 25),8.519398491802312
+E06000031,Peterborough,Suburban Traits,Disability (age < 25),7.910199956688083
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Disability (age < 25),6.299073665637406
+E06000033,Southend-on-Sea,Manufacturing Traits,Disability (age < 25),8.827140933217144
+E06000034,Thurrock,Suburban Traits,Disability (age < 25),6.997364424973382
+E06000035,Medway,Suburban Traits,Disability (age < 25),9.698273300930492
+E06000036,Bracknell Forest,Rural-Urban Fringe,Disability (age < 25),8.16478116786653
+E06000037,West Berkshire,Thriving Rural,Disability (age < 25),8.170310701956272
+E06000038,Reading,University Towns and Cities,Disability (age < 25),8.34627476231961
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.189065896860187
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Disability (age < 25),6.322637234120313
+E06000041,Wokingham,Thriving Rural,Disability (age < 25),6.831958077509678
+E06000042,Milton Keynes,Suburban Traits,Disability (age < 25),7.559344700768973
+E06000043,Brighton and Hove,University Towns and Cities,Disability (age < 25),11.84879934879935
+E06000044,Portsmouth,Larger Towns and Cities,Disability (age < 25),9.375097348992243
+E06000045,Southampton,Larger Towns and Cities,Disability (age < 25),10.343570582338467
+E06000046,Isle of Wight,Remoter Coastal Living,Disability (age < 25),12.20989220038047
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.923032822129855
+E06000049,Cheshire East,Country Living,Disability (age < 25),8.063291763198107
+E06000050,Cheshire West and Chester,Town Living,Disability (age < 25),9.571076347559938
+E06000051,Shropshire,English and Welsh Countryside,Disability (age < 25),7.91185158314764
+E06000052,Cornwall,,Disability (age < 25),10.075348778308557
+E06000053,Isles of Scilly,,Disability (age < 25),6.928406466512701
+E06000054,Wiltshire,Country Living,Disability (age < 25),9.079175145017766
+E06000055,Bedford,Suburban Traits,Disability (age < 25),7.573089761930964
+E06000056,Central Bedfordshire,Thriving Rural,Disability (age < 25),8.17780587741802
+E06000057,Northumberland,English and Welsh Countryside,Disability (age < 25),10.064110006062716
+E06000058,"Bournemouth, Christchurch and Poole",,Disability (age < 25),9.198309810572306
+E06000059,Dorset,,Disability (age < 25),10.129117383723669
+E06000060,Buckinghamshire,,Disability (age < 25),7.166209221831954
+E06000061,North Northamptonshire,,Disability (age < 25),8.496980694001385
+E06000062,West Northamptonshire,,Disability (age < 25),7.602025036219498
+E07000008,Cambridge,University Towns and Cities,Disability (age < 25),8.386220657927556
+E07000009,East Cambridgeshire,Country Living,Disability (age < 25),7.849711976614221
+E07000010,Fenland,Country Living,Disability (age < 25),9.66576332429991
+E07000011,Huntingdonshire,Country Living,Disability (age < 25),8.298068462730967
+E07000012,South Cambridgeshire,Thriving Rural,Disability (age < 25),7.172606317116549
+E07000026,Allerdale,English and Welsh Countryside,Disability (age < 25),8.584401256046847
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.761653425190287
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Disability (age < 25),7.869899301778885
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.471484025082114
+E07000030,Eden,English and Welsh Countryside,Disability (age < 25),6.388305604910354
+E07000031,South Lakeland,English and Welsh Countryside,Disability (age < 25),7.643631066193207
+E07000032,Amber Valley,Country Living,Disability (age < 25),9.231831304129534
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.436726207352802
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.655368926214758
+E07000035,Derbyshire Dales,English and Welsh Countryside,Disability (age < 25),8.27547026890544
+E07000036,Erewash,Country Living,Disability (age < 25),9.531392945481652
+E07000037,High Peak,Town Living,Disability (age < 25),8.495273109243698
+E07000038,North East Derbyshire,Town Living,Disability (age < 25),9.233039524588202
+E07000039,South Derbyshire,Country Living,Disability (age < 25),8.138306932379493
+E07000040,East Devon,Remoter Coastal Living,Disability (age < 25),9.328897888342494
+E07000041,Exeter,Larger Towns and Cities,Disability (age < 25),10.775546490952829
+E07000042,Mid Devon,English and Welsh Countryside,Disability (age < 25),9.782001117942984
+E07000043,North Devon,Remoter Coastal Living,Disability (age < 25),9.982299427818713
+E07000044,South Hams,English and Welsh Countryside,Disability (age < 25),9.583209583209582
+E07000045,Teignbridge,Remoter Coastal Living,Disability (age < 25),10.207879877606384
+E07000046,Torridge,English and Welsh Countryside,Disability (age < 25),10.515226968013792
+E07000047,West Devon,English and Welsh Countryside,Disability (age < 25),10.261412407335154
+E07000061,Eastbourne,Larger Towns and Cities,Disability (age < 25),10.888087196806877
+E07000062,Hastings,Manufacturing Traits,Disability (age < 25),11.48579183287412
+E07000063,Lewes,Remoter Coastal Living,Disability (age < 25),10.976597295327558
+E07000064,Rother,Remoter Coastal Living,Disability (age < 25),10.703079035104924
+E07000065,Wealden,English and Welsh Countryside,Disability (age < 25),8.568204549534531
+E07000066,Basildon,Suburban Traits,Disability (age < 25),9.02395411008622
+E07000067,Braintree,Country Living,Disability (age < 25),9.419828987350717
+E07000068,Brentwood,Thriving Rural,Disability (age < 25),6.853462776950065
+E07000069,Castle Point,Town Living,Disability (age < 25),7.911974996788971
+E07000070,Chelmsford,Thriving Rural,Disability (age < 25),7.573527929526075
+E07000071,Colchester,Thriving Rural,Disability (age < 25),9.691244486508687
+E07000072,Epping Forest,Thriving Rural,Disability (age < 25),6.288869826292087
+E07000073,Harlow,Suburban Traits,Disability (age < 25),8.169440242057489
+E07000074,Maldon,Country Living,Disability (age < 25),9.03719780551034
+E07000075,Rochford,Town Living,Disability (age < 25),7.4852149351222526
+E07000076,Tendring,Remoter Coastal Living,Disability (age < 25),12.242260801168605
+E07000077,Uttlesford,Thriving Rural,Disability (age < 25),6.381384342338789
+E07000078,Cheltenham,Larger Towns and Cities,Disability (age < 25),7.997198433669733
+E07000079,Cotswold,English and Welsh Countryside,Disability (age < 25),6.6552028628526285
+E07000080,Forest of Dean,Country Living,Disability (age < 25),8.04357132664225
+E07000081,Gloucester,Manufacturing Traits,Disability (age < 25),7.9295042474958795
+E07000082,Stroud,Country Living,Disability (age < 25),7.6923076923076925
+E07000083,Tewkesbury,Country Living,Disability (age < 25),7.474031917857285
+E07000084,Basingstoke and Deane,Thriving Rural,Disability (age < 25),8.450046685340803
+E07000085,East Hampshire,Thriving Rural,Disability (age < 25),7.623332299100218
+E07000086,Eastleigh,Town Living,Disability (age < 25),8.394160583941606
+E07000087,Fareham,Town Living,Disability (age < 25),7.770427319864116
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.683044010334044
+E07000089,Hart,Thriving Rural,Disability (age < 25),6.834704948887331
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.681330638893208
+E07000091,New Forest,Remoter Coastal Living,Disability (age < 25),8.911063122098941
+E07000092,Rushmoor,Suburban Traits,Disability (age < 25),8.039698689800435
+E07000093,Test Valley,Thriving Rural,Disability (age < 25),8.195471078258828
+E07000094,Winchester,Thriving Rural,Disability (age < 25),8.486278119785972
+E07000095,Broxbourne,Suburban Traits,Disability (age < 25),7.150230541600716
+E07000096,Dacorum,Thriving Rural,Disability (age < 25),8.228320626230175
+E07000098,Hertsmere,Rural-Urban Fringe,Disability (age < 25),6.7719021310181535
+E07000099,North Hertfordshire,Thriving Rural,Disability (age < 25),8.986694523861887
+E07000102,Three Rivers,Rural-Urban Fringe,Disability (age < 25),6.472277446432516
+E07000103,Watford,Suburban Traits,Disability (age < 25),6.0571761205614125
+E07000105,Ashford,Country Living,Disability (age < 25),9.30934081787897
+E07000106,Canterbury,Larger Towns and Cities,Disability (age < 25),11.808578164671744
+E07000107,Dartford,Suburban Traits,Disability (age < 25),8.123264700222668
+E07000108,Dover,Remoter Coastal Living,Disability (age < 25),11.166503856907063
+E07000109,Gravesham,Suburban Traits,Disability (age < 25),9.150206706476803
+E07000110,Maidstone,Thriving Rural,Disability (age < 25),8.48850727091024
+E07000111,Sevenoaks,Thriving Rural,Disability (age < 25),8.434094640991193
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Disability (age < 25),11.785293250810494
+E07000113,Swale,Country Living,Disability (age < 25),11.53028328417587
+E07000114,Thanet,Remoter Coastal Living,Disability (age < 25),12.666666666666668
+E07000115,Tonbridge and Malling,Thriving Rural,Disability (age < 25),8.765984485451801
+E07000116,Tunbridge Wells,Thriving Rural,Disability (age < 25),7.67350775497415
+E07000117,Burnley,Manufacturing Traits,Disability (age < 25),8.875451765360022
+E07000118,Chorley,Town Living,Disability (age < 25),7.955751358651959
+E07000119,Fylde,English and Welsh Countryside,Disability (age < 25),8.421052631578947
+E07000120,Hyndburn,Manufacturing Traits,Disability (age < 25),8.761401824291887
+E07000121,Lancaster,Larger Towns and Cities,Disability (age < 25),10.221561185762642
+E07000122,Pendle,Manufacturing Traits,Disability (age < 25),7.317073170731707
+E07000123,Preston,Larger Towns and Cities,Disability (age < 25),8.005400814477667
+E07000124,Ribble Valley,English and Welsh Countryside,Disability (age < 25),6.258766949435575
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.051287249138456
+E07000126,South Ribble,Town Living,Disability (age < 25),8.307016339420569
+E07000127,West Lancashire,Town Living,Disability (age < 25),9.495558477375493
+E07000128,Wyre,English and Welsh Countryside,Disability (age < 25),8.621149232702487
+E07000129,Blaby,Town Living,Disability (age < 25),7.527225000886808
+E07000130,Charnwood,Town Living,Disability (age < 25),8.427879961277831
+E07000131,Harborough,Country Living,Disability (age < 25),7.0707860774344935
+E07000132,Hinckley and Bosworth,Country Living,Disability (age < 25),8.751378169790518
+E07000133,Melton,Country Living,Disability (age < 25),8.327544956394227
+E07000134,North West Leicestershire,Country Living,Disability (age < 25),8.94880402853546
+E07000135,Oadby and Wigston,Town Living,Disability (age < 25),7.949603479150678
+E07000136,Boston,Manufacturing Traits,Disability (age < 25),7.570151094665434
+E07000137,East Lindsey,Remoter Coastal Living,Disability (age < 25),11.495535714285714
+E07000138,Lincoln,Larger Towns and Cities,Disability (age < 25),12.781885111516688
+E07000139,North Kesteven,English and Welsh Countryside,Disability (age < 25),9.112055016181229
+E07000140,South Holland,Country Living,Disability (age < 25),8.699614731347612
+E07000141,South Kesteven,Country Living,Disability (age < 25),8.980320069204152
+E07000142,West Lindsey,English and Welsh Countryside,Disability (age < 25),10.266723116003387
+E07000143,Breckland,English and Welsh Countryside,Disability (age < 25),9.348329847962471
+E07000144,Broadland,Country Living,Disability (age < 25),8.863707900535097
+E07000145,Great Yarmouth,Remoter Coastal Living,Disability (age < 25),11.731800766283525
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Disability (age < 25),9.694925970809843
+E07000147,North Norfolk,Remoter Coastal Living,Disability (age < 25),10.258253078434192
+E07000148,Norwich,Larger Towns and Cities,Disability (age < 25),12.548876134726635
+E07000149,South Norfolk,Country Living,Disability (age < 25),8.523016097147698
+E07000163,Craven,English and Welsh Countryside,Disability (age < 25),7.642466822794692
+E07000164,Hambleton,English and Welsh Countryside,Disability (age < 25),7.966019417475728
+E07000165,Harrogate,English and Welsh Countryside,Disability (age < 25),7.543949044585988
+E07000166,Richmondshire,English and Welsh Countryside,Disability (age < 25),8.369742139981152
+E07000167,Ryedale,English and Welsh Countryside,Disability (age < 25),7.245197004233149
+E07000168,Scarborough,Remoter Coastal Living,Disability (age < 25),9.50168751240818
+E07000169,Selby,Country Living,Disability (age < 25),7.228464419475655
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.508726327515781
+E07000171,Bassetlaw,Country Living,Disability (age < 25),8.26788472281555
+E07000172,Broxtowe,Town Living,Disability (age < 25),8.931408197126418
+E07000173,Gedling,Town Living,Disability (age < 25),9.008743491502113
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.920860186329183
+E07000175,Newark and Sherwood,Country Living,Disability (age < 25),9.479382263970706
+E07000176,Rushcliffe,Thriving Rural,Disability (age < 25),7.405900941772786
+E07000177,Cherwell,Thriving Rural,Disability (age < 25),7.794741498604842
+E07000178,Oxford,University Towns and Cities,Disability (age < 25),8.66191607284244
+E07000179,South Oxfordshire,Thriving Rural,Disability (age < 25),7.514803425754149
+E07000180,Vale of White Horse,Thriving Rural,Disability (age < 25),8.081714814210326
+E07000181,West Oxfordshire,Thriving Rural,Disability (age < 25),8.092426710097719
+E07000187,Mendip,English and Welsh Countryside,Disability (age < 25),8.406219630709428
+E07000188,Sedgemoor,English and Welsh Countryside,Disability (age < 25),8.963879206638083
+E07000189,South Somerset,English and Welsh Countryside,Disability (age < 25),9.023941068139964
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.025124889803116
+E07000193,East Staffordshire,Country Living,Disability (age < 25),7.309140705237932
+E07000194,Lichfield,Town Living,Disability (age < 25),8.084801928001205
+E07000195,Newcastle-under-Lyme,Town Living,Disability (age < 25),8.785458551363261
+E07000196,South Staffordshire,Town Living,Disability (age < 25),7.371054657428791
+E07000197,Stafford,Town Living,Disability (age < 25),8.01248395753121
+E07000198,Staffordshire Moorlands,Country Living,Disability (age < 25),7.4191140963167825
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.296819156540385
+E07000200,Babergh,Country Living,Disability (age < 25),8.141934326215683
+E07000202,Ipswich,Manufacturing Traits,Disability (age < 25),9.24868030949454
+E07000203,Mid Suffolk,Country Living,Disability (age < 25),8.616524400064423
+E07000207,Elmbridge,Rural-Urban Fringe,Disability (age < 25),6.2942253451432535
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Disability (age < 25),6.513671458431087
+E07000209,Guildford,Rural-Urban Fringe,Disability (age < 25),8.430174811283274
+E07000210,Mole Valley,Thriving Rural,Disability (age < 25),7.552911254428195
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Disability (age < 25),7.204156967858738
+E07000212,Runnymede,Rural-Urban Fringe,Disability (age < 25),9.449817662914223
+E07000213,Spelthorne,Rural-Urban Fringe,Disability (age < 25),7.830119085256613
+E07000214,Surrey Heath,Rural-Urban Fringe,Disability (age < 25),7.118546766719974
+E07000215,Tandridge,Thriving Rural,Disability (age < 25),7.512227749676017
+E07000216,Waverley,Thriving Rural,Disability (age < 25),7.848676354952384
+E07000217,Woking,Rural-Urban Fringe,Disability (age < 25),7.670188578306808
+E07000218,North Warwickshire,Country Living,Disability (age < 25),8.269871489766778
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Disability (age < 25),9.425293391792906
+E07000220,Rugby,Suburban Traits,Disability (age < 25),7.970442416395616
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Disability (age < 25),7.993202533601113
+E07000222,Warwick,Larger Towns and Cities,Disability (age < 25),8.14261097492901
+E07000223,Adur,Town Living,Disability (age < 25),9.35286639627096
+E07000224,Arun,Remoter Coastal Living,Disability (age < 25),9.078128661060633
+E07000225,Chichester,English and Welsh Countryside,Disability (age < 25),8.179688295813385
+E07000226,Crawley,Suburban Traits,Disability (age < 25),7.868987255036316
+E07000227,Horsham,Thriving Rural,Disability (age < 25),7.368677042801557
+E07000228,Mid Sussex,Thriving Rural,Disability (age < 25),7.182736187979416
+E07000229,Worthing,Manufacturing Traits,Disability (age < 25),9.309034618632142
+E07000234,Bromsgrove,Town Living,Disability (age < 25),7.285302593659942
+E07000235,Malvern Hills,English and Welsh Countryside,Disability (age < 25),8.512510310695628
+E07000236,Redditch,Manufacturing Traits,Disability (age < 25),9.59935574793638
+E07000237,Worcester,Manufacturing Traits,Disability (age < 25),9.468572970056648
+E07000238,Wychavon,Country Living,Disability (age < 25),8.42114993529303
+E07000239,Wyre Forest,Country Living,Disability (age < 25),9.371927478664412
+E07000240,St Albans,Rural-Urban Fringe,Disability (age < 25),6.8397403894158755
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Disability (age < 25),8.11769674785302
+E07000242,East Hertfordshire,Thriving Rural,Disability (age < 25),6.769119070667958
+E07000243,Stevenage,Suburban Traits,Disability (age < 25),10.631689244817006
+E07000244,East Suffolk,,Disability (age < 25),10.200833135774037
+E07000245,West Suffolk,,Disability (age < 25),7.914061516512107
+E07000246,Somerset West and Taunton,,Disability (age < 25),8.662875626043405
+E08000001,Bolton,Manufacturing Traits,Disability (age < 25),7.476397311045741
+E08000002,Bury,Manufacturing Traits,Disability (age < 25),8.556093454009682
+E08000003,Manchester,University Towns and Cities,Disability (age < 25),8.79901822345686
+E08000004,Oldham,Manufacturing Traits,Disability (age < 25),8.132872344324582
+E08000005,Rochdale,Manufacturing Traits,Disability (age < 25),8.590666032083764
+E08000006,Salford,Manufacturing Traits,Disability (age < 25),8.997969495207064
+E08000007,Stockport,Town Living,Disability (age < 25),8.720771314265836
+E08000008,Tameside,Manufacturing Traits,Disability (age < 25),8.999215012515366
+E08000009,Trafford,Suburban Traits,Disability (age < 25),7.046806309800879
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Disability (age < 25),8.967289822279827
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.774983454665783
+E08000012,Liverpool,Larger Towns and Cities,Disability (age < 25),10.540932642487046
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.286630018053836
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.250940324482121
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Disability (age < 25),12.194924281016997
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.705657892767894
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Disability (age < 25),8.431420774627266
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.12830507802693
+E08000019,Sheffield,Larger Towns and Cities,Disability (age < 25),10.450620341471275
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Disability (age < 25),9.21218487394958
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.478992208548751
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Disability (age < 25),10.405777340100498
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Disability (age < 25),11.071108333559764
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Disability (age < 25),8.16196139656527
+E08000026,Coventry,Larger Towns and Cities,Disability (age < 25),8.18287005892958
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Disability (age < 25),8.579733495906638
+E08000028,Sandwell,Manufacturing Traits,Disability (age < 25),6.845230218175723
+E08000029,Solihull,Town Living,Disability (age < 25),9.500852203554906
+E08000030,Walsall,Manufacturing Traits,Disability (age < 25),8.006194347657763
+E08000031,Wolverhampton,Manufacturing Traits,Disability (age < 25),7.4121616665444146
+E08000032,Bradford,Manufacturing Traits,Disability (age < 25),7.454816440950644
+E08000033,Calderdale,Manufacturing Traits,Disability (age < 25),7.847955396634412
+E08000034,Kirklees,Manufacturing Traits,Disability (age < 25),7.285769648705537
+E08000035,Leeds,Larger Towns and Cities,Disability (age < 25),7.95462208206898
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Disability (age < 25),8.916890520228844
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Disability (age < 25),9.36266866855306
+E09000001,City of London,,Disability (age < 25),6.234866828087167
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.965583640041924
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.590140916549659
+E09000004,Bexley,Suburban Traits,Disability (age < 25),7.492177618001465
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.036186432500242
+E09000006,Bromley,Rural-Urban Fringe,Disability (age < 25),7.1478687002795676
+E09000007,Camden,London Cosmopolitan,Disability (age < 25),7.67319994555601
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Disability (age < 25),6.929795856722129
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.243589042593909
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.583714243585963
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Disability (age < 25),7.500085266999397
+E09000012,Hackney,London Cosmopolitan,Disability (age < 25),6.794518450467003
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Disability (age < 25),6.329710928134887
+E09000014,Haringey,London Cosmopolitan,Disability (age < 25),6.0170010925467
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Disability (age < 25),4.939799417330549
+E09000016,Havering,Suburban Traits,Disability (age < 25),6.661091096242923
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Disability (age < 25),6.460685949372403
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Disability (age < 25),6.1374823196605375
+E09000019,Islington,London Cosmopolitan,Disability (age < 25),8.668763286891439
+E09000020,Kensington and Chelsea,London Cosmopolitan,Disability (age < 25),5.708353556598177
+E09000021,Kingston upon Thames,University Towns and Cities,Disability (age < 25),7.550120858808475
+E09000022,Lambeth,London Cosmopolitan,Disability (age < 25),7.146947791634038
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Disability (age < 25),7.602054119007402
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Disability (age < 25),6.48289034931529
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.265317401170629
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Disability (age < 25),4.598138871800881
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Disability (age < 25),6.474464579901153
+E09000028,Southwark,London Cosmopolitan,Disability (age < 25),7.71161252269652
+E09000029,Sutton,Suburban Traits,Disability (age < 25),7.783485418926679
+E09000030,Tower Hamlets,London Cosmopolitan,Disability (age < 25),6.975956316822607
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.819617064158549
+E09000032,Wandsworth,London Cosmopolitan,Disability (age < 25),6.4683669319700225
+E09000033,Westminster,,Disability (age < 25),6.480721903199344
