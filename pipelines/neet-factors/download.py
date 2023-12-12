@@ -54,8 +54,8 @@ def main():
 
     # Economic inactivity (NEET)
     # https://www.ons.gov.uk/datasets/create/filter-outputs/6c4e9576-045d-4e31-a87a-a84aab44a0fe#get-data
-    download_url_to_file(
-        url='https://www.ons.gov.uk/datasets/create/filter-outputs/6c4e9576-045d-4e31-a87a-a84aab44a0fe?f=get-data&format=csv',
+    download_url_to_file(    
+        url='https://www.ons.gov.uk/datasets/create/filter-outputs/10dec042-ca27-448a-9e63-2e0ab12c1d6f?f=get-data&format=csv',
         local_file='economic_inactivity_status.csv'
     )
 
