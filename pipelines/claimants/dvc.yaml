@@ -2,7 +2,7 @@ vars:
   - TOP: ../..
 stages:
     process-claimants:
-        frozen: true
+        # frozen: true
         cmd: papermill claimants.ipynb ${TOP}/output/claimants.ipynb
         deps:
           - claimants.ipynb
