@@ -2162,3 +2162,621 @@ E09000030,Tower Hamlets,London Cosmopolitan,Fertility rates (age < 20),3.2
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),6.6
 E09000032,Wandsworth,London Cosmopolitan,Fertility rates (age < 20),3.9
 E09000033,Westminster,,Fertility rates (age < 20),1.7
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",IMD Health,0.869
+E06000002,Middlesbrough,Manufacturing Traits,IMD Health,1.194
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",IMD Health,0.79
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",IMD Health,0.684
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",IMD Health,0.532
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",IMD Health,0.93
+E06000007,Warrington,Town Living,IMD Health,0.278
+E06000008,Blackburn with Darwen,Manufacturing Traits,IMD Health,1.049
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",IMD Health,1.643
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,IMD Health,0.853
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,IMD Health,-0.39
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",IMD Health,0.38
+E06000013,North Lincolnshire,Country Living,IMD Health,0.233
+E06000014,York,Larger Towns and Cities,IMD Health,-0.316
+E06000015,Derby,Manufacturing Traits,IMD Health,0.526
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,IMD Health,0.594
+E06000017,Rutland,English and Welsh Countryside,IMD Health,-1.048
+E06000018,Nottingham,University Towns and Cities,IMD Health,0.861
+E06000019,"Herefordshire, County of",English and Welsh Countryside,IMD Health,-0.312
+E06000020,Telford and Wrekin,Manufacturing Traits,IMD Health,0.446
+E06000021,Stoke-on-Trent,Manufacturing Traits,IMD Health,1.037
+E06000022,Bath and North East Somerset,Larger Towns and Cities,IMD Health,-0.668
+E06000023,"Bristol, City of",Larger Towns and Cities,IMD Health,0.322
+E06000024,North Somerset,English and Welsh Countryside,IMD Health,-0.263
+E06000025,South Gloucestershire,Town Living,IMD Health,-0.813
+E06000026,Plymouth,Larger Towns and Cities,IMD Health,0.666
+E06000027,Torbay,Remoter Coastal Living,IMD Health,0.504
+E06000030,Swindon,Suburban Traits,IMD Health,0.007
+E06000031,Peterborough,Suburban Traits,IMD Health,0.413
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,IMD Health,0.294
+E06000033,Southend-on-Sea,Manufacturing Traits,IMD Health,0.062
+E06000034,Thurrock,Suburban Traits,IMD Health,-0.234
+E06000035,Medway,Suburban Traits,IMD Health,0.075
+E06000036,Bracknell Forest,Rural-Urban Fringe,IMD Health,-0.907
+E06000037,West Berkshire,Thriving Rural,IMD Health,-0.888
+E06000038,Reading,University Towns and Cities,IMD Health,-0.034
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,IMD Health,0.147
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,IMD Health,-1.033
+E06000041,Wokingham,Thriving Rural,IMD Health,-1.545
+E06000042,Milton Keynes,Suburban Traits,IMD Health,-0.158
+E06000043,Brighton and Hove,University Towns and Cities,IMD Health,0.097
+E06000044,Portsmouth,Larger Towns and Cities,IMD Health,0.27
+E06000045,Southampton,Larger Towns and Cities,IMD Health,0.541
+E06000046,Isle of Wight,Remoter Coastal Living,IMD Health,0.084
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",IMD Health,0.71
+E06000049,Cheshire East,Country Living,IMD Health,-0.186
+E06000050,Cheshire West and Chester,Town Living,IMD Health,0.089
+E06000051,Shropshire,English and Welsh Countryside,IMD Health,-0.348
+E06000052,Cornwall,,IMD Health,0.054
+E06000053,Isles of Scilly,,IMD Health,-2.625
+E06000054,Wiltshire,Country Living,IMD Health,-0.587
+E06000055,Bedford,Suburban Traits,IMD Health,-0.119
+E06000056,Central Bedfordshire,Thriving Rural,IMD Health,-0.712
+E06000057,Northumberland,English and Welsh Countryside,IMD Health,0.189
+E06000058,"Bournemouth, Christchurch and Poole",,IMD Health,-0.039
+E06000059,Dorset,,IMD Health,-0.346
+E06000060,Buckinghamshire,,IMD Health,
+E06000061,North Northamptonshire,,IMD Health,
+E06000062,West Northamptonshire,,IMD Health,
+E07000008,Cambridge,University Towns and Cities,IMD Health,-0.505
+E07000009,East Cambridgeshire,Country Living,IMD Health,-0.957
+E07000010,Fenland,Country Living,IMD Health,0.501
+E07000011,Huntingdonshire,Country Living,IMD Health,-0.608
+E07000012,South Cambridgeshire,Thriving Rural,IMD Health,-1.147
+E07000026,Allerdale,English and Welsh Countryside,IMD Health,0.189
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",IMD Health,1.251
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",IMD Health,0.335
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",IMD Health,0.737
+E07000030,Eden,English and Welsh Countryside,IMD Health,-0.544
+E07000031,South Lakeland,English and Welsh Countryside,IMD Health,-0.485
+E07000032,Amber Valley,Country Living,IMD Health,0.114
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",IMD Health,0.634
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",IMD Health,0.904
+E07000035,Derbyshire Dales,English and Welsh Countryside,IMD Health,-0.568
+E07000036,Erewash,Country Living,IMD Health,0.007
+E07000037,High Peak,Town Living,IMD Health,0.008
+E07000038,North East Derbyshire,Town Living,IMD Health,0.143
+E07000039,South Derbyshire,Country Living,IMD Health,-0.176
+E07000040,East Devon,Remoter Coastal Living,IMD Health,-0.672
+E07000041,Exeter,Larger Towns and Cities,IMD Health,-0.09
+E07000042,Mid Devon,English and Welsh Countryside,IMD Health,-0.757
+E07000043,North Devon,Remoter Coastal Living,IMD Health,0.099
+E07000044,South Hams,English and Welsh Countryside,IMD Health,-0.598
+E07000045,Teignbridge,Remoter Coastal Living,IMD Health,-0.268
+E07000046,Torridge,English and Welsh Countryside,IMD Health,0.116
+E07000047,West Devon,English and Welsh Countryside,IMD Health,-0.186
+E07000061,Eastbourne,Larger Towns and Cities,IMD Health,0.038
+E07000062,Hastings,Manufacturing Traits,IMD Health,0.633
+E07000063,Lewes,Remoter Coastal Living,IMD Health,-0.404
+E07000064,Rother,Remoter Coastal Living,IMD Health,-0.082
+E07000065,Wealden,English and Welsh Countryside,IMD Health,-0.97
+E07000066,Basildon,Suburban Traits,IMD Health,-0.092
+E07000067,Braintree,Country Living,IMD Health,-0.382
+E07000068,Brentwood,Thriving Rural,IMD Health,-1.059
+E07000069,Castle Point,Town Living,IMD Health,-0.311
+E07000070,Chelmsford,Thriving Rural,IMD Health,-0.85
+E07000071,Colchester,Thriving Rural,IMD Health,-0.13
+E07000072,Epping Forest,Thriving Rural,IMD Health,-0.778
+E07000073,Harlow,Suburban Traits,IMD Health,0.203
+E07000074,Maldon,Country Living,IMD Health,-0.555
+E07000075,Rochford,Town Living,IMD Health,-0.953
+E07000076,Tendring,Remoter Coastal Living,IMD Health,0.693
+E07000077,Uttlesford,Thriving Rural,IMD Health,-1.308
+E07000078,Cheltenham,Larger Towns and Cities,IMD Health,-0.167
+E07000079,Cotswold,English and Welsh Countryside,IMD Health,-0.891
+E07000080,Forest of Dean,Country Living,IMD Health,-0.432
+E07000081,Gloucester,Manufacturing Traits,IMD Health,0.378
+E07000082,Stroud,Country Living,IMD Health,-0.591
+E07000083,Tewkesbury,Country Living,IMD Health,-0.592
+E07000084,Basingstoke and Deane,Thriving Rural,IMD Health,-0.52
+E07000085,East Hampshire,Thriving Rural,IMD Health,-0.909
+E07000086,Eastleigh,Town Living,IMD Health,-0.786
+E07000087,Fareham,Town Living,IMD Health,-0.838
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",IMD Health,0.062
+E07000089,Hart,Thriving Rural,IMD Health,-1.529
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",IMD Health,0.056
+E07000091,New Forest,Remoter Coastal Living,IMD Health,-0.628
+E07000092,Rushmoor,Suburban Traits,IMD Health,-0.126
+E07000093,Test Valley,Thriving Rural,IMD Health,-0.736
+E07000094,Winchester,Thriving Rural,IMD Health,-1.061
+E07000095,Broxbourne,Suburban Traits,IMD Health,-0.693
+E07000096,Dacorum,Thriving Rural,IMD Health,-0.743
+E07000098,Hertsmere,Rural-Urban Fringe,IMD Health,-0.668
+E07000099,North Hertfordshire,Thriving Rural,IMD Health,-0.712
+E07000102,Three Rivers,Rural-Urban Fringe,IMD Health,-1.106
+E07000103,Watford,Suburban Traits,IMD Health,-0.406
+E07000105,Ashford,Country Living,IMD Health,-0.473
+E07000106,Canterbury,Larger Towns and Cities,IMD Health,-0.177
+E07000107,Dartford,Suburban Traits,IMD Health,-0.247
+E07000108,Dover,Remoter Coastal Living,IMD Health,-0.033
+E07000109,Gravesham,Suburban Traits,IMD Health,-0.152
+E07000110,Maidstone,Thriving Rural,IMD Health,-0.49
+E07000111,Sevenoaks,Thriving Rural,IMD Health,-1.037
+E07000112,Folkestone and Hythe,Remoter Coastal Living,IMD Health,0.128
+E07000113,Swale,Country Living,IMD Health,0.23
+E07000114,Thanet,Remoter Coastal Living,IMD Health,0.379
+E07000115,Tonbridge and Malling,Thriving Rural,IMD Health,-0.734
+E07000116,Tunbridge Wells,Thriving Rural,IMD Health,-0.877
+E07000117,Burnley,Manufacturing Traits,IMD Health,1.087
+E07000118,Chorley,Town Living,IMD Health,0.179
+E07000119,Fylde,English and Welsh Countryside,IMD Health,0.208
+E07000120,Hyndburn,Manufacturing Traits,IMD Health,1.068
+E07000121,Lancaster,Larger Towns and Cities,IMD Health,0.512
+E07000122,Pendle,Manufacturing Traits,IMD Health,0.653
+E07000123,Preston,Larger Towns and Cities,IMD Health,0.758
+E07000124,Ribble Valley,English and Welsh Countryside,IMD Health,-0.454
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",IMD Health,0.344
+E07000126,South Ribble,Town Living,IMD Health,0.093
+E07000127,West Lancashire,Town Living,IMD Health,0.008
+E07000128,Wyre,English and Welsh Countryside,IMD Health,0.427
+E07000129,Blaby,Town Living,IMD Health,-0.497
+E07000130,Charnwood,Town Living,IMD Health,-0.451
+E07000131,Harborough,Country Living,IMD Health,-1.084
+E07000132,Hinckley and Bosworth,Country Living,IMD Health,-0.442
+E07000133,Melton,Country Living,IMD Health,-0.574
+E07000134,North West Leicestershire,Country Living,IMD Health,-0.169
+E07000135,Oadby and Wigston,Town Living,IMD Health,-0.189
+E07000136,Boston,Manufacturing Traits,IMD Health,0.083
+E07000137,East Lindsey,Remoter Coastal Living,IMD Health,0.571
+E07000138,Lincoln,Larger Towns and Cities,IMD Health,0.653
+E07000139,North Kesteven,English and Welsh Countryside,IMD Health,-0.602
+E07000140,South Holland,Country Living,IMD Health,-0.214
+E07000141,South Kesteven,Country Living,IMD Health,-0.525
+E07000142,West Lindsey,English and Welsh Countryside,IMD Health,-0.049
+E07000143,Breckland,English and Welsh Countryside,IMD Health,-0.038
+E07000144,Broadland,Country Living,IMD Health,-0.533
+E07000145,Great Yarmouth,Remoter Coastal Living,IMD Health,0.587
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,IMD Health,0.426
+E07000147,North Norfolk,Remoter Coastal Living,IMD Health,-0.021
+E07000148,Norwich,Larger Towns and Cities,IMD Health,0.689
+E07000149,South Norfolk,Country Living,IMD Health,-0.625
+E07000163,Craven,English and Welsh Countryside,IMD Health,-0.532
+E07000164,Hambleton,English and Welsh Countryside,IMD Health,-0.789
+E07000165,Harrogate,English and Welsh Countryside,IMD Health,-0.611
+E07000166,Richmondshire,English and Welsh Countryside,IMD Health,-0.667
+E07000167,Ryedale,English and Welsh Countryside,IMD Health,-0.551
+E07000168,Scarborough,Remoter Coastal Living,IMD Health,0.499
+E07000169,Selby,Country Living,IMD Health,-0.523
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",IMD Health,0.542
+E07000171,Bassetlaw,Country Living,IMD Health,0.419
+E07000172,Broxtowe,Town Living,IMD Health,-0.286
+E07000173,Gedling,Town Living,IMD Health,-0.256
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",IMD Health,0.74
+E07000175,Newark and Sherwood,Country Living,IMD Health,-0.07
+E07000176,Rushcliffe,Thriving Rural,IMD Health,-1.135
+E07000177,Cherwell,Thriving Rural,IMD Health,-0.387
+E07000178,Oxford,University Towns and Cities,IMD Health,-0.271
+E07000179,South Oxfordshire,Thriving Rural,IMD Health,-1.24
+E07000180,Vale of White Horse,Thriving Rural,IMD Health,-1.122
+E07000181,West Oxfordshire,Thriving Rural,IMD Health,-0.924
+E07000187,Mendip,English and Welsh Countryside,IMD Health,-0.254
+E07000188,Sedgemoor,English and Welsh Countryside,IMD Health,-0.066
+E07000189,South Somerset,English and Welsh Countryside,IMD Health,-0.25
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",IMD Health,0.131
+E07000193,East Staffordshire,Country Living,IMD Health,0.043
+E07000194,Lichfield,Town Living,IMD Health,-0.432
+E07000195,Newcastle-under-Lyme,Town Living,IMD Health,0.312
+E07000196,South Staffordshire,Town Living,IMD Health,-0.484
+E07000197,Stafford,Town Living,IMD Health,-0.216
+E07000198,Staffordshire Moorlands,Country Living,IMD Health,-0.249
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",IMD Health,0.27
+E07000200,Babergh,Country Living,IMD Health,-0.693
+E07000202,Ipswich,Manufacturing Traits,IMD Health,0.396
+E07000203,Mid Suffolk,Country Living,IMD Health,-0.907
+E07000207,Elmbridge,Rural-Urban Fringe,IMD Health,-1.478
+E07000208,Epsom and Ewell,Rural-Urban Fringe,IMD Health,-1.138
+E07000209,Guildford,Rural-Urban Fringe,IMD Health,-0.968
+E07000210,Mole Valley,Thriving Rural,IMD Health,-0.867
+E07000211,Reigate and Banstead,Rural-Urban Fringe,IMD Health,-0.671
+E07000212,Runnymede,Rural-Urban Fringe,IMD Health,-0.78
+E07000213,Spelthorne,Rural-Urban Fringe,IMD Health,-0.56
+E07000214,Surrey Heath,Rural-Urban Fringe,IMD Health,-0.95
+E07000215,Tandridge,Thriving Rural,IMD Health,-0.654
+E07000216,Waverley,Thriving Rural,IMD Health,-0.917
+E07000217,Woking,Rural-Urban Fringe,IMD Health,-0.655
+E07000218,North Warwickshire,Country Living,IMD Health,-0.109
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,IMD Health,0.279
+E07000220,Rugby,Suburban Traits,IMD Health,-0.395
+E07000221,Stratford-on-Avon,English and Welsh Countryside,IMD Health,-0.626
+E07000222,Warwick,Larger Towns and Cities,IMD Health,-0.351
+E07000223,Adur,Town Living,IMD Health,-0.055
+E07000224,Arun,Remoter Coastal Living,IMD Health,0.128
+E07000225,Chichester,English and Welsh Countryside,IMD Health,-0.453
+E07000226,Crawley,Suburban Traits,IMD Health,-0.082
+E07000227,Horsham,Thriving Rural,IMD Health,-0.894
+E07000228,Mid Sussex,Thriving Rural,IMD Health,-1.227
+E07000229,Worthing,Manufacturing Traits,IMD Health,-0.085
+E07000234,Bromsgrove,Town Living,IMD Health,-0.481
+E07000235,Malvern Hills,English and Welsh Countryside,IMD Health,-0.603
+E07000236,Redditch,Manufacturing Traits,IMD Health,0.362
+E07000237,Worcester,Manufacturing Traits,IMD Health,0.038
+E07000238,Wychavon,Country Living,IMD Health,-0.559
+E07000239,Wyre Forest,Country Living,IMD Health,-0.058
+E07000240,St Albans,Rural-Urban Fringe,IMD Health,-1.31
+E07000241,Welwyn Hatfield,Larger Towns and Cities,IMD Health,-0.446
+E07000242,East Hertfordshire,Thriving Rural,IMD Health,-1.425
+E07000243,Stevenage,Suburban Traits,IMD Health,-0.094
+E07000244,East Suffolk,,IMD Health,-0.132
+E07000245,West Suffolk,,IMD Health,-0.32
+E07000246,Somerset West and Taunton,,IMD Health,-0.07
+E08000001,Bolton,Manufacturing Traits,IMD Health,0.589
+E08000002,Bury,Manufacturing Traits,IMD Health,0.308
+E08000003,Manchester,University Towns and Cities,IMD Health,1.198
+E08000004,Oldham,Manufacturing Traits,IMD Health,0.663
+E08000005,Rochdale,Manufacturing Traits,IMD Health,0.842
+E08000006,Salford,Manufacturing Traits,IMD Health,0.995
+E08000007,Stockport,Town Living,IMD Health,0.355
+E08000008,Tameside,Manufacturing Traits,IMD Health,0.855
+E08000009,Trafford,Suburban Traits,IMD Health,-0.072
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",IMD Health,0.618
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",IMD Health,1.381
+E08000012,Liverpool,Larger Towns and Cities,IMD Health,1.347
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",IMD Health,1.069
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",IMD Health,0.75
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",IMD Health,0.962
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",IMD Health,0.839
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",IMD Health,0.665
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",IMD Health,0.817
+E08000019,Sheffield,Larger Towns and Cities,IMD Health,0.456
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,IMD Health,0.815
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",IMD Health,0.43
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",IMD Health,0.863
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",IMD Health,0.828
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,IMD Health,0.67
+E08000026,Coventry,Larger Towns and Cities,IMD Health,0.367
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",IMD Health,0.287
+E08000028,Sandwell,Manufacturing Traits,IMD Health,0.705
+E08000029,Solihull,Town Living,IMD Health,-0.256
+E08000030,Walsall,Manufacturing Traits,IMD Health,0.562
+E08000031,Wolverhampton,Manufacturing Traits,IMD Health,0.607
+E08000032,Bradford,Manufacturing Traits,IMD Health,0.632
+E08000033,Calderdale,Manufacturing Traits,IMD Health,0.264
+E08000034,Kirklees,Manufacturing Traits,IMD Health,0.166
+E08000035,Leeds,Larger Towns and Cities,IMD Health,0.415
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",IMD Health,0.539
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",IMD Health,0.824
+E09000001,City of London,,IMD Health,-0.686
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,IMD Health,0.204
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,IMD Health,-1.074
+E09000004,Bexley,Suburban Traits,IMD Health,-0.561
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,IMD Health,-0.453
+E09000006,Bromley,Rural-Urban Fringe,IMD Health,-0.908
+E09000007,Camden,London Cosmopolitan,IMD Health,-0.556
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,IMD Health,-0.174
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,IMD Health,-0.326
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,IMD Health,-0.535
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,IMD Health,-0.021
+E09000012,Hackney,London Cosmopolitan,IMD Health,0.371
+E09000013,Hammersmith and Fulham,London Cosmopolitan,IMD Health,-0.05
+E09000014,Haringey,London Cosmopolitan,IMD Health,-0.128
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,IMD Health,-1.04
+E09000016,Havering,Suburban Traits,IMD Health,-0.538
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,IMD Health,-0.379
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,IMD Health,-0.27
+E09000019,Islington,London Cosmopolitan,IMD Health,0.274
+E09000020,Kensington and Chelsea,London Cosmopolitan,IMD Health,-1.243
+E09000021,Kingston upon Thames,University Towns and Cities,IMD Health,-0.963
+E09000022,Lambeth,London Cosmopolitan,IMD Health,0.148
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,IMD Health,0.067
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,IMD Health,-0.615
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,IMD Health,-0.03
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,IMD Health,-0.74
+E09000027,Richmond upon Thames,Rural-Urban Fringe,IMD Health,-1.373
+E09000028,Southwark,London Cosmopolitan,IMD Health,0.112
+E09000029,Sutton,Suburban Traits,IMD Health,-0.57
+E09000030,Tower Hamlets,London Cosmopolitan,IMD Health,0.195
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,IMD Health,-0.161
+E09000032,Wandsworth,London Cosmopolitan,IMD Health,-0.388
+E09000033,Westminster,,IMD Health,-0.855
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",IMD Crime,0.566
+E06000002,Middlesbrough,Manufacturing Traits,IMD Crime,0.701
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",IMD Crime,0.138
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.111
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",IMD Crime,0.558
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",IMD Crime,0.272
+E06000007,Warrington,Town Living,IMD Crime,-0.137
+E06000008,Blackburn with Darwen,Manufacturing Traits,IMD Crime,0.409
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",IMD Crime,0.815
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,IMD Crime,0.841
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,IMD Crime,-0.542
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",IMD Crime,0.484
+E06000013,North Lincolnshire,Country Living,IMD Crime,0.111
+E06000014,York,Larger Towns and Cities,IMD Crime,-0.816
+E06000015,Derby,Manufacturing Traits,IMD Crime,-0.105
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,IMD Crime,0.484
+E06000017,Rutland,English and Welsh Countryside,IMD Crime,-1.205
+E06000018,Nottingham,University Towns and Cities,IMD Crime,0.438
+E06000019,"Herefordshire, County of",English and Welsh Countryside,IMD Crime,-0.612
+E06000020,Telford and Wrekin,Manufacturing Traits,IMD Crime,0.19
+E06000021,Stoke-on-Trent,Manufacturing Traits,IMD Crime,0.504
+E06000022,Bath and North East Somerset,Larger Towns and Cities,IMD Crime,-0.279
+E06000023,"Bristol, City of",Larger Towns and Cities,IMD Crime,0.756
+E06000024,North Somerset,English and Welsh Countryside,IMD Crime,-0.164
+E06000025,South Gloucestershire,Town Living,IMD Crime,-0.222
+E06000026,Plymouth,Larger Towns and Cities,IMD Crime,-0.051
+E06000027,Torbay,Remoter Coastal Living,IMD Crime,0.028
+E06000030,Swindon,Suburban Traits,IMD Crime,0.209
+E06000031,Peterborough,Suburban Traits,IMD Crime,0.523
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,IMD Crime,0.392
+E06000033,Southend-on-Sea,Manufacturing Traits,IMD Crime,0.203
+E06000034,Thurrock,Suburban Traits,IMD Crime,0.284
+E06000035,Medway,Suburban Traits,IMD Crime,0.555
+E06000036,Bracknell Forest,Rural-Urban Fringe,IMD Crime,-0.856
+E06000037,West Berkshire,Thriving Rural,IMD Crime,-0.665
+E06000038,Reading,University Towns and Cities,IMD Crime,0.092
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,IMD Crime,0.412
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,IMD Crime,-0.478
+E06000041,Wokingham,Thriving Rural,IMD Crime,-0.981
+E06000042,Milton Keynes,Suburban Traits,IMD Crime,-0.137
+E06000043,Brighton and Hove,University Towns and Cities,IMD Crime,-0.066
+E06000044,Portsmouth,Larger Towns and Cities,IMD Crime,0.652
+E06000045,Southampton,Larger Towns and Cities,IMD Crime,0.881
+E06000046,Isle of Wight,Remoter Coastal Living,IMD Crime,-0.2
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",IMD Crime,0.26
+E06000049,Cheshire East,Country Living,IMD Crime,-0.382
+E06000050,Cheshire West and Chester,Town Living,IMD Crime,-0.284
+E06000051,Shropshire,English and Welsh Countryside,IMD Crime,-0.576
+E06000052,Cornwall,,IMD Crime,-0.713
+E06000053,Isles of Scilly,,IMD Crime,-0.778
+E06000054,Wiltshire,Country Living,IMD Crime,-0.532
+E06000055,Bedford,Suburban Traits,IMD Crime,-0.116
+E06000056,Central Bedfordshire,Thriving Rural,IMD Crime,-0.235
+E06000057,Northumberland,English and Welsh Countryside,IMD Crime,-0.139
+E06000058,"Bournemouth, Christchurch and Poole",,IMD Crime,-0.108
+E06000059,Dorset,,IMD Crime,-0.719
+E06000060,Buckinghamshire,,IMD Crime,
+E06000061,North Northamptonshire,,IMD Crime,
+E06000062,West Northamptonshire,,IMD Crime,
+E07000008,Cambridge,University Towns and Cities,IMD Crime,0.151
+E07000009,East Cambridgeshire,Country Living,IMD Crime,-0.743
+E07000010,Fenland,Country Living,IMD Crime,-0.032
+E07000011,Huntingdonshire,Country Living,IMD Crime,-0.404
+E07000012,South Cambridgeshire,Thriving Rural,IMD Crime,-0.54
+E07000026,Allerdale,English and Welsh Countryside,IMD Crime,-0.586
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.431
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.323
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.81
+E07000030,Eden,English and Welsh Countryside,IMD Crime,-1.219
+E07000031,South Lakeland,English and Welsh Countryside,IMD Crime,-1.16
+E07000032,Amber Valley,Country Living,IMD Crime,-0.748
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.509
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.643
+E07000035,Derbyshire Dales,English and Welsh Countryside,IMD Crime,-1.171
+E07000036,Erewash,Country Living,IMD Crime,-0.406
+E07000037,High Peak,Town Living,IMD Crime,-0.707
+E07000038,North East Derbyshire,Town Living,IMD Crime,-0.972
+E07000039,South Derbyshire,Country Living,IMD Crime,-0.662
+E07000040,East Devon,Remoter Coastal Living,IMD Crime,-0.938
+E07000041,Exeter,Larger Towns and Cities,IMD Crime,-0.352
+E07000042,Mid Devon,English and Welsh Countryside,IMD Crime,-0.911
+E07000043,North Devon,Remoter Coastal Living,IMD Crime,-0.728
+E07000044,South Hams,English and Welsh Countryside,IMD Crime,-1.026
+E07000045,Teignbridge,Remoter Coastal Living,IMD Crime,-0.648
+E07000046,Torridge,English and Welsh Countryside,IMD Crime,-0.894
+E07000047,West Devon,English and Welsh Countryside,IMD Crime,-0.968
+E07000061,Eastbourne,Larger Towns and Cities,IMD Crime,-0.045
+E07000062,Hastings,Manufacturing Traits,IMD Crime,0.46
+E07000063,Lewes,Remoter Coastal Living,IMD Crime,-0.517
+E07000064,Rother,Remoter Coastal Living,IMD Crime,-0.419
+E07000065,Wealden,English and Welsh Countryside,IMD Crime,-0.746
+E07000066,Basildon,Suburban Traits,IMD Crime,0.41
+E07000067,Braintree,Country Living,IMD Crime,-0.29
+E07000068,Brentwood,Thriving Rural,IMD Crime,-0.061
+E07000069,Castle Point,Town Living,IMD Crime,-0.204
+E07000070,Chelmsford,Thriving Rural,IMD Crime,-0.227
+E07000071,Colchester,Thriving Rural,IMD Crime,-0.105
+E07000072,Epping Forest,Thriving Rural,IMD Crime,0.308
+E07000073,Harlow,Suburban Traits,IMD Crime,0.222
+E07000074,Maldon,Country Living,IMD Crime,-0.628
+E07000075,Rochford,Town Living,IMD Crime,-0.589
+E07000076,Tendring,Remoter Coastal Living,IMD Crime,0.205
+E07000077,Uttlesford,Thriving Rural,IMD Crime,-0.551
+E07000078,Cheltenham,Larger Towns and Cities,IMD Crime,-0.149
+E07000079,Cotswold,English and Welsh Countryside,IMD Crime,-1.042
+E07000080,Forest of Dean,Country Living,IMD Crime,-0.822
+E07000081,Gloucester,Manufacturing Traits,IMD Crime,-0.23
+E07000082,Stroud,Country Living,IMD Crime,-1.02
+E07000083,Tewkesbury,Country Living,IMD Crime,-0.845
+E07000084,Basingstoke and Deane,Thriving Rural,IMD Crime,-0.149
+E07000085,East Hampshire,Thriving Rural,IMD Crime,-0.392
+E07000086,Eastleigh,Town Living,IMD Crime,-0.233
+E07000087,Fareham,Town Living,IMD Crime,-0.528
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",IMD Crime,0.337
+E07000089,Hart,Thriving Rural,IMD Crime,-0.659
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",IMD Crime,0.267
+E07000091,New Forest,Remoter Coastal Living,IMD Crime,-0.192
+E07000092,Rushmoor,Suburban Traits,IMD Crime,-0.007
+E07000093,Test Valley,Thriving Rural,IMD Crime,-0.453
+E07000094,Winchester,Thriving Rural,IMD Crime,-0.534
+E07000095,Broxbourne,Suburban Traits,IMD Crime,0.068
+E07000096,Dacorum,Thriving Rural,IMD Crime,-0.05
+E07000098,Hertsmere,Rural-Urban Fringe,IMD Crime,0.012
+E07000099,North Hertfordshire,Thriving Rural,IMD Crime,-0.362
+E07000102,Three Rivers,Rural-Urban Fringe,IMD Crime,-0.429
+E07000103,Watford,Suburban Traits,IMD Crime,0.168
+E07000105,Ashford,Country Living,IMD Crime,0.122
+E07000106,Canterbury,Larger Towns and Cities,IMD Crime,0.091
+E07000107,Dartford,Suburban Traits,IMD Crime,0.579
+E07000108,Dover,Remoter Coastal Living,IMD Crime,0.151
+E07000109,Gravesham,Suburban Traits,IMD Crime,0.826
+E07000110,Maidstone,Thriving Rural,IMD Crime,0.003
+E07000111,Sevenoaks,Thriving Rural,IMD Crime,0.128
+E07000112,Folkestone and Hythe,Remoter Coastal Living,IMD Crime,-0.011
+E07000113,Swale,Country Living,IMD Crime,0.461
+E07000114,Thanet,Remoter Coastal Living,IMD Crime,0.675
+E07000115,Tonbridge and Malling,Thriving Rural,IMD Crime,-0.192
+E07000116,Tunbridge Wells,Thriving Rural,IMD Crime,-0.392
+E07000117,Burnley,Manufacturing Traits,IMD Crime,0.774
+E07000118,Chorley,Town Living,IMD Crime,-0.22
+E07000119,Fylde,English and Welsh Countryside,IMD Crime,-0.562
+E07000120,Hyndburn,Manufacturing Traits,IMD Crime,0.441
+E07000121,Lancaster,Larger Towns and Cities,IMD Crime,0.009
+E07000122,Pendle,Manufacturing Traits,IMD Crime,0.067
+E07000123,Preston,Larger Towns and Cities,IMD Crime,0.495
+E07000124,Ribble Valley,English and Welsh Countryside,IMD Crime,-0.802
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",IMD Crime,0.087
+E07000126,South Ribble,Town Living,IMD Crime,-0.321
+E07000127,West Lancashire,Town Living,IMD Crime,-0.472
+E07000128,Wyre,English and Welsh Countryside,IMD Crime,-0.394
+E07000129,Blaby,Town Living,IMD Crime,-0.255
+E07000130,Charnwood,Town Living,IMD Crime,-0.156
+E07000131,Harborough,Country Living,IMD Crime,-0.65
+E07000132,Hinckley and Bosworth,Country Living,IMD Crime,-0.201
+E07000133,Melton,Country Living,IMD Crime,-0.554
+E07000134,North West Leicestershire,Country Living,IMD Crime,-0.299
+E07000135,Oadby and Wigston,Town Living,IMD Crime,-0.436
+E07000136,Boston,Manufacturing Traits,IMD Crime,-0.541
+E07000137,East Lindsey,Remoter Coastal Living,IMD Crime,-0.604
+E07000138,Lincoln,Larger Towns and Cities,IMD Crime,0.101
+E07000139,North Kesteven,English and Welsh Countryside,IMD Crime,-1.406
+E07000140,South Holland,Country Living,IMD Crime,-0.744
+E07000141,South Kesteven,Country Living,IMD Crime,-0.937
+E07000142,West Lindsey,English and Welsh Countryside,IMD Crime,-0.84
+E07000143,Breckland,English and Welsh Countryside,IMD Crime,-0.586
+E07000144,Broadland,Country Living,IMD Crime,-1.059
+E07000145,Great Yarmouth,Remoter Coastal Living,IMD Crime,0.074
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,IMD Crime,-0.679
+E07000147,North Norfolk,Remoter Coastal Living,IMD Crime,-1.041
+E07000148,Norwich,Larger Towns and Cities,IMD Crime,0.237
+E07000149,South Norfolk,Country Living,IMD Crime,-0.911
+E07000163,Craven,English and Welsh Countryside,IMD Crime,-1.098
+E07000164,Hambleton,English and Welsh Countryside,IMD Crime,-1.235
+E07000165,Harrogate,English and Welsh Countryside,IMD Crime,-0.964
+E07000166,Richmondshire,English and Welsh Countryside,IMD Crime,-1.393
+E07000167,Ryedale,English and Welsh Countryside,IMD Crime,-1.334
+E07000168,Scarborough,Remoter Coastal Living,IMD Crime,-0.462
+E07000169,Selby,Country Living,IMD Crime,-0.802
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",IMD Crime,0.193
+E07000171,Bassetlaw,Country Living,IMD Crime,0.002
+E07000172,Broxtowe,Town Living,IMD Crime,-0.24
+E07000173,Gedling,Town Living,IMD Crime,-0.377
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",IMD Crime,0.198
+E07000175,Newark and Sherwood,Country Living,IMD Crime,-0.298
+E07000176,Rushcliffe,Thriving Rural,IMD Crime,-0.911
+E07000177,Cherwell,Thriving Rural,IMD Crime,-0.431
+E07000178,Oxford,University Towns and Cities,IMD Crime,-0.042
+E07000179,South Oxfordshire,Thriving Rural,IMD Crime,-0.774
+E07000180,Vale of White Horse,Thriving Rural,IMD Crime,-1.055
+E07000181,West Oxfordshire,Thriving Rural,IMD Crime,-1.05
+E07000187,Mendip,English and Welsh Countryside,IMD Crime,-0.242
+E07000188,Sedgemoor,English and Welsh Countryside,IMD Crime,-0.083
+E07000189,South Somerset,English and Welsh Countryside,IMD Crime,-0.307
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.162
+E07000193,East Staffordshire,Country Living,IMD Crime,-0.213
+E07000194,Lichfield,Town Living,IMD Crime,-0.595
+E07000195,Newcastle-under-Lyme,Town Living,IMD Crime,-0.162
+E07000196,South Staffordshire,Town Living,IMD Crime,-0.425
+E07000197,Stafford,Town Living,IMD Crime,-0.582
+E07000198,Staffordshire Moorlands,Country Living,IMD Crime,-0.597
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",IMD Crime,0.081
+E07000200,Babergh,Country Living,IMD Crime,-0.362
+E07000202,Ipswich,Manufacturing Traits,IMD Crime,0.409
+E07000203,Mid Suffolk,Country Living,IMD Crime,-0.642
+E07000207,Elmbridge,Rural-Urban Fringe,IMD Crime,-0.223
+E07000208,Epsom and Ewell,Rural-Urban Fringe,IMD Crime,-0.057
+E07000209,Guildford,Rural-Urban Fringe,IMD Crime,-0.522
+E07000210,Mole Valley,Thriving Rural,IMD Crime,-0.492
+E07000211,Reigate and Banstead,Rural-Urban Fringe,IMD Crime,-0.217
+E07000212,Runnymede,Rural-Urban Fringe,IMD Crime,-0.095
+E07000213,Spelthorne,Rural-Urban Fringe,IMD Crime,0.053
+E07000214,Surrey Heath,Rural-Urban Fringe,IMD Crime,-0.653
+E07000215,Tandridge,Thriving Rural,IMD Crime,0.108
+E07000216,Waverley,Thriving Rural,IMD Crime,-0.751
+E07000217,Woking,Rural-Urban Fringe,IMD Crime,-0.235
+E07000218,North Warwickshire,Country Living,IMD Crime,-0.067
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,IMD Crime,0.295
+E07000220,Rugby,Suburban Traits,IMD Crime,-0.064
+E07000221,Stratford-on-Avon,English and Welsh Countryside,IMD Crime,-0.512
+E07000222,Warwick,Larger Towns and Cities,IMD Crime,-0.199
+E07000223,Adur,Town Living,IMD Crime,-0.366
+E07000224,Arun,Remoter Coastal Living,IMD Crime,-0.236
+E07000225,Chichester,English and Welsh Countryside,IMD Crime,-0.622
+E07000226,Crawley,Suburban Traits,IMD Crime,0.047
+E07000227,Horsham,Thriving Rural,IMD Crime,-0.718
+E07000228,Mid Sussex,Thriving Rural,IMD Crime,-0.674
+E07000229,Worthing,Manufacturing Traits,IMD Crime,-0.398
+E07000234,Bromsgrove,Town Living,IMD Crime,-0.148
+E07000235,Malvern Hills,English and Welsh Countryside,IMD Crime,-0.431
+E07000236,Redditch,Manufacturing Traits,IMD Crime,-0.065
+E07000237,Worcester,Manufacturing Traits,IMD Crime,0.087
+E07000238,Wychavon,Country Living,IMD Crime,-0.323
+E07000239,Wyre Forest,Country Living,IMD Crime,0.083
+E07000240,St Albans,Rural-Urban Fringe,IMD Crime,-0.262
+E07000241,Welwyn Hatfield,Larger Towns and Cities,IMD Crime,-0.142
+E07000242,East Hertfordshire,Thriving Rural,IMD Crime,-0.404
+E07000243,Stevenage,Suburban Traits,IMD Crime,0.17
+E07000244,East Suffolk,,IMD Crime,-0.414
+E07000245,West Suffolk,,IMD Crime,-0.315
+E07000246,Somerset West and Taunton,,IMD Crime,-0.216
+E08000001,Bolton,Manufacturing Traits,IMD Crime,0.71
+E08000002,Bury,Manufacturing Traits,IMD Crime,0.419
+E08000003,Manchester,University Towns and Cities,IMD Crime,1.206
+E08000004,Oldham,Manufacturing Traits,IMD Crime,0.863
+E08000005,Rochdale,Manufacturing Traits,IMD Crime,0.936
+E08000006,Salford,Manufacturing Traits,IMD Crime,0.686
+E08000007,Stockport,Town Living,IMD Crime,0.337
+E08000008,Tameside,Manufacturing Traits,IMD Crime,0.721
+E08000009,Trafford,Suburban Traits,IMD Crime,-0.052
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",IMD Crime,0.386
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",IMD Crime,0.22
+E08000012,Liverpool,Larger Towns and Cities,IMD Crime,0.591
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",IMD Crime,0.201
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.08
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.053
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",IMD Crime,0.514
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",IMD Crime,0.703
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",IMD Crime,0.449
+E08000019,Sheffield,Larger Towns and Cities,IMD Crime,0.38
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,IMD Crime,0.461
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",IMD Crime,0.157
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",IMD Crime,0.333
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",IMD Crime,0.409
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,IMD Crime,0.335
+E08000026,Coventry,Larger Towns and Cities,IMD Crime,0.068
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",IMD Crime,-0.131
+E08000028,Sandwell,Manufacturing Traits,IMD Crime,0.277
+E08000029,Solihull,Town Living,IMD Crime,-0.138
+E08000030,Walsall,Manufacturing Traits,IMD Crime,0.171
+E08000031,Wolverhampton,Manufacturing Traits,IMD Crime,0.066
+E08000032,Bradford,Manufacturing Traits,IMD Crime,0.919
+E08000033,Calderdale,Manufacturing Traits,IMD Crime,0.573
+E08000034,Kirklees,Manufacturing Traits,IMD Crime,0.483
+E08000035,Leeds,Larger Towns and Cities,IMD Crime,0.666
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",IMD Crime,0.514
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",IMD Crime,0.357
+E09000001,City of London,,IMD Crime,-1.656
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,IMD Crime,0.542
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,IMD Crime,0.082
+E09000004,Bexley,Suburban Traits,IMD Crime,-0.13
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,IMD Crime,0.428
+E09000006,Bromley,Rural-Urban Fringe,IMD Crime,-0.038
+E09000007,Camden,London Cosmopolitan,IMD Crime,0.325
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,IMD Crime,0.28
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,IMD Crime,0.239
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,IMD Crime,0.199
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,IMD Crime,0.457
+E09000012,Hackney,London Cosmopolitan,IMD Crime,0.621
+E09000013,Hammersmith and Fulham,London Cosmopolitan,IMD Crime,0.34
+E09000014,Haringey,London Cosmopolitan,IMD Crime,0.732
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,IMD Crime,-0.143
+E09000016,Havering,Suburban Traits,IMD Crime,0.13
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,IMD Crime,0.235
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,IMD Crime,0.373
+E09000019,Islington,London Cosmopolitan,IMD Crime,0.607
+E09000020,Kensington and Chelsea,London Cosmopolitan,IMD Crime,0.331
+E09000021,Kingston upon Thames,University Towns and Cities,IMD Crime,-0.332
+E09000022,Lambeth,London Cosmopolitan,IMD Crime,0.532
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,IMD Crime,0.402
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,IMD Crime,-0.051
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,IMD Crime,0.497
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,IMD Crime,0.295
+E09000027,Richmond upon Thames,Rural-Urban Fringe,IMD Crime,-0.07
+E09000028,Southwark,London Cosmopolitan,IMD Crime,0.475
+E09000029,Sutton,Suburban Traits,IMD Crime,-0.174
+E09000030,Tower Hamlets,London Cosmopolitan,IMD Crime,0.509
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,IMD Crime,0.406
+E09000032,Wandsworth,London Cosmopolitan,IMD Crime,0.118
+E09000033,Westminster,,IMD Crime,0.105
