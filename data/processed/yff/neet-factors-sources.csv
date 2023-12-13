@@ -3398,3 +3398,621 @@ E09000030,Tower Hamlets,London Cosmopolitan,Pupils with SEN support,12.400139650
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,11.52926987246
 E09000032,Wandsworth,London Cosmopolitan,Pupils with SEN support,13.86861313868
 E09000033,Westminster,,Pupils with SEN support,13.56473934861
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.06978028044606
+E06000002,Middlesbrough,Manufacturing Traits,Qualification below level 2 (age 16-24),23.646299056135124
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),25.320197044334975
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),23.853055696631113
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.413570925198833
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),25.456489554202992
+E06000007,Warrington,Town Living,Qualification below level 2 (age 16-24),22.04799491444615
+E06000008,Blackburn with Darwen,Manufacturing Traits,Qualification below level 2 (age 16-24),23.428892636312533
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),29.12020772873072
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Qualification below level 2 (age 16-24),24.986677324806823
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.78731343283582
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),29.238706079196874
+E06000013,North Lincolnshire,Country Living,Qualification below level 2 (age 16-24),26.85352018685352
+E06000014,York,Larger Towns and Cities,Qualification below level 2 (age 16-24),12.967024203516885
+E06000015,Derby,Manufacturing Traits,Qualification below level 2 (age 16-24),24.26102076301524
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),21.800556249748077
+E06000017,Rutland,English and Welsh Countryside,Qualification below level 2 (age 16-24),19.09709781440344
+E06000018,Nottingham,University Towns and Cities,Qualification below level 2 (age 16-24),14.56253334349516
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Qualification below level 2 (age 16-24),23.82337387625595
+E06000020,Telford and Wrekin,Manufacturing Traits,Qualification below level 2 (age 16-24),25.320495771051654
+E06000021,Stoke-on-Trent,Manufacturing Traits,Qualification below level 2 (age 16-24),25.601162368325465
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Qualification below level 2 (age 16-24),11.717267552182163
+E06000023,"Bristol, City of",Larger Towns and Cities,Qualification below level 2 (age 16-24),14.56371828620339
+E06000024,North Somerset,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.291467879729282
+E06000025,South Gloucestershire,Town Living,Qualification below level 2 (age 16-24),19.78626379364361
+E06000026,Plymouth,Larger Towns and Cities,Qualification below level 2 (age 16-24),19.049211018989034
+E06000027,Torbay,Remoter Coastal Living,Qualification below level 2 (age 16-24),27.063540486359276
+E06000030,Swindon,Suburban Traits,Qualification below level 2 (age 16-24),25.763704840284557
+E06000031,Peterborough,Suburban Traits,Qualification below level 2 (age 16-24),31.00453172205438
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),24.813321385902032
+E06000033,Southend-on-Sea,Manufacturing Traits,Qualification below level 2 (age 16-24),24.63151403021893
+E06000034,Thurrock,Suburban Traits,Qualification below level 2 (age 16-24),25.475758948799275
+E06000035,Medway,Suburban Traits,Qualification below level 2 (age 16-24),24.658593146096365
+E06000036,Bracknell Forest,Rural-Urban Fringe,Qualification below level 2 (age 16-24),21.778717925135656
+E06000037,West Berkshire,Thriving Rural,Qualification below level 2 (age 16-24),22.36938925680648
+E06000038,Reading,University Towns and Cities,Qualification below level 2 (age 16-24),19.039101704178467
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),22.142339294345096
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Qualification below level 2 (age 16-24),19.077196095829635
+E06000041,Wokingham,Thriving Rural,Qualification below level 2 (age 16-24),18.418902355985292
+E06000042,Milton Keynes,Suburban Traits,Qualification below level 2 (age 16-24),25.0445082294808
+E06000043,Brighton and Hove,University Towns and Cities,Qualification below level 2 (age 16-24),12.652545562066555
+E06000044,Portsmouth,Larger Towns and Cities,Qualification below level 2 (age 16-24),17.623117623117622
+E06000045,Southampton,Larger Towns and Cities,Qualification below level 2 (age 16-24),17.441824435286463
+E06000046,Isle of Wight,Remoter Coastal Living,Qualification below level 2 (age 16-24),28.30223880597015
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),21.094795647198026
+E06000049,Cheshire East,Country Living,Qualification below level 2 (age 16-24),21.320285803044424
+E06000050,Cheshire West and Chester,Town Living,Qualification below level 2 (age 16-24),20.257661888284726
+E06000051,Shropshire,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.934677174901484
+E06000052,Cornwall,,Qualification below level 2 (age 16-24),22.15351552996513
+E06000053,Isles of Scilly,,Qualification below level 2 (age 16-24),14.953271028037381
+E06000054,Wiltshire,Country Living,Qualification below level 2 (age 16-24),23.53887142068502
+E06000055,Bedford,Suburban Traits,Qualification below level 2 (age 16-24),23.45918775347004
+E06000056,Central Bedfordshire,Thriving Rural,Qualification below level 2 (age 16-24),22.746365105008078
+E06000057,Northumberland,English and Welsh Countryside,Qualification below level 2 (age 16-24),24.263029787891664
+E06000058,"Bournemouth, Christchurch and Poole",,Qualification below level 2 (age 16-24),19.19518023285373
+E06000059,Dorset,,Qualification below level 2 (age 16-24),23.953808666172264
+E06000060,Buckinghamshire,,Qualification below level 2 (age 16-24),20.916149723593705
+E06000061,North Northamptonshire,,Qualification below level 2 (age 16-24),27.719802919484653
+E06000062,West Northamptonshire,,Qualification below level 2 (age 16-24),23.79949039592317
+E07000008,Cambridge,University Towns and Cities,Qualification below level 2 (age 16-24),12.634792776406393
+E07000009,East Cambridgeshire,Country Living,Qualification below level 2 (age 16-24),24.01541095890411
+E07000010,Fenland,Country Living,Qualification below level 2 (age 16-24),30.78039522161438
+E07000011,Huntingdonshire,Country Living,Qualification below level 2 (age 16-24),24.09090909090909
+E07000012,South Cambridgeshire,Thriving Rural,Qualification below level 2 (age 16-24),20.129205073662646
+E07000026,Allerdale,English and Welsh Countryside,Qualification below level 2 (age 16-24),23.38233446412866
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),23.012291893573984
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),25.39924727901536
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),21.644413211524945
+E07000030,Eden,English and Welsh Countryside,Qualification below level 2 (age 16-24),22.193758733115978
+E07000031,South Lakeland,English and Welsh Countryside,Qualification below level 2 (age 16-24),19.516317774021584
+E07000032,Amber Valley,Country Living,Qualification below level 2 (age 16-24),22.77974306460622
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),26.14762104088182
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.302963776070253
+E07000035,Derbyshire Dales,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.24778106508876
+E07000036,Erewash,Country Living,Qualification below level 2 (age 16-24),24.655511811023622
+E07000037,High Peak,Town Living,Qualification below level 2 (age 16-24),21.40882159315339
+E07000038,North East Derbyshire,Town Living,Qualification below level 2 (age 16-24),24.07762338284619
+E07000039,South Derbyshire,Country Living,Qualification below level 2 (age 16-24),21.169138190414785
+E07000040,East Devon,Remoter Coastal Living,Qualification below level 2 (age 16-24),21.68458781362007
+E07000041,Exeter,Larger Towns and Cities,Qualification below level 2 (age 16-24),12.072615645178363
+E07000042,Mid Devon,English and Welsh Countryside,Qualification below level 2 (age 16-24),23.620789779326365
+E07000043,North Devon,Remoter Coastal Living,Qualification below level 2 (age 16-24),27.213031948478346
+E07000044,South Hams,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.56174629827507
+E07000045,Teignbridge,Remoter Coastal Living,Qualification below level 2 (age 16-24),22.333365393863613
+E07000046,Torridge,English and Welsh Countryside,Qualification below level 2 (age 16-24),27.649680294516564
+E07000047,West Devon,English and Welsh Countryside,Qualification below level 2 (age 16-24),23.98286937901499
+E07000061,Eastbourne,Larger Towns and Cities,Qualification below level 2 (age 16-24),24.815508315893823
+E07000062,Hastings,Manufacturing Traits,Qualification below level 2 (age 16-24),28.445492922771294
+E07000063,Lewes,Remoter Coastal Living,Qualification below level 2 (age 16-24),24.110475242597662
+E07000064,Rother,Remoter Coastal Living,Qualification below level 2 (age 16-24),24.97480927018857
+E07000065,Wealden,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.213553979511428
+E07000066,Basildon,Suburban Traits,Qualification below level 2 (age 16-24),26.72090112640801
+E07000067,Braintree,Country Living,Qualification below level 2 (age 16-24),24.478674707549224
+E07000068,Brentwood,Thriving Rural,Qualification below level 2 (age 16-24),18.053257108469985
+E07000069,Castle Point,Town Living,Qualification below level 2 (age 16-24),23.84502566609631
+E07000070,Chelmsford,Thriving Rural,Qualification below level 2 (age 16-24),20.632728642269786
+E07000071,Colchester,Thriving Rural,Qualification below level 2 (age 16-24),19.600855310049894
+E07000072,Epping Forest,Thriving Rural,Qualification below level 2 (age 16-24),19.913877153071173
+E07000073,Harlow,Suburban Traits,Qualification below level 2 (age 16-24),29.01659704188777
+E07000074,Maldon,Country Living,Qualification below level 2 (age 16-24),23.36834854485965
+E07000075,Rochford,Town Living,Qualification below level 2 (age 16-24),22.06511869243741
+E07000076,Tendring,Remoter Coastal Living,Qualification below level 2 (age 16-24),29.56892312735617
+E07000077,Uttlesford,Thriving Rural,Qualification below level 2 (age 16-24),18.434210526315788
+E07000078,Cheltenham,Larger Towns and Cities,Qualification below level 2 (age 16-24),16.355259790120297
+E07000079,Cotswold,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.390824129141887
+E07000080,Forest of Dean,Country Living,Qualification below level 2 (age 16-24),23.85994635041649
+E07000081,Gloucester,Manufacturing Traits,Qualification below level 2 (age 16-24),23.345272206303726
+E07000082,Stroud,Country Living,Qualification below level 2 (age 16-24),21.605064325096997
+E07000083,Tewkesbury,Country Living,Qualification below level 2 (age 16-24),20.926559620952883
+E07000084,Basingstoke and Deane,Thriving Rural,Qualification below level 2 (age 16-24),23.605787065660937
+E07000085,East Hampshire,Thriving Rural,Qualification below level 2 (age 16-24),19.81981981981982
+E07000086,Eastleigh,Town Living,Qualification below level 2 (age 16-24),20.57064753118059
+E07000087,Fareham,Town Living,Qualification below level 2 (age 16-24),20.324760244115083
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),27.618657937806873
+E07000089,Hart,Thriving Rural,Qualification below level 2 (age 16-24),18.631084754138868
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),27.54452339208268
+E07000091,New Forest,Remoter Coastal Living,Qualification below level 2 (age 16-24),22.880406364383358
+E07000092,Rushmoor,Suburban Traits,Qualification below level 2 (age 16-24),23.63576594345825
+E07000093,Test Valley,Thriving Rural,Qualification below level 2 (age 16-24),21.335613185142964
+E07000094,Winchester,Thriving Rural,Qualification below level 2 (age 16-24),15.161111550946085
+E07000095,Broxbourne,Suburban Traits,Qualification below level 2 (age 16-24),21.913190054782973
+E07000096,Dacorum,Thriving Rural,Qualification below level 2 (age 16-24),21.73511767420397
+E07000098,Hertsmere,Rural-Urban Fringe,Qualification below level 2 (age 16-24),19.89305871868502
+E07000099,North Hertfordshire,Thriving Rural,Qualification below level 2 (age 16-24),22.105455542355845
+E07000102,Three Rivers,Rural-Urban Fringe,Qualification below level 2 (age 16-24),18.48560255954497
+E07000103,Watford,Suburban Traits,Qualification below level 2 (age 16-24),20.54581301234824
+E07000105,Ashford,Country Living,Qualification below level 2 (age 16-24),26.832064193891753
+E07000106,Canterbury,Larger Towns and Cities,Qualification below level 2 (age 16-24),16.20804354399758
+E07000107,Dartford,Suburban Traits,Qualification below level 2 (age 16-24),23.96014703037338
+E07000108,Dover,Remoter Coastal Living,Qualification below level 2 (age 16-24),26.589123558820525
+E07000109,Gravesham,Suburban Traits,Qualification below level 2 (age 16-24),24.830721609595667
+E07000110,Maidstone,Thriving Rural,Qualification below level 2 (age 16-24),23.613003698656804
+E07000111,Sevenoaks,Thriving Rural,Qualification below level 2 (age 16-24),21.220213640098603
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Qualification below level 2 (age 16-24),26.828179077816234
+E07000113,Swale,Country Living,Qualification below level 2 (age 16-24),28.37030716723549
+E07000114,Thanet,Remoter Coastal Living,Qualification below level 2 (age 16-24),29.88194786030497
+E07000115,Tonbridge and Malling,Thriving Rural,Qualification below level 2 (age 16-24),22.419140451927337
+E07000116,Tunbridge Wells,Thriving Rural,Qualification below level 2 (age 16-24),22.23991507430998
+E07000117,Burnley,Manufacturing Traits,Qualification below level 2 (age 16-24),28.984575835475578
+E07000118,Chorley,Town Living,Qualification below level 2 (age 16-24),20.369609856262834
+E07000119,Fylde,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.437230871149385
+E07000120,Hyndburn,Manufacturing Traits,Qualification below level 2 (age 16-24),25.30665713945457
+E07000121,Lancaster,Larger Towns and Cities,Qualification below level 2 (age 16-24),16.567528645670276
+E07000122,Pendle,Manufacturing Traits,Qualification below level 2 (age 16-24),27.262443438914026
+E07000123,Preston,Larger Towns and Cities,Qualification below level 2 (age 16-24),20.783615316117544
+E07000124,Ribble Valley,English and Welsh Countryside,Qualification below level 2 (age 16-24),16.86367218282112
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.902786779001946
+E07000126,South Ribble,Town Living,Qualification below level 2 (age 16-24),20.193508114856428
+E07000127,West Lancashire,Town Living,Qualification below level 2 (age 16-24),18.927184064798745
+E07000128,Wyre,English and Welsh Countryside,Qualification below level 2 (age 16-24),22.15124900193909
+E07000129,Blaby,Town Living,Qualification below level 2 (age 16-24),20.031351472399507
+E07000130,Charnwood,Town Living,Qualification below level 2 (age 16-24),15.396787341165188
+E07000131,Harborough,Country Living,Qualification below level 2 (age 16-24),18.85782272456871
+E07000132,Hinckley and Bosworth,Country Living,Qualification below level 2 (age 16-24),23.162512035947362
+E07000133,Melton,Country Living,Qualification below level 2 (age 16-24),20.369481765834934
+E07000134,North West Leicestershire,Country Living,Qualification below level 2 (age 16-24),21.97933227344992
+E07000135,Oadby and Wigston,Town Living,Qualification below level 2 (age 16-24),20.380168528316677
+E07000136,Boston,Manufacturing Traits,Qualification below level 2 (age 16-24),32.47745682408681
+E07000137,East Lindsey,Remoter Coastal Living,Qualification below level 2 (age 16-24),27.052221059640445
+E07000138,Lincoln,Larger Towns and Cities,Qualification below level 2 (age 16-24),16.663462154713837
+E07000139,North Kesteven,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.87752131420254
+E07000140,South Holland,Country Living,Qualification below level 2 (age 16-24),26.261996759316965
+E07000141,South Kesteven,Country Living,Qualification below level 2 (age 16-24),22.793992148830856
+E07000142,West Lindsey,English and Welsh Countryside,Qualification below level 2 (age 16-24),24.638062648065283
+E07000143,Breckland,English and Welsh Countryside,Qualification below level 2 (age 16-24),28.333474972380383
+E07000144,Broadland,Country Living,Qualification below level 2 (age 16-24),21.396097745785188
+E07000145,Great Yarmouth,Remoter Coastal Living,Qualification below level 2 (age 16-24),31.26515318492396
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Qualification below level 2 (age 16-24),30.254980079681275
+E07000147,North Norfolk,Remoter Coastal Living,Qualification below level 2 (age 16-24),26.94070268018331
+E07000148,Norwich,Larger Towns and Cities,Qualification below level 2 (age 16-24),16.62865738269688
+E07000149,South Norfolk,Country Living,Qualification below level 2 (age 16-24),21.25340599455041
+E07000163,Craven,English and Welsh Countryside,Qualification below level 2 (age 16-24),18.28894650011784
+E07000164,Hambleton,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.81159420289855
+E07000165,Harrogate,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.048309178743963
+E07000166,Richmondshire,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.382978723404257
+E07000167,Ryedale,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.504842314377946
+E07000168,Scarborough,Remoter Coastal Living,Qualification below level 2 (age 16-24),27.843999537090614
+E07000169,Selby,Country Living,Qualification below level 2 (age 16-24),21.76509621765096
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),27.345102111457255
+E07000171,Bassetlaw,Country Living,Qualification below level 2 (age 16-24),24.488981952338218
+E07000172,Broxtowe,Town Living,Qualification below level 2 (age 16-24),18.065619967793882
+E07000173,Gedling,Town Living,Qualification below level 2 (age 16-24),21.910631741140215
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),29.19261104192611
+E07000175,Newark and Sherwood,Country Living,Qualification below level 2 (age 16-24),24.88285359089605
+E07000176,Rushcliffe,Thriving Rural,Qualification below level 2 (age 16-24),14.299179941559053
+E07000177,Cherwell,Thriving Rural,Qualification below level 2 (age 16-24),25.165182418845163
+E07000178,Oxford,University Towns and Cities,Qualification below level 2 (age 16-24),14.535652527718442
+E07000179,South Oxfordshire,Thriving Rural,Qualification below level 2 (age 16-24),20.83088049785552
+E07000180,Vale of White Horse,Thriving Rural,Qualification below level 2 (age 16-24),22.612513721185508
+E07000181,West Oxfordshire,Thriving Rural,Qualification below level 2 (age 16-24),22.654809673571197
+E07000187,Mendip,English and Welsh Countryside,Qualification below level 2 (age 16-24),24.0
+E07000188,Sedgemoor,English and Welsh Countryside,Qualification below level 2 (age 16-24),25.139104259782908
+E07000189,South Somerset,English and Welsh Countryside,Qualification below level 2 (age 16-24),23.804864411518032
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),26.58117800478157
+E07000193,East Staffordshire,Country Living,Qualification below level 2 (age 16-24),25.448121337469836
+E07000194,Lichfield,Town Living,Qualification below level 2 (age 16-24),21.231227788604837
+E07000195,Newcastle-under-Lyme,Town Living,Qualification below level 2 (age 16-24),19.993637665023066
+E07000196,South Staffordshire,Town Living,Qualification below level 2 (age 16-24),20.557491289198605
+E07000197,Stafford,Town Living,Qualification below level 2 (age 16-24),21.102162700208126
+E07000198,Staffordshire Moorlands,Country Living,Qualification below level 2 (age 16-24),21.166113804541975
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),28.584705257567713
+E07000200,Babergh,Country Living,Qualification below level 2 (age 16-24),23.142138031527352
+E07000202,Ipswich,Manufacturing Traits,Qualification below level 2 (age 16-24),29.377913752913752
+E07000203,Mid Suffolk,Country Living,Qualification below level 2 (age 16-24),22.6646248085758
+E07000207,Elmbridge,Rural-Urban Fringe,Qualification below level 2 (age 16-24),18.917638138565067
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Qualification below level 2 (age 16-24),17.441217150760718
+E07000209,Guildford,Rural-Urban Fringe,Qualification below level 2 (age 16-24),13.983314655709128
+E07000210,Mole Valley,Thriving Rural,Qualification below level 2 (age 16-24),20.26512480609223
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Qualification below level 2 (age 16-24),20.693077495657928
+E07000212,Runnymede,Rural-Urban Fringe,Qualification below level 2 (age 16-24),14.855875831485587
+E07000213,Spelthorne,Rural-Urban Fringe,Qualification below level 2 (age 16-24),22.706783862970475
+E07000214,Surrey Heath,Rural-Urban Fringe,Qualification below level 2 (age 16-24),18.806579115134515
+E07000215,Tandridge,Thriving Rural,Qualification below level 2 (age 16-24),21.038961038961038
+E07000216,Waverley,Thriving Rural,Qualification below level 2 (age 16-24),17.61054340559641
+E07000217,Woking,Rural-Urban Fringe,Qualification below level 2 (age 16-24),20.553756838227084
+E07000218,North Warwickshire,Country Living,Qualification below level 2 (age 16-24),24.226441631504922
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Qualification below level 2 (age 16-24),26.574266944399938
+E07000220,Rugby,Suburban Traits,Qualification below level 2 (age 16-24),23.63841113841114
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Qualification below level 2 (age 16-24),19.640077821011673
+E07000222,Warwick,Larger Towns and Cities,Qualification below level 2 (age 16-24),14.023934181002243
+E07000223,Adur,Town Living,Qualification below level 2 (age 16-24),25.92885375494071
+E07000224,Arun,Remoter Coastal Living,Qualification below level 2 (age 16-24),25.660607912020772
+E07000225,Chichester,English and Welsh Countryside,Qualification below level 2 (age 16-24),20.53744664338378
+E07000226,Crawley,Suburban Traits,Qualification below level 2 (age 16-24),26.805459571527297
+E07000227,Horsham,Thriving Rural,Qualification below level 2 (age 16-24),19.103246864799864
+E07000228,Mid Sussex,Thriving Rural,Qualification below level 2 (age 16-24),20.281827808096438
+E07000229,Worthing,Manufacturing Traits,Qualification below level 2 (age 16-24),22.357422494974077
+E07000234,Bromsgrove,Town Living,Qualification below level 2 (age 16-24),20.13521819299324
+E07000235,Malvern Hills,English and Welsh Countryside,Qualification below level 2 (age 16-24),21.21555915721232
+E07000236,Redditch,Manufacturing Traits,Qualification below level 2 (age 16-24),25.834885164494104
+E07000237,Worcester,Manufacturing Traits,Qualification below level 2 (age 16-24),19.53268574428984
+E07000238,Wychavon,Country Living,Qualification below level 2 (age 16-24),24.918155457861754
+E07000239,Wyre Forest,Country Living,Qualification below level 2 (age 16-24),25.20850463996241
+E07000240,St Albans,Rural-Urban Fringe,Qualification below level 2 (age 16-24),16.669432459342847
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Qualification below level 2 (age 16-24),18.332200317244503
+E07000242,East Hertfordshire,Thriving Rural,Qualification below level 2 (age 16-24),18.71422971383771
+E07000243,Stevenage,Suburban Traits,Qualification below level 2 (age 16-24),26.392823418319168
+E07000244,East Suffolk,,Qualification below level 2 (age 16-24),25.83931349425403
+E07000245,West Suffolk,,Qualification below level 2 (age 16-24),30.349070818684076
+E07000246,Somerset West and Taunton,,Qualification below level 2 (age 16-24),22.818845177664976
+E08000001,Bolton,Manufacturing Traits,Qualification below level 2 (age 16-24),24.369967925639852
+E08000002,Bury,Manufacturing Traits,Qualification below level 2 (age 16-24),23.104075892118473
+E08000003,Manchester,University Towns and Cities,Qualification below level 2 (age 16-24),15.948211900875501
+E08000004,Oldham,Manufacturing Traits,Qualification below level 2 (age 16-24),25.86033332090526
+E08000005,Rochdale,Manufacturing Traits,Qualification below level 2 (age 16-24),24.5446507515473
+E08000006,Salford,Manufacturing Traits,Qualification below level 2 (age 16-24),21.299126981625644
+E08000007,Stockport,Town Living,Qualification below level 2 (age 16-24),21.009389671361504
+E08000008,Tameside,Manufacturing Traits,Qualification below level 2 (age 16-24),24.13761213354296
+E08000009,Trafford,Suburban Traits,Qualification below level 2 (age 16-24),18.012362372030132
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),23.35327373126479
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),28.39759275180213
+E08000012,Liverpool,Larger Towns and Cities,Qualification below level 2 (age 16-24),18.230701953289493
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),25.80412433114892
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),23.599640199525716
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),22.842101544005935
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),27.86193759071118
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),29.113834384075936
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),26.143508330713612
+E08000019,Sheffield,Larger Towns and Cities,Qualification below level 2 (age 16-24),18.60893323829888
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Qualification below level 2 (age 16-24),14.498107146954228
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),22.043595171348475
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),22.179878048780488
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.203721841332026
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),20.815607641241023
+E08000026,Coventry,Larger Towns and Cities,Qualification below level 2 (age 16-24),19.255610798754706
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.30887482237437
+E08000028,Sandwell,Manufacturing Traits,Qualification below level 2 (age 16-24),25.68678031008164
+E08000029,Solihull,Town Living,Qualification below level 2 (age 16-24),20.181223256984644
+E08000030,Walsall,Manufacturing Traits,Qualification below level 2 (age 16-24),26.731966125905522
+E08000031,Wolverhampton,Manufacturing Traits,Qualification below level 2 (age 16-24),25.174114369611868
+E08000032,Bradford,Manufacturing Traits,Qualification below level 2 (age 16-24),25.880860201060614
+E08000033,Calderdale,Manufacturing Traits,Qualification below level 2 (age 16-24),21.693315858453474
+E08000034,Kirklees,Manufacturing Traits,Qualification below level 2 (age 16-24),21.30872858068408
+E08000035,Leeds,Larger Towns and Cities,Qualification below level 2 (age 16-24),16.914571541397923
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.963779527559055
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (age 16-24),24.42648147093983
+E09000001,City of London,,Qualification below level 2 (age 16-24),3.71713508612874
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),23.361492573167315
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),17.85369418273873
+E09000004,Bexley,Suburban Traits,Qualification below level 2 (age 16-24),21.168390499161934
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),21.113391482811696
+E09000006,Bromley,Rural-Urban Fringe,Qualification below level 2 (age 16-24),19.049155641604816
+E09000007,Camden,London Cosmopolitan,Qualification below level 2 (age 16-24),11.729995865749615
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),21.406547099028728
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),17.37197864338129
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),22.003808243727597
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),20.62478184991274
+E09000012,Hackney,London Cosmopolitan,Qualification below level 2 (age 16-24),19.739621204251932
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Qualification below level 2 (age 16-24),10.926323319027182
+E09000014,Haringey,London Cosmopolitan,Qualification below level 2 (age 16-24),21.004957691877586
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),19.119267449371176
+E09000016,Havering,Suburban Traits,Qualification below level 2 (age 16-24),21.636943427424118
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),19.865664481049098
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),20.14783599875652
+E09000019,Islington,London Cosmopolitan,Qualification below level 2 (age 16-24),13.638071383844707
+E09000020,Kensington and Chelsea,London Cosmopolitan,Qualification below level 2 (age 16-24),9.96018303916325
+E09000021,Kingston upon Thames,University Towns and Cities,Qualification below level 2 (age 16-24),15.851095767036927
+E09000022,Lambeth,London Cosmopolitan,Qualification below level 2 (age 16-24),13.941760208231656
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),19.586532389404063
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),18.51832731027362
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),18.890235146293303
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),17.315396987863725
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Qualification below level 2 (age 16-24),15.755584756898816
+E09000028,Southwark,London Cosmopolitan,Qualification below level 2 (age 16-24),14.273062308944947
+E09000029,Sutton,Suburban Traits,Qualification below level 2 (age 16-24),19.199101796407188
+E09000030,Tower Hamlets,London Cosmopolitan,Qualification below level 2 (age 16-24),13.133682951513478
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (age 16-24),20.202764976958527
+E09000032,Wandsworth,London Cosmopolitan,Qualification below level 2 (age 16-24),11.902539208364452
+E09000033,Westminster,,Qualification below level 2 (age 16-24),9.945883262466177
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),33.35957762134124
+E06000002,Middlesbrough,Manufacturing Traits,Qualification below level 2 (all),35.18800146835178
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),32.09416093069327
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),28.41942193841186
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),28.626379319276797
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),33.70763038074918
+E06000007,Warrington,Town Living,Qualification below level 2 (all),26.511291563835147
+E06000008,Blackburn with Darwen,Manufacturing Traits,Qualification below level 2 (all),36.8190743897212
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.71122008591733
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Qualification below level 2 (all),38.374661178596526
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Qualification below level 2 (all),28.32429509584189
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.902288763924204
+E06000013,North Lincolnshire,Country Living,Qualification below level 2 (all),33.73934424894765
+E06000014,York,Larger Towns and Cities,Qualification below level 2 (all),23.079188168520552
+E06000015,Derby,Manufacturing Traits,Qualification below level 2 (all),31.629065254927884
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),41.985980284775465
+E06000017,Rutland,English and Welsh Countryside,Qualification below level 2 (all),21.18882100976055
+E06000018,Nottingham,University Towns and Cities,Qualification below level 2 (all),34.41618790131801
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Qualification below level 2 (all),27.406967339255168
+E06000020,Telford and Wrekin,Manufacturing Traits,Qualification below level 2 (all),31.869865367194578
+E06000021,Stoke-on-Trent,Manufacturing Traits,Qualification below level 2 (all),38.477992313323576
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Qualification below level 2 (all),21.75781310706016
+E06000023,"Bristol, City of",Larger Towns and Cities,Qualification below level 2 (all),23.863817674727322
+E06000024,North Somerset,English and Welsh Countryside,Qualification below level 2 (all),24.429281495440573
+E06000025,South Gloucestershire,Town Living,Qualification below level 2 (all),24.881555060292534
+E06000026,Plymouth,Larger Towns and Cities,Qualification below level 2 (all),28.562301727176596
+E06000027,Torbay,Remoter Coastal Living,Qualification below level 2 (all),31.36819332032684
+E06000030,Swindon,Suburban Traits,Qualification below level 2 (all),30.656654709065485
+E06000031,Peterborough,Suburban Traits,Qualification below level 2 (all),35.063349953883176
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),35.84255345815607
+E06000033,Southend-on-Sea,Manufacturing Traits,Qualification below level 2 (all),32.11735788693379
+E06000034,Thurrock,Suburban Traits,Qualification below level 2 (all),34.745109335683
+E06000035,Medway,Suburban Traits,Qualification below level 2 (all),32.222726017188094
+E06000036,Bracknell Forest,Rural-Urban Fringe,Qualification below level 2 (all),23.97304309889555
+E06000037,West Berkshire,Thriving Rural,Qualification below level 2 (all),23.96966986007487
+E06000038,Reading,University Towns and Cities,Qualification below level 2 (all),26.48138121879324
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),32.03618398436349
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Qualification below level 2 (all),20.634261566000482
+E06000041,Wokingham,Thriving Rural,Qualification below level 2 (all),18.440927672319585
+E06000042,Milton Keynes,Suburban Traits,Qualification below level 2 (all),26.65546803781586
+E06000043,Brighton and Hove,University Towns and Cities,Qualification below level 2 (all),20.914551015144255
+E06000044,Portsmouth,Larger Towns and Cities,Qualification below level 2 (all),29.58450894191582
+E06000045,Southampton,Larger Towns and Cities,Qualification below level 2 (all),29.762154685898466
+E06000046,Isle of Wight,Remoter Coastal Living,Qualification below level 2 (all),29.12640597871216
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),31.807508240322193
+E06000049,Cheshire East,Country Living,Qualification below level 2 (all),23.61128179918889
+E06000050,Cheshire West and Chester,Town Living,Qualification below level 2 (all),25.609808094080798
+E06000051,Shropshire,English and Welsh Countryside,Qualification below level 2 (all),26.54325376742552
+E06000052,Cornwall,,Qualification below level 2 (all),26.55719139297848
+E06000053,Isles of Scilly,,Qualification below level 2 (all),18.934169278996865
+E06000054,Wiltshire,Country Living,Qualification below level 2 (all),24.568130338673143
+E06000055,Bedford,Suburban Traits,Qualification below level 2 (all),27.196017016502267
+E06000056,Central Bedfordshire,Thriving Rural,Qualification below level 2 (all),25.675411259956384
+E06000057,Northumberland,English and Welsh Countryside,Qualification below level 2 (all),27.51594866249193
+E06000058,"Bournemouth, Christchurch and Poole",,Qualification below level 2 (all),26.787310333224678
+E06000059,Dorset,,Qualification below level 2 (all),26.20706003751037
+E06000060,Buckinghamshire,,Qualification below level 2 (all),22.644740558165807
+E06000061,North Northamptonshire,,Qualification below level 2 (all),32.06801637314363
+E06000062,West Northamptonshire,,Qualification below level 2 (all),28.670533493945005
+E07000008,Cambridge,University Towns and Cities,Qualification below level 2 (all),16.971395032060155
+E07000009,East Cambridgeshire,Country Living,Qualification below level 2 (all),26.270375425550274
+E07000010,Fenland,Country Living,Qualification below level 2 (all),39.282070557912256
+E07000011,Huntingdonshire,Country Living,Qualification below level 2 (all),26.1728527360823
+E07000012,South Cambridgeshire,Thriving Rural,Qualification below level 2 (all),19.276642549022977
+E07000026,Allerdale,English and Welsh Countryside,Qualification below level 2 (all),30.94669515550156
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),28.65911043823397
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),30.89944982449152
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),32.18754407527553
+E07000030,Eden,English and Welsh Countryside,Qualification below level 2 (all),27.675215301898465
+E07000031,South Lakeland,English and Welsh Countryside,Qualification below level 2 (all),22.080751173708922
+E07000032,Amber Valley,Country Living,Qualification below level 2 (all),30.458169038230754
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.48771143682977
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),31.444968015373682
+E07000035,Derbyshire Dales,English and Welsh Countryside,Qualification below level 2 (all),24.471963216032535
+E07000036,Erewash,Country Living,Qualification below level 2 (all),31.388593008618187
+E07000037,High Peak,Town Living,Qualification below level 2 (all),24.18799869486548
+E07000038,North East Derbyshire,Town Living,Qualification below level 2 (all),31.040319088917173
+E07000039,South Derbyshire,Country Living,Qualification below level 2 (all),26.106159997909206
+E07000040,East Devon,Remoter Coastal Living,Qualification below level 2 (all),24.940026889043153
+E07000041,Exeter,Larger Towns and Cities,Qualification below level 2 (all),25.451049627551512
+E07000042,Mid Devon,English and Welsh Countryside,Qualification below level 2 (all),27.440872257724486
+E07000043,North Devon,Remoter Coastal Living,Qualification below level 2 (all),28.757003185762937
+E07000044,South Hams,English and Welsh Countryside,Qualification below level 2 (all),21.096677676891858
+E07000045,Teignbridge,Remoter Coastal Living,Qualification below level 2 (all),25.586161828191216
+E07000046,Torridge,English and Welsh Countryside,Qualification below level 2 (all),30.04703923808049
+E07000047,West Devon,English and Welsh Countryside,Qualification below level 2 (all),25.20368857242909
+E07000061,Eastbourne,Larger Towns and Cities,Qualification below level 2 (all),29.61161751321098
+E07000062,Hastings,Manufacturing Traits,Qualification below level 2 (all),30.9736680955297
+E07000063,Lewes,Remoter Coastal Living,Qualification below level 2 (all),26.05687306669561
+E07000064,Rother,Remoter Coastal Living,Qualification below level 2 (all),29.81216684998731
+E07000065,Wealden,English and Welsh Countryside,Qualification below level 2 (all),25.34987250586978
+E07000066,Basildon,Suburban Traits,Qualification below level 2 (all),34.529547198772065
+E07000067,Braintree,Country Living,Qualification below level 2 (all),30.94813447215824
+E07000068,Brentwood,Thriving Rural,Qualification below level 2 (all),25.14968983187989
+E07000069,Castle Point,Town Living,Qualification below level 2 (all),39.03217471921212
+E07000070,Chelmsford,Thriving Rural,Qualification below level 2 (all),26.031819586036452
+E07000071,Colchester,Thriving Rural,Qualification below level 2 (all),26.778252214742665
+E07000072,Epping Forest,Thriving Rural,Qualification below level 2 (all),30.019347963290606
+E07000073,Harlow,Suburban Traits,Qualification below level 2 (all),34.994052091159524
+E07000074,Maldon,Country Living,Qualification below level 2 (all),32.135224797997274
+E07000075,Rochford,Town Living,Qualification below level 2 (all),33.003779241281435
+E07000076,Tendring,Remoter Coastal Living,Qualification below level 2 (all),39.704425511986884
+E07000077,Uttlesford,Thriving Rural,Qualification below level 2 (all),23.534199453300165
+E07000078,Cheltenham,Larger Towns and Cities,Qualification below level 2 (all),21.913414648686675
+E07000079,Cotswold,English and Welsh Countryside,Qualification below level 2 (all),22.63410059925862
+E07000080,Forest of Dean,Country Living,Qualification below level 2 (all),29.297454227605474
+E07000081,Gloucester,Manufacturing Traits,Qualification below level 2 (all),30.39172680016669
+E07000082,Stroud,Country Living,Qualification below level 2 (all),22.179802955665025
+E07000083,Tewkesbury,Country Living,Qualification below level 2 (all),23.708149540820017
+E07000084,Basingstoke and Deane,Thriving Rural,Qualification below level 2 (all),24.62746282177097
+E07000085,East Hampshire,Thriving Rural,Qualification below level 2 (all),21.499548328816623
+E07000086,Eastleigh,Town Living,Qualification below level 2 (all),23.93388226619147
+E07000087,Fareham,Town Living,Qualification below level 2 (all),23.50657320210531
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),30.123351765206298
+E07000089,Hart,Thriving Rural,Qualification below level 2 (all),19.67963711106386
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),31.257835353113244
+E07000091,New Forest,Remoter Coastal Living,Qualification below level 2 (all),26.289453714903942
+E07000092,Rushmoor,Suburban Traits,Qualification below level 2 (all),30.896934348104416
+E07000093,Test Valley,Thriving Rural,Qualification below level 2 (all),23.89815664799046
+E07000094,Winchester,Thriving Rural,Qualification below level 2 (all),18.47311580882353
+E07000095,Broxbourne,Suburban Traits,Qualification below level 2 (all),33.952033966377876
+E07000096,Dacorum,Thriving Rural,Qualification below level 2 (all),24.981362000570645
+E07000098,Hertsmere,Rural-Urban Fringe,Qualification below level 2 (all),25.5313485673219
+E07000099,North Hertfordshire,Thriving Rural,Qualification below level 2 (all),22.717495718999288
+E07000102,Three Rivers,Rural-Urban Fringe,Qualification below level 2 (all),22.41857925155105
+E07000103,Watford,Suburban Traits,Qualification below level 2 (all),25.320757923357974
+E07000105,Ashford,Country Living,Qualification below level 2 (all),28.917836741231113
+E07000106,Canterbury,Larger Towns and Cities,Qualification below level 2 (all),27.876412266543692
+E07000107,Dartford,Suburban Traits,Qualification below level 2 (all),27.36986163774703
+E07000108,Dover,Remoter Coastal Living,Qualification below level 2 (all),30.578053791116673
+E07000109,Gravesham,Suburban Traits,Qualification below level 2 (all),33.040836531810726
+E07000110,Maidstone,Thriving Rural,Qualification below level 2 (all),28.58727275649784
+E07000111,Sevenoaks,Thriving Rural,Qualification below level 2 (all),25.492387204916888
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Qualification below level 2 (all),30.947631849548422
+E07000113,Swale,Country Living,Qualification below level 2 (all),34.885072806281926
+E07000114,Thanet,Remoter Coastal Living,Qualification below level 2 (all),33.16545347235884
+E07000115,Tonbridge and Malling,Thriving Rural,Qualification below level 2 (all),26.313589746337595
+E07000116,Tunbridge Wells,Thriving Rural,Qualification below level 2 (all),21.83050181675341
+E07000117,Burnley,Manufacturing Traits,Qualification below level 2 (all),36.06476636089393
+E07000118,Chorley,Town Living,Qualification below level 2 (all),25.276702210043485
+E07000119,Fylde,English and Welsh Countryside,Qualification below level 2 (all),25.228762411577648
+E07000120,Hyndburn,Manufacturing Traits,Qualification below level 2 (all),33.773591586700185
+E07000121,Lancaster,Larger Towns and Cities,Qualification below level 2 (all),26.61010573828729
+E07000122,Pendle,Manufacturing Traits,Qualification below level 2 (all),36.40631734499107
+E07000123,Preston,Larger Towns and Cities,Qualification below level 2 (all),30.86897558940121
+E07000124,Ribble Valley,English and Welsh Countryside,Qualification below level 2 (all),20.96420424635901
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),27.8351334180432
+E07000126,South Ribble,Town Living,Qualification below level 2 (all),25.490945401200705
+E07000127,West Lancashire,Town Living,Qualification below level 2 (all),29.096232054485764
+E07000128,Wyre,English and Welsh Countryside,Qualification below level 2 (all),30.34305501017385
+E07000129,Blaby,Town Living,Qualification below level 2 (all),27.984231203917982
+E07000130,Charnwood,Town Living,Qualification below level 2 (all),27.339887526803412
+E07000131,Harborough,Country Living,Qualification below level 2 (all),22.644043831742668
+E07000132,Hinckley and Bosworth,Country Living,Qualification below level 2 (all),29.487057139448886
+E07000133,Melton,Country Living,Qualification below level 2 (all),26.789712084135992
+E07000134,North West Leicestershire,Country Living,Qualification below level 2 (all),28.967194480425068
+E07000135,Oadby and Wigston,Town Living,Qualification below level 2 (all),29.817504655493483
+E07000136,Boston,Manufacturing Traits,Qualification below level 2 (all),41.21227794465774
+E07000137,East Lindsey,Remoter Coastal Living,Qualification below level 2 (all),37.25752077077538
+E07000138,Lincoln,Larger Towns and Cities,Qualification below level 2 (all),31.386224934612034
+E07000139,North Kesteven,English and Welsh Countryside,Qualification below level 2 (all),26.446721074260577
+E07000140,South Holland,Country Living,Qualification below level 2 (all),37.996951697220915
+E07000141,South Kesteven,Country Living,Qualification below level 2 (all),27.701199688195143
+E07000142,West Lindsey,English and Welsh Countryside,Qualification below level 2 (all),28.199519947733954
+E07000143,Breckland,English and Welsh Countryside,Qualification below level 2 (all),34.55788742718259
+E07000144,Broadland,Country Living,Qualification below level 2 (all),28.921489111480597
+E07000145,Great Yarmouth,Remoter Coastal Living,Qualification below level 2 (all),40.19506692528854
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Qualification below level 2 (all),35.7925690651123
+E07000147,North Norfolk,Remoter Coastal Living,Qualification below level 2 (all),32.159955998349936
+E07000148,Norwich,Larger Towns and Cities,Qualification below level 2 (all),29.376439969280653
+E07000149,South Norfolk,Country Living,Qualification below level 2 (all),27.353348288864492
+E07000163,Craven,English and Welsh Countryside,Qualification below level 2 (all),23.418027688834627
+E07000164,Hambleton,English and Welsh Countryside,Qualification below level 2 (all),24.166473385132782
+E07000165,Harrogate,English and Welsh Countryside,Qualification below level 2 (all),21.401115307298284
+E07000166,Richmondshire,English and Welsh Countryside,Qualification below level 2 (all),24.885864171274637
+E07000167,Ryedale,English and Welsh Countryside,Qualification below level 2 (all),27.585958682246805
+E07000168,Scarborough,Remoter Coastal Living,Qualification below level 2 (all),30.534202351221296
+E07000169,Selby,Country Living,Qualification below level 2 (all),26.476614699331847
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.07279098651526
+E07000171,Bassetlaw,Country Living,Qualification below level 2 (all),32.85049693381264
+E07000172,Broxtowe,Town Living,Qualification below level 2 (all),27.90833291974788
+E07000173,Gedling,Town Living,Qualification below level 2 (all),27.667975009870638
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.37697332948803
+E07000175,Newark and Sherwood,Country Living,Qualification below level 2 (all),29.597201825091645
+E07000176,Rushcliffe,Thriving Rural,Qualification below level 2 (all),19.221218427774097
+E07000177,Cherwell,Thriving Rural,Qualification below level 2 (all),26.570220924659026
+E07000178,Oxford,University Towns and Cities,Qualification below level 2 (all),22.7598770351816
+E07000179,South Oxfordshire,Thriving Rural,Qualification below level 2 (all),20.831703819580238
+E07000180,Vale of White Horse,Thriving Rural,Qualification below level 2 (all),20.8230834375126
+E07000181,West Oxfordshire,Thriving Rural,Qualification below level 2 (all),23.344388963807997
+E07000187,Mendip,English and Welsh Countryside,Qualification below level 2 (all),25.533792129874712
+E07000188,Sedgemoor,English and Welsh Countryside,Qualification below level 2 (all),31.011233499431768
+E07000189,South Somerset,English and Welsh Countryside,Qualification below level 2 (all),27.10947148172329
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),34.54685331977854
+E07000193,East Staffordshire,Country Living,Qualification below level 2 (all),31.06464665042071
+E07000194,Lichfield,Town Living,Qualification below level 2 (all),27.299831812853576
+E07000195,Newcastle-under-Lyme,Town Living,Qualification below level 2 (all),31.407029426570865
+E07000196,South Staffordshire,Town Living,Qualification below level 2 (all),29.77958495524756
+E07000197,Stafford,Town Living,Qualification below level 2 (all),25.309847367791814
+E07000198,Staffordshire Moorlands,Country Living,Qualification below level 2 (all),30.216216216216218
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),35.409589873779815
+E07000200,Babergh,Country Living,Qualification below level 2 (all),28.899568771506978
+E07000202,Ipswich,Manufacturing Traits,Qualification below level 2 (all),34.1438136102647
+E07000203,Mid Suffolk,Country Living,Qualification below level 2 (all),28.467400950044368
+E07000207,Elmbridge,Rural-Urban Fringe,Qualification below level 2 (all),16.706596720228013
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Qualification below level 2 (all),20.833186106498005
+E07000209,Guildford,Rural-Urban Fringe,Qualification below level 2 (all),20.213684210526317
+E07000210,Mole Valley,Thriving Rural,Qualification below level 2 (all),20.54478228989532
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Qualification below level 2 (all),21.781857657074294
+E07000212,Runnymede,Rural-Urban Fringe,Qualification below level 2 (all),25.8061234869291
+E07000213,Spelthorne,Rural-Urban Fringe,Qualification below level 2 (all),28.202449909790143
+E07000214,Surrey Heath,Rural-Urban Fringe,Qualification below level 2 (all),22.61834640543138
+E07000215,Tandridge,Thriving Rural,Qualification below level 2 (all),22.828273076861194
+E07000216,Waverley,Thriving Rural,Qualification below level 2 (all),18.50358273621063
+E07000217,Woking,Rural-Urban Fringe,Qualification below level 2 (all),21.460134748097435
+E07000218,North Warwickshire,Country Living,Qualification below level 2 (all),34.23254835996636
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Qualification below level 2 (all),35.19809609678873
+E07000220,Rugby,Suburban Traits,Qualification below level 2 (all),25.39351366032518
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Qualification below level 2 (all),23.13308240222084
+E07000222,Warwick,Larger Towns and Cities,Qualification below level 2 (all),20.850545134421345
+E07000223,Adur,Town Living,Qualification below level 2 (all),31.195994337988296
+E07000224,Arun,Remoter Coastal Living,Qualification below level 2 (all),31.354809341494544
+E07000225,Chichester,English and Welsh Countryside,Qualification below level 2 (all),23.891951488423373
+E07000226,Crawley,Suburban Traits,Qualification below level 2 (all),31.534551348165614
+E07000227,Horsham,Thriving Rural,Qualification below level 2 (all),21.83703344553329
+E07000228,Mid Sussex,Thriving Rural,Qualification below level 2 (all),20.752527006525433
+E07000229,Worthing,Manufacturing Traits,Qualification below level 2 (all),26.675037236727107
+E07000234,Bromsgrove,Town Living,Qualification below level 2 (all),24.762225874882343
+E07000235,Malvern Hills,English and Welsh Countryside,Qualification below level 2 (all),22.807194486468312
+E07000236,Redditch,Manufacturing Traits,Qualification below level 2 (all),33.06826997672614
+E07000237,Worcester,Manufacturing Traits,Qualification below level 2 (all),27.797190724141263
+E07000238,Wychavon,Country Living,Qualification below level 2 (all),27.83786525974026
+E07000239,Wyre Forest,Country Living,Qualification below level 2 (all),32.94538586363757
+E07000240,St Albans,Rural-Urban Fringe,Qualification below level 2 (all),16.469856450029642
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Qualification below level 2 (all),25.2339162825936
+E07000242,East Hertfordshire,Thriving Rural,Qualification below level 2 (all),23.458152870412814
+E07000243,Stevenage,Suburban Traits,Qualification below level 2 (all),30.096931053360382
+E07000244,East Suffolk,,Qualification below level 2 (all),30.904826833924187
+E07000245,West Suffolk,,Qualification below level 2 (all),31.33237900797096
+E07000246,Somerset West and Taunton,,Qualification below level 2 (all),25.898225546267785
+E08000001,Bolton,Manufacturing Traits,Qualification below level 2 (all),34.323443921018345
+E08000002,Bury,Manufacturing Traits,Qualification below level 2 (all),28.42902740852101
+E08000003,Manchester,University Towns and Cities,Qualification below level 2 (all),31.43085450539228
+E08000004,Oldham,Manufacturing Traits,Qualification below level 2 (all),37.19143576826197
+E08000005,Rochdale,Manufacturing Traits,Qualification below level 2 (all),34.821333616930765
+E08000006,Salford,Manufacturing Traits,Qualification below level 2 (all),30.41753932534201
+E08000007,Stockport,Town Living,Qualification below level 2 (all),24.746662642819082
+E08000008,Tameside,Manufacturing Traits,Qualification below level 2 (all),34.0523274814856
+E08000009,Trafford,Suburban Traits,Qualification below level 2 (all),22.37582362657792
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),32.30777712281654
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),37.74225700468825
+E08000012,Liverpool,Larger Towns and Cities,Qualification below level 2 (all),34.53098315707011
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),32.25395725188539
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),30.202254885176945
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),27.698640453961122
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.571068282126
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.69005289450485
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),35.646982589205095
+E08000019,Sheffield,Larger Towns and Cities,Qualification below level 2 (all),31.04077410526659
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Qualification below level 2 (all),30.697300206200946
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),27.056320973917597
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),31.29153153826743
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),34.7475887022187
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),36.9313560814191
+E08000026,Coventry,Larger Towns and Cities,Qualification below level 2 (all),32.31986107154002
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),34.886910930927264
+E08000028,Sandwell,Manufacturing Traits,Qualification below level 2 (all),42.47445261921375
+E08000029,Solihull,Town Living,Qualification below level 2 (all),27.673489081745096
+E08000030,Walsall,Manufacturing Traits,Qualification below level 2 (all),39.39152447027939
+E08000031,Wolverhampton,Manufacturing Traits,Qualification below level 2 (all),37.937968777132355
+E08000032,Bradford,Manufacturing Traits,Qualification below level 2 (all),36.258193659341124
+E08000033,Calderdale,Manufacturing Traits,Qualification below level 2 (all),29.598162717100813
+E08000034,Kirklees,Manufacturing Traits,Qualification below level 2 (all),31.700388447897314
+E08000035,Leeds,Larger Towns and Cities,Qualification below level 2 (all),29.55671246208737
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),36.122429565741285
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Qualification below level 2 (all),32.11479402732182
+E09000001,City of London,,Qualification below level 2 (all),9.391278464057152
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),34.67309319695353
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),22.68829092647652
+E09000004,Bexley,Suburban Traits,Qualification below level 2 (all),30.051773887390326
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),32.262024231513024
+E09000006,Bromley,Rural-Urban Fringe,Qualification below level 2 (all),22.702360787410267
+E09000007,Camden,London Cosmopolitan,Qualification below level 2 (all),18.28161694203966
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),25.314227974212983
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),27.230786853258444
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),33.19489603541081
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),25.1778187900696
+E09000012,Hackney,London Cosmopolitan,Qualification below level 2 (all),23.21764154806716
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Qualification below level 2 (all),17.94547585271079
+E09000014,Haringey,London Cosmopolitan,Qualification below level 2 (all),25.914083136382594
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),26.18310092046519
+E09000016,Havering,Suburban Traits,Qualification below level 2 (all),32.14918613809399
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),29.52465913023979
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),29.09225889863036
+E09000019,Islington,London Cosmopolitan,Qualification below level 2 (all),20.368487517404397
+E09000020,Kensington and Chelsea,London Cosmopolitan,Qualification below level 2 (all),16.53859839778421
+E09000021,Kingston upon Thames,University Towns and Cities,Qualification below level 2 (all),18.704637184084255
+E09000022,Lambeth,London Cosmopolitan,Qualification below level 2 (all),19.651122958955124
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),22.137430066344564
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),21.558922382102722
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),31.895697135645257
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),27.043512439404303
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Qualification below level 2 (all),13.64032654355235
+E09000028,Southwark,London Cosmopolitan,Qualification below level 2 (all),21.108081710495252
+E09000029,Sutton,Suburban Traits,Qualification below level 2 (all),24.776830130162413
+E09000030,Tower Hamlets,London Cosmopolitan,Qualification below level 2 (all),25.217391304347824
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),27.408200528632538
+E09000032,Wandsworth,London Cosmopolitan,Qualification below level 2 (all),14.77554741444803
+E09000033,Westminster,,Qualification below level 2 (all),19.227797134064502
