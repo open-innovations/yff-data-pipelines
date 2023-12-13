@@ -2780,3 +2780,312 @@ E09000030,Tower Hamlets,London Cosmopolitan,IMD Crime,0.509
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,IMD Crime,0.406
 E09000032,Wandsworth,London Cosmopolitan,IMD Crime,0.118
 E09000033,Westminster,,IMD Crime,0.105
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Lone parent households,11.085972850678733
+E06000002,Middlesbrough,Manufacturing Traits,Lone parent households,15.806988352745424
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Lone parent households,9.841269841269842
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Lone parent households,10.440835266821345
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Lone parent households,11.20507399577167
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Lone parent households,12.54416961130742
+E06000007,Warrington,Town Living,Lone parent households,7.638888888888889
+E06000008,Blackburn with Darwen,Manufacturing Traits,Lone parent households,11.879432624113475
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Lone parent households,13.5
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Lone parent households,13.095238095238097
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Lone parent households,7.636122177954848
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Lone parent households,10.0
+E06000013,North Lincolnshire,Country Living,Lone parent households,8.436724565756824
+E06000014,York,Larger Towns and Cities,Lone parent households,6.0373216245883645
+E06000015,Derby,Manufacturing Traits,Lone parent households,11.131898971000934
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Lone parent households,11.05223315669947
+E06000017,Rutland,English and Welsh Countryside,Lone parent households,4.191616766467066
+E06000018,Nottingham,University Towns and Cities,Lone parent households,13.285714285714286
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Lone parent households,7.192575406032482
+E06000020,Telford and Wrekin,Manufacturing Traits,Lone parent households,11.603650586701434
+E06000021,Stoke-on-Trent,Manufacturing Traits,Lone parent households,12.250453720508167
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Lone parent households,8.142493638676845
+E06000023,"Bristol, City of",Larger Towns and Cities,Lone parent households,8.432432432432432
+E06000024,North Somerset,English and Welsh Countryside,Lone parent households,8.75
+E06000025,South Gloucestershire,Town Living,Lone parent households,6.371681415929204
+E06000026,Plymouth,Larger Towns and Cities,Lone parent households,11.495246326707
+E06000027,Torbay,Remoter Coastal Living,Lone parent households,7.4074074074074066
+E06000030,Swindon,Suburban Traits,Lone parent households,8.098987626546682
+E06000031,Peterborough,Suburban Traits,Lone parent households,12.31527093596059
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Lone parent households,11.34020618556701
+E06000033,Southend-on-Sea,Manufacturing Traits,Lone parent households,9.90990990990991
+E06000034,Thurrock,Suburban Traits,Lone parent households,11.458333333333332
+E06000035,Medway,Suburban Traits,Lone parent households,9.251471825063078
+E06000036,Bracknell Forest,Rural-Urban Fringe,Lone parent households,8.064516129032258
+E06000037,West Berkshire,Thriving Rural,Lone parent households,6.912442396313365
+E06000038,Reading,University Towns and Cities,Lone parent households,7.749627421758569
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Lone parent households,14.174757281553399
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Lone parent households,7.580645161290322
+E06000041,Wokingham,Thriving Rural,Lone parent households,6.748466257668712
+E06000042,Milton Keynes,Suburban Traits,Lone parent households,10.746812386156648
+E06000043,Brighton and Hove,University Towns and Cities,Lone parent households,7.971586424625099
+E06000044,Portsmouth,Larger Towns and Cities,Lone parent households,8.781558726673985
+E06000045,Southampton,Larger Towns and Cities,Lone parent households,8.935361216730039
+E06000046,Isle of Wight,Remoter Coastal Living,Lone parent households,9.872611464968154
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Lone parent households,10.454344949272166
+E06000049,Cheshire East,Country Living,Lone parent households,9.611829944547134
+E06000050,Cheshire West and Chester,Town Living,Lone parent households,9.731543624161073
+E06000051,Shropshire,English and Welsh Countryside,Lone parent households,9.283625730994153
+E06000052,Cornwall,,Lone parent households,8.683584456780332
+E06000053,Isles of Scilly,,Lone parent households,
+E06000054,Wiltshire,Country Living,Lone parent households,8.184383819379114
+E06000055,Bedford,Suburban Traits,Lone parent households,10.781671159029651
+E06000056,Central Bedfordshire,Thriving Rural,Lone parent households,7.155322862129145
+E06000057,Northumberland,English and Welsh Countryside,Lone parent households,7.776261937244201
+E06000058,"Bournemouth, Christchurch and Poole",,Lone parent households,7.284020327498589
+E06000059,Dorset,,Lone parent households,5.669781931464175
+E06000060,Buckinghamshire,,Lone parent households,
+E06000061,North Northamptonshire,,Lone parent households,
+E06000062,West Northamptonshire,,Lone parent households,
+E07000008,Cambridge,University Towns and Cities,Lone parent households,7.664233576642336
+E07000009,East Cambridgeshire,Country Living,Lone parent households,4.657534246575342
+E07000010,Fenland,Country Living,Lone parent households,11.320754716981133
+E07000011,Huntingdonshire,Country Living,Lone parent households,8.519553072625698
+E07000012,South Cambridgeshire,Thriving Rural,Lone parent households,5.590062111801243
+E07000026,Allerdale,English and Welsh Countryside,Lone parent households,6.8557919621749415
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Lone parent households,14.432989690721648
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Lone parent households,11.178861788617885
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Lone parent households,8.532423208191126
+E07000030,Eden,English and Welsh Countryside,Lone parent households,6.382978723404255
+E07000031,South Lakeland,English and Welsh Countryside,Lone parent households,5.450236966824645
+E07000032,Amber Valley,Country Living,Lone parent households,6.0064935064935066
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Lone parent households,7.18562874251497
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Lone parent households,9.933774834437086
+E07000035,Derbyshire Dales,English and Welsh Countryside,Lone parent households,4.318936877076411
+E07000036,Erewash,Country Living,Lone parent households,11.064718162839249
+E07000037,High Peak,Town Living,Lone parent households,10.263157894736842
+E07000038,North East Derbyshire,Town Living,Lone parent households,
+E07000039,South Derbyshire,Country Living,Lone parent households,6.281407035175879
+E07000040,East Devon,Remoter Coastal Living,Lone parent households,7.958477508650519
+E07000041,Exeter,Larger Towns and Cities,Lone parent households,5.639097744360902
+E07000042,Mid Devon,English and Welsh Countryside,Lone parent households,9.253731343283581
+E07000043,North Devon,Remoter Coastal Living,Lone parent households,8.372093023255815
+E07000044,South Hams,English and Welsh Countryside,Lone parent households,3.8147138964577656
+E07000045,Teignbridge,Remoter Coastal Living,Lone parent households,7.645875251509055
+E07000046,Torridge,English and Welsh Countryside,Lone parent households,
+E07000047,West Devon,English and Welsh Countryside,Lone parent households,5.963302752293578
+E07000061,Eastbourne,Larger Towns and Cities,Lone parent households,10.337078651685392
+E07000062,Hastings,Manufacturing Traits,Lone parent households,7.710843373493977
+E07000063,Lewes,Remoter Coastal Living,Lone parent households,9.75609756097561
+E07000064,Rother,Remoter Coastal Living,Lone parent households,11.778290993071593
+E07000065,Wealden,English and Welsh Countryside,Lone parent households,6.656346749226007
+E07000066,Basildon,Suburban Traits,Lone parent households,9.448818897637794
+E07000067,Braintree,Country Living,Lone parent households,7.098765432098765
+E07000068,Brentwood,Thriving Rural,Lone parent households,8.875739644970414
+E07000069,Castle Point,Town Living,Lone parent households,7.82122905027933
+E07000070,Chelmsford,Thriving Rural,Lone parent households,4.887218045112782
+E07000071,Colchester,Thriving Rural,Lone parent households,10.526315789473683
+E07000072,Epping Forest,Thriving Rural,Lone parent households,15.925925925925927
+E07000073,Harlow,Suburban Traits,Lone parent households,14.366197183098592
+E07000074,Maldon,Country Living,Lone parent households,7.949790794979079
+E07000075,Rochford,Town Living,Lone parent households,7.183908045977011
+E07000076,Tendring,Remoter Coastal Living,Lone parent households,6.456692913385827
+E07000077,Uttlesford,Thriving Rural,Lone parent households,7.377049180327869
+E07000078,Cheltenham,Larger Towns and Cities,Lone parent households,6.614785992217899
+E07000079,Cotswold,English and Welsh Countryside,Lone parent households,6.091370558375635
+E07000080,Forest of Dean,Country Living,Lone parent households,10.723860589812332
+E07000081,Gloucester,Manufacturing Traits,Lone parent households,7.6208178438661704
+E07000082,Stroud,Country Living,Lone parent households,4.2592592592592595
+E07000083,Tewkesbury,Country Living,Lone parent households,7.6923076923076925
+E07000084,Basingstoke and Deane,Thriving Rural,Lone parent households,9.859154929577464
+E07000085,East Hampshire,Thriving Rural,Lone parent households,7.5
+E07000086,Eastleigh,Town Living,Lone parent households,10.556621880998081
+E07000087,Fareham,Town Living,Lone parent households,9.010989010989011
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Lone parent households,8.571428571428571
+E07000089,Hart,Thriving Rural,Lone parent households,3.880597014925373
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Lone parent households,11.11111111111111
+E07000091,New Forest,Remoter Coastal Living,Lone parent households,10.869565217391305
+E07000092,Rushmoor,Suburban Traits,Lone parent households,8.767123287671232
+E07000093,Test Valley,Thriving Rural,Lone parent households,8.897485493230175
+E07000094,Winchester,Thriving Rural,Lone parent households,4.526748971193416
+E07000095,Broxbourne,Suburban Traits,Lone parent households,16.195372750642672
+E07000096,Dacorum,Thriving Rural,Lone parent households,4.118616144975288
+E07000098,Hertsmere,Rural-Urban Fringe,Lone parent households,13.495575221238937
+E07000099,North Hertfordshire,Thriving Rural,Lone parent households,6.653992395437262
+E07000102,Three Rivers,Rural-Urban Fringe,Lone parent households,5.432098765432099
+E07000103,Watford,Suburban Traits,Lone parent households,7.263922518159806
+E07000105,Ashford,Country Living,Lone parent households,11.051693404634582
+E07000106,Canterbury,Larger Towns and Cities,Lone parent households,8.253968253968253
+E07000107,Dartford,Suburban Traits,Lone parent households,5.7007125890736345
+E07000108,Dover,Remoter Coastal Living,Lone parent households,4.615384615384616
+E07000109,Gravesham,Suburban Traits,Lone parent households,12.0
+E07000110,Maidstone,Thriving Rural,Lone parent households,14.697406340057636
+E07000111,Sevenoaks,Thriving Rural,Lone parent households,18.75
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Lone parent households,11.439842209072978
+E07000113,Swale,Country Living,Lone parent households,2.9644268774703555
+E07000114,Thanet,Remoter Coastal Living,Lone parent households,10.327868852459018
+E07000115,Tonbridge and Malling,Thriving Rural,Lone parent households,7.099391480730223
+E07000116,Tunbridge Wells,Thriving Rural,Lone parent households,10.657596371882086
+E07000117,Burnley,Manufacturing Traits,Lone parent households,17.78975741239892
+E07000118,Chorley,Town Living,Lone parent households,7.76255707762557
+E07000119,Fylde,English and Welsh Countryside,Lone parent households,6.725146198830409
+E07000120,Hyndburn,Manufacturing Traits,Lone parent households,11.918604651162791
+E07000121,Lancaster,Larger Towns and Cities,Lone parent households,9.136212624584719
+E07000122,Pendle,Manufacturing Traits,Lone parent households,11.598746081504702
+E07000123,Preston,Larger Towns and Cities,Lone parent households,10.806174957118353
+E07000124,Ribble Valley,English and Welsh Countryside,Lone parent households,7.114624505928854
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Lone parent households,11.486486486486488
+E07000126,South Ribble,Town Living,Lone parent households,9.713024282560706
+E07000127,West Lancashire,Town Living,Lone parent households,15.401785714285715
+E07000128,Wyre,English and Welsh Countryside,Lone parent households,16.19870410367171
+E07000129,Blaby,Town Living,Lone parent households,14.888337468982629
+E07000130,Charnwood,Town Living,Lone parent households,7.301173402868318
+E07000131,Harborough,Country Living,Lone parent households,12.362637362637363
+E07000132,Hinckley and Bosworth,Country Living,Lone parent households,9.164969450101832
+E07000133,Melton,Country Living,Lone parent households,8.256880733944955
+E07000134,North West Leicestershire,Country Living,Lone parent households,6.921241050119331
+E07000135,Oadby and Wigston,Town Living,Lone parent households,9.230769230769232
+E07000136,Boston,Manufacturing Traits,Lone parent households,10.70110701107011
+E07000137,East Lindsey,Remoter Coastal Living,Lone parent households,10.452418096723868
+E07000138,Lincoln,Larger Towns and Cities,Lone parent households,9.487179487179487
+E07000139,North Kesteven,English and Welsh Countryside,Lone parent households,9.341825902335456
+E07000140,South Holland,Country Living,Lone parent households,6.112469437652812
+E07000141,South Kesteven,Country Living,Lone parent households,8.305084745762711
+E07000142,West Lindsey,English and Welsh Countryside,Lone parent households,10.0
+E07000143,Breckland,English and Welsh Countryside,Lone parent households,6.779661016949152
+E07000144,Broadland,Country Living,Lone parent households,6.839186691312385
+E07000145,Great Yarmouth,Remoter Coastal Living,Lone parent households,10.933333333333334
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Lone parent households,7.642276422764227
+E07000147,North Norfolk,Remoter Coastal Living,Lone parent households,4.385964912280701
+E07000148,Norwich,Larger Towns and Cities,Lone parent households,11.696869851729819
+E07000149,South Norfolk,Country Living,Lone parent households,6.622516556291391
+E07000163,Craven,English and Welsh Countryside,Lone parent households,5.633802816901409
+E07000164,Hambleton,English and Welsh Countryside,Lone parent households,5.056179775280898
+E07000165,Harrogate,English and Welsh Countryside,Lone parent households,8.73362445414847
+E07000166,Richmondshire,English and Welsh Countryside,Lone parent households,9.734513274336283
+E07000167,Ryedale,English and Welsh Countryside,Lone parent households,5.752212389380531
+E07000168,Scarborough,Remoter Coastal Living,Lone parent households,15.351812366737741
+E07000169,Selby,Country Living,Lone parent households,9.116809116809117
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Lone parent households,6.5439672801636
+E07000171,Bassetlaw,Country Living,Lone parent households,10.953346855983773
+E07000172,Broxtowe,Town Living,Lone parent households,12.22707423580786
+E07000173,Gedling,Town Living,Lone parent households,13.372093023255813
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Lone parent households,13.569937369519833
+E07000175,Newark and Sherwood,Country Living,Lone parent households,7.361963190184049
+E07000176,Rushcliffe,Thriving Rural,Lone parent households,6.147540983606557
+E07000177,Cherwell,Thriving Rural,Lone parent households,6.913996627318718
+E07000178,Oxford,University Towns and Cities,Lone parent households,12.214983713355048
+E07000179,South Oxfordshire,Thriving Rural,Lone parent households,7.82608695652174
+E07000180,Vale of White Horse,Thriving Rural,Lone parent households,6.567796610169492
+E07000181,West Oxfordshire,Thriving Rural,Lone parent households,7.46606334841629
+E07000187,Mendip,English and Welsh Countryside,Lone parent households,8.316430020283976
+E07000188,Sedgemoor,English and Welsh Countryside,Lone parent households,9.576427255985267
+E07000189,South Somerset,English and Welsh Countryside,Lone parent households,8.575581395348838
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Lone parent households,11.401425178147269
+E07000193,East Staffordshire,Country Living,Lone parent households,7.676348547717843
+E07000194,Lichfield,Town Living,Lone parent households,7.158351409978309
+E07000195,Newcastle-under-Lyme,Town Living,Lone parent households,13.446969696969695
+E07000196,South Staffordshire,Town Living,Lone parent households,6.695464362850973
+E07000197,Stafford,Town Living,Lone parent households,8.253968253968253
+E07000198,Staffordshire Moorlands,Country Living,Lone parent households,8.018867924528301
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Lone parent households,13.245033112582782
+E07000200,Babergh,Country Living,Lone parent households,12.320916905444127
+E07000202,Ipswich,Manufacturing Traits,Lone parent households,9.859154929577464
+E07000203,Mid Suffolk,Country Living,Lone parent households,5.472636815920398
+E07000207,Elmbridge,Rural-Urban Fringe,Lone parent households,9.233791748526523
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Lone parent households,8.156028368794328
+E07000209,Guildford,Rural-Urban Fringe,Lone parent households,10.063897763578275
+E07000210,Mole Valley,Thriving Rural,Lone parent households,5.681818181818182
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Lone parent households,7.610619469026549
+E07000212,Runnymede,Rural-Urban Fringe,Lone parent households,9.770114942528735
+E07000213,Spelthorne,Rural-Urban Fringe,Lone parent households,13.368983957219251
+E07000214,Surrey Heath,Rural-Urban Fringe,Lone parent households,17.441860465116278
+E07000215,Tandridge,Thriving Rural,Lone parent households,4.815864022662889
+E07000216,Waverley,Thriving Rural,Lone parent households,5.298013245033113
+E07000217,Woking,Rural-Urban Fringe,Lone parent households,11.41439205955335
+E07000218,North Warwickshire,Country Living,Lone parent households,11.235955056179774
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Lone parent households,14.484126984126986
+E07000220,Rugby,Suburban Traits,Lone parent households,10.926365795724466
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Lone parent households,7.063197026022305
+E07000222,Warwick,Larger Towns and Cities,Lone parent households,9.278350515463918
+E07000223,Adur,Town Living,Lone parent households,6.2745098039215685
+E07000224,Arun,Remoter Coastal Living,Lone parent households,7.5524475524475525
+E07000225,Chichester,English and Welsh Countryside,Lone parent households,8.384458077709612
+E07000226,Crawley,Suburban Traits,Lone parent households,8.791208791208792
+E07000227,Horsham,Thriving Rural,Lone parent households,6.872852233676976
+E07000228,Mid Sussex,Thriving Rural,Lone parent households,7.496012759170653
+E07000229,Worthing,Manufacturing Traits,Lone parent households,9.555555555555555
+E07000234,Bromsgrove,Town Living,Lone parent households,6.666666666666667
+E07000235,Malvern Hills,English and Welsh Countryside,Lone parent households,
+E07000236,Redditch,Manufacturing Traits,Lone parent households,8.19672131147541
+E07000237,Worcester,Manufacturing Traits,Lone parent households,11.195928753180661
+E07000238,Wychavon,Country Living,Lone parent households,6.805293005671078
+E07000239,Wyre Forest,Country Living,Lone parent households,8.577878103837472
+E07000240,St Albans,Rural-Urban Fringe,Lone parent households,3.387096774193549
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Lone parent households,12.90983606557377
+E07000242,East Hertfordshire,Thriving Rural,Lone parent households,9.844559585492227
+E07000243,Stevenage,Suburban Traits,Lone parent households,8.868501529051988
+E07000244,East Suffolk,,Lone parent households,8.852140077821012
+E07000245,West Suffolk,,Lone parent households,5.229591836734694
+E07000246,Somerset West and Taunton,,Lone parent households,9.034267912772584
+E08000001,Bolton,Manufacturing Traits,Lone parent households,11.663807890222985
+E08000002,Bury,Manufacturing Traits,Lone parent households,9.6569250317662
+E08000003,Manchester,University Towns and Cities,Lone parent households,13.387607417458163
+E08000004,Oldham,Manufacturing Traits,Lone parent households,11.746031746031745
+E08000005,Rochdale,Manufacturing Traits,Lone parent households,14.11901983663944
+E08000006,Salford,Manufacturing Traits,Lone parent households,8.915441176470589
+E08000007,Stockport,Town Living,Lone parent households,10.909090909090908
+E08000008,Tameside,Manufacturing Traits,Lone parent households,11.846001974333662
+E08000009,Trafford,Suburban Traits,Lone parent households,8.64321608040201
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Lone parent households,10.407569141193596
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Lone parent households,17.896389324960754
+E08000012,Liverpool,Larger Towns and Cities,Lone parent households,13.915416098226466
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Lone parent households,10.70559610705596
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Lone parent households,11.14727420667209
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Lone parent households,12.301013024602025
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Lone parent households,10.246679316888045
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Lone parent households,10.978342046303212
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Lone parent households,13.084922010398614
+E08000019,Sheffield,Larger Towns and Cities,Lone parent households,10.40650406504065
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Lone parent households,9.403669724770642
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Lone parent households,11.413612565445026
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Lone parent households,12.973760932944606
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Lone parent households,11.590727418065548
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Lone parent households,14.255319148936172
+E08000026,Coventry,Larger Towns and Cities,Lone parent households,12.040133779264215
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Lone parent households,11.37370753323486
+E08000028,Sandwell,Manufacturing Traits,Lone parent households,13.186813186813188
+E08000029,Solihull,Town Living,Lone parent households,9.662921348314606
+E08000030,Walsall,Manufacturing Traits,Lone parent households,10.405643738977071
+E08000031,Wolverhampton,Manufacturing Traits,Lone parent households,14.173228346456693
+E08000032,Bradford,Manufacturing Traits,Lone parent households,11.462047885888946
+E08000033,Calderdale,Manufacturing Traits,Lone parent households,10.790598290598291
+E08000034,Kirklees,Manufacturing Traits,Lone parent households,10.179977502812148
+E08000035,Leeds,Larger Towns and Cities,Lone parent households,8.958396598846036
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Lone parent households,11.528150134048257
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Lone parent households,8.223684210526317
+E09000001,City of London,,Lone parent households,
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Lone parent households,21.568627450980394
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Lone parent households,12.440516655336506
+E09000004,Bexley,Suburban Traits,Lone parent households,10.467479674796747
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Lone parent households,16.461916461916463
+E09000006,Bromley,Rural-Urban Fringe,Lone parent households,5.315870570107858
+E09000007,Camden,London Cosmopolitan,Lone parent households,12.934027777777779
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Lone parent households,15.650406504065039
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Lone parent households,8.823529411764707
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Lone parent households,16.984126984126984
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Lone parent households,15.675165250236073
+E09000012,Hackney,London Cosmopolitan,Lone parent households,16.974169741697416
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Lone parent households,8.937823834196891
+E09000014,Haringey,London Cosmopolitan,Lone parent households,14.906832298136646
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Lone parent households,8.463251670378618
+E09000016,Havering,Suburban Traits,Lone parent households,12.984496124031008
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Lone parent households,11.188811188811188
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Lone parent households,9.254013220018887
+E09000019,Islington,London Cosmopolitan,Lone parent households,12.65004616805171
+E09000020,Kensington and Chelsea,London Cosmopolitan,Lone parent households,12.834224598930483
+E09000021,Kingston upon Thames,University Towns and Cities,Lone parent households,7.296137339055794
+E09000022,Lambeth,London Cosmopolitan,Lone parent households,12.538940809968846
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Lone parent households,14.571657325860688
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Lone parent households,9.044585987261145
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Lone parent households,17.8432893716059
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Lone parent households,9.407337723424272
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Lone parent households,7.850707850707852
+E09000028,Southwark,London Cosmopolitan,Lone parent households,17.244033872209393
+E09000029,Sutton,Suburban Traits,Lone parent households,16.91919191919192
+E09000030,Tower Hamlets,London Cosmopolitan,Lone parent households,7.588932806324111
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Lone parent households,14.522058823529413
+E09000032,Wandsworth,London Cosmopolitan,Lone parent households,5.6674123788217745
+E09000033,Westminster,,Lone parent households,11.604095563139932
