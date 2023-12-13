@@ -84,9 +84,10 @@ def main():
 
     # Pupils with SEN support
     # https://explore-education-statistics.service.gov.uk/data-tables/fast-track/2522256d-6975-4d8b-aad4-3e5310e4ebe8
+    # https://explore-education-statistics.service.gov.uk/data-tables/permalink/b56bb8ce-90bb-4e46-af62-08dbfa4e7cea
     download_url_to_file(
         url='https://content.explore-education-statistics.service.gov.uk/api/releases/77bc898f-948d-4080-b092-3ebc3eb1e0a5/files',
-        local_file='pupils_with_sen.zip'
+        local_file='special-educational-needs-in-england_2022-23.zip'
     )
 
     # Qualification below level 2 (age 16-24)

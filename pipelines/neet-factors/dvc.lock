@@ -22,12 +22,12 @@ stages:
     deps:
     - path: download.py
       hash: md5
-      md5: dde3bb1f37484820ea7d66069a92e066
-      size: 7178
+      md5: 3f9cea74c27228da7af1640307f2e528
+      size: 7324
     outs:
     - path: ../../data/raw/neet-factors/
       hash: md5
-      md5: 034d1015110377c832eb4f18389afaf5.dir
+      md5: 9c428f30affeaba20994bc1ea8537ef6.dir
       size: 136933095
       nfiles: 14
   collate:

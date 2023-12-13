@@ -3089,3 +3089,312 @@ E09000030,Tower Hamlets,London Cosmopolitan,Lone parent households,7.58893280632
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Lone parent households,14.522058823529413
 E09000032,Wandsworth,London Cosmopolitan,Lone parent households,5.6674123788217745
 E09000033,Westminster,,Lone parent households,11.604095563139932
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,15.28107680126
+E06000002,Middlesbrough,Manufacturing Traits,Pupils with SEN support,14.16955684007
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,14.43101758969
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,12.67552402825
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,13.77622805407
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,14.86330784539
+E06000007,Warrington,Town Living,Pupils with SEN support,11.39654087107
+E06000008,Blackburn with Darwen,Manufacturing Traits,Pupils with SEN support,13.89792261233
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,16.54277874781
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Pupils with SEN support,13.71620555142
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Pupils with SEN support,11.36517043536
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,12.73893104987
+E06000013,North Lincolnshire,Country Living,Pupils with SEN support,14.02801612323
+E06000014,York,Larger Towns and Cities,Pupils with SEN support,10.7656183293
+E06000015,Derby,Manufacturing Traits,Pupils with SEN support,13.09667413406
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,11.59424909942
+E06000017,Rutland,English and Welsh Countryside,Pupils with SEN support,11.29443163896
+E06000018,Nottingham,University Towns and Cities,Pupils with SEN support,13.80197751591
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Pupils with SEN support,15.39435171268
+E06000020,Telford and Wrekin,Manufacturing Traits,Pupils with SEN support,14.99410038423
+E06000021,Stoke-on-Trent,Manufacturing Traits,Pupils with SEN support,14.67753891771
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Pupils with SEN support,13.50355926957
+E06000023,"Bristol, City of",Larger Towns and Cities,Pupils with SEN support,15.56452183761
+E06000024,North Somerset,English and Welsh Countryside,Pupils with SEN support,11.34331110359
+E06000025,South Gloucestershire,Town Living,Pupils with SEN support,12.63129999036
+E06000026,Plymouth,Larger Towns and Cities,Pupils with SEN support,14.13318139027
+E06000027,Torbay,Remoter Coastal Living,Pupils with SEN support,12.56158837016
+E06000030,Swindon,Suburban Traits,Pupils with SEN support,13.08257720578
+E06000031,Peterborough,Suburban Traits,Pupils with SEN support,10.7182400231
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,13.26309712801
+E06000033,Southend-on-Sea,Manufacturing Traits,Pupils with SEN support,9.93408082799
+E06000034,Thurrock,Suburban Traits,Pupils with SEN support,11.09353746876
+E06000035,Medway,Suburban Traits,Pupils with SEN support,13.37520172658
+E06000036,Bracknell Forest,Rural-Urban Fringe,Pupils with SEN support,13.06546275395
+E06000037,West Berkshire,Thriving Rural,Pupils with SEN support,13.31043506705
+E06000038,Reading,University Towns and Cities,Pupils with SEN support,13.15161593521
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,10.3430443027
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Pupils with SEN support,12.0549678417
+E06000041,Wokingham,Thriving Rural,Pupils with SEN support,10.66411989421
+E06000042,Milton Keynes,Suburban Traits,Pupils with SEN support,10.70972415502
+E06000043,Brighton and Hove,University Towns and Cities,Pupils with SEN support,15.73713549399
+E06000044,Portsmouth,Larger Towns and Cities,Pupils with SEN support,14.85721893097
+E06000045,Southampton,Larger Towns and Cities,Pupils with SEN support,15.09056593143
+E06000046,Isle of Wight,Remoter Coastal Living,Pupils with SEN support,16.45704660303
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,14.64002620373
+E06000049,Cheshire East,Country Living,Pupils with SEN support,9.91615020051
+E06000050,Cheshire West and Chester,Town Living,Pupils with SEN support,12.2756947665
+E06000051,Shropshire,English and Welsh Countryside,Pupils with SEN support,13.2107804954
+E06000052,Cornwall,,Pupils with SEN support,14.28124633488
+E06000053,Isles of Scilly,,Pupils with SEN support,5.32319391634
+E06000054,Wiltshire,Country Living,Pupils with SEN support,14.7028575148
+E06000055,Bedford,Suburban Traits,Pupils with SEN support,11.19328291814
+E06000056,Central Bedfordshire,Thriving Rural,Pupils with SEN support,11.91551677907
+E06000057,Northumberland,English and Welsh Countryside,Pupils with SEN support,13.11827490454
+E06000058,"Bournemouth, Christchurch and Poole",,Pupils with SEN support,13.66014129321
+E06000059,Dorset,,Pupils with SEN support,15.47374706123
+E06000060,Buckinghamshire,,Pupils with SEN support,11.14793091881
+E06000061,North Northamptonshire,,Pupils with SEN support,11.19829787234
+E06000062,West Northamptonshire,,Pupils with SEN support,11.86378460799
+E07000008,Cambridge,University Towns and Cities,Pupils with SEN support,
+E07000009,East Cambridgeshire,Country Living,Pupils with SEN support,
+E07000010,Fenland,Country Living,Pupils with SEN support,
+E07000011,Huntingdonshire,Country Living,Pupils with SEN support,
+E07000012,South Cambridgeshire,Thriving Rural,Pupils with SEN support,
+E07000026,Allerdale,English and Welsh Countryside,Pupils with SEN support,
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000030,Eden,English and Welsh Countryside,Pupils with SEN support,
+E07000031,South Lakeland,English and Welsh Countryside,Pupils with SEN support,
+E07000032,Amber Valley,Country Living,Pupils with SEN support,
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000035,Derbyshire Dales,English and Welsh Countryside,Pupils with SEN support,
+E07000036,Erewash,Country Living,Pupils with SEN support,
+E07000037,High Peak,Town Living,Pupils with SEN support,
+E07000038,North East Derbyshire,Town Living,Pupils with SEN support,
+E07000039,South Derbyshire,Country Living,Pupils with SEN support,
+E07000040,East Devon,Remoter Coastal Living,Pupils with SEN support,
+E07000041,Exeter,Larger Towns and Cities,Pupils with SEN support,
+E07000042,Mid Devon,English and Welsh Countryside,Pupils with SEN support,
+E07000043,North Devon,Remoter Coastal Living,Pupils with SEN support,
+E07000044,South Hams,English and Welsh Countryside,Pupils with SEN support,
+E07000045,Teignbridge,Remoter Coastal Living,Pupils with SEN support,
+E07000046,Torridge,English and Welsh Countryside,Pupils with SEN support,
+E07000047,West Devon,English and Welsh Countryside,Pupils with SEN support,
+E07000061,Eastbourne,Larger Towns and Cities,Pupils with SEN support,
+E07000062,Hastings,Manufacturing Traits,Pupils with SEN support,
+E07000063,Lewes,Remoter Coastal Living,Pupils with SEN support,
+E07000064,Rother,Remoter Coastal Living,Pupils with SEN support,
+E07000065,Wealden,English and Welsh Countryside,Pupils with SEN support,
+E07000066,Basildon,Suburban Traits,Pupils with SEN support,
+E07000067,Braintree,Country Living,Pupils with SEN support,
+E07000068,Brentwood,Thriving Rural,Pupils with SEN support,
+E07000069,Castle Point,Town Living,Pupils with SEN support,
+E07000070,Chelmsford,Thriving Rural,Pupils with SEN support,
+E07000071,Colchester,Thriving Rural,Pupils with SEN support,
+E07000072,Epping Forest,Thriving Rural,Pupils with SEN support,
+E07000073,Harlow,Suburban Traits,Pupils with SEN support,
+E07000074,Maldon,Country Living,Pupils with SEN support,
+E07000075,Rochford,Town Living,Pupils with SEN support,
+E07000076,Tendring,Remoter Coastal Living,Pupils with SEN support,
+E07000077,Uttlesford,Thriving Rural,Pupils with SEN support,
+E07000078,Cheltenham,Larger Towns and Cities,Pupils with SEN support,
+E07000079,Cotswold,English and Welsh Countryside,Pupils with SEN support,
+E07000080,Forest of Dean,Country Living,Pupils with SEN support,
+E07000081,Gloucester,Manufacturing Traits,Pupils with SEN support,
+E07000082,Stroud,Country Living,Pupils with SEN support,
+E07000083,Tewkesbury,Country Living,Pupils with SEN support,
+E07000084,Basingstoke and Deane,Thriving Rural,Pupils with SEN support,
+E07000085,East Hampshire,Thriving Rural,Pupils with SEN support,
+E07000086,Eastleigh,Town Living,Pupils with SEN support,
+E07000087,Fareham,Town Living,Pupils with SEN support,
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000089,Hart,Thriving Rural,Pupils with SEN support,
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000091,New Forest,Remoter Coastal Living,Pupils with SEN support,
+E07000092,Rushmoor,Suburban Traits,Pupils with SEN support,
+E07000093,Test Valley,Thriving Rural,Pupils with SEN support,
+E07000094,Winchester,Thriving Rural,Pupils with SEN support,
+E07000095,Broxbourne,Suburban Traits,Pupils with SEN support,
+E07000096,Dacorum,Thriving Rural,Pupils with SEN support,
+E07000098,Hertsmere,Rural-Urban Fringe,Pupils with SEN support,
+E07000099,North Hertfordshire,Thriving Rural,Pupils with SEN support,
+E07000102,Three Rivers,Rural-Urban Fringe,Pupils with SEN support,
+E07000103,Watford,Suburban Traits,Pupils with SEN support,
+E07000105,Ashford,Country Living,Pupils with SEN support,
+E07000106,Canterbury,Larger Towns and Cities,Pupils with SEN support,
+E07000107,Dartford,Suburban Traits,Pupils with SEN support,
+E07000108,Dover,Remoter Coastal Living,Pupils with SEN support,
+E07000109,Gravesham,Suburban Traits,Pupils with SEN support,
+E07000110,Maidstone,Thriving Rural,Pupils with SEN support,
+E07000111,Sevenoaks,Thriving Rural,Pupils with SEN support,
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Pupils with SEN support,
+E07000113,Swale,Country Living,Pupils with SEN support,
+E07000114,Thanet,Remoter Coastal Living,Pupils with SEN support,
+E07000115,Tonbridge and Malling,Thriving Rural,Pupils with SEN support,
+E07000116,Tunbridge Wells,Thriving Rural,Pupils with SEN support,
+E07000117,Burnley,Manufacturing Traits,Pupils with SEN support,
+E07000118,Chorley,Town Living,Pupils with SEN support,
+E07000119,Fylde,English and Welsh Countryside,Pupils with SEN support,
+E07000120,Hyndburn,Manufacturing Traits,Pupils with SEN support,
+E07000121,Lancaster,Larger Towns and Cities,Pupils with SEN support,
+E07000122,Pendle,Manufacturing Traits,Pupils with SEN support,
+E07000123,Preston,Larger Towns and Cities,Pupils with SEN support,
+E07000124,Ribble Valley,English and Welsh Countryside,Pupils with SEN support,
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000126,South Ribble,Town Living,Pupils with SEN support,
+E07000127,West Lancashire,Town Living,Pupils with SEN support,
+E07000128,Wyre,English and Welsh Countryside,Pupils with SEN support,
+E07000129,Blaby,Town Living,Pupils with SEN support,
+E07000130,Charnwood,Town Living,Pupils with SEN support,
+E07000131,Harborough,Country Living,Pupils with SEN support,
+E07000132,Hinckley and Bosworth,Country Living,Pupils with SEN support,
+E07000133,Melton,Country Living,Pupils with SEN support,
+E07000134,North West Leicestershire,Country Living,Pupils with SEN support,
+E07000135,Oadby and Wigston,Town Living,Pupils with SEN support,
+E07000136,Boston,Manufacturing Traits,Pupils with SEN support,
+E07000137,East Lindsey,Remoter Coastal Living,Pupils with SEN support,
+E07000138,Lincoln,Larger Towns and Cities,Pupils with SEN support,
+E07000139,North Kesteven,English and Welsh Countryside,Pupils with SEN support,
+E07000140,South Holland,Country Living,Pupils with SEN support,
+E07000141,South Kesteven,Country Living,Pupils with SEN support,
+E07000142,West Lindsey,English and Welsh Countryside,Pupils with SEN support,
+E07000143,Breckland,English and Welsh Countryside,Pupils with SEN support,
+E07000144,Broadland,Country Living,Pupils with SEN support,
+E07000145,Great Yarmouth,Remoter Coastal Living,Pupils with SEN support,
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Pupils with SEN support,
+E07000147,North Norfolk,Remoter Coastal Living,Pupils with SEN support,
+E07000148,Norwich,Larger Towns and Cities,Pupils with SEN support,
+E07000149,South Norfolk,Country Living,Pupils with SEN support,
+E07000163,Craven,English and Welsh Countryside,Pupils with SEN support,
+E07000164,Hambleton,English and Welsh Countryside,Pupils with SEN support,
+E07000165,Harrogate,English and Welsh Countryside,Pupils with SEN support,
+E07000166,Richmondshire,English and Welsh Countryside,Pupils with SEN support,
+E07000167,Ryedale,English and Welsh Countryside,Pupils with SEN support,
+E07000168,Scarborough,Remoter Coastal Living,Pupils with SEN support,
+E07000169,Selby,Country Living,Pupils with SEN support,
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000171,Bassetlaw,Country Living,Pupils with SEN support,
+E07000172,Broxtowe,Town Living,Pupils with SEN support,
+E07000173,Gedling,Town Living,Pupils with SEN support,
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000175,Newark and Sherwood,Country Living,Pupils with SEN support,
+E07000176,Rushcliffe,Thriving Rural,Pupils with SEN support,
+E07000177,Cherwell,Thriving Rural,Pupils with SEN support,
+E07000178,Oxford,University Towns and Cities,Pupils with SEN support,
+E07000179,South Oxfordshire,Thriving Rural,Pupils with SEN support,
+E07000180,Vale of White Horse,Thriving Rural,Pupils with SEN support,
+E07000181,West Oxfordshire,Thriving Rural,Pupils with SEN support,
+E07000187,Mendip,English and Welsh Countryside,Pupils with SEN support,
+E07000188,Sedgemoor,English and Welsh Countryside,Pupils with SEN support,
+E07000189,South Somerset,English and Welsh Countryside,Pupils with SEN support,
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000193,East Staffordshire,Country Living,Pupils with SEN support,
+E07000194,Lichfield,Town Living,Pupils with SEN support,
+E07000195,Newcastle-under-Lyme,Town Living,Pupils with SEN support,
+E07000196,South Staffordshire,Town Living,Pupils with SEN support,
+E07000197,Stafford,Town Living,Pupils with SEN support,
+E07000198,Staffordshire Moorlands,Country Living,Pupils with SEN support,
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,
+E07000200,Babergh,Country Living,Pupils with SEN support,
+E07000202,Ipswich,Manufacturing Traits,Pupils with SEN support,
+E07000203,Mid Suffolk,Country Living,Pupils with SEN support,
+E07000207,Elmbridge,Rural-Urban Fringe,Pupils with SEN support,
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Pupils with SEN support,
+E07000209,Guildford,Rural-Urban Fringe,Pupils with SEN support,
+E07000210,Mole Valley,Thriving Rural,Pupils with SEN support,
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Pupils with SEN support,
+E07000212,Runnymede,Rural-Urban Fringe,Pupils with SEN support,
+E07000213,Spelthorne,Rural-Urban Fringe,Pupils with SEN support,
+E07000214,Surrey Heath,Rural-Urban Fringe,Pupils with SEN support,
+E07000215,Tandridge,Thriving Rural,Pupils with SEN support,
+E07000216,Waverley,Thriving Rural,Pupils with SEN support,
+E07000217,Woking,Rural-Urban Fringe,Pupils with SEN support,
+E07000218,North Warwickshire,Country Living,Pupils with SEN support,
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Pupils with SEN support,
+E07000220,Rugby,Suburban Traits,Pupils with SEN support,
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Pupils with SEN support,
+E07000222,Warwick,Larger Towns and Cities,Pupils with SEN support,
+E07000223,Adur,Town Living,Pupils with SEN support,
+E07000224,Arun,Remoter Coastal Living,Pupils with SEN support,
+E07000225,Chichester,English and Welsh Countryside,Pupils with SEN support,
+E07000226,Crawley,Suburban Traits,Pupils with SEN support,
+E07000227,Horsham,Thriving Rural,Pupils with SEN support,
+E07000228,Mid Sussex,Thriving Rural,Pupils with SEN support,
+E07000229,Worthing,Manufacturing Traits,Pupils with SEN support,
+E07000234,Bromsgrove,Town Living,Pupils with SEN support,
+E07000235,Malvern Hills,English and Welsh Countryside,Pupils with SEN support,
+E07000236,Redditch,Manufacturing Traits,Pupils with SEN support,
+E07000237,Worcester,Manufacturing Traits,Pupils with SEN support,
+E07000238,Wychavon,Country Living,Pupils with SEN support,
+E07000239,Wyre Forest,Country Living,Pupils with SEN support,
+E07000240,St Albans,Rural-Urban Fringe,Pupils with SEN support,
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Pupils with SEN support,
+E07000242,East Hertfordshire,Thriving Rural,Pupils with SEN support,
+E07000243,Stevenage,Suburban Traits,Pupils with SEN support,
+E07000244,East Suffolk,,Pupils with SEN support,
+E07000245,West Suffolk,,Pupils with SEN support,
+E07000246,Somerset West and Taunton,,Pupils with SEN support,
+E08000001,Bolton,Manufacturing Traits,Pupils with SEN support,11.72228655647
+E08000002,Bury,Manufacturing Traits,Pupils with SEN support,11.89510333152
+E08000003,Manchester,University Towns and Cities,Pupils with SEN support,14.16474055532
+E08000004,Oldham,Manufacturing Traits,Pupils with SEN support,12.47579762606
+E08000005,Rochdale,Manufacturing Traits,Pupils with SEN support,12.74514890526
+E08000006,Salford,Manufacturing Traits,Pupils with SEN support,16.19002652996
+E08000007,Stockport,Town Living,Pupils with SEN support,12.92895068487
+E08000008,Tameside,Manufacturing Traits,Pupils with SEN support,13.99968218655
+E08000009,Trafford,Suburban Traits,Pupils with SEN support,10.28892350218
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,14.83812392959
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,15.87671105317
+E08000012,Liverpool,Larger Towns and Cities,Pupils with SEN support,16.44364059496
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,15.53310805952
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,13.85312740951
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,15.50027597495
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,11.56975758603
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,13.07546128854
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,15.78301100732
+E08000019,Sheffield,Larger Towns and Cities,Pupils with SEN support,14.75120037408
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Pupils with SEN support,12.74782683167
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,12.36960232661
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,17.20841300191
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,14.83921605936
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,14.119153556
+E08000026,Coventry,Larger Towns and Cities,Pupils with SEN support,15.79909261426
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,13.71740698752
+E08000028,Sandwell,Manufacturing Traits,Pupils with SEN support,12.80949653109
+E08000029,Solihull,Town Living,Pupils with SEN support,13.68593878269
+E08000030,Walsall,Manufacturing Traits,Pupils with SEN support,12.83958661381
+E08000031,Wolverhampton,Manufacturing Traits,Pupils with SEN support,13.74704191195
+E08000032,Bradford,Manufacturing Traits,Pupils with SEN support,13.45056123817
+E08000033,Calderdale,Manufacturing Traits,Pupils with SEN support,12.27818890745
+E08000034,Kirklees,Manufacturing Traits,Pupils with SEN support,12.70231213872
+E08000035,Leeds,Larger Towns and Cities,Pupils with SEN support,15.00205628341
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,13.51628973994
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Pupils with SEN support,12.92897569274
+E09000001,City of London,,Pupils with SEN support,11.2168592794
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,12.01567356945
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,10.82091666194
+E09000004,Bexley,Suburban Traits,Pupils with SEN support,10.6353746706
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,10.85054390666
+E09000006,Bromley,Rural-Urban Fringe,Pupils with SEN support,12.60072884052
+E09000007,Camden,London Cosmopolitan,Pupils with SEN support,14.05172413793
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,13.56958567309
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,10.89775727798
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,11.01913585591
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,15.54120541205
+E09000012,Hackney,London Cosmopolitan,Pupils with SEN support,13.92996636037
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Pupils with SEN support,12.1577950299
+E09000014,Haringey,London Cosmopolitan,Pupils with SEN support,12.89824060865
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,10.16388895309
+E09000016,Havering,Suburban Traits,Pupils with SEN support,8.69656377402
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,11.06910788634
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,13.8143477362
+E09000019,Islington,London Cosmopolitan,Pupils with SEN support,16.16913421306
+E09000020,Kensington and Chelsea,London Cosmopolitan,Pupils with SEN support,12.5981688708
+E09000021,Kingston upon Thames,University Towns and Cities,Pupils with SEN support,11.26872302614
+E09000022,Lambeth,London Cosmopolitan,Pupils with SEN support,13.92591444513
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,14.7506873746
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,13.49337242685
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,10.05106848648
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,9.76253725541
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Pupils with SEN support,11.00910470409
+E09000028,Southwark,London Cosmopolitan,Pupils with SEN support,14.53910842586
+E09000029,Sutton,Suburban Traits,Pupils with SEN support,9.56924437411
+E09000030,Tower Hamlets,London Cosmopolitan,Pupils with SEN support,12.40013965046
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Pupils with SEN support,11.52926987246
+E09000032,Wandsworth,London Cosmopolitan,Pupils with SEN support,13.86861313868
+E09000033,Westminster,,Pupils with SEN support,13.56473934861
