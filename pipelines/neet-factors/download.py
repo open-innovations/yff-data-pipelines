@@ -113,7 +113,7 @@ def main():
     # https://explore-education-statistics.service.gov.uk/find-statistics/permanent-and-fixed-period-exclusions-in-england#explore-data-and-files
     download_url_to_file(
         url='https://content.explore-education-statistics.service.gov.uk/api/releases/dc547ce0-9486-4862-fd0e-08dbd13dc3fc/files',
-        local_file='exclusions_and_suspensions.zip'
+        local_file='permanent-and-fixed-period-exclusions-in-england_2022-23-autumn-term.zip'
     )
 
     # Socially renting households

@@ -4016,3 +4016,930 @@ E09000030,Tower Hamlets,London Cosmopolitan,Qualification below level 2 (all),25
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Qualification below level 2 (all),27.408200528632538
 E09000032,Wandsworth,London Cosmopolitan,Qualification below level 2 (all),14.77554741444803
 E09000033,Westminster,,Qualification below level 2 (all),19.227797134064502
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Absences,7.947627044900425
+E06000002,Middlesbrough,Manufacturing Traits,School Absences,8.776107045563805
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Absences,7.883449783492394
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Absences,7.732061921826945
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Absences,7.6749654895587565
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Absences,8.120454681896355
+E06000007,Warrington,Town Living,School Absences,7.099195063150009
+E06000008,Blackburn with Darwen,Manufacturing Traits,School Absences,7.38042295554566
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Absences,7.898404462877356
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Absences,8.019742053950747
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Absences,7.447074707357632
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Absences,7.938493134796104
+E06000013,North Lincolnshire,Country Living,School Absences,8.027325881731285
+E06000014,York,Larger Towns and Cities,School Absences,7.5866007452444135
+E06000015,Derby,Manufacturing Traits,School Absences,7.596693837292934
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Absences,6.969684082076665
+E06000017,Rutland,English and Welsh Countryside,School Absences,6.501473806510334
+E06000018,Nottingham,University Towns and Cities,School Absences,7.62491223127512
+E06000019,"Herefordshire, County of",English and Welsh Countryside,School Absences,7.718692316010424
+E06000020,Telford and Wrekin,Manufacturing Traits,School Absences,7.7804299742589444
+E06000021,Stoke-on-Trent,Manufacturing Traits,School Absences,8.182911621446962
+E06000022,Bath and North East Somerset,Larger Towns and Cities,School Absences,7.651085797993618
+E06000023,"Bristol, City of",Larger Towns and Cities,School Absences,8.336138346887882
+E06000024,North Somerset,English and Welsh Countryside,School Absences,8.02890860858177
+E06000025,South Gloucestershire,Town Living,School Absences,7.44148248808593
+E06000026,Plymouth,Larger Towns and Cities,School Absences,8.776680317110044
+E06000027,Torbay,Remoter Coastal Living,School Absences,9.180185955728327
+E06000030,Swindon,Suburban Traits,School Absences,7.590399910225106
+E06000031,Peterborough,Suburban Traits,School Absences,7.871207178124105
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Absences,7.593441950147943
+E06000033,Southend-on-Sea,Manufacturing Traits,School Absences,7.196448571328919
+E06000034,Thurrock,Suburban Traits,School Absences,6.897351635530112
+E06000035,Medway,Suburban Traits,School Absences,7.664214337117056
+E06000036,Bracknell Forest,Rural-Urban Fringe,School Absences,6.702209985888301
+E06000037,West Berkshire,Thriving Rural,School Absences,7.089863808179107
+E06000038,Reading,University Towns and Cities,School Absences,7.567988571992538
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Absences,7.336416867517367
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Absences,7.283880985252389
+E06000041,Wokingham,Thriving Rural,School Absences,6.888574910876938
+E06000042,Milton Keynes,Suburban Traits,School Absences,7.4451138787579625
+E06000043,Brighton and Hove,University Towns and Cities,School Absences,8.179987368587641
+E06000044,Portsmouth,Larger Towns and Cities,School Absences,8.259685612175794
+E06000045,Southampton,Larger Towns and Cities,School Absences,8.081114124189916
+E06000046,Isle of Wight,Remoter Coastal Living,School Absences,7.718056819613292
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Absences,8.13552640817999
+E06000049,Cheshire East,Country Living,School Absences,7.442481905786943
+E06000050,Cheshire West and Chester,Town Living,School Absences,7.782593512467652
+E06000051,Shropshire,English and Welsh Countryside,School Absences,7.9435153745665845
+E06000052,Cornwall,,School Absences,8.3057867162402
+E06000053,Isles of Scilly,,School Absences,6.381909547738693
+E06000054,Wiltshire,Country Living,School Absences,7.526203512354693
+E06000055,Bedford,Suburban Traits,School Absences,7.3567560447912665
+E06000056,Central Bedfordshire,Thriving Rural,School Absences,7.616202618202532
+E06000057,Northumberland,English and Welsh Countryside,School Absences,7.909516380655226
+E06000058,"Bournemouth, Christchurch and Poole",,School Absences,7.733075519961173
+E06000059,Dorset,,School Absences,8.197340485602115
+E06000060,Buckinghamshire,,School Absences,
+E06000061,North Northamptonshire,,School Absences,7.8762699407419205
+E06000062,West Northamptonshire,,School Absences,7.292335724024921
+E07000008,Cambridge,University Towns and Cities,School Absences,
+E07000009,East Cambridgeshire,Country Living,School Absences,
+E07000010,Fenland,Country Living,School Absences,
+E07000011,Huntingdonshire,Country Living,School Absences,
+E07000012,South Cambridgeshire,Thriving Rural,School Absences,
+E07000026,Allerdale,English and Welsh Countryside,School Absences,
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000030,Eden,English and Welsh Countryside,School Absences,
+E07000031,South Lakeland,English and Welsh Countryside,School Absences,
+E07000032,Amber Valley,Country Living,School Absences,
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000035,Derbyshire Dales,English and Welsh Countryside,School Absences,
+E07000036,Erewash,Country Living,School Absences,
+E07000037,High Peak,Town Living,School Absences,
+E07000038,North East Derbyshire,Town Living,School Absences,
+E07000039,South Derbyshire,Country Living,School Absences,
+E07000040,East Devon,Remoter Coastal Living,School Absences,
+E07000041,Exeter,Larger Towns and Cities,School Absences,
+E07000042,Mid Devon,English and Welsh Countryside,School Absences,
+E07000043,North Devon,Remoter Coastal Living,School Absences,
+E07000044,South Hams,English and Welsh Countryside,School Absences,
+E07000045,Teignbridge,Remoter Coastal Living,School Absences,
+E07000046,Torridge,English and Welsh Countryside,School Absences,
+E07000047,West Devon,English and Welsh Countryside,School Absences,
+E07000061,Eastbourne,Larger Towns and Cities,School Absences,
+E07000062,Hastings,Manufacturing Traits,School Absences,
+E07000063,Lewes,Remoter Coastal Living,School Absences,
+E07000064,Rother,Remoter Coastal Living,School Absences,
+E07000065,Wealden,English and Welsh Countryside,School Absences,
+E07000066,Basildon,Suburban Traits,School Absences,
+E07000067,Braintree,Country Living,School Absences,
+E07000068,Brentwood,Thriving Rural,School Absences,
+E07000069,Castle Point,Town Living,School Absences,
+E07000070,Chelmsford,Thriving Rural,School Absences,
+E07000071,Colchester,Thriving Rural,School Absences,
+E07000072,Epping Forest,Thriving Rural,School Absences,
+E07000073,Harlow,Suburban Traits,School Absences,
+E07000074,Maldon,Country Living,School Absences,
+E07000075,Rochford,Town Living,School Absences,
+E07000076,Tendring,Remoter Coastal Living,School Absences,
+E07000077,Uttlesford,Thriving Rural,School Absences,
+E07000078,Cheltenham,Larger Towns and Cities,School Absences,
+E07000079,Cotswold,English and Welsh Countryside,School Absences,
+E07000080,Forest of Dean,Country Living,School Absences,
+E07000081,Gloucester,Manufacturing Traits,School Absences,
+E07000082,Stroud,Country Living,School Absences,
+E07000083,Tewkesbury,Country Living,School Absences,
+E07000084,Basingstoke and Deane,Thriving Rural,School Absences,
+E07000085,East Hampshire,Thriving Rural,School Absences,
+E07000086,Eastleigh,Town Living,School Absences,
+E07000087,Fareham,Town Living,School Absences,
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000089,Hart,Thriving Rural,School Absences,
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000091,New Forest,Remoter Coastal Living,School Absences,
+E07000092,Rushmoor,Suburban Traits,School Absences,
+E07000093,Test Valley,Thriving Rural,School Absences,
+E07000094,Winchester,Thriving Rural,School Absences,
+E07000095,Broxbourne,Suburban Traits,School Absences,
+E07000096,Dacorum,Thriving Rural,School Absences,
+E07000098,Hertsmere,Rural-Urban Fringe,School Absences,
+E07000099,North Hertfordshire,Thriving Rural,School Absences,
+E07000102,Three Rivers,Rural-Urban Fringe,School Absences,
+E07000103,Watford,Suburban Traits,School Absences,
+E07000105,Ashford,Country Living,School Absences,
+E07000106,Canterbury,Larger Towns and Cities,School Absences,
+E07000107,Dartford,Suburban Traits,School Absences,
+E07000108,Dover,Remoter Coastal Living,School Absences,
+E07000109,Gravesham,Suburban Traits,School Absences,
+E07000110,Maidstone,Thriving Rural,School Absences,
+E07000111,Sevenoaks,Thriving Rural,School Absences,
+E07000112,Folkestone and Hythe,Remoter Coastal Living,School Absences,
+E07000113,Swale,Country Living,School Absences,
+E07000114,Thanet,Remoter Coastal Living,School Absences,
+E07000115,Tonbridge and Malling,Thriving Rural,School Absences,
+E07000116,Tunbridge Wells,Thriving Rural,School Absences,
+E07000117,Burnley,Manufacturing Traits,School Absences,
+E07000118,Chorley,Town Living,School Absences,
+E07000119,Fylde,English and Welsh Countryside,School Absences,
+E07000120,Hyndburn,Manufacturing Traits,School Absences,
+E07000121,Lancaster,Larger Towns and Cities,School Absences,
+E07000122,Pendle,Manufacturing Traits,School Absences,
+E07000123,Preston,Larger Towns and Cities,School Absences,
+E07000124,Ribble Valley,English and Welsh Countryside,School Absences,
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000126,South Ribble,Town Living,School Absences,
+E07000127,West Lancashire,Town Living,School Absences,
+E07000128,Wyre,English and Welsh Countryside,School Absences,
+E07000129,Blaby,Town Living,School Absences,
+E07000130,Charnwood,Town Living,School Absences,
+E07000131,Harborough,Country Living,School Absences,
+E07000132,Hinckley and Bosworth,Country Living,School Absences,
+E07000133,Melton,Country Living,School Absences,
+E07000134,North West Leicestershire,Country Living,School Absences,
+E07000135,Oadby and Wigston,Town Living,School Absences,
+E07000136,Boston,Manufacturing Traits,School Absences,
+E07000137,East Lindsey,Remoter Coastal Living,School Absences,
+E07000138,Lincoln,Larger Towns and Cities,School Absences,
+E07000139,North Kesteven,English and Welsh Countryside,School Absences,
+E07000140,South Holland,Country Living,School Absences,
+E07000141,South Kesteven,Country Living,School Absences,
+E07000142,West Lindsey,English and Welsh Countryside,School Absences,
+E07000143,Breckland,English and Welsh Countryside,School Absences,
+E07000144,Broadland,Country Living,School Absences,
+E07000145,Great Yarmouth,Remoter Coastal Living,School Absences,
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,School Absences,
+E07000147,North Norfolk,Remoter Coastal Living,School Absences,
+E07000148,Norwich,Larger Towns and Cities,School Absences,
+E07000149,South Norfolk,Country Living,School Absences,
+E07000163,Craven,English and Welsh Countryside,School Absences,
+E07000164,Hambleton,English and Welsh Countryside,School Absences,
+E07000165,Harrogate,English and Welsh Countryside,School Absences,
+E07000166,Richmondshire,English and Welsh Countryside,School Absences,
+E07000167,Ryedale,English and Welsh Countryside,School Absences,
+E07000168,Scarborough,Remoter Coastal Living,School Absences,
+E07000169,Selby,Country Living,School Absences,
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000171,Bassetlaw,Country Living,School Absences,
+E07000172,Broxtowe,Town Living,School Absences,
+E07000173,Gedling,Town Living,School Absences,
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000175,Newark and Sherwood,Country Living,School Absences,
+E07000176,Rushcliffe,Thriving Rural,School Absences,
+E07000177,Cherwell,Thriving Rural,School Absences,
+E07000178,Oxford,University Towns and Cities,School Absences,
+E07000179,South Oxfordshire,Thriving Rural,School Absences,
+E07000180,Vale of White Horse,Thriving Rural,School Absences,
+E07000181,West Oxfordshire,Thriving Rural,School Absences,
+E07000187,Mendip,English and Welsh Countryside,School Absences,
+E07000188,Sedgemoor,English and Welsh Countryside,School Absences,
+E07000189,South Somerset,English and Welsh Countryside,School Absences,
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000193,East Staffordshire,Country Living,School Absences,
+E07000194,Lichfield,Town Living,School Absences,
+E07000195,Newcastle-under-Lyme,Town Living,School Absences,
+E07000196,South Staffordshire,Town Living,School Absences,
+E07000197,Stafford,Town Living,School Absences,
+E07000198,Staffordshire Moorlands,Country Living,School Absences,
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",School Absences,
+E07000200,Babergh,Country Living,School Absences,
+E07000202,Ipswich,Manufacturing Traits,School Absences,
+E07000203,Mid Suffolk,Country Living,School Absences,
+E07000207,Elmbridge,Rural-Urban Fringe,School Absences,
+E07000208,Epsom and Ewell,Rural-Urban Fringe,School Absences,
+E07000209,Guildford,Rural-Urban Fringe,School Absences,
+E07000210,Mole Valley,Thriving Rural,School Absences,
+E07000211,Reigate and Banstead,Rural-Urban Fringe,School Absences,
+E07000212,Runnymede,Rural-Urban Fringe,School Absences,
+E07000213,Spelthorne,Rural-Urban Fringe,School Absences,
+E07000214,Surrey Heath,Rural-Urban Fringe,School Absences,
+E07000215,Tandridge,Thriving Rural,School Absences,
+E07000216,Waverley,Thriving Rural,School Absences,
+E07000217,Woking,Rural-Urban Fringe,School Absences,
+E07000218,North Warwickshire,Country Living,School Absences,
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,School Absences,
+E07000220,Rugby,Suburban Traits,School Absences,
+E07000221,Stratford-on-Avon,English and Welsh Countryside,School Absences,
+E07000222,Warwick,Larger Towns and Cities,School Absences,
+E07000223,Adur,Town Living,School Absences,
+E07000224,Arun,Remoter Coastal Living,School Absences,
+E07000225,Chichester,English and Welsh Countryside,School Absences,
+E07000226,Crawley,Suburban Traits,School Absences,
+E07000227,Horsham,Thriving Rural,School Absences,
+E07000228,Mid Sussex,Thriving Rural,School Absences,
+E07000229,Worthing,Manufacturing Traits,School Absences,
+E07000234,Bromsgrove,Town Living,School Absences,
+E07000235,Malvern Hills,English and Welsh Countryside,School Absences,
+E07000236,Redditch,Manufacturing Traits,School Absences,
+E07000237,Worcester,Manufacturing Traits,School Absences,
+E07000238,Wychavon,Country Living,School Absences,
+E07000239,Wyre Forest,Country Living,School Absences,
+E07000240,St Albans,Rural-Urban Fringe,School Absences,
+E07000241,Welwyn Hatfield,Larger Towns and Cities,School Absences,
+E07000242,East Hertfordshire,Thriving Rural,School Absences,
+E07000243,Stevenage,Suburban Traits,School Absences,
+E07000244,East Suffolk,,School Absences,
+E07000245,West Suffolk,,School Absences,
+E07000246,Somerset West and Taunton,,School Absences,
+E08000001,Bolton,Manufacturing Traits,School Absences,6.890522928561828
+E08000002,Bury,Manufacturing Traits,School Absences,7.122048876737895
+E08000003,Manchester,University Towns and Cities,School Absences,7.119342563259905
+E08000004,Oldham,Manufacturing Traits,School Absences,7.730788222715546
+E08000005,Rochdale,Manufacturing Traits,School Absences,7.9139359064837835
+E08000006,Salford,Manufacturing Traits,School Absences,8.278185914089958
+E08000007,Stockport,Town Living,School Absences,7.160869468429788
+E08000008,Tameside,Manufacturing Traits,School Absences,7.204258576554261
+E08000009,Trafford,Suburban Traits,School Absences,6.424420211972276
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Absences,7.713467861312067
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Absences,8.822130036676317
+E08000012,Liverpool,Larger Towns and Cities,School Absences,8.134640969067696
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Absences,8.42177314351973
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Absences,8.007706362452353
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Absences,8.229102139836861
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Absences,8.059022148314183
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Absences,8.374832277791963
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Absences,8.174303217372957
+E08000019,Sheffield,Larger Towns and Cities,School Absences,7.94768811035854
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Absences,8.678039297119797
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Absences,7.103613191062216
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Absences,7.53622674433021
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Absences,8.36736234278501
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Absences,7.813047369342387
+E08000026,Coventry,Larger Towns and Cities,School Absences,7.610546098162664
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Absences,8.000861007777345
+E08000028,Sandwell,Manufacturing Traits,School Absences,7.436098021107658
+E08000029,Solihull,Town Living,School Absences,7.858355259376159
+E08000030,Walsall,Manufacturing Traits,School Absences,7.909347757913605
+E08000031,Wolverhampton,Manufacturing Traits,School Absences,6.999186297799448
+E08000032,Bradford,Manufacturing Traits,School Absences,9.036250887769043
+E08000033,Calderdale,Manufacturing Traits,School Absences,7.384880140520066
+E08000034,Kirklees,Manufacturing Traits,School Absences,7.442938086070456
+E08000035,Leeds,Larger Towns and Cities,School Absences,7.524823065583798
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Absences,7.786330371324776
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Absences,8.264905451828705
+E09000001,City of London,,School Absences,4.263968620931501
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Absences,6.638890697509892
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Absences,6.527264886647523
+E09000004,Bexley,Suburban Traits,School Absences,6.834513236287128
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Absences,6.304455729777028
+E09000006,Bromley,Rural-Urban Fringe,School Absences,6.840224499898963
+E09000007,Camden,London Cosmopolitan,School Absences,7.701000847623394
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Absences,7.005755541831464
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Absences,6.453277382477615
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Absences,6.949931200979728
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Absences,6.54320501165672
+E09000012,Hackney,London Cosmopolitan,School Absences,6.3988315902518895
+E09000013,Hammersmith and Fulham,London Cosmopolitan,School Absences,6.879310326732082
+E09000014,Haringey,London Cosmopolitan,School Absences,6.915397641095964
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Absences,6.248267087422145
+E09000016,Havering,Suburban Traits,School Absences,6.744212703450378
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Absences,6.925135794077722
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Absences,6.858452742761906
+E09000019,Islington,London Cosmopolitan,School Absences,7.293266809207255
+E09000020,Kensington and Chelsea,London Cosmopolitan,School Absences,7.0426980303070055
+E09000021,Kingston upon Thames,University Towns and Cities,School Absences,6.540548191995882
+E09000022,Lambeth,London Cosmopolitan,School Absences,6.596919263242874
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Absences,6.142672991832095
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Absences,6.633756592859774
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Absences,6.586692411510393
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Absences,6.464606498141371
+E09000027,Richmond upon Thames,Rural-Urban Fringe,School Absences,6.69406804374603
+E09000028,Southwark,London Cosmopolitan,School Absences,6.296252848311632
+E09000029,Sutton,Suburban Traits,School Absences,6.916140042048497
+E09000030,Tower Hamlets,London Cosmopolitan,School Absences,6.150389244654967
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Absences,6.770535098870899
+E09000032,Wandsworth,London Cosmopolitan,School Absences,6.493081099420249
+E09000033,Westminster,,School Absences,7.345093911410758
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10480807022140706
+E06000002,Middlesbrough,Manufacturing Traits,School Exclusions,0.17743080198722497
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Exclusions,0.3067769824300456
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Exclusions,0.11802341833090038
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Exclusions,0.18782870022539444
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Exclusions,0.14179182858943387
+E06000007,Warrington,Town Living,School Exclusions,0.03369788316024876
+E06000008,Blackburn with Darwen,Manufacturing Traits,School Exclusions,0.0651206541007923
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Exclusions,0.12713588283157037
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Exclusions,0.04963482946890732
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Exclusions,0.07903749890225696
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10365701965337093
+E06000013,North Lincolnshire,Country Living,School Exclusions,0.08476628723661904
+E06000014,York,Larger Towns and Cities,School Exclusions,0.043130489335006274
+E06000015,Derby,Manufacturing Traits,School Exclusions,0.04554771122751082
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03369101965870997
+E06000017,Rutland,English and Welsh Countryside,School Exclusions,0.1520013511231211
+E06000018,Nottingham,University Towns and Cities,School Exclusions,0.17899512966740208
+E06000019,"Herefordshire, County of",English and Welsh Countryside,School Exclusions,0.10617965597791462
+E06000020,Telford and Wrekin,Manufacturing Traits,School Exclusions,0.08940259906127271
+E06000021,Stoke-on-Trent,Manufacturing Traits,School Exclusions,0.13789706968726914
+E06000022,Bath and North East Somerset,Larger Towns and Cities,School Exclusions,0.04713218765861794
+E06000023,"Bristol, City of",Larger Towns and Cities,School Exclusions,0.02275978670828456
+E06000024,North Somerset,English and Welsh Countryside,School Exclusions,0.08015903552648454
+E06000025,South Gloucestershire,Town Living,School Exclusions,0.06947546027492432
+E06000026,Plymouth,Larger Towns and Cities,School Exclusions,0.11480763343198286
+E06000027,Torbay,Remoter Coastal Living,School Exclusions,0.19824552708529514
+E06000030,Swindon,Suburban Traits,School Exclusions,0.10966716016888743
+E06000031,Peterborough,Suburban Traits,School Exclusions,0.11529688949043787
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Exclusions,0.04539722572509458
+E06000033,Southend-on-Sea,Manufacturing Traits,School Exclusions,0.03232375472734913
+E06000034,Thurrock,Suburban Traits,School Exclusions,0.05826374053214216
+E06000035,Medway,Suburban Traits,School Exclusions,0.07783535773540075
+E06000036,Bracknell Forest,Rural-Urban Fringe,School Exclusions,0.005360780529645117
+E06000037,West Berkshire,Thriving Rural,School Exclusions,0.06366087477531457
+E06000038,Reading,University Towns and Cities,School Exclusions,0.06355124348599754
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Exclusions,0.07555152614082805
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Exclusions,0.12452192475317975
+E06000041,Wokingham,Thriving Rural,School Exclusions,0.04129955947136564
+E06000042,Milton Keynes,Suburban Traits,School Exclusions,0.0
+E06000043,Brighton and Hove,University Towns and Cities,School Exclusions,0.012739259212076817
+E06000044,Portsmouth,Larger Towns and Cities,School Exclusions,0.03308701885960075
+E06000045,Southampton,Larger Towns and Cities,School Exclusions,0.04494516689638641
+E06000046,Isle of Wight,Remoter Coastal Living,School Exclusions,0.04156275976724855
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10350557023397705
+E06000049,Cheshire East,Country Living,School Exclusions,0.05870214885441867
+E06000050,Cheshire West and Chester,Town Living,School Exclusions,0.0836055374086172
+E06000051,Shropshire,English and Welsh Countryside,School Exclusions,0.13626040878122633
+E06000052,Cornwall,,School Exclusions,0.10750809670353298
+E06000053,Isles of Scilly,,School Exclusions,0.0
+E06000054,Wiltshire,Country Living,School Exclusions,0.004254957024934048
+E06000055,Bedford,Suburban Traits,School Exclusions,0.1638055300746953
+E06000056,Central Bedfordshire,Thriving Rural,School Exclusions,0.09441857470869724
+E06000057,Northumberland,English and Welsh Countryside,School Exclusions,0.17327981399837689
+E06000058,"Bournemouth, Christchurch and Poole",,School Exclusions,0.14413047600986156
+E06000059,Dorset,,School Exclusions,0.049540716276189486
+E06000060,Buckinghamshire,,School Exclusions,0.018189672813260272
+E06000061,North Northamptonshire,,School Exclusions,0.12101071035093107
+E06000062,West Northamptonshire,,School Exclusions,0.06322635033419642
+E07000008,Cambridge,University Towns and Cities,School Exclusions,
+E07000009,East Cambridgeshire,Country Living,School Exclusions,
+E07000010,Fenland,Country Living,School Exclusions,
+E07000011,Huntingdonshire,Country Living,School Exclusions,
+E07000012,South Cambridgeshire,Thriving Rural,School Exclusions,
+E07000026,Allerdale,English and Welsh Countryside,School Exclusions,
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000030,Eden,English and Welsh Countryside,School Exclusions,
+E07000031,South Lakeland,English and Welsh Countryside,School Exclusions,
+E07000032,Amber Valley,Country Living,School Exclusions,
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000035,Derbyshire Dales,English and Welsh Countryside,School Exclusions,
+E07000036,Erewash,Country Living,School Exclusions,
+E07000037,High Peak,Town Living,School Exclusions,
+E07000038,North East Derbyshire,Town Living,School Exclusions,
+E07000039,South Derbyshire,Country Living,School Exclusions,
+E07000040,East Devon,Remoter Coastal Living,School Exclusions,
+E07000041,Exeter,Larger Towns and Cities,School Exclusions,
+E07000042,Mid Devon,English and Welsh Countryside,School Exclusions,
+E07000043,North Devon,Remoter Coastal Living,School Exclusions,
+E07000044,South Hams,English and Welsh Countryside,School Exclusions,
+E07000045,Teignbridge,Remoter Coastal Living,School Exclusions,
+E07000046,Torridge,English and Welsh Countryside,School Exclusions,
+E07000047,West Devon,English and Welsh Countryside,School Exclusions,
+E07000061,Eastbourne,Larger Towns and Cities,School Exclusions,
+E07000062,Hastings,Manufacturing Traits,School Exclusions,
+E07000063,Lewes,Remoter Coastal Living,School Exclusions,
+E07000064,Rother,Remoter Coastal Living,School Exclusions,
+E07000065,Wealden,English and Welsh Countryside,School Exclusions,
+E07000066,Basildon,Suburban Traits,School Exclusions,
+E07000067,Braintree,Country Living,School Exclusions,
+E07000068,Brentwood,Thriving Rural,School Exclusions,
+E07000069,Castle Point,Town Living,School Exclusions,
+E07000070,Chelmsford,Thriving Rural,School Exclusions,
+E07000071,Colchester,Thriving Rural,School Exclusions,
+E07000072,Epping Forest,Thriving Rural,School Exclusions,
+E07000073,Harlow,Suburban Traits,School Exclusions,
+E07000074,Maldon,Country Living,School Exclusions,
+E07000075,Rochford,Town Living,School Exclusions,
+E07000076,Tendring,Remoter Coastal Living,School Exclusions,
+E07000077,Uttlesford,Thriving Rural,School Exclusions,
+E07000078,Cheltenham,Larger Towns and Cities,School Exclusions,
+E07000079,Cotswold,English and Welsh Countryside,School Exclusions,
+E07000080,Forest of Dean,Country Living,School Exclusions,
+E07000081,Gloucester,Manufacturing Traits,School Exclusions,
+E07000082,Stroud,Country Living,School Exclusions,
+E07000083,Tewkesbury,Country Living,School Exclusions,
+E07000084,Basingstoke and Deane,Thriving Rural,School Exclusions,
+E07000085,East Hampshire,Thriving Rural,School Exclusions,
+E07000086,Eastleigh,Town Living,School Exclusions,
+E07000087,Fareham,Town Living,School Exclusions,
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000089,Hart,Thriving Rural,School Exclusions,
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000091,New Forest,Remoter Coastal Living,School Exclusions,
+E07000092,Rushmoor,Suburban Traits,School Exclusions,
+E07000093,Test Valley,Thriving Rural,School Exclusions,
+E07000094,Winchester,Thriving Rural,School Exclusions,
+E07000095,Broxbourne,Suburban Traits,School Exclusions,
+E07000096,Dacorum,Thriving Rural,School Exclusions,
+E07000098,Hertsmere,Rural-Urban Fringe,School Exclusions,
+E07000099,North Hertfordshire,Thriving Rural,School Exclusions,
+E07000102,Three Rivers,Rural-Urban Fringe,School Exclusions,
+E07000103,Watford,Suburban Traits,School Exclusions,
+E07000105,Ashford,Country Living,School Exclusions,
+E07000106,Canterbury,Larger Towns and Cities,School Exclusions,
+E07000107,Dartford,Suburban Traits,School Exclusions,
+E07000108,Dover,Remoter Coastal Living,School Exclusions,
+E07000109,Gravesham,Suburban Traits,School Exclusions,
+E07000110,Maidstone,Thriving Rural,School Exclusions,
+E07000111,Sevenoaks,Thriving Rural,School Exclusions,
+E07000112,Folkestone and Hythe,Remoter Coastal Living,School Exclusions,
+E07000113,Swale,Country Living,School Exclusions,
+E07000114,Thanet,Remoter Coastal Living,School Exclusions,
+E07000115,Tonbridge and Malling,Thriving Rural,School Exclusions,
+E07000116,Tunbridge Wells,Thriving Rural,School Exclusions,
+E07000117,Burnley,Manufacturing Traits,School Exclusions,
+E07000118,Chorley,Town Living,School Exclusions,
+E07000119,Fylde,English and Welsh Countryside,School Exclusions,
+E07000120,Hyndburn,Manufacturing Traits,School Exclusions,
+E07000121,Lancaster,Larger Towns and Cities,School Exclusions,
+E07000122,Pendle,Manufacturing Traits,School Exclusions,
+E07000123,Preston,Larger Towns and Cities,School Exclusions,
+E07000124,Ribble Valley,English and Welsh Countryside,School Exclusions,
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000126,South Ribble,Town Living,School Exclusions,
+E07000127,West Lancashire,Town Living,School Exclusions,
+E07000128,Wyre,English and Welsh Countryside,School Exclusions,
+E07000129,Blaby,Town Living,School Exclusions,
+E07000130,Charnwood,Town Living,School Exclusions,
+E07000131,Harborough,Country Living,School Exclusions,
+E07000132,Hinckley and Bosworth,Country Living,School Exclusions,
+E07000133,Melton,Country Living,School Exclusions,
+E07000134,North West Leicestershire,Country Living,School Exclusions,
+E07000135,Oadby and Wigston,Town Living,School Exclusions,
+E07000136,Boston,Manufacturing Traits,School Exclusions,
+E07000137,East Lindsey,Remoter Coastal Living,School Exclusions,
+E07000138,Lincoln,Larger Towns and Cities,School Exclusions,
+E07000139,North Kesteven,English and Welsh Countryside,School Exclusions,
+E07000140,South Holland,Country Living,School Exclusions,
+E07000141,South Kesteven,Country Living,School Exclusions,
+E07000142,West Lindsey,English and Welsh Countryside,School Exclusions,
+E07000143,Breckland,English and Welsh Countryside,School Exclusions,
+E07000144,Broadland,Country Living,School Exclusions,
+E07000145,Great Yarmouth,Remoter Coastal Living,School Exclusions,
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,School Exclusions,
+E07000147,North Norfolk,Remoter Coastal Living,School Exclusions,
+E07000148,Norwich,Larger Towns and Cities,School Exclusions,
+E07000149,South Norfolk,Country Living,School Exclusions,
+E07000163,Craven,English and Welsh Countryside,School Exclusions,
+E07000164,Hambleton,English and Welsh Countryside,School Exclusions,
+E07000165,Harrogate,English and Welsh Countryside,School Exclusions,
+E07000166,Richmondshire,English and Welsh Countryside,School Exclusions,
+E07000167,Ryedale,English and Welsh Countryside,School Exclusions,
+E07000168,Scarborough,Remoter Coastal Living,School Exclusions,
+E07000169,Selby,Country Living,School Exclusions,
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000171,Bassetlaw,Country Living,School Exclusions,
+E07000172,Broxtowe,Town Living,School Exclusions,
+E07000173,Gedling,Town Living,School Exclusions,
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000175,Newark and Sherwood,Country Living,School Exclusions,
+E07000176,Rushcliffe,Thriving Rural,School Exclusions,
+E07000177,Cherwell,Thriving Rural,School Exclusions,
+E07000178,Oxford,University Towns and Cities,School Exclusions,
+E07000179,South Oxfordshire,Thriving Rural,School Exclusions,
+E07000180,Vale of White Horse,Thriving Rural,School Exclusions,
+E07000181,West Oxfordshire,Thriving Rural,School Exclusions,
+E07000187,Mendip,English and Welsh Countryside,School Exclusions,
+E07000188,Sedgemoor,English and Welsh Countryside,School Exclusions,
+E07000189,South Somerset,English and Welsh Countryside,School Exclusions,
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000193,East Staffordshire,Country Living,School Exclusions,
+E07000194,Lichfield,Town Living,School Exclusions,
+E07000195,Newcastle-under-Lyme,Town Living,School Exclusions,
+E07000196,South Staffordshire,Town Living,School Exclusions,
+E07000197,Stafford,Town Living,School Exclusions,
+E07000198,Staffordshire Moorlands,Country Living,School Exclusions,
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",School Exclusions,
+E07000200,Babergh,Country Living,School Exclusions,
+E07000202,Ipswich,Manufacturing Traits,School Exclusions,
+E07000203,Mid Suffolk,Country Living,School Exclusions,
+E07000207,Elmbridge,Rural-Urban Fringe,School Exclusions,
+E07000208,Epsom and Ewell,Rural-Urban Fringe,School Exclusions,
+E07000209,Guildford,Rural-Urban Fringe,School Exclusions,
+E07000210,Mole Valley,Thriving Rural,School Exclusions,
+E07000211,Reigate and Banstead,Rural-Urban Fringe,School Exclusions,
+E07000212,Runnymede,Rural-Urban Fringe,School Exclusions,
+E07000213,Spelthorne,Rural-Urban Fringe,School Exclusions,
+E07000214,Surrey Heath,Rural-Urban Fringe,School Exclusions,
+E07000215,Tandridge,Thriving Rural,School Exclusions,
+E07000216,Waverley,Thriving Rural,School Exclusions,
+E07000217,Woking,Rural-Urban Fringe,School Exclusions,
+E07000218,North Warwickshire,Country Living,School Exclusions,
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,School Exclusions,
+E07000220,Rugby,Suburban Traits,School Exclusions,
+E07000221,Stratford-on-Avon,English and Welsh Countryside,School Exclusions,
+E07000222,Warwick,Larger Towns and Cities,School Exclusions,
+E07000223,Adur,Town Living,School Exclusions,
+E07000224,Arun,Remoter Coastal Living,School Exclusions,
+E07000225,Chichester,English and Welsh Countryside,School Exclusions,
+E07000226,Crawley,Suburban Traits,School Exclusions,
+E07000227,Horsham,Thriving Rural,School Exclusions,
+E07000228,Mid Sussex,Thriving Rural,School Exclusions,
+E07000229,Worthing,Manufacturing Traits,School Exclusions,
+E07000234,Bromsgrove,Town Living,School Exclusions,
+E07000235,Malvern Hills,English and Welsh Countryside,School Exclusions,
+E07000236,Redditch,Manufacturing Traits,School Exclusions,
+E07000237,Worcester,Manufacturing Traits,School Exclusions,
+E07000238,Wychavon,Country Living,School Exclusions,
+E07000239,Wyre Forest,Country Living,School Exclusions,
+E07000240,St Albans,Rural-Urban Fringe,School Exclusions,
+E07000241,Welwyn Hatfield,Larger Towns and Cities,School Exclusions,
+E07000242,East Hertfordshire,Thriving Rural,School Exclusions,
+E07000243,Stevenage,Suburban Traits,School Exclusions,
+E07000244,East Suffolk,,School Exclusions,
+E07000245,West Suffolk,,School Exclusions,
+E07000246,Somerset West and Taunton,,School Exclusions,
+E08000001,Bolton,Manufacturing Traits,School Exclusions,0.14235821122162326
+E08000002,Bury,Manufacturing Traits,School Exclusions,0.14047349847534862
+E08000003,Manchester,University Towns and Cities,School Exclusions,0.07762022936231155
+E08000004,Oldham,Manufacturing Traits,School Exclusions,0.07900280898876404
+E08000005,Rochdale,Manufacturing Traits,School Exclusions,0.1974807856532878
+E08000006,Salford,Manufacturing Traits,School Exclusions,0.09856153436334576
+E08000007,Stockport,Town Living,School Exclusions,0.12981593954286244
+E08000008,Tameside,Manufacturing Traits,School Exclusions,0.18997672116233644
+E08000009,Trafford,Suburban Traits,School Exclusions,0.09680765241442894
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Exclusions,0.158955910650046
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.09897723523589574
+E08000012,Liverpool,Larger Towns and Cities,School Exclusions,0.11442550505050506
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Exclusions,0.09193542455779061
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Exclusions,0.07970509116269801
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Exclusions,0.07476782622383127
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.20227343950314805
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Exclusions,0.08984913703038154
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Exclusions,0.11615958539963366
+E08000019,Sheffield,Larger Towns and Cities,School Exclusions,0.11020735753902179
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Exclusions,0.10774314035339749
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Exclusions,0.12228873012808136
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Exclusions,0.09797372522823425
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Exclusions,0.11604365216532518
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.10491473830422318
+E08000026,Coventry,Larger Towns and Cities,School Exclusions,0.08751458576429405
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.1402319058981121
+E08000028,Sandwell,Manufacturing Traits,School Exclusions,0.08681811604688178
+E08000029,Solihull,Town Living,School Exclusions,0.09165448735415789
+E08000030,Walsall,Manufacturing Traits,School Exclusions,0.09339915750147723
+E08000031,Wolverhampton,Manufacturing Traits,School Exclusions,0.16412174093694817
+E08000032,Bradford,Manufacturing Traits,School Exclusions,0.0647578058062845
+E08000033,Calderdale,Manufacturing Traits,School Exclusions,0.17189631650750342
+E08000034,Kirklees,Manufacturing Traits,School Exclusions,0.07571371308956487
+E08000035,Leeds,Larger Towns and Cities,School Exclusions,0.00617250611463887
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Exclusions,0.0960916566571191
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10069794090072572
+E09000001,City of London,,School Exclusions,0.0
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.035664133027216195
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Exclusions,0.019585441488493553
+E09000004,Bexley,Suburban Traits,School Exclusions,0.06608782844511292
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03549801628732512
+E09000006,Bromley,Rural-Urban Fringe,School Exclusions,0.06584640854874516
+E09000007,Camden,London Cosmopolitan,School Exclusions,0.05925520762113132
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Exclusions,0.026136957658128592
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Exclusions,0.0684880793721309
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Exclusions,0.01591793420587195
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Exclusions,0.024986938645707925
+E09000012,Hackney,London Cosmopolitan,School Exclusions,0.08779117406063444
+E09000013,Hammersmith and Fulham,London Cosmopolitan,School Exclusions,0.03452357466956007
+E09000014,Haringey,London Cosmopolitan,School Exclusions,0.015838238787846792
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Exclusions,0.06245283509849332
+E09000016,Havering,Suburban Traits,School Exclusions,0.009658802791394007
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Exclusions,0.07042253521126761
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Exclusions,0.07937557878026194
+E09000019,Islington,London Cosmopolitan,School Exclusions,0.04619713577758179
+E09000020,Kensington and Chelsea,London Cosmopolitan,School Exclusions,0.037383177570093455
+E09000021,Kingston upon Thames,University Towns and Cities,School Exclusions,0.029720994167254895
+E09000022,Lambeth,London Cosmopolitan,School Exclusions,0.03831312771954791
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03903099060654159
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Exclusions,0.01790638541703972
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.031626553654448275
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Exclusions,0.06013642377278741
+E09000027,Richmond upon Thames,Rural-Urban Fringe,School Exclusions,0.017572221831728404
+E09000028,Southwark,London Cosmopolitan,School Exclusions,0.01175972529281716
+E09000029,Sutton,Suburban Traits,School Exclusions,0.1106874923133686
+E09000030,Tower Hamlets,London Cosmopolitan,School Exclusions,0.019568620629674727
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Exclusions,0.059170197155096915
+E09000032,Wandsworth,London Cosmopolitan,School Exclusions,0.029840057292910005
+E09000033,Westminster,,School Exclusions,0.01827151470856934
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Suspensions,14.181842001834141
+E06000002,Middlesbrough,Manufacturing Traits,School Suspensions,27.411087453670845
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Suspensions,24.2167890675839
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Suspensions,10.858154486442837
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Suspensions,11.10693713999499
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Suspensions,4.936456254595106
+E06000007,Warrington,Town Living,School Suspensions,5.2721869926171
+E06000008,Blackburn with Darwen,Manufacturing Traits,School Suspensions,5.491841829166817
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Suspensions,10.338689991863303
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Suspensions,8.974449880640053
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Suspensions,5.5919030473346805
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Suspensions,8.396218591923045
+E06000013,North Lincolnshire,Country Living,School Suspensions,9.469605231290869
+E06000014,York,Larger Towns and Cities,School Suspensions,7.888958594730239
+E06000015,Derby,Manufacturing Traits,School Suspensions,6.939193805511273
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Suspensions,4.7133736502535255
+E06000017,Rutland,English and Welsh Countryside,School Suspensions,3.9013680121601078
+E06000018,Nottingham,University Towns and Cities,School Suspensions,16.078341589310245
+E06000019,"Herefordshire, County of",English and Welsh Countryside,School Suspensions,5.474623062221278
+E06000020,Telford and Wrekin,Manufacturing Traits,School Suspensions,11.858616175484531
+E06000021,Stoke-on-Trent,Manufacturing Traits,School Suspensions,12.826889928589017
+E06000022,Bath and North East Somerset,Larger Towns and Cities,School Suspensions,8.215502864186789
+E06000023,"Bristol, City of",Larger Towns and Cities,School Suspensions,10.617440499414748
+E06000024,North Somerset,English and Welsh Countryside,School Suspensions,5.194305502116198
+E06000025,South Gloucestershire,Town Living,School Suspensions,8.431343357649745
+E06000026,Plymouth,Larger Towns and Cities,School Suspensions,10.049494846412898
+E06000027,Torbay,Remoter Coastal Living,School Suspensions,10.7300391534916
+E06000030,Swindon,Suburban Traits,School Suspensions,6.127652574436585
+E06000031,Peterborough,Suburban Traits,School Suspensions,9.208712434518885
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Suspensions,4.403530895334174
+E06000033,Southend-on-Sea,Manufacturing Traits,School Suspensions,5.372208035685425
+E06000034,Thurrock,Suburban Traits,School Suspensions,4.988023564446171
+E06000035,Medway,Suburban Traits,School Suspensions,7.865467729051023
+E06000036,Bracknell Forest,Rural-Urban Fringe,School Suspensions,6.180979950680819
+E06000037,West Berkshire,Thriving Rural,School Suspensions,6.002846015578191
+E06000038,Reading,University Towns and Cities,School Suspensions,5.596746176333517
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Suspensions,3.8168631006346327
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Suspensions,4.860802276972338
+E06000041,Wokingham,Thriving Rural,School Suspensions,1.7793226872246697
+E06000042,Milton Keynes,Suburban Traits,School Suspensions,7.852296293313469
+E06000043,Brighton and Hove,University Towns and Cities,School Suspensions,4.879136278225421
+E06000044,Portsmouth,Larger Towns and Cities,School Suspensions,6.514466379912504
+E06000045,Southampton,Larger Towns and Cities,School Suspensions,5.782944807335051
+E06000046,Isle of Wight,Remoter Coastal Living,School Suspensions,7.510984443652773
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Suspensions,6.445945577860704
+E06000049,Cheshire East,Country Living,School Suspensions,6.236658602533087
+E06000050,Cheshire West and Chester,Town Living,School Suspensions,5.002722040752839
+E06000051,Shropshire,English and Welsh Countryside,School Suspensions,8.082260913449407
+E06000052,Cornwall,,School Suspensions,6.2300942039697365
+E06000053,Isles of Scilly,,School Suspensions,0.0
+E06000054,Wiltshire,Country Living,School Suspensions,6.786656454769807
+E06000055,Bedford,Suburban Traits,School Suspensions,4.982964224872231
+E06000056,Central Bedfordshire,Thriving Rural,School Suspensions,5.364691744812343
+E06000057,Northumberland,English and Welsh Countryside,School Suspensions,9.166282818977429
+E06000058,"Bournemouth, Christchurch and Poole",,School Suspensions,8.786269675706428
+E06000059,Dorset,,School Suspensions,6.708638662400661
+E06000060,Buckinghamshire,,School Suspensions,4.000591164366431
+E06000061,North Northamptonshire,,School Suspensions,7.75913450250149
+E06000062,West Northamptonshire,,School Suspensions,7.137050641295839
+E07000008,Cambridge,University Towns and Cities,School Suspensions,
+E07000009,East Cambridgeshire,Country Living,School Suspensions,
+E07000010,Fenland,Country Living,School Suspensions,
+E07000011,Huntingdonshire,Country Living,School Suspensions,
+E07000012,South Cambridgeshire,Thriving Rural,School Suspensions,
+E07000026,Allerdale,English and Welsh Countryside,School Suspensions,
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000030,Eden,English and Welsh Countryside,School Suspensions,
+E07000031,South Lakeland,English and Welsh Countryside,School Suspensions,
+E07000032,Amber Valley,Country Living,School Suspensions,
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000035,Derbyshire Dales,English and Welsh Countryside,School Suspensions,
+E07000036,Erewash,Country Living,School Suspensions,
+E07000037,High Peak,Town Living,School Suspensions,
+E07000038,North East Derbyshire,Town Living,School Suspensions,
+E07000039,South Derbyshire,Country Living,School Suspensions,
+E07000040,East Devon,Remoter Coastal Living,School Suspensions,
+E07000041,Exeter,Larger Towns and Cities,School Suspensions,
+E07000042,Mid Devon,English and Welsh Countryside,School Suspensions,
+E07000043,North Devon,Remoter Coastal Living,School Suspensions,
+E07000044,South Hams,English and Welsh Countryside,School Suspensions,
+E07000045,Teignbridge,Remoter Coastal Living,School Suspensions,
+E07000046,Torridge,English and Welsh Countryside,School Suspensions,
+E07000047,West Devon,English and Welsh Countryside,School Suspensions,
+E07000061,Eastbourne,Larger Towns and Cities,School Suspensions,
+E07000062,Hastings,Manufacturing Traits,School Suspensions,
+E07000063,Lewes,Remoter Coastal Living,School Suspensions,
+E07000064,Rother,Remoter Coastal Living,School Suspensions,
+E07000065,Wealden,English and Welsh Countryside,School Suspensions,
+E07000066,Basildon,Suburban Traits,School Suspensions,
+E07000067,Braintree,Country Living,School Suspensions,
+E07000068,Brentwood,Thriving Rural,School Suspensions,
+E07000069,Castle Point,Town Living,School Suspensions,
+E07000070,Chelmsford,Thriving Rural,School Suspensions,
+E07000071,Colchester,Thriving Rural,School Suspensions,
+E07000072,Epping Forest,Thriving Rural,School Suspensions,
+E07000073,Harlow,Suburban Traits,School Suspensions,
+E07000074,Maldon,Country Living,School Suspensions,
+E07000075,Rochford,Town Living,School Suspensions,
+E07000076,Tendring,Remoter Coastal Living,School Suspensions,
+E07000077,Uttlesford,Thriving Rural,School Suspensions,
+E07000078,Cheltenham,Larger Towns and Cities,School Suspensions,
+E07000079,Cotswold,English and Welsh Countryside,School Suspensions,
+E07000080,Forest of Dean,Country Living,School Suspensions,
+E07000081,Gloucester,Manufacturing Traits,School Suspensions,
+E07000082,Stroud,Country Living,School Suspensions,
+E07000083,Tewkesbury,Country Living,School Suspensions,
+E07000084,Basingstoke and Deane,Thriving Rural,School Suspensions,
+E07000085,East Hampshire,Thriving Rural,School Suspensions,
+E07000086,Eastleigh,Town Living,School Suspensions,
+E07000087,Fareham,Town Living,School Suspensions,
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000089,Hart,Thriving Rural,School Suspensions,
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000091,New Forest,Remoter Coastal Living,School Suspensions,
+E07000092,Rushmoor,Suburban Traits,School Suspensions,
+E07000093,Test Valley,Thriving Rural,School Suspensions,
+E07000094,Winchester,Thriving Rural,School Suspensions,
+E07000095,Broxbourne,Suburban Traits,School Suspensions,
+E07000096,Dacorum,Thriving Rural,School Suspensions,
+E07000098,Hertsmere,Rural-Urban Fringe,School Suspensions,
+E07000099,North Hertfordshire,Thriving Rural,School Suspensions,
+E07000102,Three Rivers,Rural-Urban Fringe,School Suspensions,
+E07000103,Watford,Suburban Traits,School Suspensions,
+E07000105,Ashford,Country Living,School Suspensions,
+E07000106,Canterbury,Larger Towns and Cities,School Suspensions,
+E07000107,Dartford,Suburban Traits,School Suspensions,
+E07000108,Dover,Remoter Coastal Living,School Suspensions,
+E07000109,Gravesham,Suburban Traits,School Suspensions,
+E07000110,Maidstone,Thriving Rural,School Suspensions,
+E07000111,Sevenoaks,Thriving Rural,School Suspensions,
+E07000112,Folkestone and Hythe,Remoter Coastal Living,School Suspensions,
+E07000113,Swale,Country Living,School Suspensions,
+E07000114,Thanet,Remoter Coastal Living,School Suspensions,
+E07000115,Tonbridge and Malling,Thriving Rural,School Suspensions,
+E07000116,Tunbridge Wells,Thriving Rural,School Suspensions,
+E07000117,Burnley,Manufacturing Traits,School Suspensions,
+E07000118,Chorley,Town Living,School Suspensions,
+E07000119,Fylde,English and Welsh Countryside,School Suspensions,
+E07000120,Hyndburn,Manufacturing Traits,School Suspensions,
+E07000121,Lancaster,Larger Towns and Cities,School Suspensions,
+E07000122,Pendle,Manufacturing Traits,School Suspensions,
+E07000123,Preston,Larger Towns and Cities,School Suspensions,
+E07000124,Ribble Valley,English and Welsh Countryside,School Suspensions,
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000126,South Ribble,Town Living,School Suspensions,
+E07000127,West Lancashire,Town Living,School Suspensions,
+E07000128,Wyre,English and Welsh Countryside,School Suspensions,
+E07000129,Blaby,Town Living,School Suspensions,
+E07000130,Charnwood,Town Living,School Suspensions,
+E07000131,Harborough,Country Living,School Suspensions,
+E07000132,Hinckley and Bosworth,Country Living,School Suspensions,
+E07000133,Melton,Country Living,School Suspensions,
+E07000134,North West Leicestershire,Country Living,School Suspensions,
+E07000135,Oadby and Wigston,Town Living,School Suspensions,
+E07000136,Boston,Manufacturing Traits,School Suspensions,
+E07000137,East Lindsey,Remoter Coastal Living,School Suspensions,
+E07000138,Lincoln,Larger Towns and Cities,School Suspensions,
+E07000139,North Kesteven,English and Welsh Countryside,School Suspensions,
+E07000140,South Holland,Country Living,School Suspensions,
+E07000141,South Kesteven,Country Living,School Suspensions,
+E07000142,West Lindsey,English and Welsh Countryside,School Suspensions,
+E07000143,Breckland,English and Welsh Countryside,School Suspensions,
+E07000144,Broadland,Country Living,School Suspensions,
+E07000145,Great Yarmouth,Remoter Coastal Living,School Suspensions,
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,School Suspensions,
+E07000147,North Norfolk,Remoter Coastal Living,School Suspensions,
+E07000148,Norwich,Larger Towns and Cities,School Suspensions,
+E07000149,South Norfolk,Country Living,School Suspensions,
+E07000163,Craven,English and Welsh Countryside,School Suspensions,
+E07000164,Hambleton,English and Welsh Countryside,School Suspensions,
+E07000165,Harrogate,English and Welsh Countryside,School Suspensions,
+E07000166,Richmondshire,English and Welsh Countryside,School Suspensions,
+E07000167,Ryedale,English and Welsh Countryside,School Suspensions,
+E07000168,Scarborough,Remoter Coastal Living,School Suspensions,
+E07000169,Selby,Country Living,School Suspensions,
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000171,Bassetlaw,Country Living,School Suspensions,
+E07000172,Broxtowe,Town Living,School Suspensions,
+E07000173,Gedling,Town Living,School Suspensions,
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000175,Newark and Sherwood,Country Living,School Suspensions,
+E07000176,Rushcliffe,Thriving Rural,School Suspensions,
+E07000177,Cherwell,Thriving Rural,School Suspensions,
+E07000178,Oxford,University Towns and Cities,School Suspensions,
+E07000179,South Oxfordshire,Thriving Rural,School Suspensions,
+E07000180,Vale of White Horse,Thriving Rural,School Suspensions,
+E07000181,West Oxfordshire,Thriving Rural,School Suspensions,
+E07000187,Mendip,English and Welsh Countryside,School Suspensions,
+E07000188,Sedgemoor,English and Welsh Countryside,School Suspensions,
+E07000189,South Somerset,English and Welsh Countryside,School Suspensions,
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000193,East Staffordshire,Country Living,School Suspensions,
+E07000194,Lichfield,Town Living,School Suspensions,
+E07000195,Newcastle-under-Lyme,Town Living,School Suspensions,
+E07000196,South Staffordshire,Town Living,School Suspensions,
+E07000197,Stafford,Town Living,School Suspensions,
+E07000198,Staffordshire Moorlands,Country Living,School Suspensions,
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",School Suspensions,
+E07000200,Babergh,Country Living,School Suspensions,
+E07000202,Ipswich,Manufacturing Traits,School Suspensions,
+E07000203,Mid Suffolk,Country Living,School Suspensions,
+E07000207,Elmbridge,Rural-Urban Fringe,School Suspensions,
+E07000208,Epsom and Ewell,Rural-Urban Fringe,School Suspensions,
+E07000209,Guildford,Rural-Urban Fringe,School Suspensions,
+E07000210,Mole Valley,Thriving Rural,School Suspensions,
+E07000211,Reigate and Banstead,Rural-Urban Fringe,School Suspensions,
+E07000212,Runnymede,Rural-Urban Fringe,School Suspensions,
+E07000213,Spelthorne,Rural-Urban Fringe,School Suspensions,
+E07000214,Surrey Heath,Rural-Urban Fringe,School Suspensions,
+E07000215,Tandridge,Thriving Rural,School Suspensions,
+E07000216,Waverley,Thriving Rural,School Suspensions,
+E07000217,Woking,Rural-Urban Fringe,School Suspensions,
+E07000218,North Warwickshire,Country Living,School Suspensions,
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,School Suspensions,
+E07000220,Rugby,Suburban Traits,School Suspensions,
+E07000221,Stratford-on-Avon,English and Welsh Countryside,School Suspensions,
+E07000222,Warwick,Larger Towns and Cities,School Suspensions,
+E07000223,Adur,Town Living,School Suspensions,
+E07000224,Arun,Remoter Coastal Living,School Suspensions,
+E07000225,Chichester,English and Welsh Countryside,School Suspensions,
+E07000226,Crawley,Suburban Traits,School Suspensions,
+E07000227,Horsham,Thriving Rural,School Suspensions,
+E07000228,Mid Sussex,Thriving Rural,School Suspensions,
+E07000229,Worthing,Manufacturing Traits,School Suspensions,
+E07000234,Bromsgrove,Town Living,School Suspensions,
+E07000235,Malvern Hills,English and Welsh Countryside,School Suspensions,
+E07000236,Redditch,Manufacturing Traits,School Suspensions,
+E07000237,Worcester,Manufacturing Traits,School Suspensions,
+E07000238,Wychavon,Country Living,School Suspensions,
+E07000239,Wyre Forest,Country Living,School Suspensions,
+E07000240,St Albans,Rural-Urban Fringe,School Suspensions,
+E07000241,Welwyn Hatfield,Larger Towns and Cities,School Suspensions,
+E07000242,East Hertfordshire,Thriving Rural,School Suspensions,
+E07000243,Stevenage,Suburban Traits,School Suspensions,
+E07000244,East Suffolk,,School Suspensions,
+E07000245,West Suffolk,,School Suspensions,
+E07000246,Somerset West and Taunton,,School Suspensions,
+E08000001,Bolton,Manufacturing Traits,School Suspensions,8.338394958621214
+E08000002,Bury,Manufacturing Traits,School Suspensions,7.431390687634906
+E08000003,Manchester,University Towns and Cities,School Suspensions,7.9708322856424445
+E08000004,Oldham,Manufacturing Traits,School Suspensions,5.378774578651686
+E08000005,Rochdale,Manufacturing Traits,School Suspensions,10.21829632792485
+E08000006,Salford,Manufacturing Traits,School Suspensions,12.077783697389451
+E08000007,Stockport,Town Living,School Suspensions,7.033242153090083
+E08000008,Tameside,Manufacturing Traits,School Suspensions,14.687073555775559
+E08000009,Trafford,Suburban Traits,School Suspensions,3.581883139333871
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Suspensions,6.621768593658496
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Suspensions,6.711599189329312
+E08000012,Liverpool,Larger Towns and Cities,School Suspensions,8.04135101010101
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Suspensions,6.839995587099621
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Suspensions,3.835807512204842
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Suspensions,5.282937195025972
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Suspensions,13.489644169681775
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Suspensions,20.18471310961595
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Suspensions,9.549658222758344
+E08000019,Sheffield,Larger Towns and Cities,School Suspensions,10.400220414715077
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Suspensions,12.845376622132834
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Suspensions,5.383922250112634
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Suspensions,4.399910932977065
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Suspensions,8.051454249172881
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Suspensions,6.517027711282521
+E08000026,Coventry,Larger Towns and Cities,School Suspensions,7.560573821127051
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Suspensions,6.601364644815605
+E08000028,Sandwell,Manufacturing Traits,School Suspensions,4.786250582806797
+E08000029,Solihull,Town Living,School Suspensions,6.22259654685526
+E08000030,Walsall,Manufacturing Traits,School Suspensions,4.223929245372929
+E08000031,Wolverhampton,Manufacturing Traits,School Suspensions,5.605069076555521
+E08000032,Bradford,Manufacturing Traits,School Suspensions,10.32339051945723
+E08000033,Calderdale,Manufacturing Traits,School Suspensions,10.875852660300136
+E08000034,Kirklees,Manufacturing Traits,School Suspensions,8.849596935821493
+E08000035,Leeds,Larger Towns and Cities,School Suspensions,8.469449952548858
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Suspensions,13.151621546706089
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Suspensions,7.986388416264453
+E09000001,City of London,,School Suspensions,0.0
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Suspensions,2.9110848583465216
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Suspensions,3.693487840705076
+E09000004,Bexley,Suburban Traits,School Suspensions,6.26011257719742
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Suspensions,3.422426393819169
+E09000006,Bromley,Rural-Urban Fringe,School Suspensions,5.65150317944087
+E09000007,Camden,London Cosmopolitan,School Suspensions,4.070376954282328
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Suspensions,5.131556020212581
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Suspensions,3.096771805123649
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Suspensions,4.699327909444641
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Suspensions,5.215455557322309
+E09000012,Hackney,London Cosmopolitan,School Suspensions,6.818447852042608
+E09000013,Hammersmith and Fulham,London Cosmopolitan,School Suspensions,5.56322746103768
+E09000014,Haringey,London Cosmopolitan,School Suspensions,4.960008447060686
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Suspensions,2.6204168726742827
+E09000016,Havering,Suburban Traits,School Suspensions,4.520319706372395
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Suspensions,3.840883136657785
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Suspensions,4.828681042465935
+E09000019,Islington,London Cosmopolitan,School Suspensions,9.478812313636555
+E09000020,Kensington and Chelsea,London Cosmopolitan,School Suspensions,5.36822429906542
+E09000021,Kingston upon Thames,University Towns and Cities,School Suspensions,1.5975034364899505
+E09000022,Lambeth,London Cosmopolitan,School Suspensions,4.575682110506007
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Suspensions,5.250969269600062
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Suspensions,2.6143322708877985
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Suspensions,3.053543755336981
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Suspensions,3.8349856531674713
+E09000027,Richmond upon Thames,Rural-Urban Fringe,School Suspensions,3.314121037463977
+E09000028,Southwark,London Cosmopolitan,School Suspensions,4.929676842748954
+E09000029,Sutton,Suburban Traits,School Suspensions,4.860410773582585
+E09000030,Tower Hamlets,London Cosmopolitan,School Suspensions,2.8004870412245606
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Suspensions,4.37149416581856
+E09000032,Wandsworth,London Cosmopolitan,School Suspensions,3.327166388159465
+E09000033,Westminster,,School Suspensions,5.837748949387904
