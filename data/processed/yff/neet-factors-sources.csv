@@ -926,3 +926,1239 @@ E09000030,Tower Hamlets,London Cosmopolitan,Disability (age < 25),6.975956316822
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.819617064158549
 E09000032,Wandsworth,London Cosmopolitan,Disability (age < 25),6.4683669319700225
 E09000033,Westminster,,Disability (age < 25),6.480721903199344
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Disability (all),11.311311311311313
+E06000002,Middlesbrough,Manufacturing Traits,Disability (all),10.8
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Disability (all),10.1
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Disability (all),9.109109109109108
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Disability (all),8.391608391608392
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Disability (all),11.01101101101101
+E06000007,Warrington,Town Living,Disability (all),7.7
+E06000008,Blackburn with Darwen,Manufacturing Traits,Disability (all),10.48951048951049
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Disability (all),12.0
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Disability (all),10.3
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Disability (all),6.7
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Disability (all),9.0
+E06000013,North Lincolnshire,Country Living,Disability (all),8.2
+E06000014,York,Larger Towns and Cities,Disability (all),5.9
+E06000015,Derby,Manufacturing Traits,Disability (all),8.8
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Disability (all),8.80880880880881
+E06000017,Rutland,English and Welsh Countryside,Disability (all),4.9
+E06000018,Nottingham,University Towns and Cities,Disability (all),10.4
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Disability (all),6.7
+E06000020,Telford and Wrekin,Manufacturing Traits,Disability (all),9.1
+E06000021,Stoke-on-Trent,Manufacturing Traits,Disability (all),10.5
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Disability (all),6.0
+E06000023,"Bristol, City of",Larger Towns and Cities,Disability (all),8.3
+E06000024,North Somerset,English and Welsh Countryside,Disability (all),6.9930069930069925
+E06000025,South Gloucestershire,Town Living,Disability (all),6.3
+E06000026,Plymouth,Larger Towns and Cities,Disability (all),9.7
+E06000027,Torbay,Remoter Coastal Living,Disability (all),9.9
+E06000030,Swindon,Suburban Traits,Disability (all),6.9
+E06000031,Peterborough,Suburban Traits,Disability (all),7.9
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Disability (all),7.7
+E06000033,Southend-on-Sea,Manufacturing Traits,Disability (all),7.8
+E06000034,Thurrock,Suburban Traits,Disability (all),7.200000000000001
+E06000035,Medway,Suburban Traits,Disability (all),7.8
+E06000036,Bracknell Forest,Rural-Urban Fringe,Disability (all),5.3
+E06000037,West Berkshire,Thriving Rural,Disability (all),5.1
+E06000038,Reading,University Towns and Cities,Disability (all),6.2
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Disability (all),7.000000000000001
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Disability (all),4.7
+E06000041,Wokingham,Thriving Rural,Disability (all),4.4
+E06000042,Milton Keynes,Suburban Traits,Disability (all),6.9
+E06000043,Brighton and Hove,University Towns and Cities,Disability (all),8.0
+E06000044,Portsmouth,Larger Towns and Cities,Disability (all),8.091908091908092
+E06000045,Southampton,Larger Towns and Cities,Disability (all),8.208208208208207
+E06000046,Isle of Wight,Remoter Coastal Living,Disability (all),8.8
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Disability (all),10.4
+E06000049,Cheshire East,Country Living,Disability (all),6.493506493506494
+E06000050,Cheshire West and Chester,Town Living,Disability (all),7.4074074074074066
+E06000051,Shropshire,English and Welsh Countryside,Disability (all),6.706706706706707
+E06000052,Cornwall,,Disability (all),8.108108108108107
+E06000053,Isles of Scilly,,Disability (all),4.0
+E06000054,Wiltshire,Country Living,Disability (all),6.0
+E06000055,Bedford,Suburban Traits,Disability (all),6.6000000000000005
+E06000056,Central Bedfordshire,Thriving Rural,Disability (all),5.8
+E06000057,Northumberland,English and Welsh Countryside,Disability (all),8.3
+E06000058,"Bournemouth, Christchurch and Poole",,Disability (all),7.3
+E06000059,Dorset,,Disability (all),6.506506506506506
+E06000060,Buckinghamshire,,Disability (all),5.0
+E06000061,North Northamptonshire,,Disability (all),7.400000000000001
+E06000062,West Northamptonshire,,Disability (all),6.3
+E07000008,Cambridge,University Towns and Cities,Disability (all),6.2
+E07000009,East Cambridgeshire,Country Living,Disability (all),5.8
+E07000010,Fenland,Country Living,Disability (all),8.391608391608392
+E07000011,Huntingdonshire,Country Living,Disability (all),6.1
+E07000012,South Cambridgeshire,Thriving Rural,Disability (all),5.1
+E07000026,Allerdale,English and Welsh Countryside,Disability (all),8.2
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Disability (all),9.8
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Disability (all),7.807807807807807
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Disability (all),9.090909090909092
+E07000030,Eden,English and Welsh Countryside,Disability (all),5.7
+E07000031,South Lakeland,English and Welsh Countryside,Disability (all),5.6
+E07000032,Amber Valley,Country Living,Disability (all),7.9
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Disability (all),10.6
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Disability (all),9.89010989010989
+E07000035,Derbyshire Dales,English and Welsh Countryside,Disability (all),6.0
+E07000036,Erewash,Country Living,Disability (all),8.0
+E07000037,High Peak,Town Living,Disability (all),7.000000000000001
+E07000038,North East Derbyshire,Town Living,Disability (all),8.5
+E07000039,South Derbyshire,Country Living,Disability (all),7.007007007007007
+E07000040,East Devon,Remoter Coastal Living,Disability (all),6.3
+E07000041,Exeter,Larger Towns and Cities,Disability (all),7.3
+E07000042,Mid Devon,English and Welsh Countryside,Disability (all),6.606606606606606
+E07000043,North Devon,Remoter Coastal Living,Disability (all),7.200000000000001
+E07000044,South Hams,English and Welsh Countryside,Disability (all),6.7
+E07000045,Teignbridge,Remoter Coastal Living,Disability (all),7.200000000000001
+E07000046,Torridge,English and Welsh Countryside,Disability (all),7.807807807807807
+E07000047,West Devon,English and Welsh Countryside,Disability (all),7.3
+E07000061,Eastbourne,Larger Towns and Cities,Disability (all),8.4
+E07000062,Hastings,Manufacturing Traits,Disability (all),9.8
+E07000063,Lewes,Remoter Coastal Living,Disability (all),7.3
+E07000064,Rother,Remoter Coastal Living,Disability (all),7.5
+E07000065,Wealden,English and Welsh Countryside,Disability (all),5.8
+E07000066,Basildon,Suburban Traits,Disability (all),7.6
+E07000067,Braintree,Country Living,Disability (all),6.6000000000000005
+E07000068,Brentwood,Thriving Rural,Disability (all),5.4
+E07000069,Castle Point,Town Living,Disability (all),6.800000000000001
+E07000070,Chelmsford,Thriving Rural,Disability (all),5.4
+E07000071,Colchester,Thriving Rural,Disability (all),6.793206793206793
+E07000072,Epping Forest,Thriving Rural,Disability (all),5.8
+E07000073,Harlow,Suburban Traits,Disability (all),7.5
+E07000074,Maldon,Country Living,Disability (all),6.193806193806194
+E07000075,Rochford,Town Living,Disability (all),5.694305694305695
+E07000076,Tendring,Remoter Coastal Living,Disability (all),9.709709709709708
+E07000077,Uttlesford,Thriving Rural,Disability (all),4.6
+E07000078,Cheltenham,Larger Towns and Cities,Disability (all),5.8058058058058055
+E07000079,Cotswold,English and Welsh Countryside,Disability (all),4.9
+E07000080,Forest of Dean,Country Living,Disability (all),7.1
+E07000081,Gloucester,Manufacturing Traits,Disability (all),7.400000000000001
+E07000082,Stroud,Country Living,Disability (all),5.8
+E07000083,Tewkesbury,Country Living,Disability (all),5.5
+E07000084,Basingstoke and Deane,Thriving Rural,Disability (all),5.7
+E07000085,East Hampshire,Thriving Rural,Disability (all),5.194805194805195
+E07000086,Eastleigh,Town Living,Disability (all),6.0
+E07000087,Fareham,Town Living,Disability (all),5.5
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Disability (all),7.707707707707708
+E07000089,Hart,Thriving Rural,Disability (all),4.2
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Disability (all),7.6
+E07000091,New Forest,Remoter Coastal Living,Disability (all),6.1
+E07000092,Rushmoor,Suburban Traits,Disability (all),6.0
+E07000093,Test Valley,Thriving Rural,Disability (all),5.594405594405594
+E07000094,Winchester,Thriving Rural,Disability (all),5.1
+E07000095,Broxbourne,Suburban Traits,Disability (all),6.3
+E07000096,Dacorum,Thriving Rural,Disability (all),6.0
+E07000098,Hertsmere,Rural-Urban Fringe,Disability (all),5.9
+E07000099,North Hertfordshire,Thriving Rural,Disability (all),5.8058058058058055
+E07000102,Three Rivers,Rural-Urban Fringe,Disability (all),5.2
+E07000103,Watford,Suburban Traits,Disability (all),6.2
+E07000105,Ashford,Country Living,Disability (all),6.9
+E07000106,Canterbury,Larger Towns and Cities,Disability (all),7.7
+E07000107,Dartford,Suburban Traits,Disability (all),6.6000000000000005
+E07000108,Dover,Remoter Coastal Living,Disability (all),8.6
+E07000109,Gravesham,Suburban Traits,Disability (all),7.3
+E07000110,Maidstone,Thriving Rural,Disability (all),6.306306306306306
+E07000111,Sevenoaks,Thriving Rural,Disability (all),5.5
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Disability (all),8.791208791208792
+E07000113,Swale,Country Living,Disability (all),8.508508508508509
+E07000114,Thanet,Remoter Coastal Living,Disability (all),9.7
+E07000115,Tonbridge and Malling,Thriving Rural,Disability (all),5.9
+E07000116,Tunbridge Wells,Thriving Rural,Disability (all),5.505505505505505
+E07000117,Burnley,Manufacturing Traits,Disability (all),10.38961038961039
+E07000118,Chorley,Town Living,Disability (all),7.7
+E07000119,Fylde,English and Welsh Countryside,Disability (all),7.592407592407592
+E07000120,Hyndburn,Manufacturing Traits,Disability (all),10.1
+E07000121,Lancaster,Larger Towns and Cities,Disability (all),8.208208208208207
+E07000122,Pendle,Manufacturing Traits,Disability (all),8.7
+E07000123,Preston,Larger Towns and Cities,Disability (all),9.1
+E07000124,Ribble Valley,English and Welsh Countryside,Disability (all),5.405405405405405
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Disability (all),9.0
+E07000126,South Ribble,Town Living,Disability (all),7.200000000000001
+E07000127,West Lancashire,Town Living,Disability (all),8.49150849150849
+E07000128,Wyre,English and Welsh Countryside,Disability (all),8.791208791208792
+E07000129,Blaby,Town Living,Disability (all),6.1
+E07000130,Charnwood,Town Living,Disability (all),6.4
+E07000131,Harborough,Country Living,Disability (all),5.105105105105104
+E07000132,Hinckley and Bosworth,Country Living,Disability (all),6.5
+E07000133,Melton,Country Living,Disability (all),5.7
+E07000134,North West Leicestershire,Country Living,Disability (all),6.800000000000001
+E07000135,Oadby and Wigston,Town Living,Disability (all),6.493506493506494
+E07000136,Boston,Manufacturing Traits,Disability (all),7.6
+E07000137,East Lindsey,Remoter Coastal Living,Disability (all),9.9
+E07000138,Lincoln,Larger Towns and Cities,Disability (all),9.19080919080919
+E07000139,North Kesteven,English and Welsh Countryside,Disability (all),6.9
+E07000140,South Holland,Country Living,Disability (all),7.200000000000001
+E07000141,South Kesteven,Country Living,Disability (all),6.593406593406594
+E07000142,West Lindsey,English and Welsh Countryside,Disability (all),7.792207792207792
+E07000143,Breckland,English and Welsh Countryside,Disability (all),7.3
+E07000144,Broadland,Country Living,Disability (all),6.4
+E07000145,Great Yarmouth,Remoter Coastal Living,Disability (all),9.7
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Disability (all),7.7
+E07000147,North Norfolk,Remoter Coastal Living,Disability (all),7.592407592407592
+E07000148,Norwich,Larger Towns and Cities,Disability (all),9.0
+E07000149,South Norfolk,Country Living,Disability (all),6.206206206206206
+E07000163,Craven,English and Welsh Countryside,Disability (all),5.5
+E07000164,Hambleton,English and Welsh Countryside,Disability (all),5.7
+E07000165,Harrogate,English and Welsh Countryside,Disability (all),5.4
+E07000166,Richmondshire,English and Welsh Countryside,Disability (all),5.9
+E07000167,Ryedale,English and Welsh Countryside,Disability (all),5.6
+E07000168,Scarborough,Remoter Coastal Living,Disability (all),8.408408408408407
+E07000169,Selby,Country Living,Disability (all),6.2
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Disability (all),10.18981018981019
+E07000171,Bassetlaw,Country Living,Disability (all),8.7
+E07000172,Broxtowe,Town Living,Disability (all),7.3
+E07000173,Gedling,Town Living,Disability (all),7.6
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Disability (all),10.3
+E07000175,Newark and Sherwood,Country Living,Disability (all),8.1
+E07000176,Rushcliffe,Thriving Rural,Disability (all),5.6
+E07000177,Cherwell,Thriving Rural,Disability (all),5.6
+E07000178,Oxford,University Towns and Cities,Disability (all),6.2
+E07000179,South Oxfordshire,Thriving Rural,Disability (all),4.704704704704705
+E07000180,Vale of White Horse,Thriving Rural,Disability (all),5.0
+E07000181,West Oxfordshire,Thriving Rural,Disability (all),5.1
+E07000187,Mendip,English and Welsh Countryside,Disability (all),6.3
+E07000188,Sedgemoor,English and Welsh Countryside,Disability (all),7.3
+E07000189,South Somerset,English and Welsh Countryside,Disability (all),6.4
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Disability (all),9.0
+E07000193,East Staffordshire,Country Living,Disability (all),6.800000000000001
+E07000194,Lichfield,Town Living,Disability (all),6.6000000000000005
+E07000195,Newcastle-under-Lyme,Town Living,Disability (all),8.3
+E07000196,South Staffordshire,Town Living,Disability (all),6.800000000000001
+E07000197,Stafford,Town Living,Disability (all),6.7
+E07000198,Staffordshire Moorlands,Country Living,Disability (all),7.400000000000001
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Disability (all),8.1
+E07000200,Babergh,Country Living,Disability (all),5.894105894105895
+E07000202,Ipswich,Manufacturing Traits,Disability (all),7.8
+E07000203,Mid Suffolk,Country Living,Disability (all),5.8
+E07000207,Elmbridge,Rural-Urban Fringe,Disability (all),4.4
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Disability (all),4.8
+E07000209,Guildford,Rural-Urban Fringe,Disability (all),4.8
+E07000210,Mole Valley,Thriving Rural,Disability (all),5.005005005005005
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Disability (all),5.5
+E07000212,Runnymede,Rural-Urban Fringe,Disability (all),5.6
+E07000213,Spelthorne,Rural-Urban Fringe,Disability (all),5.7
+E07000214,Surrey Heath,Rural-Urban Fringe,Disability (all),4.8
+E07000215,Tandridge,Thriving Rural,Disability (all),5.505505505505505
+E07000216,Waverley,Thriving Rural,Disability (all),4.695304695304696
+E07000217,Woking,Rural-Urban Fringe,Disability (all),5.394605394605395
+E07000218,North Warwickshire,Country Living,Disability (all),7.6
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Disability (all),8.508508508508509
+E07000220,Rugby,Suburban Traits,Disability (all),6.2
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Disability (all),5.3
+E07000222,Warwick,Larger Towns and Cities,Disability (all),5.6
+E07000223,Adur,Town Living,Disability (all),7.200000000000001
+E07000224,Arun,Remoter Coastal Living,Disability (all),6.800000000000001
+E07000225,Chichester,English and Welsh Countryside,Disability (all),5.4
+E07000226,Crawley,Suburban Traits,Disability (all),7.000000000000001
+E07000227,Horsham,Thriving Rural,Disability (all),5.0
+E07000228,Mid Sussex,Thriving Rural,Disability (all),5.0
+E07000229,Worthing,Manufacturing Traits,Disability (all),7.200000000000001
+E07000234,Bromsgrove,Town Living,Disability (all),6.1
+E07000235,Malvern Hills,English and Welsh Countryside,Disability (all),6.4
+E07000236,Redditch,Manufacturing Traits,Disability (all),7.6923076923076925
+E07000237,Worcester,Manufacturing Traits,Disability (all),7.000000000000001
+E07000238,Wychavon,Country Living,Disability (all),6.1
+E07000239,Wyre Forest,Country Living,Disability (all),7.907907907907909
+E07000240,St Albans,Rural-Urban Fringe,Disability (all),4.8
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Disability (all),6.006006006006006
+E07000242,East Hertfordshire,Thriving Rural,Disability (all),4.904904904904905
+E07000243,Stevenage,Suburban Traits,Disability (all),7.6
+E07000244,East Suffolk,,Disability (all),7.5
+E07000245,West Suffolk,,Disability (all),6.1
+E07000246,Somerset West and Taunton,,Disability (all),6.893106893106893
+E08000001,Bolton,Manufacturing Traits,Disability (all),9.3
+E08000002,Bury,Manufacturing Traits,Disability (all),8.508508508508509
+E08000003,Manchester,University Towns and Cities,Disability (all),11.4
+E08000004,Oldham,Manufacturing Traits,Disability (all),9.50950950950951
+E08000005,Rochdale,Manufacturing Traits,Disability (all),9.790209790209792
+E08000006,Salford,Manufacturing Traits,Disability (all),10.289710289710289
+E08000007,Stockport,Town Living,Disability (all),7.607607607607607
+E08000008,Tameside,Manufacturing Traits,Disability (all),9.6
+E08000009,Trafford,Suburban Traits,Disability (all),7.000000000000001
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Disability (all),9.4
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Disability (all),12.987012987012985
+E08000012,Liverpool,Larger Towns and Cities,Disability (all),12.7
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Disability (all),10.78921078921079
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Disability (all),9.90990990990991
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Disability (all),10.6
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Disability (all),10.6
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Disability (all),9.5
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Disability (all),9.89010989010989
+E08000019,Sheffield,Larger Towns and Cities,Disability (all),9.09090909090909
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Disability (all),9.7
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Disability (all),8.591408591408593
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Disability (all),10.5
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Disability (all),11.2
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Disability (all),9.59040959040959
+E08000026,Coventry,Larger Towns and Cities,Disability (all),8.4
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Disability (all),8.3
+E08000028,Sandwell,Manufacturing Traits,Disability (all),9.9
+E08000029,Solihull,Town Living,Disability (all),7.000000000000001
+E08000030,Walsall,Manufacturing Traits,Disability (all),9.4
+E08000031,Wolverhampton,Manufacturing Traits,Disability (all),9.00900900900901
+E08000032,Bradford,Manufacturing Traits,Disability (all),8.991008991008991
+E08000033,Calderdale,Manufacturing Traits,Disability (all),8.1
+E08000034,Kirklees,Manufacturing Traits,Disability (all),8.0
+E08000035,Leeds,Larger Towns and Cities,Disability (all),7.6
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Disability (all),9.4
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Disability (all),9.9
+E09000001,City of London,,Disability (all),3.9
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Disability (all),9.0
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Disability (all),6.4
+E09000004,Bexley,Suburban Traits,Disability (all),6.6000000000000005
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Disability (all),7.1
+E09000006,Bromley,Rural-Urban Fringe,Disability (all),5.7
+E09000007,Camden,London Cosmopolitan,Disability (all),8.3
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Disability (all),7.000000000000001
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Disability (all),6.800000000000001
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Disability (all),7.307307307307307
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Disability (all),8.4
+E09000012,Hackney,London Cosmopolitan,Disability (all),9.6
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Disability (all),7.400000000000001
+E09000014,Haringey,London Cosmopolitan,Disability (all),7.9
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Disability (all),5.9
+E09000016,Havering,Suburban Traits,Disability (all),6.6000000000000005
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Disability (all),6.5
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Disability (all),6.800000000000001
+E09000019,Islington,London Cosmopolitan,Disability (all),10.0
+E09000020,Kensington and Chelsea,London Cosmopolitan,Disability (all),6.4
+E09000021,Kingston upon Thames,University Towns and Cities,Disability (all),5.7
+E09000022,Lambeth,London Cosmopolitan,Disability (all),7.792207792207792
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Disability (all),7.892107892107891
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Disability (all),5.9
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Disability (all),9.1
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Disability (all),6.6933066933066945
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Disability (all),4.8
+E09000028,Southwark,London Cosmopolitan,Disability (all),8.2
+E09000029,Sutton,Suburban Traits,Disability (all),6.4
+E09000030,Tower Hamlets,London Cosmopolitan,Disability (all),10.4
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Disability (all),7.7
+E09000032,Wandsworth,London Cosmopolitan,Disability (all),6.506506506506507
+E09000033,Westminster,,Disability (all),7.807807807807808
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),12.079054874682566
+E06000002,Middlesbrough,Manufacturing Traits,Economic inactivity (NEET),11.56234475906607
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),11.305418719211822
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.400090288358445
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.72613773660894
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.044422507403752
+E06000007,Warrington,Town Living,Economic inactivity (NEET),7.1303702918896015
+E06000008,Blackburn with Darwen,Manufacturing Traits,Economic inactivity (NEET),9.73018549747049
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),13.456544982434703
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Economic inactivity (NEET),10.062285581054525
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Economic inactivity (NEET),6.496511063845666
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),12.130507529280536
+E06000013,North Lincolnshire,Country Living,Economic inactivity (NEET),8.940485721910862
+E06000014,York,Larger Towns and Cities,Economic inactivity (NEET),4.222488038277512
+E06000015,Derby,Manufacturing Traits,Economic inactivity (NEET),10.04057140908936
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.908420331331372
+E06000017,Rutland,English and Welsh Countryside,Economic inactivity (NEET),6.449301325689717
+E06000018,Nottingham,University Towns and Cities,Economic inactivity (NEET),6.15627917611417
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Economic inactivity (NEET),8.005552984729292
+E06000020,Telford and Wrekin,Manufacturing Traits,Economic inactivity (NEET),10.04840683015054
+E06000021,Stoke-on-Trent,Manufacturing Traits,Economic inactivity (NEET),10.025426807119505
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Economic inactivity (NEET),4.159089112042381
+E06000023,"Bristol, City of",Larger Towns and Cities,Economic inactivity (NEET),5.395584696629577
+E06000024,North Somerset,English and Welsh Countryside,Economic inactivity (NEET),6.4517918562077
+E06000025,South Gloucestershire,Town Living,Economic inactivity (NEET),5.471632439958231
+E06000026,Plymouth,Larger Towns and Cities,Economic inactivity (NEET),7.846086985591549
+E06000027,Torbay,Remoter Coastal Living,Economic inactivity (NEET),9.9973851651704
+E06000030,Swindon,Suburban Traits,Economic inactivity (NEET),7.853257079090528
+E06000031,Peterborough,Suburban Traits,Economic inactivity (NEET),10.446563444108762
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),8.624873987230707
+E06000033,Southend-on-Sea,Manufacturing Traits,Economic inactivity (NEET),9.336457819437593
+E06000034,Thurrock,Suburban Traits,Economic inactivity (NEET),7.685337260010194
+E06000035,Medway,Suburban Traits,Economic inactivity (NEET),8.937971654702743
+E06000036,Bracknell Forest,Rural-Urban Fringe,Economic inactivity (NEET),5.932671081677704
+E06000037,West Berkshire,Thriving Rural,Economic inactivity (NEET),6.328182487122884
+E06000038,Reading,University Towns and Cities,Economic inactivity (NEET),6.006856461469667
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.945139266509576
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Economic inactivity (NEET),6.122448979591836
+E06000041,Wokingham,Thriving Rural,Economic inactivity (NEET),5.216562244619995
+E06000042,Milton Keynes,Suburban Traits,Economic inactivity (NEET),7.441319671535498
+E06000043,Brighton and Hove,University Towns and Cities,Economic inactivity (NEET),5.2577818396860385
+E06000044,Portsmouth,Larger Towns and Cities,Economic inactivity (NEET),6.105006105006105
+E06000045,Southampton,Larger Towns and Cities,Economic inactivity (NEET),6.667906054409121
+E06000046,Isle of Wight,Remoter Coastal Living,Economic inactivity (NEET),9.319029850746269
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.61534731247454
+E06000049,Cheshire East,Country Living,Economic inactivity (NEET),6.504721669980119
+E06000050,Cheshire West and Chester,Town Living,Economic inactivity (NEET),7.4765200197726145
+E06000051,Shropshire,English and Welsh Countryside,Economic inactivity (NEET),7.035956503618383
+E06000052,Cornwall,,Economic inactivity (NEET),8.334684940394128
+E06000053,Isles of Scilly,,Economic inactivity (NEET),
+E06000054,Wiltshire,Country Living,Economic inactivity (NEET),7.3422461176583536
+E06000055,Bedford,Suburban Traits,Economic inactivity (NEET),7.665505226480835
+E06000056,Central Bedfordshire,Thriving Rural,Economic inactivity (NEET),6.465813173942895
+E06000057,Northumberland,English and Welsh Countryside,Economic inactivity (NEET),10.049066955144303
+E06000058,"Bournemouth, Christchurch and Poole",,Economic inactivity (NEET),6.63734811124104
+E06000059,Dorset,,Economic inactivity (NEET),7.899848147755765
+E06000060,Buckinghamshire,,Economic inactivity (NEET),6.445691619545952
+E06000061,North Northamptonshire,,Economic inactivity (NEET),8.274933439422224
+E06000062,West Northamptonshire,,Economic inactivity (NEET),6.779204233633869
+E07000008,Cambridge,University Towns and Cities,Economic inactivity (NEET),4.982137057486197
+E07000009,East Cambridgeshire,Country Living,Economic inactivity (NEET),6.279434850863422
+E07000010,Fenland,Country Living,Economic inactivity (NEET),10.573916927199644
+E07000011,Huntingdonshire,Country Living,Economic inactivity (NEET),6.5937685264475325
+E07000012,South Cambridgeshire,Thriving Rural,Economic inactivity (NEET),5.862884160756502
+E07000026,Allerdale,English and Welsh Countryside,Economic inactivity (NEET),9.149176825436722
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.289539227895391
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),8.717322754551928
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),8.134223471539002
+E07000030,Eden,English and Welsh Countryside,Economic inactivity (NEET),5.986489634288376
+E07000031,South Lakeland,English and Welsh Countryside,Economic inactivity (NEET),5.4472178887155485
+E07000032,Amber Valley,Country Living,Economic inactivity (NEET),8.491620111731843
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.542410714285714
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.296377607025246
+E07000035,Derbyshire Dales,English and Welsh Countryside,Economic inactivity (NEET),6.528574070649158
+E07000036,Erewash,Country Living,Economic inactivity (NEET),9.016635495619648
+E07000037,High Peak,Town Living,Economic inactivity (NEET),7.003686150605581
+E07000038,North East Derbyshire,Town Living,Economic inactivity (NEET),8.972208912314326
+E07000039,South Derbyshire,Country Living,Economic inactivity (NEET),6.393724478830862
+E07000040,East Devon,Remoter Coastal Living,Economic inactivity (NEET),7.168458781362006
+E07000041,Exeter,Larger Towns and Cities,Economic inactivity (NEET),4.027733672065206
+E07000042,Mid Devon,English and Welsh Countryside,Economic inactivity (NEET),7.8385832486572795
+E07000043,North Devon,Remoter Coastal Living,Economic inactivity (NEET),9.042687547360446
+E07000044,South Hams,English and Welsh Countryside,Economic inactivity (NEET),7.523271783915764
+E07000045,Teignbridge,Remoter Coastal Living,Economic inactivity (NEET),7.482927767625276
+E07000046,Torridge,English and Welsh Countryside,Economic inactivity (NEET),9.112058937572701
+E07000047,West Devon,English and Welsh Countryside,Economic inactivity (NEET),7.8478002378121285
+E07000061,Eastbourne,Larger Towns and Cities,Economic inactivity (NEET),8.855600837096597
+E07000062,Hastings,Manufacturing Traits,Economic inactivity (NEET),11.41047926496151
+E07000063,Lewes,Remoter Coastal Living,Economic inactivity (NEET),8.399701343952215
+E07000064,Rother,Remoter Coastal Living,Economic inactivity (NEET),9.068662732114582
+E07000065,Wealden,English and Welsh Countryside,Economic inactivity (NEET),6.618342262842736
+E07000066,Basildon,Suburban Traits,Economic inactivity (NEET),8.994197292069632
+E07000067,Braintree,Country Living,Economic inactivity (NEET),7.353582328149979
+E07000068,Brentwood,Thriving Rural,Economic inactivity (NEET),5.730184990224093
+E07000069,Castle Point,Town Living,Economic inactivity (NEET),7.086999022482894
+E07000070,Chelmsford,Thriving Rural,Economic inactivity (NEET),6.169197941508724
+E07000071,Colchester,Thriving Rural,Economic inactivity (NEET),6.654108542918237
+E07000072,Epping Forest,Thriving Rural,Economic inactivity (NEET),6.841078973025675
+E07000073,Harlow,Suburban Traits,Economic inactivity (NEET),9.359828384328779
+E07000074,Maldon,Country Living,Economic inactivity (NEET),6.61270879972447
+E07000075,Rochford,Town Living,Economic inactivity (NEET),5.35806953814219
+E07000076,Tendring,Remoter Coastal Living,Economic inactivity (NEET),10.342566792329126
+E07000077,Uttlesford,Thriving Rural,Economic inactivity (NEET),5.421052631578947
+E07000078,Cheltenham,Larger Towns and Cities,Economic inactivity (NEET),6.526190069953933
+E07000079,Cotswold,English and Welsh Countryside,Economic inactivity (NEET),6.132275881603173
+E07000080,Forest of Dean,Country Living,Economic inactivity (NEET),8.160384018071438
+E07000081,Gloucester,Manufacturing Traits,Economic inactivity (NEET),7.801418439716312
+E07000082,Stroud,Country Living,Economic inactivity (NEET),6.239787581699346
+E07000083,Tewkesbury,Country Living,Economic inactivity (NEET),6.988681231903132
+E07000084,Basingstoke and Deane,Thriving Rural,Economic inactivity (NEET),7.01786928832004
+E07000085,East Hampshire,Thriving Rural,Economic inactivity (NEET),6.085873107149703
+E07000086,Eastleigh,Town Living,Economic inactivity (NEET),6.278295037157257
+E07000087,Fareham,Town Living,Economic inactivity (NEET),5.25283347863993
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.22237380627558
+E07000089,Hart,Thriving Rural,Economic inactivity (NEET),4.744255003706449
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),7.991141459813601
+E07000091,New Forest,Remoter Coastal Living,Economic inactivity (NEET),6.91072095629436
+E07000092,Rushmoor,Suburban Traits,Economic inactivity (NEET),7.8448559219897005
+E07000093,Test Valley,Thriving Rural,Economic inactivity (NEET),6.375296912114015
+E07000094,Winchester,Thriving Rural,Economic inactivity (NEET),5.034832172260924
+E07000095,Broxbourne,Suburban Traits,Economic inactivity (NEET),7.583737097113967
+E07000096,Dacorum,Thriving Rural,Economic inactivity (NEET),7.252172575559486
+E07000098,Hertsmere,Rural-Urban Fringe,Economic inactivity (NEET),6.733339934646995
+E07000099,North Hertfordshire,Thriving Rural,Economic inactivity (NEET),7.073014712601664
+E07000102,Three Rivers,Rural-Urban Fringe,Economic inactivity (NEET),5.735956387769614
+E07000103,Watford,Suburban Traits,Economic inactivity (NEET),6.641070872678219
+E07000105,Ashford,Country Living,Economic inactivity (NEET),9.22938334288756
+E07000106,Canterbury,Larger Towns and Cities,Economic inactivity (NEET),6.0880959580687435
+E07000107,Dartford,Suburban Traits,Economic inactivity (NEET),7.79647900947959
+E07000108,Dover,Remoter Coastal Living,Economic inactivity (NEET),9.723497602285482
+E07000109,Gravesham,Suburban Traits,Economic inactivity (NEET),9.856838846972336
+E07000110,Maidstone,Thriving Rural,Economic inactivity (NEET),8.104600609953929
+E07000111,Sevenoaks,Thriving Rural,Economic inactivity (NEET),6.727608874281018
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Economic inactivity (NEET),9.835882549960925
+E07000113,Swale,Country Living,Economic inactivity (NEET),11.02104664391354
+E07000114,Thanet,Remoter Coastal Living,Economic inactivity (NEET),11.731431382193803
+E07000115,Tonbridge and Malling,Thriving Rural,Economic inactivity (NEET),6.920077972709551
+E07000116,Tunbridge Wells,Thriving Rural,Economic inactivity (NEET),7.388535031847134
+E07000117,Burnley,Manufacturing Traits,Economic inactivity (NEET),11.869309051955009
+E07000118,Chorley,Town Living,Economic inactivity (NEET),6.88911704312115
+E07000119,Fylde,English and Welsh Countryside,Economic inactivity (NEET),7.0198675496688745
+E07000120,Hyndburn,Manufacturing Traits,Economic inactivity (NEET),10.04169148302561
+E07000121,Lancaster,Larger Towns and Cities,Economic inactivity (NEET),6.222611744084137
+E07000122,Pendle,Manufacturing Traits,Economic inactivity (NEET),10.250873946123793
+E07000123,Preston,Larger Towns and Cities,Economic inactivity (NEET),8.239833778569308
+E07000124,Ribble Valley,English and Welsh Countryside,Economic inactivity (NEET),4.216748768472907
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.283862605314324
+E07000126,South Ribble,Town Living,Economic inactivity (NEET),6.1485642946317105
+E07000127,West Lancashire,Town Living,Economic inactivity (NEET),6.339366889825605
+E07000128,Wyre,English and Welsh Countryside,Economic inactivity (NEET),7.516824455343903
+E07000129,Blaby,Town Living,Economic inactivity (NEET),5.788825439480461
+E07000130,Charnwood,Town Living,Economic inactivity (NEET),5.245744425797171
+E07000131,Harborough,Country Living,Economic inactivity (NEET),5.0208209399167165
+E07000132,Hinckley and Bosworth,Country Living,Economic inactivity (NEET),6.740130523162511
+E07000133,Melton,Country Living,Economic inactivity (NEET),6.287497000239981
+E07000134,North West Leicestershire,Country Living,Economic inactivity (NEET),6.399046104928457
+E07000135,Oadby and Wigston,Town Living,Economic inactivity (NEET),6.286721504112809
+E07000136,Boston,Manufacturing Traits,Economic inactivity (NEET),8.760128420730776
+E07000137,East Lindsey,Remoter Coastal Living,Economic inactivity (NEET),11.87214611872146
+E07000138,Lincoln,Larger Towns and Cities,Economic inactivity (NEET),6.517559600102538
+E07000139,North Kesteven,English and Welsh Countryside,Economic inactivity (NEET),5.884799334580994
+E07000140,South Holland,Country Living,Economic inactivity (NEET),7.752710956001496
+E07000141,South Kesteven,Country Living,Economic inactivity (NEET),7.5439494794333495
+E07000142,West Lindsey,English and Welsh Countryside,Economic inactivity (NEET),8.449591997894183
+E07000143,Breckland,English and Welsh Countryside,Economic inactivity (NEET),8.463630183548606
+E07000144,Broadland,Country Living,Economic inactivity (NEET),6.582686114794469
+E07000145,Great Yarmouth,Remoter Coastal Living,Economic inactivity (NEET),11.41472014103129
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Economic inactivity (NEET),9.934671765455704
+E07000147,North Norfolk,Remoter Coastal Living,Economic inactivity (NEET),9.833333333333332
+E07000148,Norwich,Larger Towns and Cities,Economic inactivity (NEET),6.938379427462397
+E07000149,South Norfolk,Country Living,Economic inactivity (NEET),6.893732970027249
+E07000163,Craven,English and Welsh Countryside,Economic inactivity (NEET),5.5149658260664625
+E07000164,Hambleton,English and Welsh Countryside,Economic inactivity (NEET),6.6521739130434785
+E07000165,Harrogate,English and Welsh Countryside,Economic inactivity (NEET),5.884246961281494
+E07000166,Richmondshire,English and Welsh Countryside,Economic inactivity (NEET),6.939643711778783
+E07000167,Ryedale,English and Welsh Countryside,Economic inactivity (NEET),6.953066799106035
+E07000168,Scarborough,Remoter Coastal Living,Economic inactivity (NEET),10.832079620414303
+E07000169,Selby,Country Living,Economic inactivity (NEET),6.476443264764432
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.448818897637794
+E07000171,Bassetlaw,Country Living,Economic inactivity (NEET),8.355768272011167
+E07000172,Broxtowe,Town Living,Economic inactivity (NEET),6.170726796859271
+E07000173,Gedling,Town Living,Economic inactivity (NEET),8.022598870056497
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.429638854296389
+E07000175,Newark and Sherwood,Country Living,Economic inactivity (NEET),8.57798603806063
+E07000176,Rushcliffe,Thriving Rural,Economic inactivity (NEET),4.759660697455231
+E07000177,Cherwell,Thriving Rural,Economic inactivity (NEET),7.260844584889399
+E07000178,Oxford,University Towns and Cities,Economic inactivity (NEET),4.643474722815584
+E07000179,South Oxfordshire,Thriving Rural,Economic inactivity (NEET),6.205330866896494
+E07000180,Vale of White Horse,Thriving Rural,Economic inactivity (NEET),6.5209438448875074
+E07000181,West Oxfordshire,Thriving Rural,Economic inactivity (NEET),6.55168673391908
+E07000187,Mendip,English and Welsh Countryside,Economic inactivity (NEET),7.306666666666667
+E07000188,Sedgemoor,English and Welsh Countryside,Economic inactivity (NEET),8.490652074783402
+E07000189,South Somerset,English and Welsh Countryside,Economic inactivity (NEET),8.3298392732355
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),8.96446810822558
+E07000193,East Staffordshire,Country Living,Economic inactivity (NEET),7.506032402619786
+E07000194,Lichfield,Town Living,Economic inactivity (NEET),6.386882238275426
+E07000195,Newcastle-under-Lyme,Town Living,Economic inactivity (NEET),6.7599809129950685
+E07000196,South Staffordshire,Town Living,Economic inactivity (NEET),6.822524446442621
+E07000197,Stafford,Town Living,Economic inactivity (NEET),6.931499411817935
+E07000198,Staffordshire Moorlands,Country Living,Economic inactivity (NEET),5.804311774461028
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),8.88210302708444
+E07000200,Babergh,Country Living,Economic inactivity (NEET),6.86092715231788
+E07000202,Ipswich,Manufacturing Traits,Economic inactivity (NEET),9.549825174825175
+E07000203,Mid Suffolk,Country Living,Economic inactivity (NEET),6.384733184120626
+E07000207,Elmbridge,Rural-Urban Fringe,Economic inactivity (NEET),5.876220263482134
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Economic inactivity (NEET),5.656984785615491
+E07000209,Guildford,Rural-Urban Fringe,Economic inactivity (NEET),4.451500435811232
+E07000210,Mole Valley,Thriving Rural,Economic inactivity (NEET),6.034118144649655
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Economic inactivity (NEET),6.202447899437645
+E07000212,Runnymede,Rural-Urban Fringe,Economic inactivity (NEET),4.978834912316065
+E07000213,Spelthorne,Rural-Urban Fringe,Economic inactivity (NEET),7.245886860491322
+E07000214,Surrey Heath,Rural-Urban Fringe,Economic inactivity (NEET),5.316843044753283
+E07000215,Tandridge,Thriving Rural,Economic inactivity (NEET),6.466165413533835
+E07000216,Waverley,Thriving Rural,Economic inactivity (NEET),5.185255920550038
+E07000217,Woking,Rural-Urban Fringe,Economic inactivity (NEET),6.452333110069213
+E07000218,North Warwickshire,Country Living,Economic inactivity (NEET),6.822577809038158
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Economic inactivity (NEET),9.037737360788398
+E07000220,Rugby,Suburban Traits,Economic inactivity (NEET),6.418918918918918
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Economic inactivity (NEET),6.284046692607004
+E07000222,Warwick,Larger Towns and Cities,Economic inactivity (NEET),4.487379245870988
+E07000223,Adur,Town Living,Economic inactivity (NEET),8.359683794466404
+E07000224,Arun,Remoter Coastal Living,Economic inactivity (NEET),7.507255231403696
+E07000225,Chichester,English and Welsh Countryside,Economic inactivity (NEET),6.82964687621265
+E07000226,Crawley,Suburban Traits,Economic inactivity (NEET),8.206634416033172
+E07000227,Horsham,Thriving Rural,Economic inactivity (NEET),5.909129949325775
+E07000228,Mid Sussex,Thriving Rural,Economic inactivity (NEET),5.971000325839036
+E07000229,Worthing,Manufacturing Traits,Economic inactivity (NEET),6.898011002962336
+E07000234,Bromsgrove,Town Living,Economic inactivity (NEET),5.556238475722188
+E07000235,Malvern Hills,English and Welsh Countryside,Economic inactivity (NEET),7.762113109706692
+E07000236,Redditch,Manufacturing Traits,Economic inactivity (NEET),8.280571073867163
+E07000237,Worcester,Manufacturing Traits,Economic inactivity (NEET),6.554651264548876
+E07000238,Wychavon,Country Living,Economic inactivity (NEET),7.110778443113773
+E07000239,Wyre Forest,Country Living,Economic inactivity (NEET),8.9862563138729
+E07000240,St Albans,Rural-Urban Fringe,Economic inactivity (NEET),5.5606274379616565
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Economic inactivity (NEET),5.597522284332981
+E07000242,East Hertfordshire,Thriving Rural,Economic inactivity (NEET),5.826537013801756
+E07000243,Stevenage,Suburban Traits,Economic inactivity (NEET),8.252656434474616
+E07000244,East Suffolk,,Economic inactivity (NEET),8.83814303638645
+E07000245,West Suffolk,,Economic inactivity (NEET),7.776313311993975
+E07000246,Somerset West and Taunton,,Economic inactivity (NEET),7.804568527918781
+E08000001,Bolton,Manufacturing Traits,Economic inactivity (NEET),9.917517674783975
+E08000002,Bury,Manufacturing Traits,Economic inactivity (NEET),8.394925537782681
+E08000003,Manchester,University Towns and Cities,Economic inactivity (NEET),7.444230103378345
+E08000004,Oldham,Manufacturing Traits,Economic inactivity (NEET),11.099097755573782
+E08000005,Rochdale,Manufacturing Traits,Economic inactivity (NEET),10.198488130498209
+E08000006,Salford,Manufacturing Traits,Economic inactivity (NEET),8.559992435941883
+E08000007,Stockport,Town Living,Economic inactivity (NEET),8.2115828240722
+E08000008,Tameside,Manufacturing Traits,Economic inactivity (NEET),9.697109826589594
+E08000009,Trafford,Suburban Traits,Economic inactivity (NEET),6.147382654046745
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),8.693794372863529
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),11.777542653088217
+E08000012,Liverpool,Larger Towns and Cities,Economic inactivity (NEET),7.6997829678338885
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.16653640353514
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.063777596075225
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.801427460956823
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.903483309143686
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),11.19099054432128
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),11.060469136772621
+E08000019,Sheffield,Larger Towns and Cities,Economic inactivity (NEET),7.653356696315876
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Economic inactivity (NEET),6.8396659324522755
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),8.959322615710281
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.228658536585366
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.472086190009794
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),9.529196585828478
+E08000026,Coventry,Larger Towns and Cities,Economic inactivity (NEET),7.1348915013242875
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.362485466993927
+E08000028,Sandwell,Manufacturing Traits,Economic inactivity (NEET),10.437996968326996
+E08000029,Solihull,Town Living,Economic inactivity (NEET),7.2992700729927
+E08000030,Walsall,Manufacturing Traits,Economic inactivity (NEET),11.73349658198143
+E08000031,Wolverhampton,Manufacturing Traits,Economic inactivity (NEET),10.732974438128224
+E08000032,Bradford,Manufacturing Traits,Economic inactivity (NEET),10.954224550216352
+E08000033,Calderdale,Manufacturing Traits,Economic inactivity (NEET),9.356817109608428
+E08000034,Kirklees,Manufacturing Traits,Economic inactivity (NEET),8.315274457675208
+E08000035,Leeds,Larger Towns and Cities,Economic inactivity (NEET),6.322333714725447
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),9.725984251968505
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),10.88404394603518
+E09000001,City of London,,Economic inactivity (NEET),1.9927536231884055
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),8.872162389398246
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.313253640966748
+E09000004,Bexley,Suburban Traits,Economic inactivity (NEET),6.639139855279833
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.727039507439713
+E09000006,Bromley,Rural-Urban Fringe,Economic inactivity (NEET),6.5254024595747735
+E09000007,Camden,London Cosmopolitan,Economic inactivity (NEET),5.543653925658662
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.952618325710469
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),6.898819073669814
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),9.279793906810035
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),8.798380623320421
+E09000012,Hackney,London Cosmopolitan,Economic inactivity (NEET),8.206087046847408
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Economic inactivity (NEET),5.337982832618026
+E09000014,Haringey,London Cosmopolitan,Economic inactivity (NEET),8.655459052447162
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),6.539499183037581
+E09000016,Havering,Suburban Traits,Economic inactivity (NEET),7.113893153812842
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.296398183097691
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.4645941278065635
+E09000019,Islington,London Cosmopolitan,Economic inactivity (NEET),7.275231655396945
+E09000020,Kensington and Chelsea,London Cosmopolitan,Economic inactivity (NEET),5.2409531166438885
+E09000021,Kingston upon Thames,University Towns and Cities,Economic inactivity (NEET),5.3740843040710935
+E09000022,Lambeth,London Cosmopolitan,Economic inactivity (NEET),5.623491770830509
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),8.110353997008476
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),6.924149326173387
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),8.111018869617896
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.024418774674659
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Economic inactivity (NEET),5.683311432325887
+E09000028,Southwark,London Cosmopolitan,Economic inactivity (NEET),6.385166985686941
+E09000029,Sutton,Suburban Traits,Economic inactivity (NEET),7.041274593669804
+E09000030,Tower Hamlets,London Cosmopolitan,Economic inactivity (NEET),6.456435734658202
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Economic inactivity (NEET),7.838365962467278
+E09000032,Wandsworth,London Cosmopolitan,Economic inactivity (NEET),5.647871545929798
+E09000033,Westminster,,Economic inactivity (NEET),5.349826053343641
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),66.5
+E06000002,Middlesbrough,Manufacturing Traits,Fertility rates (age 20-24),68.4
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),71.1
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),63.2
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),65.5
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),68.3
+E06000007,Warrington,Town Living,Fertility rates (age 20-24),43.7
+E06000008,Blackburn with Darwen,Manufacturing Traits,Fertility rates (age 20-24),66.3
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),78.3
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Fertility rates (age 20-24),66.7
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Fertility rates (age 20-24),44.6
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),81.6
+E06000013,North Lincolnshire,Country Living,Fertility rates (age 20-24),77.6
+E06000014,York,Larger Towns and Cities,Fertility rates (age 20-24),15.3
+E06000015,Derby,Manufacturing Traits,Fertility rates (age 20-24),49.6
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),35.0
+E06000017,Rutland,English and Welsh Countryside,Fertility rates (age 20-24),31.8
+E06000018,Nottingham,University Towns and Cities,Fertility rates (age 20-24),22.3
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Fertility rates (age 20-24),48.0
+E06000020,Telford and Wrekin,Manufacturing Traits,Fertility rates (age 20-24),68.9
+E06000021,Stoke-on-Trent,Manufacturing Traits,Fertility rates (age 20-24),66.2
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Fertility rates (age 20-24),15.6
+E06000023,"Bristol, City of",Larger Towns and Cities,Fertility rates (age 20-24),18.6
+E06000024,North Somerset,English and Welsh Countryside,Fertility rates (age 20-24),43.5
+E06000025,South Gloucestershire,Town Living,Fertility rates (age 20-24),32.8
+E06000026,Plymouth,Larger Towns and Cities,Fertility rates (age 20-24),37.4
+E06000027,Torbay,Remoter Coastal Living,Fertility rates (age 20-24),59.7
+E06000030,Swindon,Suburban Traits,Fertility rates (age 20-24),49.4
+E06000031,Peterborough,Suburban Traits,Fertility rates (age 20-24),68.1
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),57.1
+E06000033,Southend-on-Sea,Manufacturing Traits,Fertility rates (age 20-24),47.1
+E06000034,Thurrock,Suburban Traits,Fertility rates (age 20-24),57.6
+E06000035,Medway,Suburban Traits,Fertility rates (age 20-24),57.3
+E06000036,Bracknell Forest,Rural-Urban Fringe,Fertility rates (age 20-24),47.3
+E06000037,West Berkshire,Thriving Rural,Fertility rates (age 20-24),37.2
+E06000038,Reading,University Towns and Cities,Fertility rates (age 20-24),26.4
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),58.2
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Fertility rates (age 20-24),27.5
+E06000041,Wokingham,Thriving Rural,Fertility rates (age 20-24),26.1
+E06000042,Milton Keynes,Suburban Traits,Fertility rates (age 20-24),48.0
+E06000043,Brighton and Hove,University Towns and Cities,Fertility rates (age 20-24),11.8
+E06000044,Portsmouth,Larger Towns and Cities,Fertility rates (age 20-24),29.8
+E06000045,Southampton,Larger Towns and Cities,Fertility rates (age 20-24),29.1
+E06000046,Isle of Wight,Remoter Coastal Living,Fertility rates (age 20-24),56.3
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),49.4
+E06000049,Cheshire East,Country Living,Fertility rates (age 20-24),42.9
+E06000050,Cheshire West and Chester,Town Living,Fertility rates (age 20-24),39.0
+E06000051,Shropshire,English and Welsh Countryside,Fertility rates (age 20-24),45.7
+E06000052,Cornwall,,Fertility rates (age 20-24),43.4
+E06000053,Isles of Scilly,,Fertility rates (age 20-24),22.2
+E06000054,Wiltshire,Country Living,Fertility rates (age 20-24),48.0
+E06000055,Bedford,Suburban Traits,Fertility rates (age 20-24),46.2
+E06000056,Central Bedfordshire,Thriving Rural,Fertility rates (age 20-24),49.1
+E06000057,Northumberland,English and Welsh Countryside,Fertility rates (age 20-24),61.1
+E06000058,"Bournemouth, Christchurch and Poole",,Fertility rates (age 20-24),25.7
+E06000059,Dorset,,Fertility rates (age 20-24),44.3
+E06000060,Buckinghamshire,,Fertility rates (age 20-24),34.4
+E06000061,North Northamptonshire,,Fertility rates (age 20-24),59.4
+E06000062,West Northamptonshire,,Fertility rates (age 20-24),46.2
+E07000008,Cambridge,University Towns and Cities,Fertility rates (age 20-24),9.8
+E07000009,East Cambridgeshire,Country Living,Fertility rates (age 20-24),42.6
+E07000010,Fenland,Country Living,Fertility rates (age 20-24),81.8
+E07000011,Huntingdonshire,Country Living,Fertility rates (age 20-24),46.3
+E07000012,South Cambridgeshire,Thriving Rural,Fertility rates (age 20-24),36.5
+E07000026,Allerdale,English and Welsh Countryside,Fertility rates (age 20-24),54.9
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),70.7
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),52.0
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),55.9
+E07000030,Eden,English and Welsh Countryside,Fertility rates (age 20-24),37.6
+E07000031,South Lakeland,English and Welsh Countryside,Fertility rates (age 20-24),39.9
+E07000032,Amber Valley,Country Living,Fertility rates (age 20-24),53.0
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),71.6
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),63.5
+E07000035,Derbyshire Dales,English and Welsh Countryside,Fertility rates (age 20-24),37.2
+E07000036,Erewash,Country Living,Fertility rates (age 20-24),48.4
+E07000037,High Peak,Town Living,Fertility rates (age 20-24),41.1
+E07000038,North East Derbyshire,Town Living,Fertility rates (age 20-24),50.8
+E07000039,South Derbyshire,Country Living,Fertility rates (age 20-24),63.2
+E07000040,East Devon,Remoter Coastal Living,Fertility rates (age 20-24),47.1
+E07000041,Exeter,Larger Towns and Cities,Fertility rates (age 20-24),14.1
+E07000042,Mid Devon,English and Welsh Countryside,Fertility rates (age 20-24),50.4
+E07000043,North Devon,Remoter Coastal Living,Fertility rates (age 20-24),56.2
+E07000044,South Hams,English and Welsh Countryside,Fertility rates (age 20-24),33.5
+E07000045,Teignbridge,Remoter Coastal Living,Fertility rates (age 20-24),48.5
+E07000046,Torridge,English and Welsh Countryside,Fertility rates (age 20-24),61.7
+E07000047,West Devon,English and Welsh Countryside,Fertility rates (age 20-24),44.6
+E07000061,Eastbourne,Larger Towns and Cities,Fertility rates (age 20-24),48.5
+E07000062,Hastings,Manufacturing Traits,Fertility rates (age 20-24),69.8
+E07000063,Lewes,Remoter Coastal Living,Fertility rates (age 20-24),45.8
+E07000064,Rother,Remoter Coastal Living,Fertility rates (age 20-24),45.8
+E07000065,Wealden,English and Welsh Countryside,Fertility rates (age 20-24),36.4
+E07000066,Basildon,Suburban Traits,Fertility rates (age 20-24),62.9
+E07000067,Braintree,Country Living,Fertility rates (age 20-24),51.3
+E07000068,Brentwood,Thriving Rural,Fertility rates (age 20-24),33.4
+E07000069,Castle Point,Town Living,Fertility rates (age 20-24),50.9
+E07000070,Chelmsford,Thriving Rural,Fertility rates (age 20-24),37.3
+E07000071,Colchester,Thriving Rural,Fertility rates (age 20-24),31.1
+E07000072,Epping Forest,Thriving Rural,Fertility rates (age 20-24),35.3
+E07000073,Harlow,Suburban Traits,Fertility rates (age 20-24),63.2
+E07000074,Maldon,Country Living,Fertility rates (age 20-24),37.1
+E07000075,Rochford,Town Living,Fertility rates (age 20-24),32.0
+E07000076,Tendring,Remoter Coastal Living,Fertility rates (age 20-24),72.2
+E07000077,Uttlesford,Thriving Rural,Fertility rates (age 20-24),24.1
+E07000078,Cheltenham,Larger Towns and Cities,Fertility rates (age 20-24),27.9
+E07000079,Cotswold,English and Welsh Countryside,Fertility rates (age 20-24),30.6
+E07000080,Forest of Dean,Country Living,Fertility rates (age 20-24),56.5
+E07000081,Gloucester,Manufacturing Traits,Fertility rates (age 20-24),51.7
+E07000082,Stroud,Country Living,Fertility rates (age 20-24),36.7
+E07000083,Tewkesbury,Country Living,Fertility rates (age 20-24),42.4
+E07000084,Basingstoke and Deane,Thriving Rural,Fertility rates (age 20-24),45.9
+E07000085,East Hampshire,Thriving Rural,Fertility rates (age 20-24),39.5
+E07000086,Eastleigh,Town Living,Fertility rates (age 20-24),47.6
+E07000087,Fareham,Town Living,Fertility rates (age 20-24),34.1
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),67.8
+E07000089,Hart,Thriving Rural,Fertility rates (age 20-24),32.2
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),56.3
+E07000091,New Forest,Remoter Coastal Living,Fertility rates (age 20-24),37.0
+E07000092,Rushmoor,Suburban Traits,Fertility rates (age 20-24),56.6
+E07000093,Test Valley,Thriving Rural,Fertility rates (age 20-24),46.7
+E07000094,Winchester,Thriving Rural,Fertility rates (age 20-24),18.0
+E07000095,Broxbourne,Suburban Traits,Fertility rates (age 20-24),41.4
+E07000096,Dacorum,Thriving Rural,Fertility rates (age 20-24),42.1
+E07000098,Hertsmere,Rural-Urban Fringe,Fertility rates (age 20-24),38.7
+E07000099,North Hertfordshire,Thriving Rural,Fertility rates (age 20-24),34.3
+E07000102,Three Rivers,Rural-Urban Fringe,Fertility rates (age 20-24),30.5
+E07000103,Watford,Suburban Traits,Fertility rates (age 20-24),40.7
+E07000105,Ashford,Country Living,Fertility rates (age 20-24),58.5
+E07000106,Canterbury,Larger Towns and Cities,Fertility rates (age 20-24),21.3
+E07000107,Dartford,Suburban Traits,Fertility rates (age 20-24),57.7
+E07000108,Dover,Remoter Coastal Living,Fertility rates (age 20-24),61.8
+E07000109,Gravesham,Suburban Traits,Fertility rates (age 20-24),59.8
+E07000110,Maidstone,Thriving Rural,Fertility rates (age 20-24),61.8
+E07000111,Sevenoaks,Thriving Rural,Fertility rates (age 20-24),36.0
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Fertility rates (age 20-24),66.2
+E07000113,Swale,Country Living,Fertility rates (age 20-24),78.3
+E07000114,Thanet,Remoter Coastal Living,Fertility rates (age 20-24),66.0
+E07000115,Tonbridge and Malling,Thriving Rural,Fertility rates (age 20-24),45.7
+E07000116,Tunbridge Wells,Thriving Rural,Fertility rates (age 20-24),46.0
+E07000117,Burnley,Manufacturing Traits,Fertility rates (age 20-24),69.4
+E07000118,Chorley,Town Living,Fertility rates (age 20-24),55.3
+E07000119,Fylde,English and Welsh Countryside,Fertility rates (age 20-24),43.4
+E07000120,Hyndburn,Manufacturing Traits,Fertility rates (age 20-24),70.7
+E07000121,Lancaster,Larger Towns and Cities,Fertility rates (age 20-24),33.3
+E07000122,Pendle,Manufacturing Traits,Fertility rates (age 20-24),74.2
+E07000123,Preston,Larger Towns and Cities,Fertility rates (age 20-24),46.1
+E07000124,Ribble Valley,English and Welsh Countryside,Fertility rates (age 20-24),26.2
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),63.8
+E07000126,South Ribble,Town Living,Fertility rates (age 20-24),53.7
+E07000127,West Lancashire,Town Living,Fertility rates (age 20-24),30.3
+E07000128,Wyre,English and Welsh Countryside,Fertility rates (age 20-24),45.9
+E07000129,Blaby,Town Living,Fertility rates (age 20-24),43.5
+E07000130,Charnwood,Town Living,Fertility rates (age 20-24),25.1
+E07000131,Harborough,Country Living,Fertility rates (age 20-24),37.2
+E07000132,Hinckley and Bosworth,Country Living,Fertility rates (age 20-24),52.1
+E07000133,Melton,Country Living,Fertility rates (age 20-24),49.4
+E07000134,North West Leicestershire,Country Living,Fertility rates (age 20-24),39.5
+E07000135,Oadby and Wigston,Town Living,Fertility rates (age 20-24),33.4
+E07000136,Boston,Manufacturing Traits,Fertility rates (age 20-24),88.4
+E07000137,East Lindsey,Remoter Coastal Living,Fertility rates (age 20-24),73.2
+E07000138,Lincoln,Larger Towns and Cities,Fertility rates (age 20-24),27.2
+E07000139,North Kesteven,English and Welsh Countryside,Fertility rates (age 20-24),52.3
+E07000140,South Holland,Country Living,Fertility rates (age 20-24),82.5
+E07000141,South Kesteven,Country Living,Fertility rates (age 20-24),50.9
+E07000142,West Lindsey,English and Welsh Countryside,Fertility rates (age 20-24),55.0
+E07000143,Breckland,English and Welsh Countryside,Fertility rates (age 20-24),65.0
+E07000144,Broadland,Country Living,Fertility rates (age 20-24),43.0
+E07000145,Great Yarmouth,Remoter Coastal Living,Fertility rates (age 20-24),71.6
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Fertility rates (age 20-24),66.8
+E07000147,North Norfolk,Remoter Coastal Living,Fertility rates (age 20-24),42.6
+E07000148,Norwich,Larger Towns and Cities,Fertility rates (age 20-24),22.0
+E07000149,South Norfolk,Country Living,Fertility rates (age 20-24),45.5
+E07000163,Craven,English and Welsh Countryside,Fertility rates (age 20-24),32.0
+E07000164,Hambleton,English and Welsh Countryside,Fertility rates (age 20-24),41.3
+E07000165,Harrogate,English and Welsh Countryside,Fertility rates (age 20-24),35.3
+E07000166,Richmondshire,English and Welsh Countryside,Fertility rates (age 20-24),65.7
+E07000167,Ryedale,English and Welsh Countryside,Fertility rates (age 20-24),37.2
+E07000168,Scarborough,Remoter Coastal Living,Fertility rates (age 20-24),70.7
+E07000169,Selby,Country Living,Fertility rates (age 20-24),58.3
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),75.2
+E07000171,Bassetlaw,Country Living,Fertility rates (age 20-24),67.8
+E07000172,Broxtowe,Town Living,Fertility rates (age 20-24),29.5
+E07000173,Gedling,Town Living,Fertility rates (age 20-24),37.6
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),71.9
+E07000175,Newark and Sherwood,Country Living,Fertility rates (age 20-24),66.1
+E07000176,Rushcliffe,Thriving Rural,Fertility rates (age 20-24),23.1
+E07000177,Cherwell,Thriving Rural,Fertility rates (age 20-24),50.0
+E07000178,Oxford,University Towns and Cities,Fertility rates (age 20-24),8.4
+E07000179,South Oxfordshire,Thriving Rural,Fertility rates (age 20-24),34.5
+E07000180,Vale of White Horse,Thriving Rural,Fertility rates (age 20-24),41.8
+E07000181,West Oxfordshire,Thriving Rural,Fertility rates (age 20-24),38.7
+E07000187,Mendip,English and Welsh Countryside,Fertility rates (age 20-24),52.7
+E07000188,Sedgemoor,English and Welsh Countryside,Fertility rates (age 20-24),55.8
+E07000189,South Somerset,English and Welsh Countryside,Fertility rates (age 20-24),52.6
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),69.1
+E07000193,East Staffordshire,Country Living,Fertility rates (age 20-24),59.4
+E07000194,Lichfield,Town Living,Fertility rates (age 20-24),51.1
+E07000195,Newcastle-under-Lyme,Town Living,Fertility rates (age 20-24),40.3
+E07000196,South Staffordshire,Town Living,Fertility rates (age 20-24),49.4
+E07000197,Stafford,Town Living,Fertility rates (age 20-24),47.9
+E07000198,Staffordshire Moorlands,Country Living,Fertility rates (age 20-24),48.8
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),70.5
+E07000200,Babergh,Country Living,Fertility rates (age 20-24),50.2
+E07000202,Ipswich,Manufacturing Traits,Fertility rates (age 20-24),70.8
+E07000203,Mid Suffolk,Country Living,Fertility rates (age 20-24),42.0
+E07000207,Elmbridge,Rural-Urban Fringe,Fertility rates (age 20-24),26.4
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Fertility rates (age 20-24),25.8
+E07000209,Guildford,Rural-Urban Fringe,Fertility rates (age 20-24),15.9
+E07000210,Mole Valley,Thriving Rural,Fertility rates (age 20-24),30.2
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Fertility rates (age 20-24),29.3
+E07000212,Runnymede,Rural-Urban Fringe,Fertility rates (age 20-24),17.9
+E07000213,Spelthorne,Rural-Urban Fringe,Fertility rates (age 20-24),40.2
+E07000214,Surrey Heath,Rural-Urban Fringe,Fertility rates (age 20-24),30.8
+E07000215,Tandridge,Thriving Rural,Fertility rates (age 20-24),39.4
+E07000216,Waverley,Thriving Rural,Fertility rates (age 20-24),23.3
+E07000217,Woking,Rural-Urban Fringe,Fertility rates (age 20-24),31.3
+E07000218,North Warwickshire,Country Living,Fertility rates (age 20-24),64.0
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Fertility rates (age 20-24),67.7
+E07000220,Rugby,Suburban Traits,Fertility rates (age 20-24),57.3
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Fertility rates (age 20-24),44.1
+E07000222,Warwick,Larger Towns and Cities,Fertility rates (age 20-24),21.1
+E07000223,Adur,Town Living,Fertility rates (age 20-24),36.6
+E07000224,Arun,Remoter Coastal Living,Fertility rates (age 20-24),48.9
+E07000225,Chichester,English and Welsh Countryside,Fertility rates (age 20-24),36.9
+E07000226,Crawley,Suburban Traits,Fertility rates (age 20-24),65.3
+E07000227,Horsham,Thriving Rural,Fertility rates (age 20-24),36.8
+E07000228,Mid Sussex,Thriving Rural,Fertility rates (age 20-24),36.2
+E07000229,Worthing,Manufacturing Traits,Fertility rates (age 20-24),33.4
+E07000234,Bromsgrove,Town Living,Fertility rates (age 20-24),41.7
+E07000235,Malvern Hills,English and Welsh Countryside,Fertility rates (age 20-24),35.7
+E07000236,Redditch,Manufacturing Traits,Fertility rates (age 20-24),56.0
+E07000237,Worcester,Manufacturing Traits,Fertility rates (age 20-24),29.7
+E07000238,Wychavon,Country Living,Fertility rates (age 20-24),46.2
+E07000239,Wyre Forest,Country Living,Fertility rates (age 20-24),55.9
+E07000240,St Albans,Rural-Urban Fringe,Fertility rates (age 20-24),24.0
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Fertility rates (age 20-24),21.4
+E07000242,East Hertfordshire,Thriving Rural,Fertility rates (age 20-24),27.9
+E07000243,Stevenage,Suburban Traits,Fertility rates (age 20-24),49.5
+E07000244,East Suffolk,,Fertility rates (age 20-24),50.3
+E07000245,West Suffolk,,Fertility rates (age 20-24),54.7
+E07000246,Somerset West and Taunton,,Fertility rates (age 20-24),52.4
+E08000001,Bolton,Manufacturing Traits,Fertility rates (age 20-24),60.4
+E08000002,Bury,Manufacturing Traits,Fertility rates (age 20-24),53.2
+E08000003,Manchester,University Towns and Cities,Fertility rates (age 20-24),26.9
+E08000004,Oldham,Manufacturing Traits,Fertility rates (age 20-24),74.5
+E08000005,Rochdale,Manufacturing Traits,Fertility rates (age 20-24),68.0
+E08000006,Salford,Manufacturing Traits,Fertility rates (age 20-24),45.3
+E08000007,Stockport,Town Living,Fertility rates (age 20-24),41.1
+E08000008,Tameside,Manufacturing Traits,Fertility rates (age 20-24),60.3
+E08000009,Trafford,Suburban Traits,Fertility rates (age 20-24),31.1
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),59.7
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),67.8
+E08000012,Liverpool,Larger Towns and Cities,Fertility rates (age 20-24),25.8
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),59.6
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),41.4
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),56.7
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),73.9
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),81.3
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),72.1
+E08000019,Sheffield,Larger Towns and Cities,Fertility rates (age 20-24),29.8
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Fertility rates (age 20-24),24.2
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),48.7
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),66.2
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),57.8
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),41.9
+E08000026,Coventry,Larger Towns and Cities,Fertility rates (age 20-24),35.4
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),62.1
+E08000028,Sandwell,Manufacturing Traits,Fertility rates (age 20-24),74.0
+E08000029,Solihull,Town Living,Fertility rates (age 20-24),41.6
+E08000030,Walsall,Manufacturing Traits,Fertility rates (age 20-24),77.3
+E08000031,Wolverhampton,Manufacturing Traits,Fertility rates (age 20-24),70.5
+E08000032,Bradford,Manufacturing Traits,Fertility rates (age 20-24),63.6
+E08000033,Calderdale,Manufacturing Traits,Fertility rates (age 20-24),62.0
+E08000034,Kirklees,Manufacturing Traits,Fertility rates (age 20-24),52.0
+E08000035,Leeds,Larger Towns and Cities,Fertility rates (age 20-24),29.9
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),70.3
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Fertility rates (age 20-24),58.2
+E09000001,City of London,,Fertility rates (age 20-24),0.0
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),64.9
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),34.0
+E09000004,Bexley,Suburban Traits,Fertility rates (age 20-24),35.7
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),45.8
+E09000006,Bromley,Rural-Urban Fringe,Fertility rates (age 20-24),31.2
+E09000007,Camden,London Cosmopolitan,Fertility rates (age 20-24),12.6
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),44.9
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),33.8
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),49.1
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),37.6
+E09000012,Hackney,London Cosmopolitan,Fertility rates (age 20-24),59.5
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Fertility rates (age 20-24),13.3
+E09000014,Haringey,London Cosmopolitan,Fertility rates (age 20-24),39.7
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),51.1
+E09000016,Havering,Suburban Traits,Fertility rates (age 20-24),40.5
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),41.1
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),40.1
+E09000019,Islington,London Cosmopolitan,Fertility rates (age 20-24),15.9
+E09000020,Kensington and Chelsea,London Cosmopolitan,Fertility rates (age 20-24),9.1
+E09000021,Kingston upon Thames,University Towns and Cities,Fertility rates (age 20-24),15.6
+E09000022,Lambeth,London Cosmopolitan,Fertility rates (age 20-24),17.4
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),33.8
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),31.0
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),46.6
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),48.7
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Fertility rates (age 20-24),16.5
+E09000028,Southwark,London Cosmopolitan,Fertility rates (age 20-24),16.2
+E09000029,Sutton,Suburban Traits,Fertility rates (age 20-24),42.3
+E09000030,Tower Hamlets,London Cosmopolitan,Fertility rates (age 20-24),23.3
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Fertility rates (age 20-24),41.5
+E09000032,Wandsworth,London Cosmopolitan,Fertility rates (age 20-24),13.5
+E09000033,Westminster,,Fertility rates (age 20-24),10.4
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),19.2
+E06000002,Middlesbrough,Manufacturing Traits,Fertility rates (age < 20),19.3
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),20.9
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),14.9
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),17.3
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),17.9
+E06000007,Warrington,Town Living,Fertility rates (age < 20),6.4
+E06000008,Blackburn with Darwen,Manufacturing Traits,Fertility rates (age < 20),12.6
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),19.8
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Fertility rates (age < 20),21.7
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Fertility rates (age < 20),7.8
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),23.2
+E06000013,North Lincolnshire,Country Living,Fertility rates (age < 20),11.7
+E06000014,York,Larger Towns and Cities,Fertility rates (age < 20),5.7
+E06000015,Derby,Manufacturing Traits,Fertility rates (age < 20),11.2
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),8.8
+E06000017,Rutland,English and Welsh Countryside,Fertility rates (age < 20),1.6
+E06000018,Nottingham,University Towns and Cities,Fertility rates (age < 20),7.5
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Fertility rates (age < 20),8.1
+E06000020,Telford and Wrekin,Manufacturing Traits,Fertility rates (age < 20),12.9
+E06000021,Stoke-on-Trent,Manufacturing Traits,Fertility rates (age < 20),12.6
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Fertility rates (age < 20),3.2
+E06000023,"Bristol, City of",Larger Towns and Cities,Fertility rates (age < 20),6.7
+E06000024,North Somerset,English and Welsh Countryside,Fertility rates (age < 20),8.9
+E06000025,South Gloucestershire,Town Living,Fertility rates (age < 20),3.9
+E06000026,Plymouth,Larger Towns and Cities,Fertility rates (age < 20),9.8
+E06000027,Torbay,Remoter Coastal Living,Fertility rates (age < 20),9.0
+E06000030,Swindon,Suburban Traits,Fertility rates (age < 20),7.2
+E06000031,Peterborough,Suburban Traits,Fertility rates (age < 20),13.6
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),7.9
+E06000033,Southend-on-Sea,Manufacturing Traits,Fertility rates (age < 20),9.6
+E06000034,Thurrock,Suburban Traits,Fertility rates (age < 20),6.7
+E06000035,Medway,Suburban Traits,Fertility rates (age < 20),12.3
+E06000036,Bracknell Forest,Rural-Urban Fringe,Fertility rates (age < 20),2.6
+E06000037,West Berkshire,Thriving Rural,Fertility rates (age < 20),3.9
+E06000038,Reading,University Towns and Cities,Fertility rates (age < 20),8.9
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),5.7
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Fertility rates (age < 20),2.4
+E06000041,Wokingham,Thriving Rural,Fertility rates (age < 20),2.5
+E06000042,Milton Keynes,Suburban Traits,Fertility rates (age < 20),6.5
+E06000043,Brighton and Hove,University Towns and Cities,Fertility rates (age < 20),3.3
+E06000044,Portsmouth,Larger Towns and Cities,Fertility rates (age < 20),10.9
+E06000045,Southampton,Larger Towns and Cities,Fertility rates (age < 20),11.4
+E06000046,Isle of Wight,Remoter Coastal Living,Fertility rates (age < 20),11.6
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),15.2
+E06000049,Cheshire East,Country Living,Fertility rates (age < 20),6.7
+E06000050,Cheshire West and Chester,Town Living,Fertility rates (age < 20),8.4
+E06000051,Shropshire,English and Welsh Countryside,Fertility rates (age < 20),7.3
+E06000052,Cornwall,,Fertility rates (age < 20),8.3
+E06000053,Isles of Scilly,,Fertility rates (age < 20),47.6
+E06000054,Wiltshire,Country Living,Fertility rates (age < 20),6.2
+E06000055,Bedford,Suburban Traits,Fertility rates (age < 20),10.9
+E06000056,Central Bedfordshire,Thriving Rural,Fertility rates (age < 20),3.8
+E06000057,Northumberland,English and Welsh Countryside,Fertility rates (age < 20),11.6
+E06000058,"Bournemouth, Christchurch and Poole",,Fertility rates (age < 20),6.2
+E06000059,Dorset,,Fertility rates (age < 20),6.7
+E06000060,Buckinghamshire,,Fertility rates (age < 20),3.7
+E06000061,North Northamptonshire,,Fertility rates (age < 20),10.6
+E06000062,West Northamptonshire,,Fertility rates (age < 20),6.5
+E07000008,Cambridge,University Towns and Cities,Fertility rates (age < 20),3.1
+E07000009,East Cambridgeshire,Country Living,Fertility rates (age < 20),6.0
+E07000010,Fenland,Country Living,Fertility rates (age < 20),13.9
+E07000011,Huntingdonshire,Country Living,Fertility rates (age < 20),7.0
+E07000012,South Cambridgeshire,Thriving Rural,Fertility rates (age < 20),3.7
+E07000026,Allerdale,English and Welsh Countryside,Fertility rates (age < 20),12.4
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),14.7
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),8.6
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),12.1
+E07000030,Eden,English and Welsh Countryside,Fertility rates (age < 20),5.6
+E07000031,South Lakeland,English and Welsh Countryside,Fertility rates (age < 20),4.7
+E07000032,Amber Valley,Country Living,Fertility rates (age < 20),11.3
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),9.6
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),9.9
+E07000035,Derbyshire Dales,English and Welsh Countryside,Fertility rates (age < 20),3.5
+E07000036,Erewash,Country Living,Fertility rates (age < 20),8.2
+E07000037,High Peak,Town Living,Fertility rates (age < 20),5.0
+E07000038,North East Derbyshire,Town Living,Fertility rates (age < 20),9.4
+E07000039,South Derbyshire,Country Living,Fertility rates (age < 20),5.3
+E07000040,East Devon,Remoter Coastal Living,Fertility rates (age < 20),4.8
+E07000041,Exeter,Larger Towns and Cities,Fertility rates (age < 20),4.9
+E07000042,Mid Devon,English and Welsh Countryside,Fertility rates (age < 20),7.0
+E07000043,North Devon,Remoter Coastal Living,Fertility rates (age < 20),9.1
+E07000044,South Hams,English and Welsh Countryside,Fertility rates (age < 20),4.7
+E07000045,Teignbridge,Remoter Coastal Living,Fertility rates (age < 20),7.3
+E07000046,Torridge,English and Welsh Countryside,Fertility rates (age < 20),10.1
+E07000047,West Devon,English and Welsh Countryside,Fertility rates (age < 20),7.0
+E07000061,Eastbourne,Larger Towns and Cities,Fertility rates (age < 20),8.3
+E07000062,Hastings,Manufacturing Traits,Fertility rates (age < 20),10.9
+E07000063,Lewes,Remoter Coastal Living,Fertility rates (age < 20),6.7
+E07000064,Rother,Remoter Coastal Living,Fertility rates (age < 20),8.0
+E07000065,Wealden,English and Welsh Countryside,Fertility rates (age < 20),4.7
+E07000066,Basildon,Suburban Traits,Fertility rates (age < 20),12.2
+E07000067,Braintree,Country Living,Fertility rates (age < 20),7.1
+E07000068,Brentwood,Thriving Rural,Fertility rates (age < 20),1.5
+E07000069,Castle Point,Town Living,Fertility rates (age < 20),7.1
+E07000070,Chelmsford,Thriving Rural,Fertility rates (age < 20),5.4
+E07000071,Colchester,Thriving Rural,Fertility rates (age < 20),7.7
+E07000072,Epping Forest,Thriving Rural,Fertility rates (age < 20),4.4
+E07000073,Harlow,Suburban Traits,Fertility rates (age < 20),11.4
+E07000074,Maldon,Country Living,Fertility rates (age < 20),7.9
+E07000075,Rochford,Town Living,Fertility rates (age < 20),6.8
+E07000076,Tendring,Remoter Coastal Living,Fertility rates (age < 20),13.3
+E07000077,Uttlesford,Thriving Rural,Fertility rates (age < 20),2.0
+E07000078,Cheltenham,Larger Towns and Cities,Fertility rates (age < 20),6.7
+E07000079,Cotswold,English and Welsh Countryside,Fertility rates (age < 20),5.3
+E07000080,Forest of Dean,Country Living,Fertility rates (age < 20),7.9
+E07000081,Gloucester,Manufacturing Traits,Fertility rates (age < 20),10.1
+E07000082,Stroud,Country Living,Fertility rates (age < 20),4.1
+E07000083,Tewkesbury,Country Living,Fertility rates (age < 20),5.7
+E07000084,Basingstoke and Deane,Thriving Rural,Fertility rates (age < 20),8.8
+E07000085,East Hampshire,Thriving Rural,Fertility rates (age < 20),5.9
+E07000086,Eastleigh,Town Living,Fertility rates (age < 20),6.9
+E07000087,Fareham,Town Living,Fertility rates (age < 20),6.3
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),9.2
+E07000089,Hart,Thriving Rural,Fertility rates (age < 20),1.5
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),13.8
+E07000091,New Forest,Remoter Coastal Living,Fertility rates (age < 20),5.6
+E07000092,Rushmoor,Suburban Traits,Fertility rates (age < 20),8.9
+E07000093,Test Valley,Thriving Rural,Fertility rates (age < 20),6.8
+E07000094,Winchester,Thriving Rural,Fertility rates (age < 20),3.3
+E07000095,Broxbourne,Suburban Traits,Fertility rates (age < 20),5.3
+E07000096,Dacorum,Thriving Rural,Fertility rates (age < 20),6.6
+E07000098,Hertsmere,Rural-Urban Fringe,Fertility rates (age < 20),4.5
+E07000099,North Hertfordshire,Thriving Rural,Fertility rates (age < 20),4.4
+E07000102,Three Rivers,Rural-Urban Fringe,Fertility rates (age < 20),3.3
+E07000103,Watford,Suburban Traits,Fertility rates (age < 20),3.7
+E07000105,Ashford,Country Living,Fertility rates (age < 20),7.5
+E07000106,Canterbury,Larger Towns and Cities,Fertility rates (age < 20),5.4
+E07000107,Dartford,Suburban Traits,Fertility rates (age < 20),9.2
+E07000108,Dover,Remoter Coastal Living,Fertility rates (age < 20),14.1
+E07000109,Gravesham,Suburban Traits,Fertility rates (age < 20),9.7
+E07000110,Maidstone,Thriving Rural,Fertility rates (age < 20),7.5
+E07000111,Sevenoaks,Thriving Rural,Fertility rates (age < 20),3.5
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Fertility rates (age < 20),10.3
+E07000113,Swale,Country Living,Fertility rates (age < 20),11.2
+E07000114,Thanet,Remoter Coastal Living,Fertility rates (age < 20),16.3
+E07000115,Tonbridge and Malling,Thriving Rural,Fertility rates (age < 20),4.7
+E07000116,Tunbridge Wells,Thriving Rural,Fertility rates (age < 20),5.0
+E07000117,Burnley,Manufacturing Traits,Fertility rates (age < 20),13.8
+E07000118,Chorley,Town Living,Fertility rates (age < 20),9.7
+E07000119,Fylde,English and Welsh Countryside,Fertility rates (age < 20),6.1
+E07000120,Hyndburn,Manufacturing Traits,Fertility rates (age < 20),13.2
+E07000121,Lancaster,Larger Towns and Cities,Fertility rates (age < 20),8.0
+E07000122,Pendle,Manufacturing Traits,Fertility rates (age < 20),9.6
+E07000123,Preston,Larger Towns and Cities,Fertility rates (age < 20),13.0
+E07000124,Ribble Valley,English and Welsh Countryside,Fertility rates (age < 20),5.0
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),12.2
+E07000126,South Ribble,Town Living,Fertility rates (age < 20),10.7
+E07000127,West Lancashire,Town Living,Fertility rates (age < 20),3.7
+E07000128,Wyre,English and Welsh Countryside,Fertility rates (age < 20),6.6
+E07000129,Blaby,Town Living,Fertility rates (age < 20),4.6
+E07000130,Charnwood,Town Living,Fertility rates (age < 20),4.2
+E07000131,Harborough,Country Living,Fertility rates (age < 20),4.9
+E07000132,Hinckley and Bosworth,Country Living,Fertility rates (age < 20),5.4
+E07000133,Melton,Country Living,Fertility rates (age < 20),3.8
+E07000134,North West Leicestershire,Country Living,Fertility rates (age < 20),8.3
+E07000135,Oadby and Wigston,Town Living,Fertility rates (age < 20),3.4
+E07000136,Boston,Manufacturing Traits,Fertility rates (age < 20),16.6
+E07000137,East Lindsey,Remoter Coastal Living,Fertility rates (age < 20),14.5
+E07000138,Lincoln,Larger Towns and Cities,Fertility rates (age < 20),11.3
+E07000139,North Kesteven,English and Welsh Countryside,Fertility rates (age < 20),4.4
+E07000140,South Holland,Country Living,Fertility rates (age < 20),11.4
+E07000141,South Kesteven,Country Living,Fertility rates (age < 20),5.4
+E07000142,West Lindsey,English and Welsh Countryside,Fertility rates (age < 20),10.3
+E07000143,Breckland,English and Welsh Countryside,Fertility rates (age < 20),13.8
+E07000144,Broadland,Country Living,Fertility rates (age < 20),3.8
+E07000145,Great Yarmouth,Remoter Coastal Living,Fertility rates (age < 20),15.7
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Fertility rates (age < 20),11.8
+E07000147,North Norfolk,Remoter Coastal Living,Fertility rates (age < 20),8.5
+E07000148,Norwich,Larger Towns and Cities,Fertility rates (age < 20),7.8
+E07000149,South Norfolk,Country Living,Fertility rates (age < 20),5.0
+E07000163,Craven,English and Welsh Countryside,Fertility rates (age < 20),4.8
+E07000164,Hambleton,English and Welsh Countryside,Fertility rates (age < 20),3.3
+E07000165,Harrogate,English and Welsh Countryside,Fertility rates (age < 20),5.9
+E07000166,Richmondshire,English and Welsh Countryside,Fertility rates (age < 20),8.7
+E07000167,Ryedale,English and Welsh Countryside,Fertility rates (age < 20),6.0
+E07000168,Scarborough,Remoter Coastal Living,Fertility rates (age < 20),11.7
+E07000169,Selby,Country Living,Fertility rates (age < 20),9.5
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),14.9
+E07000171,Bassetlaw,Country Living,Fertility rates (age < 20),12.6
+E07000172,Broxtowe,Town Living,Fertility rates (age < 20),4.6
+E07000173,Gedling,Town Living,Fertility rates (age < 20),8.8
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),18.5
+E07000175,Newark and Sherwood,Country Living,Fertility rates (age < 20),7.3
+E07000176,Rushcliffe,Thriving Rural,Fertility rates (age < 20),2.8
+E07000177,Cherwell,Thriving Rural,Fertility rates (age < 20),5.7
+E07000178,Oxford,University Towns and Cities,Fertility rates (age < 20),3.2
+E07000179,South Oxfordshire,Thriving Rural,Fertility rates (age < 20),4.4
+E07000180,Vale of White Horse,Thriving Rural,Fertility rates (age < 20),5.8
+E07000181,West Oxfordshire,Thriving Rural,Fertility rates (age < 20),5.7
+E07000187,Mendip,English and Welsh Countryside,Fertility rates (age < 20),4.4
+E07000188,Sedgemoor,English and Welsh Countryside,Fertility rates (age < 20),6.2
+E07000189,South Somerset,English and Welsh Countryside,Fertility rates (age < 20),8.8
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),14.3
+E07000193,East Staffordshire,Country Living,Fertility rates (age < 20),9.4
+E07000194,Lichfield,Town Living,Fertility rates (age < 20),5.4
+E07000195,Newcastle-under-Lyme,Town Living,Fertility rates (age < 20),8.3
+E07000196,South Staffordshire,Town Living,Fertility rates (age < 20),6.1
+E07000197,Stafford,Town Living,Fertility rates (age < 20),7.8
+E07000198,Staffordshire Moorlands,Country Living,Fertility rates (age < 20),8.5
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),9.4
+E07000200,Babergh,Country Living,Fertility rates (age < 20),5.3
+E07000202,Ipswich,Manufacturing Traits,Fertility rates (age < 20),15.6
+E07000203,Mid Suffolk,Country Living,Fertility rates (age < 20),5.5
+E07000207,Elmbridge,Rural-Urban Fringe,Fertility rates (age < 20),2.1
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Fertility rates (age < 20),3.9
+E07000209,Guildford,Rural-Urban Fringe,Fertility rates (age < 20),3.8
+E07000210,Mole Valley,Thriving Rural,Fertility rates (age < 20),2.5
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Fertility rates (age < 20),3.1
+E07000212,Runnymede,Rural-Urban Fringe,Fertility rates (age < 20),6.4
+E07000213,Spelthorne,Rural-Urban Fringe,Fertility rates (age < 20),7.6
+E07000214,Surrey Heath,Rural-Urban Fringe,Fertility rates (age < 20),4.1
+E07000215,Tandridge,Thriving Rural,Fertility rates (age < 20),4.4
+E07000216,Waverley,Thriving Rural,Fertility rates (age < 20),1.3
+E07000217,Woking,Rural-Urban Fringe,Fertility rates (age < 20),4.9
+E07000218,North Warwickshire,Country Living,Fertility rates (age < 20),5.0
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Fertility rates (age < 20),15.1
+E07000220,Rugby,Suburban Traits,Fertility rates (age < 20),4.1
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Fertility rates (age < 20),6.4
+E07000222,Warwick,Larger Towns and Cities,Fertility rates (age < 20),5.6
+E07000223,Adur,Town Living,Fertility rates (age < 20),3.3
+E07000224,Arun,Remoter Coastal Living,Fertility rates (age < 20),10.4
+E07000225,Chichester,English and Welsh Countryside,Fertility rates (age < 20),6.4
+E07000226,Crawley,Suburban Traits,Fertility rates (age < 20),10.6
+E07000227,Horsham,Thriving Rural,Fertility rates (age < 20),3.9
+E07000228,Mid Sussex,Thriving Rural,Fertility rates (age < 20),4.8
+E07000229,Worthing,Manufacturing Traits,Fertility rates (age < 20),3.1
+E07000234,Bromsgrove,Town Living,Fertility rates (age < 20),5.0
+E07000235,Malvern Hills,English and Welsh Countryside,Fertility rates (age < 20),8.4
+E07000236,Redditch,Manufacturing Traits,Fertility rates (age < 20),13.6
+E07000237,Worcester,Manufacturing Traits,Fertility rates (age < 20),10.1
+E07000238,Wychavon,Country Living,Fertility rates (age < 20),7.3
+E07000239,Wyre Forest,Country Living,Fertility rates (age < 20),12.5
+E07000240,St Albans,Rural-Urban Fringe,Fertility rates (age < 20),3.1
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Fertility rates (age < 20),4.6
+E07000242,East Hertfordshire,Thriving Rural,Fertility rates (age < 20),2.2
+E07000243,Stevenage,Suburban Traits,Fertility rates (age < 20),12.0
+E07000244,East Suffolk,,Fertility rates (age < 20),9.5
+E07000245,West Suffolk,,Fertility rates (age < 20),10.7
+E07000246,Somerset West and Taunton,,Fertility rates (age < 20),7.1
+E08000001,Bolton,Manufacturing Traits,Fertility rates (age < 20),10.1
+E08000002,Bury,Manufacturing Traits,Fertility rates (age < 20),6.8
+E08000003,Manchester,University Towns and Cities,Fertility rates (age < 20),7.1
+E08000004,Oldham,Manufacturing Traits,Fertility rates (age < 20),11.7
+E08000005,Rochdale,Manufacturing Traits,Fertility rates (age < 20),10.7
+E08000006,Salford,Manufacturing Traits,Fertility rates (age < 20),11.1
+E08000007,Stockport,Town Living,Fertility rates (age < 20),5.5
+E08000008,Tameside,Manufacturing Traits,Fertility rates (age < 20),8.7
+E08000009,Trafford,Suburban Traits,Fertility rates (age < 20),3.9
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),12.5
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),11.1
+E08000012,Liverpool,Larger Towns and Cities,Fertility rates (age < 20),7.9
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),16.7
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),10.1
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),10.8
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),11.2
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),16.5
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),15.7
+E08000019,Sheffield,Larger Towns and Cities,Fertility rates (age < 20),8.4
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Fertility rates (age < 20),8.8
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),11.0
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),11.4
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),16.1
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),9.4
+E08000026,Coventry,Larger Towns and Cities,Fertility rates (age < 20),8.9
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),12.1
+E08000028,Sandwell,Manufacturing Traits,Fertility rates (age < 20),13.4
+E08000029,Solihull,Town Living,Fertility rates (age < 20),4.5
+E08000030,Walsall,Manufacturing Traits,Fertility rates (age < 20),15.6
+E08000031,Wolverhampton,Manufacturing Traits,Fertility rates (age < 20),15.7
+E08000032,Bradford,Manufacturing Traits,Fertility rates (age < 20),12.6
+E08000033,Calderdale,Manufacturing Traits,Fertility rates (age < 20),9.8
+E08000034,Kirklees,Manufacturing Traits,Fertility rates (age < 20),9.6
+E08000035,Leeds,Larger Towns and Cities,Fertility rates (age < 20),11.0
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),12.9
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Fertility rates (age < 20),11.0
+E09000001,City of London,,Fertility rates (age < 20),0.0
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),8.8
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),3.3
+E09000004,Bexley,Suburban Traits,Fertility rates (age < 20),7.0
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),6.1
+E09000006,Bromley,Rural-Urban Fringe,Fertility rates (age < 20),4.3
+E09000007,Camden,London Cosmopolitan,Fertility rates (age < 20),2.5
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),7.2
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),3.3
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),9.7
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),7.3
+E09000012,Hackney,London Cosmopolitan,Fertility rates (age < 20),8.4
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Fertility rates (age < 20),2.8
+E09000014,Haringey,London Cosmopolitan,Fertility rates (age < 20),7.5
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),6.2
+E09000016,Havering,Suburban Traits,Fertility rates (age < 20),6.1
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),5.1
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),6.2
+E09000019,Islington,London Cosmopolitan,Fertility rates (age < 20),3.7
+E09000020,Kensington and Chelsea,London Cosmopolitan,Fertility rates (age < 20),2.1
+E09000021,Kingston upon Thames,University Towns and Cities,Fertility rates (age < 20),2.3
+E09000022,Lambeth,London Cosmopolitan,Fertility rates (age < 20),5.3
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),8.4
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),3.3
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),5.7
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),5.5
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Fertility rates (age < 20),2.5
+E09000028,Southwark,London Cosmopolitan,Fertility rates (age < 20),3.7
+E09000029,Sutton,Suburban Traits,Fertility rates (age < 20),6.0
+E09000030,Tower Hamlets,London Cosmopolitan,Fertility rates (age < 20),3.2
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Fertility rates (age < 20),6.6
+E09000032,Wandsworth,London Cosmopolitan,Fertility rates (age < 20),3.9
+E09000033,Westminster,,Fertility rates (age < 20),1.7
