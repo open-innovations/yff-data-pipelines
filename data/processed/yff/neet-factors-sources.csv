@@ -926,14 +926,14 @@ E09000030,Tower Hamlets,London Cosmopolitan,Disability (age < 25),6.975956316822
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Disability (age < 25),5.819617064158549
 E09000032,Wandsworth,London Cosmopolitan,Disability (age < 25),6.4683669319700225
 E09000033,Westminster,,Disability (age < 25),6.480721903199344
-E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Disability (all),11.311311311311313
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Disability (all),11.3
 E06000002,Middlesbrough,Manufacturing Traits,Disability (all),10.8
 E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Disability (all),10.1
-E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Disability (all),9.109109109109108
-E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Disability (all),8.391608391608392
-E06000006,Halton,"Services, Manufacturing and Mining Legacy",Disability (all),11.01101101101101
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Disability (all),9.1
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Disability (all),8.4
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Disability (all),11.0
 E06000007,Warrington,Town Living,Disability (all),7.7
-E06000008,Blackburn with Darwen,Manufacturing Traits,Disability (all),10.48951048951049
+E06000008,Blackburn with Darwen,Manufacturing Traits,Disability (all),10.5
 E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Disability (all),12.0
 E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Disability (all),10.3
 E06000011,East Riding of Yorkshire,English and Welsh Countryside,Disability (all),6.7
@@ -941,7 +941,7 @@ E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Di
 E06000013,North Lincolnshire,Country Living,Disability (all),8.2
 E06000014,York,Larger Towns and Cities,Disability (all),5.9
 E06000015,Derby,Manufacturing Traits,Disability (all),8.8
-E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Disability (all),8.80880880880881
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Disability (all),8.8
 E06000017,Rutland,English and Welsh Countryside,Disability (all),4.9
 E06000018,Nottingham,University Towns and Cities,Disability (all),10.4
 E06000019,"Herefordshire, County of",English and Welsh Countryside,Disability (all),6.7
@@ -949,7 +949,7 @@ E06000020,Telford and Wrekin,Manufacturing Traits,Disability (all),9.1
 E06000021,Stoke-on-Trent,Manufacturing Traits,Disability (all),10.5
 E06000022,Bath and North East Somerset,Larger Towns and Cities,Disability (all),6.0
 E06000023,"Bristol, City of",Larger Towns and Cities,Disability (all),8.3
-E06000024,North Somerset,English and Welsh Countryside,Disability (all),6.9930069930069925
+E06000024,North Somerset,English and Welsh Countryside,Disability (all),7.0
 E06000025,South Gloucestershire,Town Living,Disability (all),6.3
 E06000026,Plymouth,Larger Towns and Cities,Disability (all),9.7
 E06000027,Torbay,Remoter Coastal Living,Disability (all),9.9
@@ -957,60 +957,60 @@ E06000030,Swindon,Suburban Traits,Disability (all),6.9
 E06000031,Peterborough,Suburban Traits,Disability (all),7.9
 E06000032,Luton,Ethnically Diverse Metropolitan  Living,Disability (all),7.7
 E06000033,Southend-on-Sea,Manufacturing Traits,Disability (all),7.8
-E06000034,Thurrock,Suburban Traits,Disability (all),7.200000000000001
+E06000034,Thurrock,Suburban Traits,Disability (all),7.2
 E06000035,Medway,Suburban Traits,Disability (all),7.8
 E06000036,Bracknell Forest,Rural-Urban Fringe,Disability (all),5.3
 E06000037,West Berkshire,Thriving Rural,Disability (all),5.1
 E06000038,Reading,University Towns and Cities,Disability (all),6.2
-E06000039,Slough,Ethnically Diverse Metropolitan  Living,Disability (all),7.000000000000001
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Disability (all),7.0
 E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Disability (all),4.7
 E06000041,Wokingham,Thriving Rural,Disability (all),4.4
 E06000042,Milton Keynes,Suburban Traits,Disability (all),6.9
 E06000043,Brighton and Hove,University Towns and Cities,Disability (all),8.0
-E06000044,Portsmouth,Larger Towns and Cities,Disability (all),8.091908091908092
-E06000045,Southampton,Larger Towns and Cities,Disability (all),8.208208208208207
+E06000044,Portsmouth,Larger Towns and Cities,Disability (all),8.1
+E06000045,Southampton,Larger Towns and Cities,Disability (all),8.2
 E06000046,Isle of Wight,Remoter Coastal Living,Disability (all),8.8
 E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Disability (all),10.4
-E06000049,Cheshire East,Country Living,Disability (all),6.493506493506494
-E06000050,Cheshire West and Chester,Town Living,Disability (all),7.4074074074074066
-E06000051,Shropshire,English and Welsh Countryside,Disability (all),6.706706706706707
-E06000052,Cornwall,,Disability (all),8.108108108108107
+E06000049,Cheshire East,Country Living,Disability (all),6.5
+E06000050,Cheshire West and Chester,Town Living,Disability (all),7.4
+E06000051,Shropshire,English and Welsh Countryside,Disability (all),6.7
+E06000052,Cornwall,,Disability (all),8.1
 E06000053,Isles of Scilly,,Disability (all),4.0
 E06000054,Wiltshire,Country Living,Disability (all),6.0
-E06000055,Bedford,Suburban Traits,Disability (all),6.6000000000000005
+E06000055,Bedford,Suburban Traits,Disability (all),6.6
 E06000056,Central Bedfordshire,Thriving Rural,Disability (all),5.8
 E06000057,Northumberland,English and Welsh Countryside,Disability (all),8.3
 E06000058,"Bournemouth, Christchurch and Poole",,Disability (all),7.3
-E06000059,Dorset,,Disability (all),6.506506506506506
+E06000059,Dorset,,Disability (all),6.5
 E06000060,Buckinghamshire,,Disability (all),5.0
-E06000061,North Northamptonshire,,Disability (all),7.400000000000001
+E06000061,North Northamptonshire,,Disability (all),7.4
 E06000062,West Northamptonshire,,Disability (all),6.3
 E07000008,Cambridge,University Towns and Cities,Disability (all),6.2
 E07000009,East Cambridgeshire,Country Living,Disability (all),5.8
-E07000010,Fenland,Country Living,Disability (all),8.391608391608392
+E07000010,Fenland,Country Living,Disability (all),8.4
 E07000011,Huntingdonshire,Country Living,Disability (all),6.1
 E07000012,South Cambridgeshire,Thriving Rural,Disability (all),5.1
 E07000026,Allerdale,English and Welsh Countryside,Disability (all),8.2
 E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Disability (all),9.8
-E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Disability (all),7.807807807807807
-E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Disability (all),9.090909090909092
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Disability (all),7.8
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Disability (all),9.1
 E07000030,Eden,English and Welsh Countryside,Disability (all),5.7
 E07000031,South Lakeland,English and Welsh Countryside,Disability (all),5.6
 E07000032,Amber Valley,Country Living,Disability (all),7.9
 E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Disability (all),10.6
-E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Disability (all),9.89010989010989
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Disability (all),9.9
 E07000035,Derbyshire Dales,English and Welsh Countryside,Disability (all),6.0
 E07000036,Erewash,Country Living,Disability (all),8.0
-E07000037,High Peak,Town Living,Disability (all),7.000000000000001
+E07000037,High Peak,Town Living,Disability (all),7.0
 E07000038,North East Derbyshire,Town Living,Disability (all),8.5
-E07000039,South Derbyshire,Country Living,Disability (all),7.007007007007007
+E07000039,South Derbyshire,Country Living,Disability (all),7.0
 E07000040,East Devon,Remoter Coastal Living,Disability (all),6.3
 E07000041,Exeter,Larger Towns and Cities,Disability (all),7.3
-E07000042,Mid Devon,English and Welsh Countryside,Disability (all),6.606606606606606
-E07000043,North Devon,Remoter Coastal Living,Disability (all),7.200000000000001
+E07000042,Mid Devon,English and Welsh Countryside,Disability (all),6.6
+E07000043,North Devon,Remoter Coastal Living,Disability (all),7.2
 E07000044,South Hams,English and Welsh Countryside,Disability (all),6.7
-E07000045,Teignbridge,Remoter Coastal Living,Disability (all),7.200000000000001
-E07000046,Torridge,English and Welsh Countryside,Disability (all),7.807807807807807
+E07000045,Teignbridge,Remoter Coastal Living,Disability (all),7.2
+E07000046,Torridge,English and Welsh Countryside,Disability (all),7.8
 E07000047,West Devon,English and Welsh Countryside,Disability (all),7.3
 E07000061,Eastbourne,Larger Towns and Cities,Disability (all),8.4
 E07000062,Hastings,Manufacturing Traits,Disability (all),9.8
@@ -1018,93 +1018,93 @@ E07000063,Lewes,Remoter Coastal Living,Disability (all),7.3
 E07000064,Rother,Remoter Coastal Living,Disability (all),7.5
 E07000065,Wealden,English and Welsh Countryside,Disability (all),5.8
 E07000066,Basildon,Suburban Traits,Disability (all),7.6
-E07000067,Braintree,Country Living,Disability (all),6.6000000000000005
+E07000067,Braintree,Country Living,Disability (all),6.6
 E07000068,Brentwood,Thriving Rural,Disability (all),5.4
-E07000069,Castle Point,Town Living,Disability (all),6.800000000000001
+E07000069,Castle Point,Town Living,Disability (all),6.8
 E07000070,Chelmsford,Thriving Rural,Disability (all),5.4
-E07000071,Colchester,Thriving Rural,Disability (all),6.793206793206793
+E07000071,Colchester,Thriving Rural,Disability (all),6.8
 E07000072,Epping Forest,Thriving Rural,Disability (all),5.8
 E07000073,Harlow,Suburban Traits,Disability (all),7.5
-E07000074,Maldon,Country Living,Disability (all),6.193806193806194
-E07000075,Rochford,Town Living,Disability (all),5.694305694305695
-E07000076,Tendring,Remoter Coastal Living,Disability (all),9.709709709709708
+E07000074,Maldon,Country Living,Disability (all),6.2
+E07000075,Rochford,Town Living,Disability (all),5.7
+E07000076,Tendring,Remoter Coastal Living,Disability (all),9.7
 E07000077,Uttlesford,Thriving Rural,Disability (all),4.6
-E07000078,Cheltenham,Larger Towns and Cities,Disability (all),5.8058058058058055
+E07000078,Cheltenham,Larger Towns and Cities,Disability (all),5.8
 E07000079,Cotswold,English and Welsh Countryside,Disability (all),4.9
 E07000080,Forest of Dean,Country Living,Disability (all),7.1
-E07000081,Gloucester,Manufacturing Traits,Disability (all),7.400000000000001
+E07000081,Gloucester,Manufacturing Traits,Disability (all),7.4
 E07000082,Stroud,Country Living,Disability (all),5.8
 E07000083,Tewkesbury,Country Living,Disability (all),5.5
 E07000084,Basingstoke and Deane,Thriving Rural,Disability (all),5.7
-E07000085,East Hampshire,Thriving Rural,Disability (all),5.194805194805195
+E07000085,East Hampshire,Thriving Rural,Disability (all),5.2
 E07000086,Eastleigh,Town Living,Disability (all),6.0
 E07000087,Fareham,Town Living,Disability (all),5.5
-E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Disability (all),7.707707707707708
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Disability (all),7.7
 E07000089,Hart,Thriving Rural,Disability (all),4.2
 E07000090,Havant,"Services, Manufacturing and Mining Legacy",Disability (all),7.6
 E07000091,New Forest,Remoter Coastal Living,Disability (all),6.1
 E07000092,Rushmoor,Suburban Traits,Disability (all),6.0
-E07000093,Test Valley,Thriving Rural,Disability (all),5.594405594405594
+E07000093,Test Valley,Thriving Rural,Disability (all),5.6
 E07000094,Winchester,Thriving Rural,Disability (all),5.1
 E07000095,Broxbourne,Suburban Traits,Disability (all),6.3
 E07000096,Dacorum,Thriving Rural,Disability (all),6.0
 E07000098,Hertsmere,Rural-Urban Fringe,Disability (all),5.9
-E07000099,North Hertfordshire,Thriving Rural,Disability (all),5.8058058058058055
+E07000099,North Hertfordshire,Thriving Rural,Disability (all),5.8
 E07000102,Three Rivers,Rural-Urban Fringe,Disability (all),5.2
 E07000103,Watford,Suburban Traits,Disability (all),6.2
 E07000105,Ashford,Country Living,Disability (all),6.9
 E07000106,Canterbury,Larger Towns and Cities,Disability (all),7.7
-E07000107,Dartford,Suburban Traits,Disability (all),6.6000000000000005
+E07000107,Dartford,Suburban Traits,Disability (all),6.6
 E07000108,Dover,Remoter Coastal Living,Disability (all),8.6
 E07000109,Gravesham,Suburban Traits,Disability (all),7.3
-E07000110,Maidstone,Thriving Rural,Disability (all),6.306306306306306
+E07000110,Maidstone,Thriving Rural,Disability (all),6.3
 E07000111,Sevenoaks,Thriving Rural,Disability (all),5.5
-E07000112,Folkestone and Hythe,Remoter Coastal Living,Disability (all),8.791208791208792
-E07000113,Swale,Country Living,Disability (all),8.508508508508509
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Disability (all),8.8
+E07000113,Swale,Country Living,Disability (all),8.5
 E07000114,Thanet,Remoter Coastal Living,Disability (all),9.7
 E07000115,Tonbridge and Malling,Thriving Rural,Disability (all),5.9
-E07000116,Tunbridge Wells,Thriving Rural,Disability (all),5.505505505505505
-E07000117,Burnley,Manufacturing Traits,Disability (all),10.38961038961039
+E07000116,Tunbridge Wells,Thriving Rural,Disability (all),5.5
+E07000117,Burnley,Manufacturing Traits,Disability (all),10.4
 E07000118,Chorley,Town Living,Disability (all),7.7
-E07000119,Fylde,English and Welsh Countryside,Disability (all),7.592407592407592
+E07000119,Fylde,English and Welsh Countryside,Disability (all),7.6
 E07000120,Hyndburn,Manufacturing Traits,Disability (all),10.1
-E07000121,Lancaster,Larger Towns and Cities,Disability (all),8.208208208208207
+E07000121,Lancaster,Larger Towns and Cities,Disability (all),8.2
 E07000122,Pendle,Manufacturing Traits,Disability (all),8.7
 E07000123,Preston,Larger Towns and Cities,Disability (all),9.1
-E07000124,Ribble Valley,English and Welsh Countryside,Disability (all),5.405405405405405
+E07000124,Ribble Valley,English and Welsh Countryside,Disability (all),5.4
 E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Disability (all),9.0
-E07000126,South Ribble,Town Living,Disability (all),7.200000000000001
-E07000127,West Lancashire,Town Living,Disability (all),8.49150849150849
-E07000128,Wyre,English and Welsh Countryside,Disability (all),8.791208791208792
+E07000126,South Ribble,Town Living,Disability (all),7.2
+E07000127,West Lancashire,Town Living,Disability (all),8.5
+E07000128,Wyre,English and Welsh Countryside,Disability (all),8.8
 E07000129,Blaby,Town Living,Disability (all),6.1
 E07000130,Charnwood,Town Living,Disability (all),6.4
-E07000131,Harborough,Country Living,Disability (all),5.105105105105104
+E07000131,Harborough,Country Living,Disability (all),5.1
 E07000132,Hinckley and Bosworth,Country Living,Disability (all),6.5
 E07000133,Melton,Country Living,Disability (all),5.7
-E07000134,North West Leicestershire,Country Living,Disability (all),6.800000000000001
-E07000135,Oadby and Wigston,Town Living,Disability (all),6.493506493506494
+E07000134,North West Leicestershire,Country Living,Disability (all),6.8
+E07000135,Oadby and Wigston,Town Living,Disability (all),6.5
 E07000136,Boston,Manufacturing Traits,Disability (all),7.6
 E07000137,East Lindsey,Remoter Coastal Living,Disability (all),9.9
-E07000138,Lincoln,Larger Towns and Cities,Disability (all),9.19080919080919
+E07000138,Lincoln,Larger Towns and Cities,Disability (all),9.2
 E07000139,North Kesteven,English and Welsh Countryside,Disability (all),6.9
-E07000140,South Holland,Country Living,Disability (all),7.200000000000001
-E07000141,South Kesteven,Country Living,Disability (all),6.593406593406594
-E07000142,West Lindsey,English and Welsh Countryside,Disability (all),7.792207792207792
+E07000140,South Holland,Country Living,Disability (all),7.2
+E07000141,South Kesteven,Country Living,Disability (all),6.6
+E07000142,West Lindsey,English and Welsh Countryside,Disability (all),7.8
 E07000143,Breckland,English and Welsh Countryside,Disability (all),7.3
 E07000144,Broadland,Country Living,Disability (all),6.4
 E07000145,Great Yarmouth,Remoter Coastal Living,Disability (all),9.7
 E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Disability (all),7.7
-E07000147,North Norfolk,Remoter Coastal Living,Disability (all),7.592407592407592
+E07000147,North Norfolk,Remoter Coastal Living,Disability (all),7.6
 E07000148,Norwich,Larger Towns and Cities,Disability (all),9.0
-E07000149,South Norfolk,Country Living,Disability (all),6.206206206206206
+E07000149,South Norfolk,Country Living,Disability (all),6.2
 E07000163,Craven,English and Welsh Countryside,Disability (all),5.5
 E07000164,Hambleton,English and Welsh Countryside,Disability (all),5.7
 E07000165,Harrogate,English and Welsh Countryside,Disability (all),5.4
 E07000166,Richmondshire,English and Welsh Countryside,Disability (all),5.9
 E07000167,Ryedale,English and Welsh Countryside,Disability (all),5.6
-E07000168,Scarborough,Remoter Coastal Living,Disability (all),8.408408408408407
+E07000168,Scarborough,Remoter Coastal Living,Disability (all),8.4
 E07000169,Selby,Country Living,Disability (all),6.2
-E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Disability (all),10.18981018981019
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Disability (all),10.2
 E07000171,Bassetlaw,Country Living,Disability (all),8.7
 E07000172,Broxtowe,Town Living,Disability (all),7.3
 E07000173,Gedling,Town Living,Disability (all),7.6
@@ -1113,90 +1113,90 @@ E07000175,Newark and Sherwood,Country Living,Disability (all),8.1
 E07000176,Rushcliffe,Thriving Rural,Disability (all),5.6
 E07000177,Cherwell,Thriving Rural,Disability (all),5.6
 E07000178,Oxford,University Towns and Cities,Disability (all),6.2
-E07000179,South Oxfordshire,Thriving Rural,Disability (all),4.704704704704705
+E07000179,South Oxfordshire,Thriving Rural,Disability (all),4.7
 E07000180,Vale of White Horse,Thriving Rural,Disability (all),5.0
 E07000181,West Oxfordshire,Thriving Rural,Disability (all),5.1
 E07000187,Mendip,English and Welsh Countryside,Disability (all),6.3
 E07000188,Sedgemoor,English and Welsh Countryside,Disability (all),7.3
 E07000189,South Somerset,English and Welsh Countryside,Disability (all),6.4
 E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Disability (all),9.0
-E07000193,East Staffordshire,Country Living,Disability (all),6.800000000000001
-E07000194,Lichfield,Town Living,Disability (all),6.6000000000000005
+E07000193,East Staffordshire,Country Living,Disability (all),6.8
+E07000194,Lichfield,Town Living,Disability (all),6.6
 E07000195,Newcastle-under-Lyme,Town Living,Disability (all),8.3
-E07000196,South Staffordshire,Town Living,Disability (all),6.800000000000001
+E07000196,South Staffordshire,Town Living,Disability (all),6.8
 E07000197,Stafford,Town Living,Disability (all),6.7
-E07000198,Staffordshire Moorlands,Country Living,Disability (all),7.400000000000001
+E07000198,Staffordshire Moorlands,Country Living,Disability (all),7.4
 E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Disability (all),8.1
-E07000200,Babergh,Country Living,Disability (all),5.894105894105895
+E07000200,Babergh,Country Living,Disability (all),5.9
 E07000202,Ipswich,Manufacturing Traits,Disability (all),7.8
 E07000203,Mid Suffolk,Country Living,Disability (all),5.8
 E07000207,Elmbridge,Rural-Urban Fringe,Disability (all),4.4
 E07000208,Epsom and Ewell,Rural-Urban Fringe,Disability (all),4.8
 E07000209,Guildford,Rural-Urban Fringe,Disability (all),4.8
-E07000210,Mole Valley,Thriving Rural,Disability (all),5.005005005005005
+E07000210,Mole Valley,Thriving Rural,Disability (all),5.0
 E07000211,Reigate and Banstead,Rural-Urban Fringe,Disability (all),5.5
 E07000212,Runnymede,Rural-Urban Fringe,Disability (all),5.6
 E07000213,Spelthorne,Rural-Urban Fringe,Disability (all),5.7
 E07000214,Surrey Heath,Rural-Urban Fringe,Disability (all),4.8
-E07000215,Tandridge,Thriving Rural,Disability (all),5.505505505505505
-E07000216,Waverley,Thriving Rural,Disability (all),4.695304695304696
-E07000217,Woking,Rural-Urban Fringe,Disability (all),5.394605394605395
+E07000215,Tandridge,Thriving Rural,Disability (all),5.5
+E07000216,Waverley,Thriving Rural,Disability (all),4.7
+E07000217,Woking,Rural-Urban Fringe,Disability (all),5.4
 E07000218,North Warwickshire,Country Living,Disability (all),7.6
-E07000219,Nuneaton and Bedworth,Manufacturing Traits,Disability (all),8.508508508508509
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Disability (all),8.5
 E07000220,Rugby,Suburban Traits,Disability (all),6.2
 E07000221,Stratford-on-Avon,English and Welsh Countryside,Disability (all),5.3
 E07000222,Warwick,Larger Towns and Cities,Disability (all),5.6
-E07000223,Adur,Town Living,Disability (all),7.200000000000001
-E07000224,Arun,Remoter Coastal Living,Disability (all),6.800000000000001
+E07000223,Adur,Town Living,Disability (all),7.2
+E07000224,Arun,Remoter Coastal Living,Disability (all),6.8
 E07000225,Chichester,English and Welsh Countryside,Disability (all),5.4
-E07000226,Crawley,Suburban Traits,Disability (all),7.000000000000001
+E07000226,Crawley,Suburban Traits,Disability (all),7.0
 E07000227,Horsham,Thriving Rural,Disability (all),5.0
 E07000228,Mid Sussex,Thriving Rural,Disability (all),5.0
-E07000229,Worthing,Manufacturing Traits,Disability (all),7.200000000000001
+E07000229,Worthing,Manufacturing Traits,Disability (all),7.2
 E07000234,Bromsgrove,Town Living,Disability (all),6.1
 E07000235,Malvern Hills,English and Welsh Countryside,Disability (all),6.4
-E07000236,Redditch,Manufacturing Traits,Disability (all),7.6923076923076925
-E07000237,Worcester,Manufacturing Traits,Disability (all),7.000000000000001
+E07000236,Redditch,Manufacturing Traits,Disability (all),7.7
+E07000237,Worcester,Manufacturing Traits,Disability (all),7.0
 E07000238,Wychavon,Country Living,Disability (all),6.1
-E07000239,Wyre Forest,Country Living,Disability (all),7.907907907907909
+E07000239,Wyre Forest,Country Living,Disability (all),7.9
 E07000240,St Albans,Rural-Urban Fringe,Disability (all),4.8
-E07000241,Welwyn Hatfield,Larger Towns and Cities,Disability (all),6.006006006006006
-E07000242,East Hertfordshire,Thriving Rural,Disability (all),4.904904904904905
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Disability (all),6.0
+E07000242,East Hertfordshire,Thriving Rural,Disability (all),4.9
 E07000243,Stevenage,Suburban Traits,Disability (all),7.6
 E07000244,East Suffolk,,Disability (all),7.5
 E07000245,West Suffolk,,Disability (all),6.1
-E07000246,Somerset West and Taunton,,Disability (all),6.893106893106893
+E07000246,Somerset West and Taunton,,Disability (all),6.9
 E08000001,Bolton,Manufacturing Traits,Disability (all),9.3
-E08000002,Bury,Manufacturing Traits,Disability (all),8.508508508508509
+E08000002,Bury,Manufacturing Traits,Disability (all),8.5
 E08000003,Manchester,University Towns and Cities,Disability (all),11.4
-E08000004,Oldham,Manufacturing Traits,Disability (all),9.50950950950951
-E08000005,Rochdale,Manufacturing Traits,Disability (all),9.790209790209792
-E08000006,Salford,Manufacturing Traits,Disability (all),10.289710289710289
-E08000007,Stockport,Town Living,Disability (all),7.607607607607607
+E08000004,Oldham,Manufacturing Traits,Disability (all),9.5
+E08000005,Rochdale,Manufacturing Traits,Disability (all),9.8
+E08000006,Salford,Manufacturing Traits,Disability (all),10.3
+E08000007,Stockport,Town Living,Disability (all),7.6
 E08000008,Tameside,Manufacturing Traits,Disability (all),9.6
-E08000009,Trafford,Suburban Traits,Disability (all),7.000000000000001
+E08000009,Trafford,Suburban Traits,Disability (all),7.0
 E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Disability (all),9.4
-E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Disability (all),12.987012987012985
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Disability (all),13.0
 E08000012,Liverpool,Larger Towns and Cities,Disability (all),12.7
-E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Disability (all),10.78921078921079
-E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Disability (all),9.90990990990991
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Disability (all),10.8
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Disability (all),9.9
 E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Disability (all),10.6
 E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Disability (all),10.6
 E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Disability (all),9.5
-E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Disability (all),9.89010989010989
-E08000019,Sheffield,Larger Towns and Cities,Disability (all),9.09090909090909
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Disability (all),9.9
+E08000019,Sheffield,Larger Towns and Cities,Disability (all),9.1
 E08000021,Newcastle upon Tyne,Larger Towns and Cities,Disability (all),9.7
-E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Disability (all),8.591408591408593
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Disability (all),8.6
 E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Disability (all),10.5
 E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Disability (all),11.2
-E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Disability (all),9.59040959040959
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Disability (all),9.6
 E08000026,Coventry,Larger Towns and Cities,Disability (all),8.4
 E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Disability (all),8.3
 E08000028,Sandwell,Manufacturing Traits,Disability (all),9.9
-E08000029,Solihull,Town Living,Disability (all),7.000000000000001
+E08000029,Solihull,Town Living,Disability (all),7.0
 E08000030,Walsall,Manufacturing Traits,Disability (all),9.4
-E08000031,Wolverhampton,Manufacturing Traits,Disability (all),9.00900900900901
-E08000032,Bradford,Manufacturing Traits,Disability (all),8.991008991008991
+E08000031,Wolverhampton,Manufacturing Traits,Disability (all),9.0
+E08000032,Bradford,Manufacturing Traits,Disability (all),9.0
 E08000033,Calderdale,Manufacturing Traits,Disability (all),8.1
 E08000034,Kirklees,Manufacturing Traits,Disability (all),8.0
 E08000035,Leeds,Larger Towns and Cities,Disability (all),7.6
@@ -1205,36 +1205,36 @@ E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Disability (all)
 E09000001,City of London,,Disability (all),3.9
 E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Disability (all),9.0
 E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Disability (all),6.4
-E09000004,Bexley,Suburban Traits,Disability (all),6.6000000000000005
+E09000004,Bexley,Suburban Traits,Disability (all),6.6
 E09000005,Brent,Ethnically Diverse Metropolitan  Living,Disability (all),7.1
 E09000006,Bromley,Rural-Urban Fringe,Disability (all),5.7
 E09000007,Camden,London Cosmopolitan,Disability (all),8.3
-E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Disability (all),7.000000000000001
-E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Disability (all),6.800000000000001
-E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Disability (all),7.307307307307307
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Disability (all),7.0
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Disability (all),6.8
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Disability (all),7.3
 E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Disability (all),8.4
 E09000012,Hackney,London Cosmopolitan,Disability (all),9.6
-E09000013,Hammersmith and Fulham,London Cosmopolitan,Disability (all),7.400000000000001
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Disability (all),7.4
 E09000014,Haringey,London Cosmopolitan,Disability (all),7.9
 E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Disability (all),5.9
-E09000016,Havering,Suburban Traits,Disability (all),6.6000000000000005
+E09000016,Havering,Suburban Traits,Disability (all),6.6
 E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Disability (all),6.5
-E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Disability (all),6.800000000000001
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Disability (all),6.8
 E09000019,Islington,London Cosmopolitan,Disability (all),10.0
 E09000020,Kensington and Chelsea,London Cosmopolitan,Disability (all),6.4
 E09000021,Kingston upon Thames,University Towns and Cities,Disability (all),5.7
-E09000022,Lambeth,London Cosmopolitan,Disability (all),7.792207792207792
-E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Disability (all),7.892107892107891
+E09000022,Lambeth,London Cosmopolitan,Disability (all),7.8
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Disability (all),7.9
 E09000024,Merton,Ethnically Diverse Metropolitan  Living,Disability (all),5.9
 E09000025,Newham,Ethnically Diverse Metropolitan  Living,Disability (all),9.1
-E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Disability (all),6.6933066933066945
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Disability (all),6.7
 E09000027,Richmond upon Thames,Rural-Urban Fringe,Disability (all),4.8
 E09000028,Southwark,London Cosmopolitan,Disability (all),8.2
 E09000029,Sutton,Suburban Traits,Disability (all),6.4
 E09000030,Tower Hamlets,London Cosmopolitan,Disability (all),10.4
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Disability (all),7.7
-E09000032,Wandsworth,London Cosmopolitan,Disability (all),6.506506506506507
-E09000033,Westminster,,Disability (all),7.807807807807808
+E09000032,Wandsworth,London Cosmopolitan,Disability (all),6.5
+E09000033,Westminster,,Disability (all),7.8
 E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),12.079054874682566
 E06000002,Middlesbrough,Manufacturing Traits,Economic inactivity (NEET),11.56234475906607
 E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Economic inactivity (NEET),11.305418719211822
@@ -4943,315 +4943,315 @@ E09000030,Tower Hamlets,London Cosmopolitan,School Suspensions,2.800487041224560
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Suspensions,4.37149416581856
 E09000032,Wandsworth,London Cosmopolitan,School Suspensions,3.327166388159465
 E09000033,Westminster,,School Suspensions,5.837748949387904
-E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Socially renting households,23.440592245107382
-E06000002,Middlesbrough,Manufacturing Traits,Socially renting households,23.240686965900608
-E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Socially renting households,18.89905577728025
-E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Socially renting households,16.32480061129949
-E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Socially renting households,16.213840335275478
-E06000006,Halton,"Services, Manufacturing and Mining Legacy",Socially renting households,24.340941180675948
-E06000007,Warrington,Town Living,Socially renting households,15.288608098257086
-E06000008,Blackburn with Darwen,Manufacturing Traits,Socially renting households,18.770738679871357
-E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Socially renting households,10.342219409412962
-E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Socially renting households,26.990257631521974
-E06000011,East Riding of Yorkshire,English and Welsh Countryside,Socially renting households,9.390659318979917
-E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Socially renting households,13.162718758055739
-E06000013,North Lincolnshire,Country Living,Socially renting households,14.968840540097306
-E06000014,York,Larger Towns and Cities,Socially renting households,13.953052961688783
-E06000015,Derby,Manufacturing Traits,Socially renting households,18.78922111480251
-E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Socially renting households,23.15349048975971
-E06000017,Rutland,English and Welsh Countryside,Socially renting households,10.898088790366065
-E06000018,Nottingham,University Towns and Cities,Socially renting households,25.48920580713948
-E06000019,"Herefordshire, County of",English and Welsh Countryside,Socially renting households,13.653760247262367
-E06000020,Telford and Wrekin,Manufacturing Traits,Socially renting households,18.016181102876786
-E06000021,Stoke-on-Trent,Manufacturing Traits,Socially renting households,22.254528985507246
-E06000022,Bath and North East Somerset,Larger Towns and Cities,Socially renting households,14.338170347003153
-E06000023,"Bristol, City of",Larger Towns and Cities,Socially renting households,18.72227846251787
-E06000024,North Somerset,English and Welsh Countryside,Socially renting households,9.206744991970247
-E06000025,South Gloucestershire,Town Living,Socially renting households,10.785683440445043
-E06000026,Plymouth,Larger Towns and Cities,Socially renting households,18.428380631476035
-E06000027,Torbay,Remoter Coastal Living,Socially renting households,8.29470408940818
-E06000030,Swindon,Suburban Traits,Socially renting households,15.589238585034582
-E06000031,Peterborough,Suburban Traits,Socially renting households,18.64360663882744
-E06000032,Luton,Ethnically Diverse Metropolitan  Living,Socially renting households,16.37066126171776
-E06000033,Southend-on-Sea,Manufacturing Traits,Socially renting households,11.512049423057286
-E06000034,Thurrock,Suburban Traits,Socially renting households,17.676303538876418
-E06000035,Medway,Suburban Traits,Socially renting households,13.574741828687294
-E06000036,Bracknell Forest,Rural-Urban Fringe,Socially renting households,15.70106478256543
-E06000037,West Berkshire,Thriving Rural,Socially renting households,13.959314710912418
-E06000038,Reading,University Towns and Cities,Socially renting households,16.139946515373136
-E06000039,Slough,Ethnically Diverse Metropolitan  Living,Socially renting households,19.583007458558267
-E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Socially renting households,12.563803771603013
-E06000041,Wokingham,Thriving Rural,Socially renting households,7.707655606159185
-E06000042,Milton Keynes,Suburban Traits,Socially renting households,18.07909604519774
-E06000043,Brighton and Hove,University Towns and Cities,Socially renting households,14.868783051350059
-E06000044,Portsmouth,Larger Towns and Cities,Socially renting households,17.99895537113342
-E06000045,Southampton,Larger Towns and Cities,Socially renting households,21.89559096685893
-E06000046,Isle of Wight,Remoter Coastal Living,Socially renting households,10.89463527595523
-E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Socially renting households,19.95961902165579
-E06000049,Cheshire East,Country Living,Socially renting households,11.577087169867433
-E06000050,Cheshire West and Chester,Town Living,Socially renting households,14.637070265671525
-E06000051,Shropshire,English and Welsh Countryside,Socially renting households,13.01700112481104
-E06000052,Cornwall,,Socially renting households,12.788335269206053
-E06000053,Isles of Scilly,,Socially renting households,17.252396166134183
-E06000054,Wiltshire,Country Living,Socially renting households,14.519181145707897
-E06000055,Bedford,Suburban Traits,Socially renting households,16.27773552682491
-E06000056,Central Bedfordshire,Thriving Rural,Socially renting households,13.313844675952764
-E06000057,Northumberland,English and Welsh Countryside,Socially renting households,17.754318618042227
-E06000058,"Bournemouth, Christchurch and Poole",,Socially renting households,10.988138654640421
-E06000059,Dorset,,Socially renting households,12.309982807616638
-E06000060,Buckinghamshire,,Socially renting households,12.95120434626714
-E06000061,North Northamptonshire,,Socially renting households,15.223814448219825
-E06000062,West Northamptonshire,,Socially renting households,14.371607805883954
-E07000008,Cambridge,University Towns and Cities,Socially renting households,22.658840568662576
-E07000009,East Cambridgeshire,Country Living,Socially renting households,13.977743132089673
-E07000010,Fenland,Country Living,Socially renting households,12.660209150919854
-E07000011,Huntingdonshire,Country Living,Socially renting households,12.859001040582726
-E07000012,South Cambridgeshire,Thriving Rural,Socially renting households,14.47250582124306
-E07000026,Allerdale,English and Welsh Countryside,Socially renting households,18.90478248015828
-E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Socially renting households,11.040020474103459
-E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Socially renting households,14.353670331405564
-E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Socially renting households,17.633493568922955
-E07000030,Eden,English and Welsh Countryside,Socially renting households,10.327875512940315
-E07000031,South Lakeland,English and Welsh Countryside,Socially renting households,10.726650859265167
-E07000032,Amber Valley,Country Living,Socially renting households,12.738774277235814
-E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Socially renting households,16.340536554931653
-E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Socially renting households,20.739523076282826
-E07000035,Derbyshire Dales,English and Welsh Countryside,Socially renting households,12.622742619954774
-E07000036,Erewash,Country Living,Socially renting households,12.710584869675777
-E07000037,High Peak,Town Living,Socially renting households,12.157853428823701
-E07000038,North East Derbyshire,Town Living,Socially renting households,18.694413638637005
-E07000039,South Derbyshire,Country Living,Socially renting households,9.872013086054068
-E07000040,East Devon,Remoter Coastal Living,Socially renting households,10.328202671138529
-E07000041,Exeter,Larger Towns and Cities,Socially renting households,16.605776915172964
-E07000042,Mid Devon,English and Welsh Countryside,Socially renting households,12.640678061238809
-E07000043,North Devon,Remoter Coastal Living,Socially renting households,11.137089680077782
-E07000044,South Hams,English and Welsh Countryside,Socially renting households,11.828558354729644
-E07000045,Teignbridge,Remoter Coastal Living,Socially renting households,9.515851396293264
-E07000046,Torridge,English and Welsh Countryside,Socially renting households,9.347297918445072
-E07000047,West Devon,English and Welsh Countryside,Socially renting households,10.053187202836652
-E07000061,Eastbourne,Larger Towns and Cities,Socially renting households,13.023459767594826
-E07000062,Hastings,Manufacturing Traits,Socially renting households,14.266643593483474
-E07000063,Lewes,Remoter Coastal Living,Socially renting households,10.927485808459988
-E07000064,Rother,Remoter Coastal Living,Socially renting households,10.19666524155622
-E07000065,Wealden,English and Welsh Countryside,Socially renting households,8.351155773005596
-E07000066,Basildon,Suburban Traits,Socially renting households,21.231486452863297
-E07000067,Braintree,Country Living,Socially renting households,16.301186464152163
-E07000068,Brentwood,Thriving Rural,Socially renting households,11.316204433726
-E07000069,Castle Point,Town Living,Socially renting households,5.485570622375565
-E07000070,Chelmsford,Thriving Rural,Socially renting households,13.28496969536213
-E07000071,Colchester,Thriving Rural,Socially renting households,13.279221186536363
-E07000072,Epping Forest,Thriving Rural,Socially renting households,14.650195201524955
-E07000073,Harlow,Suburban Traits,Socially renting households,29.31371513102282
-E07000074,Maldon,Country Living,Socially renting households,11.225806451612904
-E07000075,Rochford,Town Living,Socially renting households,8.074132403397266
-E07000076,Tendring,Remoter Coastal Living,Socially renting households,8.16284172448556
-E07000077,Uttlesford,Thriving Rural,Socially renting households,13.013124069814639
-E07000078,Cheltenham,Larger Towns and Cities,Socially renting households,12.159020019282028
-E07000079,Cotswold,English and Welsh Countryside,Socially renting households,15.350887996649998
-E07000080,Forest of Dean,Country Living,Socially renting households,12.994061853454067
-E07000081,Gloucester,Manufacturing Traits,Socially renting households,13.603219867884345
-E07000082,Stroud,Country Living,Socially renting households,12.276146473710337
-E07000083,Tewkesbury,Country Living,Socially renting households,12.699420976765778
-E07000084,Basingstoke and Deane,Thriving Rural,Socially renting households,17.888968621566963
-E07000085,East Hampshire,Thriving Rural,Socially renting households,12.532483544832035
-E07000086,Eastleigh,Town Living,Socially renting households,13.052491040685826
-E07000087,Fareham,Town Living,Socially renting households,8.139558790271181
-E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Socially renting households,16.319599109131403
-E07000089,Hart,Thriving Rural,Socially renting households,8.792693606906042
-E07000090,Havant,"Services, Manufacturing and Mining Legacy",Socially renting households,18.64001940696785
-E07000091,New Forest,Remoter Coastal Living,Socially renting households,10.786803666507664
-E07000092,Rushmoor,Suburban Traits,Socially renting households,16.204869857262803
-E07000093,Test Valley,Thriving Rural,Socially renting households,14.334807882133587
-E07000094,Winchester,Thriving Rural,Socially renting households,15.34846844059406
-E07000095,Broxbourne,Suburban Traits,Socially renting households,14.260978670012548
-E07000096,Dacorum,Thriving Rural,Socially renting households,21.005487920267456
-E07000098,Hertsmere,Rural-Urban Fringe,Socially renting households,17.339862237008575
-E07000099,North Hertfordshire,Thriving Rural,Socially renting households,18.67343521407294
-E07000102,Three Rivers,Rural-Urban Fringe,Socially renting households,14.833003228694686
-E07000103,Watford,Suburban Traits,Socially renting households,15.574453052057837
-E07000105,Ashford,Country Living,Socially renting households,13.998842916596683
-E07000106,Canterbury,Larger Towns and Cities,Socially renting households,12.227238525206923
-E07000107,Dartford,Suburban Traits,Socially renting households,13.818006740491093
-E07000108,Dover,Remoter Coastal Living,Socially renting households,13.924275993036872
-E07000109,Gravesham,Suburban Traits,Socially renting households,17.42402454222989
-E07000110,Maidstone,Thriving Rural,Socially renting households,13.351027974384898
-E07000111,Sevenoaks,Thriving Rural,Socially renting households,13.190108948463704
-E07000112,Folkestone and Hythe,Remoter Coastal Living,Socially renting households,10.863313817572461
-E07000113,Swale,Country Living,Socially renting households,13.29200760393421
-E07000114,Thanet,Remoter Coastal Living,Socially renting households,11.890675241157556
-E07000115,Tonbridge and Malling,Thriving Rural,Socially renting households,15.409456608986204
-E07000116,Tunbridge Wells,Thriving Rural,Socially renting households,14.5757299270073
-E07000117,Burnley,Manufacturing Traits,Socially renting households,15.57272202854205
-E07000118,Chorley,Town Living,Socially renting households,13.238256706891393
-E07000119,Fylde,English and Welsh Countryside,Socially renting households,8.333776525022603
-E07000120,Hyndburn,Manufacturing Traits,Socially renting households,13.541247484909459
-E07000121,Lancaster,Larger Towns and Cities,Socially renting households,10.258761545900164
-E07000122,Pendle,Manufacturing Traits,Socially renting households,11.797929911206852
-E07000123,Preston,Larger Towns and Cities,Socially renting households,18.425688258090492
-E07000124,Ribble Valley,English and Welsh Countryside,Socially renting households,8.042023404493962
-E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Socially renting households,14.770459081836327
-E07000126,South Ribble,Town Living,Socially renting households,10.371513841720697
-E07000127,West Lancashire,Town Living,Socially renting households,14.336341533770142
-E07000128,Wyre,English and Welsh Countryside,Socially renting households,7.624731627568004
-E07000129,Blaby,Town Living,Socially renting households,8.213740458015268
-E07000130,Charnwood,Town Living,Socially renting households,11.698854780782002
-E07000131,Harborough,Country Living,Socially renting households,8.73707131192161
-E07000132,Hinckley and Bosworth,Country Living,Socially renting households,10.21134593993326
-E07000133,Melton,Country Living,Socially renting households,10.690738528253462
-E07000134,North West Leicestershire,Country Living,Socially renting households,13.538933606083514
-E07000135,Oadby and Wigston,Town Living,Socially renting households,7.928015564202334
-E07000136,Boston,Manufacturing Traits,Socially renting households,19.473541014827912
-E07000137,East Lindsey,Remoter Coastal Living,Socially renting households,11.265713315007567
-E07000138,Lincoln,Larger Towns and Cities,Socially renting households,21.062908765821295
-E07000139,North Kesteven,English and Welsh Countryside,Socially renting households,10.027653023201083
-E07000140,South Holland,Country Living,Socially renting households,12.12687025526374
-E07000141,South Kesteven,Country Living,Socially renting households,12.49224306649482
-E07000142,West Lindsey,English and Welsh Countryside,Socially renting households,10.87495572086433
-E07000143,Breckland,English and Welsh Countryside,Socially renting households,14.094237714967361
-E07000144,Broadland,Country Living,Socially renting households,9.728185595567867
-E07000145,Great Yarmouth,Remoter Coastal Living,Socially renting households,16.192614210349085
-E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Socially renting households,13.60725720384205
-E07000147,North Norfolk,Remoter Coastal Living,Socially renting households,12.971844379211975
-E07000148,Norwich,Larger Towns and Cities,Socially renting households,30.280652217757577
-E07000149,South Norfolk,Country Living,Socially renting households,11.703947475603199
-E07000163,Craven,English and Welsh Countryside,Socially renting households,9.566918562277033
-E07000164,Hambleton,English and Welsh Countryside,Socially renting households,13.401960784313726
-E07000165,Harrogate,English and Welsh Countryside,Socially renting households,9.86665542581742
-E07000166,Richmondshire,English and Welsh Countryside,Socially renting households,11.653776377351283
-E07000167,Ryedale,English and Welsh Countryside,Socially renting households,12.830265021242159
-E07000168,Scarborough,Remoter Coastal Living,Socially renting households,13.829121352006885
-E07000169,Selby,Country Living,Socially renting households,12.261766341438754
-E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Socially renting households,14.91496817039388
-E07000171,Bassetlaw,Country Living,Socially renting households,14.957829686346146
-E07000172,Broxtowe,Town Living,Socially renting households,11.03552375832265
-E07000173,Gedling,Town Living,Socially renting households,9.689433764621443
-E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Socially renting households,16.374841248360433
-E07000175,Newark and Sherwood,Country Living,Socially renting households,13.899722493062328
-E07000176,Rushcliffe,Thriving Rural,Socially renting households,8.566044544233506
-E07000177,Cherwell,Thriving Rural,Socially renting households,13.266963106855053
-E07000178,Oxford,University Towns and Cities,Socially renting households,20.916381542026468
-E07000179,South Oxfordshire,Thriving Rural,Socially renting households,12.01014667143647
-E07000180,Vale of White Horse,Thriving Rural,Socially renting households,14.272048976468337
-E07000181,West Oxfordshire,Thriving Rural,Socially renting households,13.261499343490133
-E07000187,Mendip,English and Welsh Countryside,Socially renting households,12.031256213464827
-E07000188,Sedgemoor,English and Welsh Countryside,Socially renting households,12.776417334520628
-E07000189,South Somerset,English and Welsh Countryside,Socially renting households,14.134270965023177
-E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Socially renting households,16.179583946980856
-E07000193,East Staffordshire,Country Living,Socially renting households,12.933538689489794
-E07000194,Lichfield,Town Living,Socially renting households,12.999649368863956
-E07000195,Newcastle-under-Lyme,Town Living,Socially renting households,17.112479643599197
-E07000196,South Staffordshire,Town Living,Socially renting households,14.030485028511958
-E07000197,Stafford,Town Living,Socially renting households,13.56603993538395
-E07000198,Staffordshire Moorlands,Country Living,Socially renting households,8.624719631684572
-E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Socially renting households,18.014895880832952
-E07000200,Babergh,Country Living,Socially renting households,13.266169154228855
-E07000202,Ipswich,Manufacturing Traits,Socially renting households,20.78410943250374
-E07000203,Mid Suffolk,Country Living,Socially renting households,11.30028865235432
-E07000207,Elmbridge,Rural-Urban Fringe,Socially renting households,10.088689801572311
-E07000208,Epsom and Ewell,Rural-Urban Fringe,Socially renting households,8.75770249992018
-E07000209,Guildford,Rural-Urban Fringe,Socially renting households,12.672166427546628
-E07000210,Mole Valley,Thriving Rural,Socially renting households,11.65082527800964
-E07000211,Reigate and Banstead,Rural-Urban Fringe,Socially renting households,11.540710788818528
-E07000212,Runnymede,Rural-Urban Fringe,Socially renting households,12.914059360468455
-E07000213,Spelthorne,Rural-Urban Fringe,Socially renting households,12.668644148885274
-E07000214,Surrey Heath,Rural-Urban Fringe,Socially renting households,9.578427016218619
-E07000215,Tandridge,Thriving Rural,Socially renting households,11.057462875108778
-E07000216,Waverley,Thriving Rural,Socially renting households,12.254042098840756
-E07000217,Woking,Rural-Urban Fringe,Socially renting households,11.564264684589025
-E07000218,North Warwickshire,Country Living,Socially renting households,13.603567673398354
-E07000219,Nuneaton and Bedworth,Manufacturing Traits,Socially renting households,14.415481134576302
-E07000220,Rugby,Suburban Traits,Socially renting households,12.91928108050622
-E07000221,Stratford-on-Avon,English and Welsh Countryside,Socially renting households,13.295662849166709
-E07000222,Warwick,Larger Towns and Cities,Socially renting households,14.059854993771758
-E07000223,Adur,Town Living,Socially renting households,12.41419177686249
-E07000224,Arun,Remoter Coastal Living,Socially renting households,9.322745351701737
-E07000225,Chichester,English and Welsh Countryside,Socially renting households,15.07261909161462
-E07000226,Crawley,Suburban Traits,Socially renting households,22.926464770779305
-E07000227,Horsham,Thriving Rural,Socially renting households,11.471861471861471
-E07000228,Mid Sussex,Thriving Rural,Socially renting households,10.753129489021136
-E07000229,Worthing,Manufacturing Traits,Socially renting households,9.780370624571036
-E07000234,Bromsgrove,Town Living,Socially renting households,10.704245831717719
-E07000235,Malvern Hills,English and Welsh Countryside,Socially renting households,14.334030783341452
-E07000236,Redditch,Manufacturing Traits,Socially renting households,20.152289845511024
-E07000237,Worcester,Manufacturing Traits,Socially renting households,16.253018513549772
-E07000238,Wychavon,Country Living,Socially renting households,15.611269963037868
-E07000239,Wyre Forest,Country Living,Socially renting households,14.146072374227714
-E07000240,St Albans,Rural-Urban Fringe,Socially renting households,12.183420918799797
-E07000241,Welwyn Hatfield,Larger Towns and Cities,Socially renting households,25.350040035490924
-E07000242,East Hertfordshire,Thriving Rural,Socially renting households,13.077406768456862
-E07000243,Stevenage,Suburban Traits,Socially renting households,26.27629272567923
-E07000244,East Suffolk,,Socially renting households,13.071901326422811
-E07000245,West Suffolk,,Socially renting households,16.172044649319975
-E07000246,Somerset West and Taunton,,Socially renting households,15.167319178121339
-E08000001,Bolton,Manufacturing Traits,Socially renting households,19.829110194460814
-E08000002,Bury,Manufacturing Traits,Socially renting households,14.925151184693169
-E08000003,Manchester,University Towns and Cities,Socially renting households,29.46770362781167
-E08000004,Oldham,Manufacturing Traits,Socially renting households,21.215374704745543
-E08000005,Rochdale,Manufacturing Traits,Socially renting households,20.854115404225134
-E08000006,Salford,Manufacturing Traits,Socially renting households,25.38895210959285
-E08000007,Stockport,Town Living,Socially renting households,13.303802665655992
-E08000008,Tameside,Manufacturing Traits,Socially renting households,21.225396123664936
-E08000009,Trafford,Suburban Traits,Socially renting households,14.9778225597025
-E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Socially renting households,17.003598756158066
-E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Socially renting households,25.255399331042938
-E08000012,Liverpool,Larger Towns and Cities,Socially renting households,26.390542240386328
-E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Socially renting households,19.74127609149149
-E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Socially renting households,14.410146823429997
-E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Socially renting households,15.40292631167453
-E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Socially renting households,19.706995641028012
-E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Socially renting households,17.001798022175606
-E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Socially renting households,20.66692414374243
-E08000019,Sheffield,Larger Towns and Cities,Socially renting households,22.562815803542176
-E08000021,Newcastle upon Tyne,Larger Towns and Cities,Socially renting households,27.261252310724203
-E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Socially renting households,20.538905977221713
-E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Socially renting households,29.59231490159325
-E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Socially renting households,26.644949540420864
-E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Socially renting households,23.49694772762159
-E08000026,Coventry,Larger Towns and Cities,Socially renting households,16.971820486059343
-E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Socially renting households,18.983869438020267
-E08000028,Sandwell,Manufacturing Traits,Socially renting households,26.57432857822889
-E08000029,Solihull,Town Living,Socially renting households,14.00505129523256
-E08000030,Walsall,Manufacturing Traits,Socially renting households,23.68078698340848
-E08000031,Wolverhampton,Manufacturing Traits,Socially renting households,25.18879229993723
-E08000032,Bradford,Manufacturing Traits,Socially renting households,14.643083476678086
-E08000033,Calderdale,Manufacturing Traits,Socially renting households,14.556346434413548
-E08000034,Kirklees,Manufacturing Traits,Socially renting households,14.769452044789286
-E08000035,Leeds,Larger Towns and Cities,Socially renting households,20.424288216103506
-E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Socially renting households,21.680875387881756
-E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Socially renting households,25.094663984988596
-E09000001,City of London,,Socially renting households,14.855514855514857
-E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Socially renting households,31.491705231252197
-E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Socially renting households,13.45313161022583
-E09000004,Bexley,Suburban Traits,Socially renting households,14.666316894018887
-E09000005,Brent,Ethnically Diverse Metropolitan  Living,Socially renting households,23.501837925336392
-E09000006,Bromley,Rural-Urban Fringe,Socially renting households,13.197573401655035
-E09000007,Camden,London Cosmopolitan,Socially renting households,33.68981651178335
-E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Socially renting households,17.89597567753114
-E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Socially renting households,17.49403323432368
-E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Socially renting households,17.013305988108137
-E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Socially renting households,30.974739370983155
-E09000012,Hackney,London Cosmopolitan,Socially renting households,40.48321565596101
-E09000013,Hammersmith and Fulham,London Cosmopolitan,Socially renting households,29.824971690217122
-E09000014,Haringey,London Cosmopolitan,Socially renting households,25.19150069939386
-E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Socially renting households,10.372370094375405
-E09000016,Havering,Suburban Traits,Socially renting households,13.633042379240887
-E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Socially renting households,16.12498626725748
-E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Socially renting households,20.99629956974
-E09000019,Islington,London Cosmopolitan,Socially renting households,40.19544851600067
-E09000020,Kensington and Chelsea,London Cosmopolitan,Socially renting households,27.555170145326237
-E09000021,Kingston upon Thames,University Towns and Cities,Socially renting households,11.037971597488877
-E09000022,Lambeth,London Cosmopolitan,Socially renting households,33.590965787598
-E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Socially renting households,29.211637920469308
-E09000024,Merton,Ethnically Diverse Metropolitan  Living,Socially renting households,14.192545823850427
-E09000025,Newham,Ethnically Diverse Metropolitan  Living,Socially renting households,28.040619508098796
-E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Socially renting households,11.287772142622982
-E09000027,Richmond upon Thames,Rural-Urban Fringe,Socially renting households,12.08366375892149
-E09000028,Southwark,London Cosmopolitan,Socially renting households,39.742394129338024
-E09000029,Sutton,Suburban Traits,Socially renting households,14.168093555320777
-E09000030,Tower Hamlets,London Cosmopolitan,Socially renting households,35.86971851433975
-E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Socially renting households,21.475981768884655
-E09000032,Wandsworth,London Cosmopolitan,Socially renting households,19.319902177710492
-E09000033,Westminster,,Socially renting households,28.275818427269662
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Socially renting households,23.4
+E06000002,Middlesbrough,Manufacturing Traits,Socially renting households,23.2
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Socially renting households,18.9
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",Socially renting households,16.3
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",Socially renting households,16.2
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",Socially renting households,24.3
+E06000007,Warrington,Town Living,Socially renting households,15.3
+E06000008,Blackburn with Darwen,Manufacturing Traits,Socially renting households,18.8
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",Socially renting households,10.3
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,Socially renting households,27.0
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,Socially renting households,9.4
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",Socially renting households,13.2
+E06000013,North Lincolnshire,Country Living,Socially renting households,15.0
+E06000014,York,Larger Towns and Cities,Socially renting households,14.0
+E06000015,Derby,Manufacturing Traits,Socially renting households,18.8
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,Socially renting households,23.2
+E06000017,Rutland,English and Welsh Countryside,Socially renting households,10.9
+E06000018,Nottingham,University Towns and Cities,Socially renting households,25.5
+E06000019,"Herefordshire, County of",English and Welsh Countryside,Socially renting households,13.7
+E06000020,Telford and Wrekin,Manufacturing Traits,Socially renting households,18.0
+E06000021,Stoke-on-Trent,Manufacturing Traits,Socially renting households,22.3
+E06000022,Bath and North East Somerset,Larger Towns and Cities,Socially renting households,14.3
+E06000023,"Bristol, City of",Larger Towns and Cities,Socially renting households,18.7
+E06000024,North Somerset,English and Welsh Countryside,Socially renting households,9.2
+E06000025,South Gloucestershire,Town Living,Socially renting households,10.8
+E06000026,Plymouth,Larger Towns and Cities,Socially renting households,18.4
+E06000027,Torbay,Remoter Coastal Living,Socially renting households,8.3
+E06000030,Swindon,Suburban Traits,Socially renting households,15.6
+E06000031,Peterborough,Suburban Traits,Socially renting households,18.6
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,Socially renting households,16.4
+E06000033,Southend-on-Sea,Manufacturing Traits,Socially renting households,11.5
+E06000034,Thurrock,Suburban Traits,Socially renting households,17.7
+E06000035,Medway,Suburban Traits,Socially renting households,13.6
+E06000036,Bracknell Forest,Rural-Urban Fringe,Socially renting households,15.7
+E06000037,West Berkshire,Thriving Rural,Socially renting households,14.0
+E06000038,Reading,University Towns and Cities,Socially renting households,16.1
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,Socially renting households,19.6
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,Socially renting households,12.6
+E06000041,Wokingham,Thriving Rural,Socially renting households,7.7
+E06000042,Milton Keynes,Suburban Traits,Socially renting households,18.1
+E06000043,Brighton and Hove,University Towns and Cities,Socially renting households,14.9
+E06000044,Portsmouth,Larger Towns and Cities,Socially renting households,18.0
+E06000045,Southampton,Larger Towns and Cities,Socially renting households,21.9
+E06000046,Isle of Wight,Remoter Coastal Living,Socially renting households,10.9
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",Socially renting households,20.0
+E06000049,Cheshire East,Country Living,Socially renting households,11.6
+E06000050,Cheshire West and Chester,Town Living,Socially renting households,14.6
+E06000051,Shropshire,English and Welsh Countryside,Socially renting households,13.0
+E06000052,Cornwall,,Socially renting households,12.8
+E06000053,Isles of Scilly,,Socially renting households,17.3
+E06000054,Wiltshire,Country Living,Socially renting households,14.5
+E06000055,Bedford,Suburban Traits,Socially renting households,16.3
+E06000056,Central Bedfordshire,Thriving Rural,Socially renting households,13.3
+E06000057,Northumberland,English and Welsh Countryside,Socially renting households,17.8
+E06000058,"Bournemouth, Christchurch and Poole",,Socially renting households,11.0
+E06000059,Dorset,,Socially renting households,12.3
+E06000060,Buckinghamshire,,Socially renting households,13.0
+E06000061,North Northamptonshire,,Socially renting households,15.2
+E06000062,West Northamptonshire,,Socially renting households,14.4
+E07000008,Cambridge,University Towns and Cities,Socially renting households,22.7
+E07000009,East Cambridgeshire,Country Living,Socially renting households,14.0
+E07000010,Fenland,Country Living,Socially renting households,12.7
+E07000011,Huntingdonshire,Country Living,Socially renting households,12.9
+E07000012,South Cambridgeshire,Thriving Rural,Socially renting households,14.5
+E07000026,Allerdale,English and Welsh Countryside,Socially renting households,18.9
+E07000027,Barrow-in-Furness,"Services, Manufacturing and Mining Legacy",Socially renting households,11.0
+E07000028,Carlisle,"Services, Manufacturing and Mining Legacy",Socially renting households,14.4
+E07000029,Copeland,"Services, Manufacturing and Mining Legacy",Socially renting households,17.6
+E07000030,Eden,English and Welsh Countryside,Socially renting households,10.3
+E07000031,South Lakeland,English and Welsh Countryside,Socially renting households,10.7
+E07000032,Amber Valley,Country Living,Socially renting households,12.7
+E07000033,Bolsover,"Services, Manufacturing and Mining Legacy",Socially renting households,16.3
+E07000034,Chesterfield,"Services, Manufacturing and Mining Legacy",Socially renting households,20.7
+E07000035,Derbyshire Dales,English and Welsh Countryside,Socially renting households,12.6
+E07000036,Erewash,Country Living,Socially renting households,12.7
+E07000037,High Peak,Town Living,Socially renting households,12.2
+E07000038,North East Derbyshire,Town Living,Socially renting households,18.7
+E07000039,South Derbyshire,Country Living,Socially renting households,9.9
+E07000040,East Devon,Remoter Coastal Living,Socially renting households,10.3
+E07000041,Exeter,Larger Towns and Cities,Socially renting households,16.6
+E07000042,Mid Devon,English and Welsh Countryside,Socially renting households,12.6
+E07000043,North Devon,Remoter Coastal Living,Socially renting households,11.1
+E07000044,South Hams,English and Welsh Countryside,Socially renting households,11.8
+E07000045,Teignbridge,Remoter Coastal Living,Socially renting households,9.5
+E07000046,Torridge,English and Welsh Countryside,Socially renting households,9.3
+E07000047,West Devon,English and Welsh Countryside,Socially renting households,10.1
+E07000061,Eastbourne,Larger Towns and Cities,Socially renting households,13.0
+E07000062,Hastings,Manufacturing Traits,Socially renting households,14.3
+E07000063,Lewes,Remoter Coastal Living,Socially renting households,10.9
+E07000064,Rother,Remoter Coastal Living,Socially renting households,10.2
+E07000065,Wealden,English and Welsh Countryside,Socially renting households,8.4
+E07000066,Basildon,Suburban Traits,Socially renting households,21.2
+E07000067,Braintree,Country Living,Socially renting households,16.3
+E07000068,Brentwood,Thriving Rural,Socially renting households,11.3
+E07000069,Castle Point,Town Living,Socially renting households,5.5
+E07000070,Chelmsford,Thriving Rural,Socially renting households,13.3
+E07000071,Colchester,Thriving Rural,Socially renting households,13.3
+E07000072,Epping Forest,Thriving Rural,Socially renting households,14.7
+E07000073,Harlow,Suburban Traits,Socially renting households,29.3
+E07000074,Maldon,Country Living,Socially renting households,11.2
+E07000075,Rochford,Town Living,Socially renting households,8.1
+E07000076,Tendring,Remoter Coastal Living,Socially renting households,8.2
+E07000077,Uttlesford,Thriving Rural,Socially renting households,13.0
+E07000078,Cheltenham,Larger Towns and Cities,Socially renting households,12.2
+E07000079,Cotswold,English and Welsh Countryside,Socially renting households,15.4
+E07000080,Forest of Dean,Country Living,Socially renting households,13.0
+E07000081,Gloucester,Manufacturing Traits,Socially renting households,13.6
+E07000082,Stroud,Country Living,Socially renting households,12.3
+E07000083,Tewkesbury,Country Living,Socially renting households,12.7
+E07000084,Basingstoke and Deane,Thriving Rural,Socially renting households,17.9
+E07000085,East Hampshire,Thriving Rural,Socially renting households,12.5
+E07000086,Eastleigh,Town Living,Socially renting households,13.1
+E07000087,Fareham,Town Living,Socially renting households,8.1
+E07000088,Gosport,"Services, Manufacturing and Mining Legacy",Socially renting households,16.3
+E07000089,Hart,Thriving Rural,Socially renting households,8.8
+E07000090,Havant,"Services, Manufacturing and Mining Legacy",Socially renting households,18.6
+E07000091,New Forest,Remoter Coastal Living,Socially renting households,10.8
+E07000092,Rushmoor,Suburban Traits,Socially renting households,16.2
+E07000093,Test Valley,Thriving Rural,Socially renting households,14.3
+E07000094,Winchester,Thriving Rural,Socially renting households,15.3
+E07000095,Broxbourne,Suburban Traits,Socially renting households,14.3
+E07000096,Dacorum,Thriving Rural,Socially renting households,21.0
+E07000098,Hertsmere,Rural-Urban Fringe,Socially renting households,17.3
+E07000099,North Hertfordshire,Thriving Rural,Socially renting households,18.7
+E07000102,Three Rivers,Rural-Urban Fringe,Socially renting households,14.8
+E07000103,Watford,Suburban Traits,Socially renting households,15.6
+E07000105,Ashford,Country Living,Socially renting households,14.0
+E07000106,Canterbury,Larger Towns and Cities,Socially renting households,12.2
+E07000107,Dartford,Suburban Traits,Socially renting households,13.8
+E07000108,Dover,Remoter Coastal Living,Socially renting households,13.9
+E07000109,Gravesham,Suburban Traits,Socially renting households,17.4
+E07000110,Maidstone,Thriving Rural,Socially renting households,13.4
+E07000111,Sevenoaks,Thriving Rural,Socially renting households,13.2
+E07000112,Folkestone and Hythe,Remoter Coastal Living,Socially renting households,10.9
+E07000113,Swale,Country Living,Socially renting households,13.3
+E07000114,Thanet,Remoter Coastal Living,Socially renting households,11.9
+E07000115,Tonbridge and Malling,Thriving Rural,Socially renting households,15.4
+E07000116,Tunbridge Wells,Thriving Rural,Socially renting households,14.6
+E07000117,Burnley,Manufacturing Traits,Socially renting households,15.6
+E07000118,Chorley,Town Living,Socially renting households,13.2
+E07000119,Fylde,English and Welsh Countryside,Socially renting households,8.3
+E07000120,Hyndburn,Manufacturing Traits,Socially renting households,13.5
+E07000121,Lancaster,Larger Towns and Cities,Socially renting households,10.3
+E07000122,Pendle,Manufacturing Traits,Socially renting households,11.8
+E07000123,Preston,Larger Towns and Cities,Socially renting households,18.4
+E07000124,Ribble Valley,English and Welsh Countryside,Socially renting households,8.0
+E07000125,Rossendale,"Services, Manufacturing and Mining Legacy",Socially renting households,14.8
+E07000126,South Ribble,Town Living,Socially renting households,10.4
+E07000127,West Lancashire,Town Living,Socially renting households,14.3
+E07000128,Wyre,English and Welsh Countryside,Socially renting households,7.6
+E07000129,Blaby,Town Living,Socially renting households,8.2
+E07000130,Charnwood,Town Living,Socially renting households,11.7
+E07000131,Harborough,Country Living,Socially renting households,8.7
+E07000132,Hinckley and Bosworth,Country Living,Socially renting households,10.2
+E07000133,Melton,Country Living,Socially renting households,10.7
+E07000134,North West Leicestershire,Country Living,Socially renting households,13.5
+E07000135,Oadby and Wigston,Town Living,Socially renting households,7.9
+E07000136,Boston,Manufacturing Traits,Socially renting households,19.5
+E07000137,East Lindsey,Remoter Coastal Living,Socially renting households,11.3
+E07000138,Lincoln,Larger Towns and Cities,Socially renting households,21.1
+E07000139,North Kesteven,English and Welsh Countryside,Socially renting households,10.0
+E07000140,South Holland,Country Living,Socially renting households,12.1
+E07000141,South Kesteven,Country Living,Socially renting households,12.5
+E07000142,West Lindsey,English and Welsh Countryside,Socially renting households,10.9
+E07000143,Breckland,English and Welsh Countryside,Socially renting households,14.1
+E07000144,Broadland,Country Living,Socially renting households,9.7
+E07000145,Great Yarmouth,Remoter Coastal Living,Socially renting households,16.2
+E07000146,King's Lynn and West Norfolk,English and Welsh Countryside,Socially renting households,13.6
+E07000147,North Norfolk,Remoter Coastal Living,Socially renting households,13.0
+E07000148,Norwich,Larger Towns and Cities,Socially renting households,30.3
+E07000149,South Norfolk,Country Living,Socially renting households,11.7
+E07000163,Craven,English and Welsh Countryside,Socially renting households,9.6
+E07000164,Hambleton,English and Welsh Countryside,Socially renting households,13.4
+E07000165,Harrogate,English and Welsh Countryside,Socially renting households,9.9
+E07000166,Richmondshire,English and Welsh Countryside,Socially renting households,11.7
+E07000167,Ryedale,English and Welsh Countryside,Socially renting households,12.8
+E07000168,Scarborough,Remoter Coastal Living,Socially renting households,13.8
+E07000169,Selby,Country Living,Socially renting households,12.3
+E07000170,Ashfield,"Services, Manufacturing and Mining Legacy",Socially renting households,14.9
+E07000171,Bassetlaw,Country Living,Socially renting households,15.0
+E07000172,Broxtowe,Town Living,Socially renting households,11.0
+E07000173,Gedling,Town Living,Socially renting households,9.7
+E07000174,Mansfield,"Services, Manufacturing and Mining Legacy",Socially renting households,16.4
+E07000175,Newark and Sherwood,Country Living,Socially renting households,13.9
+E07000176,Rushcliffe,Thriving Rural,Socially renting households,8.6
+E07000177,Cherwell,Thriving Rural,Socially renting households,13.3
+E07000178,Oxford,University Towns and Cities,Socially renting households,20.9
+E07000179,South Oxfordshire,Thriving Rural,Socially renting households,12.0
+E07000180,Vale of White Horse,Thriving Rural,Socially renting households,14.3
+E07000181,West Oxfordshire,Thriving Rural,Socially renting households,13.3
+E07000187,Mendip,English and Welsh Countryside,Socially renting households,12.0
+E07000188,Sedgemoor,English and Welsh Countryside,Socially renting households,12.8
+E07000189,South Somerset,English and Welsh Countryside,Socially renting households,14.1
+E07000192,Cannock Chase,"Services, Manufacturing and Mining Legacy",Socially renting households,16.2
+E07000193,East Staffordshire,Country Living,Socially renting households,12.9
+E07000194,Lichfield,Town Living,Socially renting households,13.0
+E07000195,Newcastle-under-Lyme,Town Living,Socially renting households,17.1
+E07000196,South Staffordshire,Town Living,Socially renting households,14.0
+E07000197,Stafford,Town Living,Socially renting households,13.6
+E07000198,Staffordshire Moorlands,Country Living,Socially renting households,8.6
+E07000199,Tamworth,"Services, Manufacturing and Mining Legacy",Socially renting households,18.0
+E07000200,Babergh,Country Living,Socially renting households,13.3
+E07000202,Ipswich,Manufacturing Traits,Socially renting households,20.8
+E07000203,Mid Suffolk,Country Living,Socially renting households,11.3
+E07000207,Elmbridge,Rural-Urban Fringe,Socially renting households,10.1
+E07000208,Epsom and Ewell,Rural-Urban Fringe,Socially renting households,8.8
+E07000209,Guildford,Rural-Urban Fringe,Socially renting households,12.7
+E07000210,Mole Valley,Thriving Rural,Socially renting households,11.7
+E07000211,Reigate and Banstead,Rural-Urban Fringe,Socially renting households,11.5
+E07000212,Runnymede,Rural-Urban Fringe,Socially renting households,12.9
+E07000213,Spelthorne,Rural-Urban Fringe,Socially renting households,12.7
+E07000214,Surrey Heath,Rural-Urban Fringe,Socially renting households,9.6
+E07000215,Tandridge,Thriving Rural,Socially renting households,11.1
+E07000216,Waverley,Thriving Rural,Socially renting households,12.3
+E07000217,Woking,Rural-Urban Fringe,Socially renting households,11.6
+E07000218,North Warwickshire,Country Living,Socially renting households,13.6
+E07000219,Nuneaton and Bedworth,Manufacturing Traits,Socially renting households,14.4
+E07000220,Rugby,Suburban Traits,Socially renting households,12.9
+E07000221,Stratford-on-Avon,English and Welsh Countryside,Socially renting households,13.3
+E07000222,Warwick,Larger Towns and Cities,Socially renting households,14.1
+E07000223,Adur,Town Living,Socially renting households,12.4
+E07000224,Arun,Remoter Coastal Living,Socially renting households,9.3
+E07000225,Chichester,English and Welsh Countryside,Socially renting households,15.1
+E07000226,Crawley,Suburban Traits,Socially renting households,22.9
+E07000227,Horsham,Thriving Rural,Socially renting households,11.5
+E07000228,Mid Sussex,Thriving Rural,Socially renting households,10.8
+E07000229,Worthing,Manufacturing Traits,Socially renting households,9.8
+E07000234,Bromsgrove,Town Living,Socially renting households,10.7
+E07000235,Malvern Hills,English and Welsh Countryside,Socially renting households,14.3
+E07000236,Redditch,Manufacturing Traits,Socially renting households,20.2
+E07000237,Worcester,Manufacturing Traits,Socially renting households,16.3
+E07000238,Wychavon,Country Living,Socially renting households,15.6
+E07000239,Wyre Forest,Country Living,Socially renting households,14.1
+E07000240,St Albans,Rural-Urban Fringe,Socially renting households,12.2
+E07000241,Welwyn Hatfield,Larger Towns and Cities,Socially renting households,25.4
+E07000242,East Hertfordshire,Thriving Rural,Socially renting households,13.1
+E07000243,Stevenage,Suburban Traits,Socially renting households,26.3
+E07000244,East Suffolk,,Socially renting households,13.1
+E07000245,West Suffolk,,Socially renting households,16.2
+E07000246,Somerset West and Taunton,,Socially renting households,15.2
+E08000001,Bolton,Manufacturing Traits,Socially renting households,19.8
+E08000002,Bury,Manufacturing Traits,Socially renting households,14.9
+E08000003,Manchester,University Towns and Cities,Socially renting households,29.5
+E08000004,Oldham,Manufacturing Traits,Socially renting households,21.2
+E08000005,Rochdale,Manufacturing Traits,Socially renting households,20.9
+E08000006,Salford,Manufacturing Traits,Socially renting households,25.4
+E08000007,Stockport,Town Living,Socially renting households,13.3
+E08000008,Tameside,Manufacturing Traits,Socially renting households,21.2
+E08000009,Trafford,Suburban Traits,Socially renting households,15.0
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",Socially renting households,17.0
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",Socially renting households,25.3
+E08000012,Liverpool,Larger Towns and Cities,Socially renting households,26.4
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",Socially renting households,19.7
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",Socially renting households,14.4
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",Socially renting households,15.4
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",Socially renting households,19.7
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",Socially renting households,17.0
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",Socially renting households,20.7
+E08000019,Sheffield,Larger Towns and Cities,Socially renting households,22.6
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,Socially renting households,27.3
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",Socially renting households,20.5
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",Socially renting households,29.6
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",Socially renting households,26.6
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,Socially renting households,23.5
+E08000026,Coventry,Larger Towns and Cities,Socially renting households,17.0
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",Socially renting households,19.0
+E08000028,Sandwell,Manufacturing Traits,Socially renting households,26.6
+E08000029,Solihull,Town Living,Socially renting households,14.0
+E08000030,Walsall,Manufacturing Traits,Socially renting households,23.7
+E08000031,Wolverhampton,Manufacturing Traits,Socially renting households,25.2
+E08000032,Bradford,Manufacturing Traits,Socially renting households,14.6
+E08000033,Calderdale,Manufacturing Traits,Socially renting households,14.6
+E08000034,Kirklees,Manufacturing Traits,Socially renting households,14.8
+E08000035,Leeds,Larger Towns and Cities,Socially renting households,20.4
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",Socially renting households,21.7
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",Socially renting households,25.1
+E09000001,City of London,,Socially renting households,14.9
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,Socially renting households,31.5
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,Socially renting households,13.5
+E09000004,Bexley,Suburban Traits,Socially renting households,14.7
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,Socially renting households,23.5
+E09000006,Bromley,Rural-Urban Fringe,Socially renting households,13.2
+E09000007,Camden,London Cosmopolitan,Socially renting households,33.7
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,Socially renting households,17.9
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,Socially renting households,17.5
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,Socially renting households,17.0
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,Socially renting households,31.0
+E09000012,Hackney,London Cosmopolitan,Socially renting households,40.5
+E09000013,Hammersmith and Fulham,London Cosmopolitan,Socially renting households,29.8
+E09000014,Haringey,London Cosmopolitan,Socially renting households,25.2
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,Socially renting households,10.4
+E09000016,Havering,Suburban Traits,Socially renting households,13.6
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,Socially renting households,16.1
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,Socially renting households,21.0
+E09000019,Islington,London Cosmopolitan,Socially renting households,40.2
+E09000020,Kensington and Chelsea,London Cosmopolitan,Socially renting households,27.6
+E09000021,Kingston upon Thames,University Towns and Cities,Socially renting households,11.0
+E09000022,Lambeth,London Cosmopolitan,Socially renting households,33.6
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,Socially renting households,29.2
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,Socially renting households,14.2
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,Socially renting households,28.0
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,Socially renting households,11.3
+E09000027,Richmond upon Thames,Rural-Urban Fringe,Socially renting households,12.1
+E09000028,Southwark,London Cosmopolitan,Socially renting households,39.7
+E09000029,Sutton,Suburban Traits,Socially renting households,14.2
+E09000030,Tower Hamlets,London Cosmopolitan,Socially renting households,35.9
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,Socially renting households,21.5
+E09000032,Wandsworth,London Cosmopolitan,Socially renting households,19.3
+E09000033,Westminster,,Socially renting households,28.3
 E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Unpaid carer (age 16-24),6.095154571365929
 E06000002,Middlesbrough,Manufacturing Traits,Unpaid carer (age 16-24),5.045736205370316
 E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Unpaid carer (age 16-24),5.750143548519399
