@@ -1,19 +1,19 @@
 date,Sector,key_youth_sectors,wanted_youth_sectors,variable,value
-2023-09-01,Mining & quarrying,False,False,Growth since previous quarter (%),35.7
-2023-09-01,Financial & insurance activities,False,True,Growth since previous quarter (%),22.1
-2023-09-01,Human health & social work activities,True,False,Growth since previous quarter (%),28.5
-2023-09-01,Professional scientific & technical activities,False,True,Growth since previous quarter (%),24.4
-2023-09-01,Construction,False,False,Growth since previous quarter (%),28.8
-2023-09-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),-2.7
-2023-09-01,Real estate activities,False,False,Growth since previous quarter (%),-20.0
-2023-09-01,Transport & storage,False,False,Growth since previous quarter (%),-8.5
-2023-09-01,Arts entertainment & recreation,False,True,Growth since previous quarter (%),-6.8
-2023-09-01,Mining & quarrying,False,False,Growth since pre-coronavirus January to March 2020 (%),5.6
-2023-09-01,Financial & insurance activities,False,True,Growth since pre-coronavirus January to March 2020 (%),-1.4
-2023-09-01,Human health & social work activities,True,False,Growth since pre-coronavirus January to March 2020 (%),-3.2
-2023-09-01,Professional scientific & technical activities,False,True,Growth since pre-coronavirus January to March 2020 (%),-4.5
-2023-09-01,Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),-5.2
-2023-09-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),-5.6
-2023-09-01,Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),-7.4
-2023-09-01,Transport & storage,False,False,Growth since pre-coronavirus January to March 2020 (%),-14.1
-2023-09-01,Arts entertainment & recreation,False,True,Growth since pre-coronavirus January to March 2020 (%),-19.9
+2023-10-01,Real estate activities,False,False,Growth since previous quarter (%),16.0
+2023-10-01,Administrative & support service activities,False,False,Growth since previous quarter (%),10.7
+2023-10-01,Construction,False,False,Growth since previous quarter (%),5.9
+2023-10-01,Financial & insurance activities,False,True,Growth since previous quarter (%),2.0
+2023-10-01,Education,False,False,Growth since previous quarter (%),-2.1
+2023-10-01,Accommodation & food service activities,True,False,Growth since previous quarter (%),-5.9
+2023-10-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),-9.4
+2023-10-01,Transport & storage,False,False,Growth since previous quarter (%),-23.7
+2023-10-01,Arts entertainment & recreation,False,True,Growth since previous quarter (%),-31.6
+2023-10-01,Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),-17.1
+2023-10-01,Administrative & support service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),15.3
+2023-10-01,Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),35.2
+2023-10-01,Financial & insurance activities,False,True,Growth since pre-coronavirus January to March 2020 (%),21.8
+2023-10-01,Education,False,False,Growth since pre-coronavirus January to March 2020 (%),27.9
+2023-10-01,Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),26.4
+2023-10-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),-4.6
+2023-10-01,Transport & storage,False,False,Growth since pre-coronavirus January to March 2020 (%),-17.2
+2023-10-01,Arts entertainment & recreation,False,True,Growth since pre-coronavirus January to March 2020 (%),-18.2
