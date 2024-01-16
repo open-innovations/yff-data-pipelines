@@ -5,8 +5,8 @@ stages:
     deps:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: 6d6866ca81c78e36e3e948eaea870d73
-      size: 106101343
+      md5: 3b39d4a73418251254baaae54e0d9d98
+      size: 106443532
     - path: latest-by-pcon.ipynb
       hash: md5
       md5: 3017929cab60cc18e2ea49d9889839ad
@@ -14,8 +14,8 @@ stages:
     outs:
     - path: ../../data/processed/labour-market/most_recent_by_pcon_2010.csv
       hash: md5
-      md5: 0a22d02d1cd5d3d28b58aae17fe0ea21
-      size: 1156579
+      md5: 4e4f433d8371c1c613a9fe2b851c33ba
+      size: 1164889
   download-latest-monthly:
     cmd: python get-lms.py
     deps:
@@ -86,8 +86,8 @@ stages:
     outs:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: 6d6866ca81c78e36e3e948eaea870d73
-      size: 106101343
+      md5: 3b39d4a73418251254baaae54e0d9d98
+      size: 106443532
   process-lms:
     cmd: papermill --no-progress-bar --no-report-mode process-lms.ipynb ../../output/process-lms.ipynb
     deps:
@@ -118,15 +118,15 @@ stages:
     outs:
     - path: ../../data/raw/x10.xlsx
       hash: md5
-      md5: fa609fadd950fa2b0cfd324669ae42d9
-      size: 1648514
+      md5: 9110a578360bf9ef01b1fa2fdc5e9e7e
+      size: 1652825
   process-x10:
     cmd: papermill process-x10.ipynb ../../output/process-x10.ipynb
     deps:
     - path: ../../data/raw/x10.xlsx
       hash: md5
-      md5: fa609fadd950fa2b0cfd324669ae42d9
-      size: 1648514
+      md5: 9110a578360bf9ef01b1fa2fdc5e9e7e
+      size: 1652825
     - path: process-x10.ipynb
       hash: md5
       md5: 64cf88b52598cdb412dd415f4bd4d5ad
@@ -134,9 +134,9 @@ stages:
     outs:
     - path: ../../data/metadata/codes/x10-codes.csv
       hash: md5
-      md5: c5685bb22f6da14743a6edbb951bdb1e
-      size: 3754
+      md5: fa5c91058c59f806e879162b20c23444
+      size: 4074
     - path: ../../data/processed/x10.csv
       hash: md5
-      md5: cc85aa25e388b8916d2221714bf13341
-      size: 1250289
+      md5: fc8893410355546fe3f20d565a586780
+      size: 1253611

@@ -1,65 +1,65 @@
 sheet,column,age,measure,Release Date,Next release
-UK,1,Aged 16 and over,Employment_level,2023-12-12,2024-01-16
-UK,2,Aged 16 and over,Employment_rate (%),2023-12-12,2024-01-16
-UK,3,Aged 16 and over,Unemployment_level,2023-12-12,2024-01-16
-UK,4,Aged 16 and over,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,5,Aged 16 and over,Activity_level,2023-12-12,2024-01-16
-UK,6,Aged 16 and over,Activity_rate (%),2023-12-12,2024-01-16
-UK,7,Aged 16 and over,Inactivity_level,2023-12-12,2024-01-16
-UK,8,Aged 16 and over,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,9,Aged 16-64 ,Employment_level,2023-12-12,2024-01-16
-UK,10,Aged 16-64 ,Employment_rate (%),2023-12-12,2024-01-16
-UK,11,Aged 16-64 ,Unemployment_level,2023-12-12,2024-01-16
-UK,12,Aged 16-64 ,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,13,Aged 16-64 ,Activity_level,2023-12-12,2024-01-16
-UK,14,Aged 16-64 ,Activity_rate (%),2023-12-12,2024-01-16
-UK,15,Aged 16-64 ,Inactivity_level,2023-12-12,2024-01-16
-UK,16,Aged 16-64 ,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,17,Aged 16-17,Employment_level,2023-12-12,2024-01-16
-UK,18,Aged 16-17,Employment_rate (%),2023-12-12,2024-01-16
-UK,19,Aged 16-17,Unemployment_level,2023-12-12,2024-01-16
-UK,20,Aged 16-17,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,21,Aged 16-17,Activity_level,2023-12-12,2024-01-16
-UK,22,Aged 16-17,Activity_rate (%),2023-12-12,2024-01-16
-UK,23,Aged 16-17,Inactivity_level,2023-12-12,2024-01-16
-UK,24,Aged 16-17,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,25,Aged 18-24,Employment_level,2023-12-12,2024-01-16
-UK,26,Aged 18-24,Employment_rate (%),2023-12-12,2024-01-16
-UK,27,Aged 18-24,Unemployment_level,2023-12-12,2024-01-16
-UK,28,Aged 18-24,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,29,Aged 18-24,Activity_level,2023-12-12,2024-01-16
-UK,30,Aged 18-24,Activity_rate (%),2023-12-12,2024-01-16
-UK,31,Aged 18-24,Inactivity_level,2023-12-12,2024-01-16
-UK,32,Aged 18-24,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,33,Aged 25-34,Employment_level,2023-12-12,2024-01-16
-UK,34,Aged 25-34,Employment_rate (%),2023-12-12,2024-01-16
-UK,35,Aged 25-34,Unemployment_level,2023-12-12,2024-01-16
-UK,36,Aged 25-34,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,37,Aged 25-34,Activity_level,2023-12-12,2024-01-16
-UK,38,Aged 25-34,Activity_rate (%),2023-12-12,2024-01-16
-UK,39,Aged 25-34,Inactivity_level,2023-12-12,2024-01-16
-UK,40,Aged 25-34,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,41,Aged 35-49,Employment_level,2023-12-12,2024-01-16
-UK,42,Aged 35-49,Employment_rate (%),2023-12-12,2024-01-16
-UK,43,Aged 35-49,Unemployment_level,2023-12-12,2024-01-16
-UK,44,Aged 35-49,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,45,Aged 35-49,Activity_level,2023-12-12,2024-01-16
-UK,46,Aged 35-49,Activity_rate (%),2023-12-12,2024-01-16
-UK,47,Aged 35-49,Inactivity_level,2023-12-12,2024-01-16
-UK,48,Aged 35-49,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,49,Aged 50-64,Employment_level,2023-12-12,2024-01-16
-UK,50,Aged 50-64,Employment_rate (%),2023-12-12,2024-01-16
-UK,51,Aged 50-64,Unemployment_level,2023-12-12,2024-01-16
-UK,52,Aged 50-64,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,53,Aged 50-64,Activity_level,2023-12-12,2024-01-16
-UK,54,Aged 50-64,Activity_rate (%),2023-12-12,2024-01-16
-UK,55,Aged 50-64,Inactivity_level,2023-12-12,2024-01-16
-UK,56,Aged 50-64,Inactivity_rate (%),2023-12-12,2024-01-16
-UK,57,Age 65+,Employment_level,2023-12-12,2024-01-16
-UK,58,Age 65+,Employment_rate (%),2023-12-12,2024-01-16
-UK,59,Age 65+,Unemployment_level,2023-12-12,2024-01-16
-UK,60,Age 65+,Unemployment_rate (%),2023-12-12,2024-01-16
-UK,61,Age 65+,Activity_level,2023-12-12,2024-01-16
-UK,62,Age 65+,Activity_rate (%),2023-12-12,2024-01-16
-UK,63,Age 65+,Inactivity_level,2023-12-12,2024-01-16
-UK,64,Age 65+,Inactivity_rate (%),2023-12-12,2024-01-16
+UK,1,Aged 16 and over,Employment_level,2024-01-16,To be confirmed
+UK,2,Aged 16 and over,Employment_rate (%),2024-01-16,To be confirmed
+UK,3,Aged 16 and over,Unemployment_level,2024-01-16,To be confirmed
+UK,4,Aged 16 and over,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,5,Aged 16 and over,Activity_level,2024-01-16,To be confirmed
+UK,6,Aged 16 and over,Activity_rate (%),2024-01-16,To be confirmed
+UK,7,Aged 16 and over,Inactivity_level,2024-01-16,To be confirmed
+UK,8,Aged 16 and over,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,9,Aged 16-64 ,Employment_level,2024-01-16,To be confirmed
+UK,10,Aged 16-64 ,Employment_rate (%),2024-01-16,To be confirmed
+UK,11,Aged 16-64 ,Unemployment_level,2024-01-16,To be confirmed
+UK,12,Aged 16-64 ,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,13,Aged 16-64 ,Activity_level,2024-01-16,To be confirmed
+UK,14,Aged 16-64 ,Activity_rate (%),2024-01-16,To be confirmed
+UK,15,Aged 16-64 ,Inactivity_level,2024-01-16,To be confirmed
+UK,16,Aged 16-64 ,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,17,Aged 16-17,Employment_level,2024-01-16,To be confirmed
+UK,18,Aged 16-17,Employment_rate (%),2024-01-16,To be confirmed
+UK,19,Aged 16-17,Unemployment_level,2024-01-16,To be confirmed
+UK,20,Aged 16-17,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,21,Aged 16-17,Activity_level,2024-01-16,To be confirmed
+UK,22,Aged 16-17,Activity_rate (%),2024-01-16,To be confirmed
+UK,23,Aged 16-17,Inactivity_level,2024-01-16,To be confirmed
+UK,24,Aged 16-17,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,25,Aged 18-24,Employment_level,2024-01-16,To be confirmed
+UK,26,Aged 18-24,Employment_rate (%),2024-01-16,To be confirmed
+UK,27,Aged 18-24,Unemployment_level,2024-01-16,To be confirmed
+UK,28,Aged 18-24,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,29,Aged 18-24,Activity_level,2024-01-16,To be confirmed
+UK,30,Aged 18-24,Activity_rate (%),2024-01-16,To be confirmed
+UK,31,Aged 18-24,Inactivity_level,2024-01-16,To be confirmed
+UK,32,Aged 18-24,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,33,Aged 25-34,Employment_level,2024-01-16,To be confirmed
+UK,34,Aged 25-34,Employment_rate (%),2024-01-16,To be confirmed
+UK,35,Aged 25-34,Unemployment_level,2024-01-16,To be confirmed
+UK,36,Aged 25-34,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,37,Aged 25-34,Activity_level,2024-01-16,To be confirmed
+UK,38,Aged 25-34,Activity_rate (%),2024-01-16,To be confirmed
+UK,39,Aged 25-34,Inactivity_level,2024-01-16,To be confirmed
+UK,40,Aged 25-34,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,41,Aged 35-49,Employment_level,2024-01-16,To be confirmed
+UK,42,Aged 35-49,Employment_rate (%),2024-01-16,To be confirmed
+UK,43,Aged 35-49,Unemployment_level,2024-01-16,To be confirmed
+UK,44,Aged 35-49,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,45,Aged 35-49,Activity_level,2024-01-16,To be confirmed
+UK,46,Aged 35-49,Activity_rate (%),2024-01-16,To be confirmed
+UK,47,Aged 35-49,Inactivity_level,2024-01-16,To be confirmed
+UK,48,Aged 35-49,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,49,Aged 50-64,Employment_level,2024-01-16,To be confirmed
+UK,50,Aged 50-64,Employment_rate (%),2024-01-16,To be confirmed
+UK,51,Aged 50-64,Unemployment_level,2024-01-16,To be confirmed
+UK,52,Aged 50-64,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,53,Aged 50-64,Activity_level,2024-01-16,To be confirmed
+UK,54,Aged 50-64,Activity_rate (%),2024-01-16,To be confirmed
+UK,55,Aged 50-64,Inactivity_level,2024-01-16,To be confirmed
+UK,56,Aged 50-64,Inactivity_rate (%),2024-01-16,To be confirmed
+UK,57,Age 65+,Employment_level,2024-01-16,To be confirmed
+UK,58,Age 65+,Employment_rate (%),2024-01-16,To be confirmed
+UK,59,Age 65+,Unemployment_level,2024-01-16,To be confirmed
+UK,60,Age 65+,Unemployment_rate (%),2024-01-16,To be confirmed
+UK,61,Age 65+,Activity_level,2024-01-16,To be confirmed
+UK,62,Age 65+,Activity_rate (%),2024-01-16,To be confirmed
+UK,63,Age 65+,Inactivity_level,2024-01-16,To be confirmed
+UK,64,Age 65+,Inactivity_rate (%),2024-01-16,To be confirmed
