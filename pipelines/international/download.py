@@ -21,7 +21,7 @@ def download():
         # Download 
         download_url_to_file(
           'https://stats.oecd.org/sdmx-json/data/DP_LIVE/.EMPAGE.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en',
-          local_file='employment_by_age_group.csv'
+          local_file='employment_rate_by_age_group.csv'
         )
 
         # Download NEET
