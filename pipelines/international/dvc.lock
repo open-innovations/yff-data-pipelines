@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  download:
+    cmd: PYTHONPATH=../.. python download.py
+    deps:
+    - path: download.py
+      hash: md5
+      md5: 5c4e8dd8bf4b37a333b58b1a4bb346c7
+      size: 1361
+    outs:
+    - path: ../../data/raw/oecd/neet.csv
+      hash: md5
+      md5: b21d918b01028defcbbe0756448f7262
+      size: 435195
+    - path: ../../data/raw/oecd/wage_levels.csv
+      hash: md5
+      md5: ab1803623fcda221c1542c3bb1588936
+      size: 72501

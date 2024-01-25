@@ -1,0 +1,13 @@
+vars:
+  - top: ../..
+stages:
+  download:
+    cmd: PYTHONPATH=${top} python download.py
+    always_changed: true
+    deps:
+      - download.py
+    outs:
+      - ${top}/data/raw/oecd/neet.csv:
+          cache: false
+      - ${top}/data/raw/oecd/wage_levels.csv:
+          cache: false
