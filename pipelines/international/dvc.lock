@@ -34,10 +34,18 @@ stages:
       nfiles: 4
     - path: transform.ipynb
       hash: md5
-      md5: 4870c7a2f366c7ae6ef6b45e9e6981ae
-      size: 1897
+      md5: acc126ca0968245eda4ca4070a371339
+      size: 3343
     outs:
     - path: ../../data/processed/oecd/lfs_by_sex_and_age.csv
       hash: md5
       md5: c2ee041bc5098fe579d5efcbbd1cca37
       size: 11362509
+    - path: ../../data/processed/oecd/neet.csv
+      hash: md5
+      md5: f572e6f971dacc232b75728f0ea5ae30
+      size: 326826
+    - path: ../../data/processed/oecd/wage_levels.csv
+      hash: md5
+      md5: 86709bffee3d54816591db635a588ce6
+      size: 55192

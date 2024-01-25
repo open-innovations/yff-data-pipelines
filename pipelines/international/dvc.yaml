@@ -23,3 +23,7 @@ stages:
     outs:
       - ${top}/data/processed/oecd/lfs_by_sex_and_age.csv:
           cache: false
+      - ${top}/data/processed/oecd/neet.csv:
+          cache: false
+      - ${top}/data/processed/oecd/wage_levels.csv:
+          cache: false
