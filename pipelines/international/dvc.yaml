@@ -7,9 +7,19 @@ stages:
     deps:
       - download.py
     outs:
+      - ${top}/data/raw/oecd/lfs_by_sex_and_age.csv:
+          cache: false
       - ${top}/data/raw/oecd/employment_rate_by_age_group.csv:
           cache: false
       - ${top}/data/raw/oecd/neet.csv:
           cache: false
       - ${top}/data/raw/oecd/wage_levels.csv:
+          cache: false
+  transform:
+    cmd: papermill --no-progress-bar --no-report-mode transform.ipynb ${top}/output/oecd-transform.ipynb
+    deps:
+      - transform.ipynb
+      - ${top}/data/raw/oecd/
+    outs:
+      - ${top}/data/processed/oecd/lfs_by_sex_and_age.csv:
           cache: false
