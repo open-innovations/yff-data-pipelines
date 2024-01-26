@@ -1,7 +1,9 @@
 '''
-PYTHONPATH=. python pipelines/international/download.py
-
 Need to ensure that PYTHONPATH includes the root directory of the repo, so that it can resolve the lib
+
+If located in the root directory, run the following:
+
+    PYTHONPATH=. python pipelines/international/download.py
 '''
 from pathlib import Path
 from lib.downloader import download_url_to_file

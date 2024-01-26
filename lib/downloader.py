@@ -10,9 +10,6 @@ def download_url_to_file(url, local_file=None):
     '''
     if not local_file:
         local_file = filename_from_url(url)
-    # r = requests.get(url)
-    # with open(local_file, 'wb') as f:
-    #     f.write(r.content)
         
     with requests.get(url, stream=True) as r, open(local_file, 'wb') as fd:
         for chunk in r.iter_content(chunk_size=None):
@@ -23,4 +20,3 @@ def filename_from_url(url) -> str:
     return Path(
         urlparse(url).path
     ).name
-

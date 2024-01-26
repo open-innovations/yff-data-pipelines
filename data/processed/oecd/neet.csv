@@ -1,4 +1,4 @@
-country_code,indicator,subject,measure,frequency,time,value
+country_code,indicator,age_range,measure,frequency,time,value
 AUS,NEET,15_19,PC_AGE,A,1997,8.0696821
 AUS,NEET,15_19,PC_AGE,A,1998,8.8245621
 AUS,NEET,15_19,PC_AGE,A,1999,7.4046469

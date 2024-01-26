@@ -1,7 +1,8 @@
 import os
 import re
-from scraper import get_links, download_file
-from util import set_working_directory
+from lib.scraper import get_links
+from lib.downloader import download_url_to_file as download_file
+from lib.util import set_working_directory
 
 NEET_PAGE = 'https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/youngpeoplenotineducationemploymentortrainingneettable1'
 

@@ -2,7 +2,7 @@ vars:
   - top: ../..
 stages:
   download:
-    cmd: PYTHONPATH=${top}/lib python download.py
+    cmd: PYTHONPATH=${top} python download.py
     deps:
       - download.py
     outs:

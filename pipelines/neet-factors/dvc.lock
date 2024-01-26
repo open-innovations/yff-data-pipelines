@@ -18,32 +18,32 @@ stages:
       md5: 7335083d5c50b867eb0ff321b0a71459
       size: 555225
   download:
-    cmd: python3 download.py
+    cmd: PYTHONPATH=../.. python3 download.py
     deps:
     - path: download.py
       hash: md5
-      md5: 441a3bed651e1a5318f5391f2071a462
-      size: 7366
+      md5: a95efb5a7eebec9cdf188f2c0c495900
+      size: 7684
     outs:
     - path: ../../data/raw/neet-factors/
       hash: md5
-      md5: 65a0a305d4018ace4621c4500db2af68.dir
-      size: 135574837
+      md5: 2d68fad6e6261eeb2a0402a6fdf734c7.dir
+      size: 135575003
       nfiles: 14
   collate:
     cmd: papermill collate.ipynb ../../output/collate-neet-factors.ipynb
     deps:
     - path: ../../data/raw/neet-factors/
       hash: md5
-      md5: 8b982b080b82a82041fdef4355c18916.dir
-      size: 137621089
+      md5: 2d68fad6e6261eeb2a0402a6fdf734c7.dir
+      size: 135575003
       nfiles: 14
     - path: collate.ipynb
       hash: md5
-      md5: 2659e74ceb27d217a42832574d7b5194
-      size: 2524
+      md5: ebad3d911e9da55aff448371baaf0782
+      size: 17603
     outs:
     - path: ../../data/processed/yff/neet-factors-sources.csv
       hash: md5
-      md5: 5e8eeae2afcbd3833613cf0633a39b11
-      size: 21589
+      md5: a303fb064fcbe845ae30e88acea299db
+      size: 432109

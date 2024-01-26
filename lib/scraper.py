@@ -24,9 +24,3 @@ def get_links(url, *args, **kwargs):
     )
 
     return [canonical(l['href']) for l in links]
-
-
-def download_file(url, file):
-    r = requests.get(url)
-    with open(file, 'wb') as f:
-        f.write(r.content)

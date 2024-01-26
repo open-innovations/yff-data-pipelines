@@ -1,12 +1,12 @@
 schema: '2.0'
 stages:
   download:
-    cmd: PYTHONPATH=../../lib python download.py
+    cmd: PYTHONPATH=../.. python download.py
     deps:
     - path: download.py
       hash: md5
-      md5: 6712b7fdd3fef15037e06b7f6223ae55
-      size: 656
+      md5: ac39a4eadec773df345dd7a5f228d39f
+      size: 714
     outs:
     - path: ../../data/raw/neet-latest.xlsx
       hash: md5
