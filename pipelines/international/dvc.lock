@@ -5,8 +5,8 @@ stages:
     deps:
     - path: download.py
       hash: md5
-      md5: 9714907dd7ba9baafaebe302dde24b97
-      size: 2051
+      md5: 6c64821c5ee9a93c2d271053bc4bdc92
+      size: 2264
     outs:
     - path: ../../data/raw/oecd/employment_rate_by_age_group.csv
       hash: md5
@@ -14,8 +14,8 @@ stages:
       size: 1469892
     - path: ../../data/raw/oecd/lfs_by_sex_and_age.csv
       hash: md5
-      md5: 530b4c3e96e651359c06abed238de9ac
-      size: 21604861
+      md5: 08067df8078f0d2ce92692fc698e32bc
+      size: 13294238
     - path: ../../data/raw/oecd/neet.csv
       hash: md5
       md5: b21d918b01028defcbbe0756448f7262
@@ -29,18 +29,18 @@ stages:
     deps:
     - path: ../../data/raw/oecd/
       hash: md5
-      md5: 7889eb4fff31364f0999f8317ce61d81.dir
-      size: 23582449
+      md5: d0b34a4ad7fdadd60b3be887aead4800.dir
+      size: 15271826
       nfiles: 4
     - path: transform.ipynb
       hash: md5
-      md5: 216a117b1726b6a442c814802ac4ad88
-      size: 4162
+      md5: 067cc89b41772bf1d42084c83c45d918
+      size: 4639
     outs:
     - path: ../../data/processed/oecd/lfs_by_sex_and_age.csv
       hash: md5
-      md5: c2ee041bc5098fe579d5efcbbd1cca37
-      size: 11362509
+      md5: 85fed8474a148984a8e3796aae34a295
+      size: 3217886
     - path: ../../data/processed/oecd/neet.csv
       hash: md5
       md5: 53e0e9633fa63ce5a87d229e96edfe56
