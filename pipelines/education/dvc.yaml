@@ -1,0 +1,28 @@
+vars:
+  - top: ../..
+    raw: data/raw/education
+stages:
+  download:
+    cmd: PYTHONPATH=${top} python download.py
+    always_changed: true
+    deps:
+      - download.py
+    outs:
+      - ${top}/${raw}/key-stage-4-performance.zip:
+          cache: false
+      - ${top}/${raw}/16-18-destination-measures.zip:
+          cache: false
+  transform:
+    cmd: papermill transform.ipynb ${top}/output/education-transform.ipynb
+    deps:
+      - transform.ipynb
+      - ${top}/${raw}/
+    outs:
+      - ${top}/data/processed/dfe/ks4_outcomes.csv:
+          cache: false
+      - ${top}/data/processed/dfe/ks4_outcomes.parquet:
+          cache: false
+      - ${top}/data/processed/dfe/ks4_char_outcomes.csv:
+          cache: false
+      - ${top}/data/processed/dfe/ks4_char_outcomes.parquet:
+          cache: false
