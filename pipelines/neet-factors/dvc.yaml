@@ -3,6 +3,7 @@ vars:
 stages:
   download:
     cmd: python3 download.py
+    frozen: true
     deps:
       - download.py
     outs:
@@ -11,6 +12,7 @@ stages:
           persist: false
   collate:
     cmd: papermill collate.ipynb ${top}/output/collate-neet-factors.ipynb
+    frozen: true
     deps:
       - collate.ipynb
       - ${top}/data/raw/neet-factors/
