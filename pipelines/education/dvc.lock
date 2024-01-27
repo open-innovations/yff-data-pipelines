@@ -10,38 +10,58 @@ stages:
     outs:
     - path: ../../data/raw/education/16-18-destination-measures.zip
       hash: md5
-      md5: 707e6618c9968b16dd83443230ac7734
+      md5: ebca563309b59ac44826edbbd5c03603
       size: 17335078
     - path: ../../data/raw/education/key-stage-4-performance.zip
       hash: md5
-      md5: 4a08b3276c273a6f0d29a3ca94867a51
+      md5: 5aeb55dbc76172bf51ed70494422f1b1
       size: 4845466
   transform:
     cmd: papermill transform.ipynb ../../output/education-transform.ipynb
     deps:
     - path: ../../data/raw/education/
       hash: md5
-      md5: 92720c8f5baa0b6ac61ad04efc6491f9.dir
+      md5: ef075154e01fb8a59cb87e22770d72ec.dir
       size: 22180544
       nfiles: 2
     - path: transform.ipynb
       hash: md5
-      md5: 4a0fc1a319248f367a0a5c3551ce8d96
-      size: 11400
+      md5: 6a48a3798bc2f0ec2f38f28d7b274884
+      size: 16167
     outs:
+    - path: ../../data/processed/dfe/destinations.csv
+      hash: md5
+      md5: 89180434b20df4a81cb7a4aef9b1eeb4
+      size: 5391592
+    - path: ../../data/processed/dfe/destinations.metadata.json
+      hash: md5
+      md5: a2520cbd94636cab46191f7e70243ba5
+      size: 6020
+    - path: ../../data/processed/dfe/destinations.parquet
+      hash: md5
+      md5: 9ea4011ab47dad108aeddd31b6e65f76
+      size: 152491
     - path: ../../data/processed/dfe/ks4_char_outcomes.csv
       hash: md5
       md5: c06493900d02ba881e8459381720bdbf
       size: 13158312
+    - path: ../../data/processed/dfe/ks4_char_outcomes.metadata.json
+      hash: md5
+      md5: e74d36bf114a2cd80382462fbba3b496
+      size: 3936
     - path: ../../data/processed/dfe/ks4_char_outcomes.parquet
       hash: md5
-      md5: 81f008369b9a8074a45e150f98f12db5
-      size: 137279
+      md5: 5dc02434e655ab5ea2f8260500716b54
+      size: 137319
     - path: ../../data/processed/dfe/ks4_outcomes.csv
       hash: md5
       md5: 3d80a0f448b28b75e4c092b8ec1e39e0
       size: 477470
+    - path: ../../data/processed/dfe/ks4_outcomes.metadata.json
+      hash: md5
+      md5: 5593c61cac1ace263496b2a3af14ee1e
+      size: 3197
     - path: ../../data/processed/dfe/ks4_outcomes.parquet
       hash: md5
-      md5: 8cc91e7fda51cad858746bc64ff3f914
-      size: 17358
+      md5: 3ba9a12c41cb0dcea7cc38fc294e995d
+      size: 17380

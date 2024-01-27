@@ -190,5 +190,9 @@
     "Boys",
     "Girls",
     "Total"
+  ],
+  "variable":[
+    "avg_att8",
+    "avg_p8score"
   ]
 }

@@ -22,7 +22,18 @@ stages:
           cache: false
       - ${top}/data/processed/dfe/ks4_outcomes.parquet:
           cache: false
+      - ${top}/data/processed/dfe/ks4_outcomes.metadata.json:
+          cache: false
       - ${top}/data/processed/dfe/ks4_char_outcomes.csv:
           cache: false
       - ${top}/data/processed/dfe/ks4_char_outcomes.parquet:
           cache: false
+      - ${top}/data/processed/dfe/ks4_char_outcomes.metadata.json:
+          cache: false
+      - ${top}/data/processed/dfe/destinations.csv:
+          cache: false
+      - ${top}/data/processed/dfe/destinations.parquet:
+          cache: false
+      - ${top}/data/processed/dfe/destinations.metadata.json:
+          cache: false
+
