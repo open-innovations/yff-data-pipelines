@@ -91,6 +91,7 @@ ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2019,13.7,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2020,15.60833,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2021,16.075,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2022,14.15833,Units
+ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2023,14.31667,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2010,38.6,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2011,38.075,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2012,37.125,Units
@@ -116,6 +117,7 @@ CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2019,29.92928,Un
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2020,31.7094,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2021,31.3839,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2022,31.34472,Units
+CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2023,35.45634,Units
 HUN,Hungary,Labour force participation rate,Total,15 years or over,Annual,2010,50.35,Units
 HUN,Hungary,Labour force participation rate,Total,15 years or over,Annual,2011,50.675,Units
 HUN,Hungary,Labour force participation rate,Total,15 years or over,Annual,2012,51.675,Units
@@ -155,6 +157,7 @@ COL,Colombia,Employment rate,Female,From 15 to 24 years,Annual,2019,32.425,Units
 COL,Colombia,Employment rate,Female,From 15 to 24 years,Annual,2020,25.59917,Units
 COL,Colombia,Employment rate,Female,From 15 to 24 years,Annual,2021,24.49667,Units
 COL,Colombia,Employment rate,Female,From 15 to 24 years,Annual,2022,27.39333,Units
+COL,Colombia,Employment rate,Female,From 15 to 24 years,Annual,2023,28.85667,Units
 LVA,Latvia,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,55.475,Units
 LVA,Latvia,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,56.975,Units
 LVA,Latvia,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,60.725,Units
@@ -244,6 +247,7 @@ CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2019,62.01564,U
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2020,62.22401,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2021,59.50687,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2022,63.55072,Units
+CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2023,67.68025,Units
 AUT,Austria,Unemployment rate,Male,15 years or over,Annual,2010,4.989923,Units
 AUT,Austria,Unemployment rate,Male,15 years or over,Annual,2011,4.55039,Units
 AUT,Austria,Unemployment rate,Male,15 years or over,Annual,2012,4.929703,Units
@@ -337,6 +341,7 @@ COL,Colombia,Unemployment rate,Female,From 15 to 64 years,Annual,2019,13.74083,U
 COL,Colombia,Unemployment rate,Female,From 15 to 64 years,Annual,2020,20.60667,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 64 years,Annual,2021,17.85917,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 64 years,Annual,2022,14.6725,Units
+COL,Colombia,Unemployment rate,Female,From 15 to 64 years,Annual,2023,13.175,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,36.975,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,35.775,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,34.7,Units
@@ -442,6 +447,7 @@ COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,201
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,81.3,Units
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,79.94167,Units
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,81.99167,Units
+COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,81.98583,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2010,65.46667,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2011,66.025,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2012,66.01667,Units
@@ -495,6 +501,7 @@ COL,Colombia,Inactivity rate,Female,From 15 to 74 years,Annual,2019,40.51833,Uni
 COL,Colombia,Inactivity rate,Female,From 15 to 74 years,Annual,2020,45.73083,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 74 years,Annual,2021,48.97083,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 74 years,Annual,2022,45.48917,Units
+COL,Colombia,Inactivity rate,Female,From 15 to 74 years,Annual,2023,44.48,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,32.05104,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,39.73148,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2013,35.73416,Units
@@ -507,6 +514,7 @@ CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,38.77265,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,36.1052,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,38.25651,Units
+CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,32.74031,Units
 TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2010,9.95,Units
 TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2011,8.75,Units
 TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2012,8.275,Units
@@ -586,6 +594,7 @@ ISR,Israel,Unemployment rate,Female,From 15 to 74 years,Annual,2019,3.925,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 74 years,Annual,2020,4.125,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 74 years,Annual,2021,4.883333,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 74 years,Annual,2022,3.666667,Units
+ISR,Israel,Unemployment rate,Female,From 15 to 74 years,Annual,2023,3.233333,Units
 USA,United States,Unemployment rate,Female,From 55 to 64 years,Annual,2010,6.25,Units
 USA,United States,Unemployment rate,Female,From 55 to 64 years,Annual,2011,6.1,Units
 USA,United States,Unemployment rate,Female,From 55 to 64 years,Annual,2012,5.566667,Units
@@ -691,6 +700,7 @@ ISR,Israel,Unemployment rate,Female,15 years or over,Annual,2019,3.908333,Units
 ISR,Israel,Unemployment rate,Female,15 years or over,Annual,2020,4.116667,Units
 ISR,Israel,Unemployment rate,Female,15 years or over,Annual,2021,4.866667,Units
 ISR,Israel,Unemployment rate,Female,15 years or over,Annual,2022,3.641667,Units
+ISR,Israel,Unemployment rate,Female,15 years or over,Annual,2023,3.233333,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,71.73867,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,72.22733,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,72.23186,Units
@@ -730,6 +740,7 @@ JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2019,62.
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2020,62.18752,Units
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2021,62.34826,Units
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2022,62.57499,Units
+JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2023,62.90119,Units
 KOR,Korea,Unemployment rate,Female,From 25 to 54 years,Annual,2010,2.929294,Units
 KOR,Korea,Unemployment rate,Female,From 25 to 54 years,Annual,2011,2.845651,Units
 KOR,Korea,Unemployment rate,Female,From 25 to 54 years,Annual,2012,2.607242,Units
@@ -797,6 +808,7 @@ COL,Colombia,Unemployment rate,Female,From 25 to 54 years,Annual,2019,11.97667,U
 COL,Colombia,Unemployment rate,Female,From 25 to 54 years,Annual,2020,18.90833,Units
 COL,Colombia,Unemployment rate,Female,From 25 to 54 years,Annual,2021,16.10667,Units
 COL,Colombia,Unemployment rate,Female,From 25 to 54 years,Annual,2022,13.0475,Units
+COL,Colombia,Unemployment rate,Female,From 25 to 54 years,Annual,2023,11.85583,Units
 AUT,Austria,Inactivity rate,Female,From 15 to 24 years,Annual,2010,45.75,Units
 AUT,Austria,Inactivity rate,Female,From 15 to 24 years,Annual,2011,44.95,Units
 AUT,Austria,Inactivity rate,Female,From 15 to 24 years,Annual,2012,44.4,Units
@@ -927,6 +939,7 @@ ISR,Israel,Employment rate,Total,15 years or over,Annual,2019,61.08333,Units
 ISR,Israel,Employment rate,Total,15 years or over,Annual,2020,59.14167,Units
 ISR,Israel,Employment rate,Total,15 years or over,Annual,2021,58.73333,Units
 ISR,Israel,Employment rate,Total,15 years or over,Annual,2022,60.86666,Units
+ISR,Israel,Employment rate,Total,15 years or over,Annual,2023,61.35833,Units
 LUX,Luxembourg,Employment rate,Male,From 55 to 64 years,Annual,2010,47.65,Units
 LUX,Luxembourg,Employment rate,Male,From 55 to 64 years,Annual,2011,46.95,Units
 LUX,Luxembourg,Employment rate,Male,From 55 to 64 years,Annual,2012,47.425,Units
@@ -966,6 +979,7 @@ COL,Colombia,Labour force participation rate,Male,From 15 to 64 years,Annual,201
 COL,Colombia,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,81.23167,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,81.23167,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,81.87,Units
+COL,Colombia,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,82.11833,Units
 CAN,Canada,Unemployment rate,Total,From 55 to 64 years,Annual,2010,6.929425,Units
 CAN,Canada,Unemployment rate,Total,From 55 to 64 years,Annual,2011,6.855192,Units
 CAN,Canada,Unemployment rate,Total,From 55 to 64 years,Annual,2012,6.429586,Units
@@ -992,6 +1006,7 @@ CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2019,9.342306,Unit
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2020,15.61782,Units
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2021,12.70171,Units
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2022,9.409781,Units
+CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2023,7.667189,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,85.7,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,86.2,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,86.9,Units
@@ -1109,6 +1124,7 @@ CRI,Costa Rica,Labour force participation rate,Female,From 15 to 64 years,Annual
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,55.72546,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,56.57643,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,56.50092,Units
+CRI,Costa Rica,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,50.74654,Units
 DEU,Germany,Unemployment rate,Female,15 years or over,Annual,2010,6.498368,Units
 DEU,Germany,Unemployment rate,Female,15 years or over,Annual,2011,5.583564,Units
 DEU,Germany,Unemployment rate,Female,15 years or over,Annual,2012,5.178066,Units
@@ -1422,6 +1438,7 @@ CRI,Costa Rica,Inactivity rate,Total,From 55 to 64 years,Annual,2019,38.26682,Un
 CRI,Costa Rica,Inactivity rate,Total,From 55 to 64 years,Annual,2020,42.95935,Units
 CRI,Costa Rica,Inactivity rate,Total,From 55 to 64 years,Annual,2021,43.43256,Units
 CRI,Costa Rica,Inactivity rate,Total,From 55 to 64 years,Annual,2022,42.14475,Units
+CRI,Costa Rica,Inactivity rate,Total,From 55 to 64 years,Annual,2023,47.65471,Units
 CZE,Czechia,Inactivity rate,Male,From 15 to 64 years,Annual,2010,21.4,Units
 CZE,Czechia,Inactivity rate,Male,From 15 to 64 years,Annual,2011,21.325,Units
 CZE,Czechia,Inactivity rate,Male,From 15 to 64 years,Annual,2012,20.55,Units
@@ -1492,6 +1509,7 @@ JPN,Japan,Employment rate,Female,15 years or over,Annual,2019,52.33035,Units
 JPN,Japan,Employment rate,Female,15 years or over,Annual,2020,52.01925,Units
 JPN,Japan,Employment rate,Female,15 years or over,Annual,2021,52.38276,Units
 JPN,Japan,Employment rate,Female,15 years or over,Annual,2022,52.99134,Units
+JPN,Japan,Employment rate,Female,15 years or over,Annual,2023,53.59574,Units
 IRL,Ireland,Unemployment rate,Male,From 15 to 74 years,Annual,2010,17.15542,Units
 IRL,Ireland,Unemployment rate,Male,From 15 to 74 years,Annual,2011,17.73578,Units
 IRL,Ireland,Unemployment rate,Male,From 15 to 74 years,Annual,2012,17.73038,Units
@@ -1544,6 +1562,7 @@ COL,Colombia,Employment rate,Total,From 55 to 64 years,Annual,2019,61.7875,Units
 COL,Colombia,Employment rate,Total,From 55 to 64 years,Annual,2020,54.95,Units
 COL,Colombia,Employment rate,Total,From 55 to 64 years,Annual,2021,51.675,Units
 COL,Colombia,Employment rate,Total,From 55 to 64 years,Annual,2022,55.22833,Units
+COL,Colombia,Employment rate,Total,From 55 to 64 years,Annual,2023,57.4725,Units
 EA20,Euro area (20 countries),Labour force participation rate,Male,15 years or over,Annual,2010,64.325,Units
 EA20,Euro area (20 countries),Labour force participation rate,Male,15 years or over,Annual,2011,64.125,Units
 EA20,Euro area (20 countries),Labour force participation rate,Male,15 years or over,Annual,2012,64.125,Units
@@ -1700,6 +1719,7 @@ ISR,Israel,Labour force participation rate,Total,From 55 to 64 years,Annual,2019
 ISR,Israel,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,70.05833,Units
 ISR,Israel,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,70.15,Units
 ISR,Israel,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,72.11667,Units
+ISR,Israel,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,72.88333,Units
 KOR,Korea,Employment rate,Total,From 25 to 54 years,Annual,2010,73.78532,Units
 KOR,Korea,Employment rate,Total,From 25 to 54 years,Annual,2011,74.4157,Units
 KOR,Korea,Employment rate,Total,From 25 to 54 years,Annual,2012,74.73511,Units
@@ -1844,6 +1864,7 @@ JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2019,3.791667,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2020,4.533333,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2021,4.591667,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2022,4.275,Units
+JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2023,4.075,Units
 SVN,Slovenia,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,87.4,Units
 SVN,Slovenia,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,87.75,Units
 SVN,Slovenia,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,88.5,Units
@@ -2273,6 +2294,7 @@ CRI,Costa Rica,Labour force participation rate,Male,From 15 to 24 years,Annual,2
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,50.33946,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,49.21655,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,47.99884,Units
+CRI,Costa Rica,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,42.24336,Units
 DEU,Germany,Unemployment rate,Female,From 15 to 64 years,Annual,2010,6.21312,Units
 DEU,Germany,Unemployment rate,Female,From 15 to 64 years,Annual,2011,5.338876,Units
 DEU,Germany,Unemployment rate,Female,From 15 to 64 years,Annual,2012,4.948297,Units
@@ -2364,6 +2386,7 @@ COL,Colombia,Labour force participation rate,Total,From 25 to 54 years,Annual,20
 COL,Colombia,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,79.795,Units
 COL,Colombia,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,79.14167,Units
 COL,Colombia,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,81.46416,Units
+COL,Colombia,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,81.9275,Units
 USA,United States,Unemployment rate,Male,From 15 to 24 years,Annual,2010,20.84167,Units
 USA,United States,Unemployment rate,Male,From 15 to 24 years,Annual,2011,18.75,Units
 USA,United States,Unemployment rate,Male,From 15 to 24 years,Annual,2012,17.63333,Units
@@ -2769,6 +2792,7 @@ COL,Colombia,Unemployment rate,Total,From 15 to 74 years,Annual,2019,10.4375,Uni
 COL,Colombia,Unemployment rate,Total,From 15 to 74 years,Annual,2020,15.965,Units
 COL,Colombia,Unemployment rate,Total,From 15 to 74 years,Annual,2021,13.895,Units
 COL,Colombia,Unemployment rate,Total,From 15 to 74 years,Annual,2022,11.2875,Units
+COL,Colombia,Unemployment rate,Total,From 15 to 74 years,Annual,2023,10.23083,Units
 OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2010,8.325095,Units
 OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2011,8.184395,Units
 OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2012,8.253766,Units
@@ -2835,6 +2859,7 @@ ISR,Israel,Labour force participation rate,Male,From 15 to 74 years,Annual,2019,
 ISR,Israel,Labour force participation rate,Male,From 15 to 74 years,Annual,2020,68.95834,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,68.575,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 74 years,Annual,2022,70.35833,Units
+ISR,Israel,Labour force participation rate,Male,From 15 to 74 years,Annual,2023,70.9,Units
 CHL,Chile,Employment rate,Female,From 15 to 64 years,Annual,2010,47.2936,Units
 CHL,Chile,Employment rate,Female,From 15 to 64 years,Annual,2011,49.82144,Units
 CHL,Chile,Employment rate,Female,From 15 to 64 years,Annual,2012,50.75529,Units
@@ -2992,6 +3017,7 @@ COL,Colombia,Inactivity rate,Male,From 15 to 24 years,Annual,2019,41.7775,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 24 years,Annual,2020,45.8775,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 24 years,Annual,2021,48.565,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 24 years,Annual,2022,48.16333,Units
+COL,Colombia,Inactivity rate,Male,From 15 to 24 years,Annual,2023,48.28,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 24 years,Annual,2010,48.35,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 24 years,Annual,2011,46.75,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 24 years,Annual,2012,46.05,Units
@@ -3094,6 +3120,7 @@ CRI,Costa Rica,Employment rate,Male,From 55 to 64 years,Annual,2019,78.04656,Uni
 CRI,Costa Rica,Employment rate,Male,From 55 to 64 years,Annual,2020,69.02795,Units
 CRI,Costa Rica,Employment rate,Male,From 55 to 64 years,Annual,2021,72.67934,Units
 CRI,Costa Rica,Employment rate,Male,From 55 to 64 years,Annual,2022,75.1925,Units
+CRI,Costa Rica,Employment rate,Male,From 55 to 64 years,Annual,2023,72.45924,Units
 USA,United States,Employment rate,Female,From 55 to 64 years,Annual,2010,56.44789,Units
 USA,United States,Employment rate,Female,From 55 to 64 years,Annual,2011,55.8857,Units
 USA,United States,Employment rate,Female,From 55 to 64 years,Annual,2012,56.13298,Units
@@ -3199,6 +3226,7 @@ COL,Colombia,Labour force participation rate,Male,From 15 to 74 years,Annual,201
 COL,Colombia,Labour force participation rate,Male,From 15 to 74 years,Annual,2020,78.82166,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,78.4625,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 74 years,Annual,2022,79.3525,Units
+COL,Colombia,Labour force participation rate,Male,From 15 to 74 years,Annual,2023,79.51,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Labour force participation rate,Total,15 years or over,Annual,2010,56.625,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Labour force participation rate,Total,15 years or over,Annual,2011,56.575,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Labour force participation rate,Total,15 years or over,Annual,2012,56.85,Units
@@ -3328,6 +3356,7 @@ COL,Colombia,Inactivity rate,Female,From 15 to 64 years,Annual,2019,37.4225,Unit
 COL,Colombia,Inactivity rate,Female,From 15 to 64 years,Annual,2020,42.62833,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 64 years,Annual,2021,45.71333,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 64 years,Annual,2022,42.02833,Units
+COL,Colombia,Inactivity rate,Female,From 15 to 64 years,Annual,2023,40.84167,Units
 LUX,Luxembourg,Inactivity rate,Female,From 15 to 24 years,Annual,2010,77.35,Units
 LUX,Luxembourg,Inactivity rate,Female,From 15 to 24 years,Annual,2011,76.625,Units
 LUX,Luxembourg,Inactivity rate,Female,From 15 to 24 years,Annual,2012,75.375,Units
@@ -3393,6 +3422,7 @@ ISR,Israel,Inactivity rate,Male,From 15 to 64 years,Annual,2019,25.76667,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 64 years,Annual,2020,27.925,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 64 years,Annual,2021,28.19167,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 64 years,Annual,2022,26.33333,Units
+ISR,Israel,Inactivity rate,Male,From 15 to 64 years,Annual,2023,25.81667,Units
 FIN,Finland,Unemployment rate,Female,From 55 to 64 years,Annual,2010,5.577507,Units
 FIN,Finland,Unemployment rate,Female,From 55 to 64 years,Annual,2011,5.298352,Units
 FIN,Finland,Unemployment rate,Female,From 55 to 64 years,Annual,2012,5.146442,Units
@@ -3496,6 +3526,7 @@ CRI,Costa Rica,Employment rate,Male,From 15 to 64 years,Annual,2019,74.5507,Unit
 CRI,Costa Rica,Employment rate,Male,From 15 to 64 years,Annual,2020,67.89523,Units
 CRI,Costa Rica,Employment rate,Male,From 15 to 64 years,Annual,2021,70.10255,Units
 CRI,Costa Rica,Employment rate,Male,From 15 to 64 years,Annual,2022,72.85931,Units
+CRI,Costa Rica,Employment rate,Male,From 15 to 64 years,Annual,2023,71.68631,Units
 DNK,Denmark,Employment rate,Male,From 15 to 64 years,Annual,2010,74.125,Units
 DNK,Denmark,Employment rate,Male,From 15 to 64 years,Annual,2011,74.4,Units
 DNK,Denmark,Employment rate,Male,From 15 to 64 years,Annual,2012,73.55,Units
@@ -3902,20 +3933,20 @@ FIN,Finland,Employment rate,Total,15 years or over,Annual,2019,55.475,Units
 FIN,Finland,Employment rate,Total,15 years or over,Annual,2020,54.425,Units
 FIN,Finland,Employment rate,Total,15 years or over,Annual,2021,55.825,Units
 FIN,Finland,Employment rate,Total,15 years or over,Annual,2022,57.0,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2010,43.24921,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2011,43.38729,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2012,43.47473,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2013,43.41627,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2014,43.59297,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2015,43.79698,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2016,43.46772,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2017,43.34308,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2018,44.09718,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2019,43.42278,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2020,45.34647,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2021,43.50721,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2022,43.51771,Units
-USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2023,43.40729,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2010,43.24899,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2011,43.38717,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2012,43.47472,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2013,43.41617,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2014,43.59286,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2015,43.79699,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2016,43.46767,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2017,43.34295,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2018,44.09667,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2019,43.42157,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2020,45.36461,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2021,43.50489,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2022,43.51494,Units
+USA,United States,Inactivity rate,Male,From 15 to 24 years,Annual,2023,43.40438,Units
 FIN,Finland,Unemployment rate,Total,15 years or over,Annual,2010,8.386981,Units
 FIN,Finland,Unemployment rate,Total,15 years or over,Annual,2011,7.774969,Units
 FIN,Finland,Unemployment rate,Total,15 years or over,Annual,2012,7.68181,Units
@@ -4496,6 +4527,7 @@ COL,Colombia,Unemployment rate,Female,From 55 to 64 years,Annual,2019,5.800833,U
 COL,Colombia,Unemployment rate,Female,From 55 to 64 years,Annual,2020,10.765,Units
 COL,Colombia,Unemployment rate,Female,From 55 to 64 years,Annual,2021,8.9575,Units
 COL,Colombia,Unemployment rate,Female,From 55 to 64 years,Annual,2022,7.570833,Units
+COL,Colombia,Unemployment rate,Female,From 55 to 64 years,Annual,2023,6.5675,Units
 ESP,Spain,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,42.65,Units
 ESP,Spain,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,40.925,Units
 ESP,Spain,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,39.025,Units
@@ -4848,6 +4880,7 @@ COL,Colombia,Employment rate,Total,From 15 to 74 years,Annual,2019,63.13917,Unit
 COL,Colombia,Employment rate,Total,From 15 to 74 years,Annual,2020,55.68417,Units
 COL,Colombia,Employment rate,Total,From 15 to 74 years,Annual,2021,55.35583,Units
 COL,Colombia,Employment rate,Total,From 15 to 74 years,Annual,2022,58.9975,Units
+COL,Colombia,Employment rate,Total,From 15 to 74 years,Annual,2023,60.24583,Units
 DEU,Germany,Employment rate,Female,From 15 to 64 years,Annual,2010,65.35,Units
 DEU,Germany,Employment rate,Female,From 15 to 64 years,Annual,2011,66.925,Units
 DEU,Germany,Employment rate,Female,From 15 to 64 years,Annual,2012,67.2,Units
@@ -4979,6 +5012,7 @@ ISR,Israel,Inactivity rate,Total,From 15 to 24 years,Annual,2019,54.00834,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 24 years,Annual,2020,57.68333,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 24 years,Annual,2021,56.8,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 24 years,Annual,2022,55.28333,Units
+ISR,Israel,Inactivity rate,Total,From 15 to 24 years,Annual,2023,54.40833,Units
 BEL,Belgium,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,60.325,Units
 BEL,Belgium,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,59.425,Units
 BEL,Belgium,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,59.5,Units
@@ -5070,6 +5104,7 @@ ISR,Israel,Labour force participation rate,Male,15 years or over,Annual,2019,67.
 ISR,Israel,Labour force participation rate,Male,15 years or over,Annual,2020,65.54166,Units
 ISR,Israel,Labour force participation rate,Male,15 years or over,Annual,2021,65.11667,Units
 ISR,Israel,Labour force participation rate,Male,15 years or over,Annual,2022,66.58334,Units
+ISR,Israel,Labour force participation rate,Male,15 years or over,Annual,2023,66.91666,Units
 BEL,Belgium,Inactivity rate,Male,From 15 to 24 years,Annual,2010,64.8,Units
 BEL,Belgium,Inactivity rate,Male,From 15 to 24 years,Annual,2011,65.825,Units
 BEL,Belgium,Inactivity rate,Male,From 15 to 24 years,Annual,2012,64.9,Units
@@ -5122,6 +5157,7 @@ JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2019,2.316667,Units
 JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2020,2.933333,Units
 JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2021,3.016667,Units
 JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2022,2.766667,Units
+JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2023,2.766667,Units
 OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2011,5.165251,Units
 OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2012,5.182502,Units
 OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2013,5.059968,Units
@@ -5631,6 +5667,7 @@ ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2019,23.15833,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2020,23.575,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2021,24.23333,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2022,21.775,Units
+ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2023,20.46667,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,65.275,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,65.58334,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,64.61667,Units
@@ -5657,6 +5694,7 @@ CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,67.35886,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,67.96123,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,68.76232,Units
+CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,62.85844,Units
 IRL,Ireland,Inactivity rate,Male,15 years or over,Annual,2010,29.825,Units
 IRL,Ireland,Inactivity rate,Male,15 years or over,Annual,2011,30.825,Units
 IRL,Ireland,Inactivity rate,Male,15 years or over,Annual,2012,31.25,Units
@@ -5696,6 +5734,7 @@ COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2019,51.07167,Uni
 COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2020,56.075,Units
 COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2021,62.51,Units
 COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2022,59.1375,Units
+COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2023,55.78917,Units
 LVA,Latvia,Inactivity rate,Male,From 15 to 74 years,Annual,2010,31.6,Units
 LVA,Latvia,Inactivity rate,Male,From 15 to 74 years,Annual,2011,31.15,Units
 LVA,Latvia,Inactivity rate,Male,From 15 to 74 years,Annual,2012,29.625,Units
@@ -5722,6 +5761,7 @@ COL,Colombia,Employment rate,Total,15 years or over,Annual,2019,60.73667,Units
 COL,Colombia,Employment rate,Total,15 years or over,Annual,2020,53.41167,Units
 COL,Colombia,Employment rate,Total,15 years or over,Annual,2021,53.0525,Units
 COL,Colombia,Employment rate,Total,15 years or over,Annual,2022,52.25667,Units
+COL,Colombia,Employment rate,Total,15 years or over,Annual,2023,53.5175,Units
 IRL,Ireland,Labour force participation rate,Female,15 years or over,Annual,2010,55.25,Units
 IRL,Ireland,Labour force participation rate,Female,15 years or over,Annual,2011,54.95,Units
 IRL,Ireland,Labour force participation rate,Female,15 years or over,Annual,2012,54.75,Units
@@ -5799,6 +5839,7 @@ JPN,Japan,Unemployment rate,Male,From 15 to 64 years,Annual,2019,2.575,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 64 years,Annual,2020,3.125,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 64 years,Annual,2021,3.158333,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 64 years,Annual,2022,2.933333,Units
+JPN,Japan,Unemployment rate,Male,From 15 to 64 years,Annual,2023,2.833333,Units
 ESP,Spain,Employment rate,Total,From 55 to 64 years,Annual,2010,43.55,Units
 ESP,Spain,Employment rate,Total,From 55 to 64 years,Annual,2011,44.475,Units
 ESP,Spain,Employment rate,Total,From 55 to 64 years,Annual,2012,43.875,Units
@@ -6576,6 +6617,7 @@ COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2019,26.25417,U
 COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2020,34.82583,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2021,32.05833,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2022,27.73917,Units
+COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2023,24.9625,Units
 IRL,Ireland,Labour force participation rate,Total,15 years or over,Annual,2010,62.6,Units
 IRL,Ireland,Labour force participation rate,Total,15 years or over,Annual,2011,61.975,Units
 IRL,Ireland,Labour force participation rate,Total,15 years or over,Annual,2012,61.65,Units
@@ -6694,6 +6736,7 @@ ISR,Israel,Unemployment rate,Male,From 15 to 24 years,Annual,2019,6.125,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 24 years,Annual,2020,7.658333,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 24 years,Annual,2021,7.5,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 24 years,Annual,2022,7.125,Units
+ISR,Israel,Unemployment rate,Male,From 15 to 24 years,Annual,2023,6.166667,Units
 CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2011,41.00599,Units
 CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2012,37.20825,Units
 CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2013,37.71914,Units
@@ -6706,6 +6749,7 @@ CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2019,37.4956,Units
 CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2020,39.7732,Units
 CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2021,39.71669,Units
 CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2022,40.15266,Units
+CRI,Costa Rica,Inactivity rate,Total,15 years or over,Annual,2023,44.62297,Units
 ESP,Spain,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,66.05,Units
 ESP,Spain,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,66.275,Units
 ESP,Spain,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,66.5,Units
@@ -6771,6 +6815,7 @@ ISR,Israel,Labour force participation rate,Total,From 15 to 64 years,Annual,2019
 ISR,Israel,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,69.89167,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,70.16666,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,71.925,Units
+ISR,Israel,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,72.325,Units
 CAN,Canada,Inactivity rate,Female,From 15 to 64 years,Annual,2010,25.68777,Units
 CAN,Canada,Inactivity rate,Female,From 15 to 64 years,Annual,2011,25.81982,Units
 CAN,Canada,Inactivity rate,Female,From 15 to 64 years,Annual,2012,25.535,Units
@@ -7345,6 +7390,7 @@ COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2019,13.3,Units
 COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2020,20.065,Units
 COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2021,17.47667,Units
 COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2022,14.3025,Units
+COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2023,12.8225,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,81.275,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,82.075,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,82.3,Units
@@ -7411,6 +7457,7 @@ COL,Colombia,Unemployment rate,Total,15 years or over,Annual,2019,10.37083,Units
 COL,Colombia,Unemployment rate,Total,15 years or over,Annual,2020,15.86417,Units
 COL,Colombia,Unemployment rate,Total,15 years or over,Annual,2021,13.81083,Units
 COL,Colombia,Unemployment rate,Total,15 years or over,Annual,2022,11.21833,Units
+COL,Colombia,Unemployment rate,Total,15 years or over,Annual,2023,10.16417,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2010,10.725,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2011,8.85,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2012,8.2,Units
@@ -7436,6 +7483,7 @@ CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2019,34.09021,Un
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2020,36.21606,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2021,36.10923,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2022,36.29991,Units
+CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2023,41.01642,Units
 MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,55.15634,Units
 MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,55.41193,Units
 MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,56.58567,Units
@@ -7499,6 +7547,7 @@ CRI,Costa Rica,Employment rate,Male,From 15 to 74 years,Annual,2019,70.63211,Uni
 CRI,Costa Rica,Employment rate,Male,From 15 to 74 years,Annual,2020,64.23389,Units
 CRI,Costa Rica,Employment rate,Male,From 15 to 74 years,Annual,2021,66.02146,Units
 CRI,Costa Rica,Employment rate,Male,From 15 to 74 years,Annual,2022,68.42352,Units
+CRI,Costa Rica,Employment rate,Male,From 15 to 74 years,Annual,2023,66.56113,Units
 POL,Poland,Labour force participation rate,Female,15 years or over,Annual,2010,47.575,Units
 POL,Poland,Labour force participation rate,Female,15 years or over,Annual,2011,47.75,Units
 POL,Poland,Labour force participation rate,Female,15 years or over,Annual,2012,48.15,Units
@@ -8292,6 +8341,7 @@ ISR,Israel,Unemployment rate,Female,From 25 to 54 years,Annual,2019,3.541667,Uni
 ISR,Israel,Unemployment rate,Female,From 25 to 54 years,Annual,2020,3.708333,Units
 ISR,Israel,Unemployment rate,Female,From 25 to 54 years,Annual,2021,4.55,Units
 ISR,Israel,Unemployment rate,Female,From 25 to 54 years,Annual,2022,3.325,Units
+ISR,Israel,Unemployment rate,Female,From 25 to 54 years,Annual,2023,2.991667,Units
 AUS,Australia,Unemployment rate,Female,From 25 to 54 years,Annual,2010,4.397488,Units
 AUS,Australia,Unemployment rate,Female,From 25 to 54 years,Annual,2011,4.369528,Units
 AUS,Australia,Unemployment rate,Female,From 25 to 54 years,Annual,2012,4.35694,Units
@@ -8345,6 +8395,7 @@ JPN,Japan,Inactivity rate,Male,15 years or over,Annual,2019,28.35807,Units
 JPN,Japan,Inactivity rate,Male,15 years or over,Annual,2020,28.35486,Units
 JPN,Japan,Inactivity rate,Male,15 years or over,Annual,2021,28.43145,Units
 JPN,Japan,Inactivity rate,Male,15 years or over,Annual,2022,28.51552,Units
+JPN,Japan,Inactivity rate,Male,15 years or over,Annual,2023,28.51857,Units
 ISL,Iceland,Inactivity rate,Male,From 15 to 24 years,Annual,2010,28.65,Units
 ISL,Iceland,Inactivity rate,Male,From 15 to 24 years,Annual,2011,28.35,Units
 ISL,Iceland,Inactivity rate,Male,From 15 to 24 years,Annual,2012,26.475,Units
@@ -8397,6 +8448,7 @@ COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2019,13.3775,Un
 COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2020,20.15667,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2021,17.54583,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2022,14.3725,Units
+COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2023,12.89083,Units
 ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2010,47.25124,Units
 ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2011,47.25117,Units
 ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2012,41.89167,Units
@@ -8410,6 +8462,7 @@ ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2019,40.43333,Units
 ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2020,41.79167,Units
 ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2021,41.43333,Units
 ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2022,39.93333,Units
+ISR,Israel,Inactivity rate,Female,15 years or over,Annual,2023,39.70833,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,26.825,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,26.35,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,28.775,Units
@@ -8448,6 +8501,7 @@ ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2019,77.025,Units
 ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2020,75.76667,Units
 ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2021,75.81667,Units
 ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2022,78.56667,Units
+ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2023,78.925,Units
 FRA,France,Inactivity rate,Male,From 55 to 64 years,Annual,2010,54.32736,Units
 FRA,France,Inactivity rate,Male,From 55 to 64 years,Annual,2011,52.46111,Units
 FRA,France,Inactivity rate,Male,From 55 to 64 years,Annual,2012,48.36637,Units
@@ -8618,6 +8672,7 @@ JPN,Japan,Unemployment rate,Female,15 years or over,Annual,2019,2.175,Units
 JPN,Japan,Unemployment rate,Female,15 years or over,Annual,2020,2.516667,Units
 JPN,Japan,Unemployment rate,Female,15 years or over,Annual,2021,2.525,Units
 JPN,Japan,Unemployment rate,Female,15 years or over,Annual,2022,2.35,Units
+JPN,Japan,Unemployment rate,Female,15 years or over,Annual,2023,2.35,Units
 AUS,Australia,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,76.43459,Units
 AUS,Australia,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,76.64239,Units
 AUS,Australia,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,76.42991,Units
@@ -8815,6 +8870,7 @@ COL,Colombia,Inactivity rate,Female,From 25 to 54 years,Annual,2019,26.88083,Uni
 COL,Colombia,Inactivity rate,Female,From 25 to 54 years,Annual,2020,32.3475,Units
 COL,Colombia,Inactivity rate,Female,From 25 to 54 years,Annual,2021,34.6925,Units
 COL,Colombia,Inactivity rate,Female,From 25 to 54 years,Annual,2022,30.3475,Units
+COL,Colombia,Inactivity rate,Female,From 25 to 54 years,Annual,2023,29.6175,Units
 AUT,Austria,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,92.325,Units
 AUT,Austria,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,92.35,Units
 AUT,Austria,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,92.625,Units
@@ -8879,6 +8935,7 @@ CRI,Costa Rica,Employment rate,Male,From 15 to 24 years,Annual,2019,36.88823,Uni
 CRI,Costa Rica,Employment rate,Male,From 15 to 24 years,Annual,2020,32.54282,Units
 CRI,Costa Rica,Employment rate,Male,From 15 to 24 years,Annual,2021,32.83635,Units
 CRI,Costa Rica,Employment rate,Male,From 15 to 24 years,Annual,2022,35.38013,Units
+CRI,Costa Rica,Employment rate,Male,From 15 to 24 years,Annual,2023,32.94903,Units
 DEU,Germany,Inactivity rate,Male,From 15 to 74 years,Annual,2010,29.65,Units
 DEU,Germany,Inactivity rate,Male,From 15 to 74 years,Annual,2011,28.775,Units
 DEU,Germany,Inactivity rate,Male,From 15 to 74 years,Annual,2012,28.525,Units
@@ -9621,6 +9678,7 @@ CRI,Costa Rica,Employment rate,Total,From 25 to 54 years,Annual,2019,74.67429,Un
 CRI,Costa Rica,Employment rate,Total,From 25 to 54 years,Annual,2020,67.2751,Units
 CRI,Costa Rica,Employment rate,Total,From 25 to 54 years,Annual,2021,70.21696,Units
 CRI,Costa Rica,Employment rate,Total,From 25 to 54 years,Annual,2022,73.30183,Units
+CRI,Costa Rica,Employment rate,Total,From 25 to 54 years,Annual,2023,72.33469,Units
 EST,Estonia,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,89.275,Units
 EST,Estonia,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,88.975,Units
 EST,Estonia,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,89.1,Units
@@ -9893,6 +9951,7 @@ COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,20
 COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,68.9725,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,67.35917,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,69.57833,Units
+COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,70.31583,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,68.15056,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,68.2432,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,75.88333,Units
@@ -9906,6 +9965,7 @@ ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2019,
 ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,72.075,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,71.80833,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,73.66666,Units
+ISR,Israel,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,74.18333,Units
 SWE,Sweden,Unemployment rate,Total,From 15 to 74 years,Annual,2010,8.764524,Units
 SWE,Sweden,Unemployment rate,Total,From 15 to 74 years,Annual,2011,7.960139,Units
 SWE,Sweden,Unemployment rate,Total,From 15 to 74 years,Annual,2012,8.139296,Units
@@ -9944,6 +10004,7 @@ CRI,Costa Rica,Inactivity rate,Total,From 25 to 54 years,Annual,2019,17.90994,Un
 CRI,Costa Rica,Inactivity rate,Total,From 25 to 54 years,Annual,2020,19.33283,Units
 CRI,Costa Rica,Inactivity rate,Total,From 25 to 54 years,Annual,2021,18.99179,Units
 CRI,Costa Rica,Inactivity rate,Total,From 25 to 54 years,Annual,2022,18.44787,Units
+CRI,Costa Rica,Inactivity rate,Total,From 25 to 54 years,Annual,2023,21.90763,Units
 COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2010,6.838333,Units
 COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2011,6.218333,Units
 COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2012,5.9725,Units
@@ -9957,6 +10018,7 @@ COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2019,6.1975,Unit
 COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2020,10.44917,Units
 COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2021,9.020833,Units
 COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2022,7.4525,Units
+COL,Colombia,Unemployment rate,Total,From 55 to 64 years,Annual,2023,6.5625,Units
 PRT,Portugal,Unemployment rate,Female,From 15 to 74 years,Annual,2010,12.8563,Units
 PRT,Portugal,Unemployment rate,Female,From 15 to 74 years,Annual,2011,13.85112,Units
 PRT,Portugal,Unemployment rate,Female,From 15 to 74 years,Annual,2012,16.43048,Units
@@ -10047,6 +10109,7 @@ CRI,Costa Rica,Employment rate,Female,From 15 to 74 years,Annual,2019,45.43564,U
 CRI,Costa Rica,Employment rate,Female,From 15 to 74 years,Annual,2020,38.25276,Units
 CRI,Costa Rica,Employment rate,Female,From 15 to 74 years,Annual,2021,40.51905,Units
 CRI,Costa Rica,Employment rate,Female,From 15 to 74 years,Annual,2022,43.25727,Units
+CRI,Costa Rica,Employment rate,Female,From 15 to 74 years,Annual,2023,40.54081,Units
 HUN,Hungary,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,52.325,Units
 HUN,Hungary,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,52.65,Units
 HUN,Hungary,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,53.55,Units
@@ -10085,6 +10148,7 @@ CRI,Costa Rica,Labour force participation rate,Total,From 15 to 64 years,Annual,
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,68.2906,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,68.6161,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,68.65527,Units
+CRI,Costa Rica,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,64.54366,Units
 CZE,Czechia,Labour force participation rate,Total,15 years or over,Annual,2010,58.45,Units
 CZE,Czechia,Labour force participation rate,Total,15 years or over,Annual,2011,58.25,Units
 CZE,Czechia,Labour force participation rate,Total,15 years or over,Annual,2012,58.65,Units
@@ -10163,6 +10227,7 @@ COL,Colombia,Labour force participation rate,Male,From 25 to 54 years,Annual,201
 COL,Colombia,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,92.77333,Units
 COL,Colombia,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,93.9,Units
 COL,Colombia,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,94.03667,Units
+COL,Colombia,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,94.19167,Units
 DNK,Denmark,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,65.625,Units
 DNK,Denmark,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,65.35,Units
 DNK,Denmark,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,64.9,Units
@@ -10214,6 +10279,7 @@ CRI,Costa Rica,Employment rate,Male,15 years or over,Annual,2019,67.41493,Units
 CRI,Costa Rica,Employment rate,Male,15 years or over,Annual,2020,61.02441,Units
 CRI,Costa Rica,Employment rate,Male,15 years or over,Annual,2021,62.69777,Units
 CRI,Costa Rica,Employment rate,Male,15 years or over,Annual,2022,64.56539,Units
+CRI,Costa Rica,Employment rate,Male,15 years or over,Annual,2023,63.13107,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2010,66.70201,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2011,66.7287,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2012,66.20158,Units
@@ -10239,6 +10305,7 @@ ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2019,42.44167,Units
 ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2020,38.24166,Units
 ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2021,38.95,Units
 ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2022,40.45,Units
+ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2023,42.15833,Units
 TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2010,51.875,Units
 TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2011,50.675,Units
 TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2012,50.625,Units
@@ -10658,6 +10725,7 @@ CRI,Costa Rica,Inactivity rate,Male,From 15 to 74 years,Annual,2019,22.07334,Uni
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 74 years,Annual,2020,23.91698,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 74 years,Annual,2021,24.31566,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 74 years,Annual,2022,24.43881,Units
+CRI,Costa Rica,Inactivity rate,Male,From 15 to 74 years,Annual,2023,27.86787,Units
 GRC,Greece,Unemployment rate,Female,From 15 to 64 years,Annual,2010,16.85694,Units
 GRC,Greece,Unemployment rate,Female,From 15 to 64 years,Annual,2011,21.94628,Units
 GRC,Greece,Unemployment rate,Female,From 15 to 64 years,Annual,2012,28.76166,Units
@@ -10828,6 +10896,7 @@ CRI,Costa Rica,Employment rate,Female,From 55 to 64 years,Annual,2019,40.06247,U
 CRI,Costa Rica,Employment rate,Female,From 55 to 64 years,Annual,2020,32.9716,Units
 CRI,Costa Rica,Employment rate,Female,From 55 to 64 years,Annual,2021,31.78464,Units
 CRI,Costa Rica,Employment rate,Female,From 55 to 64 years,Annual,2022,35.18505,Units
+CRI,Costa Rica,Employment rate,Female,From 55 to 64 years,Annual,2023,31.36364,Units
 USA,United States,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,75.21667,Units
 USA,United States,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,74.65,Units
 USA,United States,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,74.5,Units
@@ -10984,6 +11053,7 @@ JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2019,37.74465,Units
 JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2020,37.81248,Units
 JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2021,37.65174,Units
 JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2022,37.42501,Units
+JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2023,37.09881,Units
 LVA,Latvia,Unemployment rate,Total,15 years or over,Annual,2010,19.48375,Units
 LVA,Latvia,Unemployment rate,Total,15 years or over,Annual,2011,16.21216,Units
 LVA,Latvia,Unemployment rate,Total,15 years or over,Annual,2012,15.0552,Units
@@ -11153,6 +11223,7 @@ ISR,Israel,Employment rate,Total,From 55 to 64 years,Annual,2019,67.93333,Units
 ISR,Israel,Employment rate,Total,From 55 to 64 years,Annual,2020,67.90833,Units
 ISR,Israel,Employment rate,Total,From 55 to 64 years,Annual,2021,67.39167,Units
 ISR,Israel,Employment rate,Total,From 55 to 64 years,Annual,2022,69.86667,Units
+ISR,Israel,Employment rate,Total,From 55 to 64 years,Annual,2023,71.16666,Units
 COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2010,76.85917,Units
 COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2011,78.15334,Units
 COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2012,78.82,Units
@@ -11166,6 +11237,7 @@ COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2019,77.43,Units
 COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2020,70.69666,Units
 COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2021,71.915,Units
 COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2022,74.42834,Units
+COL,Colombia,Employment rate,Male,From 15 to 64 years,Annual,2023,75.24583,Units
 DEU,Germany,Employment rate,Total,From 25 to 54 years,Annual,2010,80.55,Units
 DEU,Germany,Employment rate,Total,From 25 to 54 years,Annual,2011,81.9,Units
 DEU,Germany,Employment rate,Total,From 25 to 54 years,Annual,2012,82.3,Units
@@ -11336,6 +11408,7 @@ COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2019,29.5025,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2020,33.85,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2021,35.71917,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2022,33.5,Units
+COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2023,32.89167,Units
 DNK,Denmark,Unemployment rate,Female,From 25 to 54 years,Annual,2010,5.975,Units
 DNK,Denmark,Unemployment rate,Female,From 25 to 54 years,Annual,2011,6.85,Units
 DNK,Denmark,Unemployment rate,Female,From 25 to 54 years,Annual,2012,6.825,Units
@@ -11661,6 +11734,7 @@ CRI,Costa Rica,Inactivity rate,Female,From 25 to 54 years,Annual,2019,31.16886,U
 CRI,Costa Rica,Inactivity rate,Female,From 25 to 54 years,Annual,2020,32.64114,Units
 CRI,Costa Rica,Inactivity rate,Female,From 25 to 54 years,Annual,2021,32.03877,Units
 CRI,Costa Rica,Inactivity rate,Female,From 25 to 54 years,Annual,2022,31.23768,Units
+CRI,Costa Rica,Inactivity rate,Female,From 25 to 54 years,Annual,2023,37.14156,Units
 DEU,Germany,Unemployment rate,Female,From 25 to 54 years,Annual,2010,5.627408,Units
 DEU,Germany,Unemployment rate,Female,From 25 to 54 years,Annual,2011,4.759282,Units
 DEU,Germany,Unemployment rate,Female,From 25 to 54 years,Annual,2012,4.485096,Units
@@ -12194,6 +12268,7 @@ JPN,Japan,Inactivity rate,Female,15 years or over,Annual,2019,46.50298,Units
 JPN,Japan,Inactivity rate,Female,15 years or over,Annual,2020,46.63652,Units
 JPN,Japan,Inactivity rate,Female,15 years or over,Annual,2021,46.25624,Units
 JPN,Japan,Inactivity rate,Female,15 years or over,Annual,2022,45.73669,Units
+JPN,Japan,Inactivity rate,Female,15 years or over,Annual,2023,45.11452,Units
 IRL,Ireland,Inactivity rate,Female,From 25 to 54 years,Annual,2010,27.55,Units
 IRL,Ireland,Inactivity rate,Female,From 25 to 54 years,Annual,2011,27.4,Units
 IRL,Ireland,Inactivity rate,Female,From 25 to 54 years,Annual,2012,27.075,Units
@@ -12378,6 +12453,7 @@ COL,Colombia,Employment rate,Female,From 55 to 64 years,Annual,2019,46.09167,Uni
 COL,Colombia,Employment rate,Female,From 55 to 64 years,Annual,2020,39.26083,Units
 COL,Colombia,Employment rate,Female,From 55 to 64 years,Annual,2021,34.135,Units
 COL,Colombia,Employment rate,Female,From 55 to 64 years,Annual,2022,37.7775,Units
+COL,Colombia,Employment rate,Female,From 55 to 64 years,Annual,2023,41.315,Units
 NLD,Netherlands,Labour force participation rate,Male,15 years or over,Annual,2010,71.175,Units
 NLD,Netherlands,Labour force participation rate,Male,15 years or over,Annual,2011,70.475,Units
 NLD,Netherlands,Labour force participation rate,Male,15 years or over,Annual,2012,70.875,Units
@@ -12560,6 +12636,7 @@ ISR,Israel,Inactivity rate,Total,From 25 to 54 years,Annual,2019,16.95833,Units
 ISR,Israel,Inactivity rate,Total,From 25 to 54 years,Annual,2020,18.48333,Units
 ISR,Israel,Inactivity rate,Total,From 25 to 54 years,Annual,2021,18.35833,Units
 ISR,Israel,Inactivity rate,Total,From 25 to 54 years,Annual,2022,16.46667,Units
+ISR,Israel,Inactivity rate,Total,From 25 to 54 years,Annual,2023,16.50833,Units
 SVK,Slovak Republic,Inactivity rate,Female,From 15 to 24 years,Annual,2010,72.75,Units
 SVK,Slovak Republic,Inactivity rate,Female,From 15 to 24 years,Annual,2011,75.675,Units
 SVK,Slovak Republic,Inactivity rate,Female,From 15 to 24 years,Annual,2012,74.725,Units
@@ -12622,7 +12699,7 @@ USA,United States,Inactivity rate,Male,15 years or over,Annual,2016,30.80748,Uni
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2017,30.92796,Units
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2018,30.94308,Units
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2019,30.84519,Units
-USA,United States,Inactivity rate,Male,15 years or over,Annual,2020,32.32166,Units
+USA,United States,Inactivity rate,Male,15 years or over,Annual,2020,32.32362,Units
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2021,32.39461,Units
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2022,32.02738,Units
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2023,31.87614,Units
@@ -12780,6 +12857,7 @@ CRI,Costa Rica,Employment rate,Total,From 55 to 64 years,Annual,2019,58.13042,Un
 CRI,Costa Rica,Employment rate,Total,From 55 to 64 years,Annual,2020,50.21597,Units
 CRI,Costa Rica,Employment rate,Total,From 55 to 64 years,Annual,2021,51.55528,Units
 CRI,Costa Rica,Employment rate,Total,From 55 to 64 years,Annual,2022,54.19471,Units
+CRI,Costa Rica,Employment rate,Total,From 55 to 64 years,Annual,2023,50.34173,Units
 LTU,Lithuania,Employment rate,Female,From 55 to 64 years,Annual,2010,45.45,Units
 LTU,Lithuania,Employment rate,Female,From 55 to 64 years,Annual,2011,47.225,Units
 LTU,Lithuania,Employment rate,Female,From 55 to 64 years,Annual,2012,48.525,Units
@@ -12806,6 +12884,7 @@ COL,Colombia,Unemployment rate,Male,15 years or over,Annual,2019,8.120833,Units
 COL,Colombia,Unemployment rate,Male,15 years or over,Annual,2020,12.80333,Units
 COL,Colombia,Unemployment rate,Male,15 years or over,Annual,2021,11.27083,Units
 COL,Colombia,Unemployment rate,Male,15 years or over,Annual,2022,8.961667,Units
+COL,Colombia,Unemployment rate,Male,15 years or over,Annual,2023,8.191667,Units
 POL,Poland,Inactivity rate,Female,From 15 to 64 years,Annual,2010,43.03666,Units
 POL,Poland,Inactivity rate,Female,From 15 to 64 years,Annual,2011,42.52734,Units
 POL,Poland,Inactivity rate,Female,From 15 to 64 years,Annual,2012,41.50051,Units
@@ -12844,6 +12923,7 @@ CRI,Costa Rica,Labour force participation rate,Male,From 15 to 64 years,Annual,2
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,80.54716,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,80.40409,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,80.63122,Units
+CRI,Costa Rica,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,77.81567,Units
 AUS,Australia,Labour force participation rate,Total,15 years or over,Annual,2010,65.38976,Units
 AUS,Australia,Labour force participation rate,Total,15 years or over,Annual,2011,65.41994,Units
 AUS,Australia,Labour force participation rate,Total,15 years or over,Annual,2012,65.15233,Units
@@ -13145,6 +13225,7 @@ ISR,Israel,Unemployment rate,Total,From 55 to 64 years,Annual,2019,2.866667,Unit
 ISR,Israel,Unemployment rate,Total,From 55 to 64 years,Annual,2020,3.083333,Units
 ISR,Israel,Unemployment rate,Total,From 55 to 64 years,Annual,2021,3.95,Units
 ISR,Israel,Unemployment rate,Total,From 55 to 64 years,Annual,2022,3.108333,Units
+ISR,Israel,Unemployment rate,Total,From 55 to 64 years,Annual,2023,2.333333,Units
 IRL,Ireland,Employment rate,Male,From 15 to 24 years,Annual,2010,36.575,Units
 IRL,Ireland,Employment rate,Male,From 15 to 24 years,Annual,2011,34.2,Units
 IRL,Ireland,Employment rate,Male,From 15 to 24 years,Annual,2012,32.475,Units
@@ -13639,6 +13720,7 @@ CRI,Costa Rica,Inactivity rate,Female,From 15 to 64 years,Annual,2019,42.41106,U
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 64 years,Annual,2020,44.27454,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 64 years,Annual,2021,43.42357,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 64 years,Annual,2022,43.49908,Units
+CRI,Costa Rica,Inactivity rate,Female,From 15 to 64 years,Annual,2023,49.25346,Units
 BEL,Belgium,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,73.5,Units
 BEL,Belgium,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,72.325,Units
 BEL,Belgium,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,72.55,Units
@@ -13783,6 +13865,7 @@ COL,Colombia,Inactivity rate,Male,From 15 to 74 years,Annual,2019,17.71167,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 74 years,Annual,2020,21.17833,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 74 years,Annual,2021,21.5375,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 74 years,Annual,2022,20.6475,Units
+COL,Colombia,Inactivity rate,Male,From 15 to 74 years,Annual,2023,20.49,Units
 RUS,Russia,Employment rate,Total,From 55 to 64 years,Annual,2010,46.74806,Units
 RUS,Russia,Employment rate,Total,From 55 to 64 years,Annual,2011,46.64648,Units
 RUS,Russia,Employment rate,Total,From 55 to 64 years,Annual,2012,47.1339,Units
@@ -13821,6 +13904,7 @@ ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2019,28.28333,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2020,30.10833,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2021,29.83333,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2022,28.075,Units
+ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2023,27.675,Units
 OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2010,74.97884,Units
 OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2011,75.33303,Units
 OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2012,75.49139,Units
@@ -14004,6 +14088,7 @@ ISR,Israel,Employment rate,Female,From 55 to 64 years,Annual,2019,61.5,Units
 ISR,Israel,Employment rate,Female,From 55 to 64 years,Annual,2020,62.38334,Units
 ISR,Israel,Employment rate,Female,From 55 to 64 years,Annual,2021,62.46667,Units
 ISR,Israel,Employment rate,Female,From 55 to 64 years,Annual,2022,64.79166,Units
+ISR,Israel,Employment rate,Female,From 55 to 64 years,Annual,2023,65.21667,Units
 AUS,Australia,Unemployment rate,Male,15 years or over,Annual,2010,5.076458,Units
 AUS,Australia,Unemployment rate,Male,15 years or over,Annual,2011,4.893791,Units
 AUS,Australia,Unemployment rate,Male,15 years or over,Annual,2012,5.13732,Units
@@ -14395,6 +14480,7 @@ ISR,Israel,Unemployment rate,Female,From 55 to 64 years,Annual,2019,2.708333,Uni
 ISR,Israel,Unemployment rate,Female,From 55 to 64 years,Annual,2020,2.45,Units
 ISR,Israel,Unemployment rate,Female,From 55 to 64 years,Annual,2021,3.516667,Units
 ISR,Israel,Unemployment rate,Female,From 55 to 64 years,Annual,2022,2.316667,Units
+ISR,Israel,Unemployment rate,Female,From 55 to 64 years,Annual,2023,2.008333,Units
 DNK,Denmark,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,58.9,Units
 DNK,Denmark,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,60.425,Units
 DNK,Denmark,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,61.5,Units
@@ -14657,6 +14743,7 @@ ISR,Israel,Labour force participation rate,Female,From 15 to 24 years,Annual,201
 ISR,Israel,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,43.21667,Units
 ISR,Israel,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,44.33333,Units
 ISR,Israel,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,45.875,Units
+ISR,Israel,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,46.34167,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,15 years or over,Annual,2010,9.70812,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,15 years or over,Annual,2011,9.660582,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,15 years or over,Annual,2012,10.6857,Units
@@ -14788,6 +14875,7 @@ ISR,Israel,Employment rate,Total,From 15 to 74 years,Annual,2019,65.15833,Units
 ISR,Israel,Employment rate,Total,From 15 to 74 years,Annual,2020,63.04167,Units
 ISR,Israel,Employment rate,Total,From 15 to 74 years,Annual,2021,62.64167,Units
 ISR,Israel,Employment rate,Total,From 15 to 74 years,Annual,2022,65.19167,Units
+ISR,Israel,Employment rate,Total,From 15 to 74 years,Annual,2023,65.85833,Units
 AUS,Australia,Employment rate,Female,From 55 to 64 years,Annual,2010,52.71989,Units
 AUS,Australia,Employment rate,Female,From 55 to 64 years,Annual,2011,53.38555,Units
 AUS,Australia,Employment rate,Female,From 55 to 64 years,Annual,2012,53.92805,Units
@@ -14997,6 +15085,7 @@ CRI,Costa Rica,Labour force participation rate,Female,From 15 to 24 years,Annual
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,37.77599,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,40.49313,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,36.44928,Units
+CRI,Costa Rica,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,32.31975,Units
 AUT,Austria,Labour force participation rate,Female,15 years or over,Annual,2010,54.125,Units
 AUT,Austria,Labour force participation rate,Female,15 years or over,Annual,2011,54.525,Units
 AUT,Austria,Labour force participation rate,Female,15 years or over,Annual,2012,55.025,Units
@@ -15126,6 +15215,7 @@ ISR,Israel,Labour force participation rate,Male,From 25 to 54 years,Annual,2019,
 ISR,Israel,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,84.39167,Units
 ISR,Israel,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,83.925,Units
 ISR,Israel,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,85.84167,Units
+ISR,Israel,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,85.68333,Units
 GBR,United Kingdom,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,68.175,Units
 GBR,United Kingdom,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,68.125,Units
 GBR,United Kingdom,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,68.375,Units
@@ -15322,6 +15412,7 @@ COL,Colombia,Inactivity rate,Male,From 55 to 64 years,Annual,2019,14.47917,Units
 COL,Colombia,Inactivity rate,Male,From 55 to 64 years,Annual,2020,18.7,Units
 COL,Colombia,Inactivity rate,Male,From 55 to 64 years,Annual,2021,20.05833,Units
 COL,Colombia,Inactivity rate,Male,From 55 to 64 years,Annual,2022,18.00833,Units
+COL,Colombia,Inactivity rate,Male,From 55 to 64 years,Annual,2023,18.01417,Units
 ISL,Iceland,Unemployment rate,Female,From 15 to 24 years,Annual,2010,13.9,Units
 ISL,Iceland,Unemployment rate,Female,From 15 to 24 years,Annual,2011,10.425,Units
 ISL,Iceland,Unemployment rate,Female,From 15 to 24 years,Annual,2012,12.25,Units
@@ -15411,6 +15502,7 @@ CRI,Costa Rica,Labour force participation rate,Female,15 years or over,Annual,20
 CRI,Costa Rica,Labour force participation rate,Female,15 years or over,Annual,2020,48.1353,Units
 CRI,Costa Rica,Labour force participation rate,Female,15 years or over,Annual,2021,48.67946,Units
 CRI,Costa Rica,Labour force participation rate,Female,15 years or over,Annual,2022,48.37114,Units
+CRI,Costa Rica,Labour force participation rate,Female,15 years or over,Annual,2023,42.29887,Units
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,54.25,Units
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,55.05,Units
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,55.6,Units
@@ -15603,6 +15695,7 @@ CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2019,58.13477,Un
 CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2020,51.3326,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2021,53.3467,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2022,55.89264,Units
+CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2023,53.6966,Units
 NZL,New Zealand,Employment rate,Total,15 years or over,Annual,2010,63.425,Units
 NZL,New Zealand,Employment rate,Total,15 years or over,Annual,2011,63.775,Units
 NZL,New Zealand,Employment rate,Total,15 years or over,Annual,2012,63.175,Units
@@ -15720,6 +15813,7 @@ JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2019,2.475,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2020,2.941667,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2021,2.95,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2022,2.758333,Units
+JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2023,2.683333,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 24 years,Annual,2010,71.95,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 24 years,Annual,2011,72.9,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 24 years,Annual,2012,71.475,Units
@@ -16009,6 +16103,7 @@ COL,Colombia,Unemployment rate,Male,From 15 to 24 years,Annual,2019,16.38583,Uni
 COL,Colombia,Unemployment rate,Male,From 15 to 24 years,Annual,2020,22.04333,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 24 years,Annual,2021,21.16667,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 24 years,Annual,2022,17.68833,Units
+COL,Colombia,Unemployment rate,Male,From 15 to 24 years,Annual,2023,16.66833,Units
 AUS,Australia,Unemployment rate,Female,From 55 to 64 years,Annual,2010,2.629672,Units
 AUS,Australia,Unemployment rate,Female,From 55 to 64 years,Annual,2011,2.887565,Units
 AUS,Australia,Unemployment rate,Female,From 55 to 64 years,Annual,2012,3.111662,Units
@@ -16409,6 +16504,7 @@ CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,44.49105,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,45.2974,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,42.75421,Units
+CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,37.85526,Units
 EST,Estonia,Inactivity rate,Total,From 55 to 64 years,Annual,2010,35.69231,Units
 EST,Estonia,Inactivity rate,Total,From 55 to 64 years,Annual,2011,35.00074,Units
 EST,Estonia,Inactivity rate,Total,From 55 to 64 years,Annual,2012,34.9878,Units
@@ -16606,6 +16702,7 @@ ISR,Israel,Unemployment rate,Total,From 15 to 74 years,Annual,2019,3.8,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 74 years,Annual,2020,4.333333,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 74 years,Annual,2021,4.983333,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 74 years,Annual,2022,3.783333,Units
+ISR,Israel,Unemployment rate,Total,From 15 to 74 years,Annual,2023,3.441667,Units
 FRA,France,Inactivity rate,Male,From 15 to 74 years,Annual,2010,32.425,Units
 FRA,France,Inactivity rate,Male,From 15 to 74 years,Annual,2011,32.725,Units
 FRA,France,Inactivity rate,Male,From 15 to 74 years,Annual,2012,32.475,Units
@@ -16645,6 +16742,7 @@ COL,Colombia,Labour force participation rate,Female,From 15 to 64 years,Annual,2
 COL,Colombia,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,57.37167,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,54.28667,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,57.97167,Units
+COL,Colombia,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,59.15833,Units
 GBR,United Kingdom,Employment rate,Total,From 15 to 74 years,Annual,2010,62.775,Units
 GBR,United Kingdom,Employment rate,Total,From 15 to 74 years,Annual,2011,62.6,Units
 GBR,United Kingdom,Employment rate,Total,From 15 to 74 years,Annual,2012,62.9,Units
@@ -16723,6 +16821,7 @@ ISR,Israel,Labour force participation rate,Total,From 15 to 24 years,Annual,2019
 ISR,Israel,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,42.31667,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,43.2,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,44.71667,Units
+ISR,Israel,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,45.59167,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2010,53.56667,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2011,53.18333,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2012,53.125,Units
@@ -16762,6 +16861,7 @@ CRI,Costa Rica,Labour force participation rate,Total,15 years or over,Annual,201
 CRI,Costa Rica,Labour force participation rate,Total,15 years or over,Annual,2020,60.2268,Units
 CRI,Costa Rica,Labour force participation rate,Total,15 years or over,Annual,2021,60.28331,Units
 CRI,Costa Rica,Labour force participation rate,Total,15 years or over,Annual,2022,59.84734,Units
+CRI,Costa Rica,Labour force participation rate,Total,15 years or over,Annual,2023,55.37703,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2010,10.625,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2011,10.175,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2012,9.875,Units
@@ -16911,6 +17011,7 @@ ISR,Israel,Employment rate,Male,From 15 to 64 years,Annual,2019,71.44167,Units
 ISR,Israel,Employment rate,Male,From 15 to 64 years,Annual,2020,68.71667,Units
 ISR,Israel,Employment rate,Male,From 15 to 64 years,Annual,2021,68.08334,Units
 ISR,Israel,Employment rate,Male,From 15 to 64 years,Annual,2022,70.775,Units
+ISR,Israel,Employment rate,Male,From 15 to 64 years,Annual,2023,71.44167,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2010,15.06443,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2011,15.10028,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2012,15.61663,Units
@@ -16976,6 +17077,7 @@ ISR,Israel,Employment rate,Total,From 15 to 24 years,Annual,2019,42.925,Units
 ISR,Israel,Employment rate,Total,From 15 to 24 years,Annual,2020,38.95833,Units
 ISR,Israel,Employment rate,Total,From 15 to 24 years,Annual,2021,39.85,Units
 ISR,Israel,Employment rate,Total,From 15 to 24 years,Annual,2022,41.63334,Units
+ISR,Israel,Employment rate,Total,From 15 to 24 years,Annual,2023,42.875,Units
 KOR,Korea,Employment rate,Male,From 15 to 24 years,Annual,2010,17.73337,Units
 KOR,Korea,Employment rate,Male,From 15 to 24 years,Annual,2011,18.46155,Units
 KOR,Korea,Employment rate,Male,From 15 to 24 years,Annual,2012,19.788,Units
@@ -17133,6 +17235,7 @@ ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2019,74.55,Units
 ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2020,73.66666,Units
 ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2021,72.48333,Units
 ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2022,75.225,Units
+ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2023,77.46667,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,51.77051,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,51.79813,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2013,51.55585,Units
@@ -17327,6 +17430,7 @@ COL,Colombia,Inactivity rate,Total,From 25 to 54 years,Annual,2019,16.03833,Unit
 COL,Colombia,Inactivity rate,Total,From 25 to 54 years,Annual,2020,20.205,Units
 COL,Colombia,Inactivity rate,Total,From 25 to 54 years,Annual,2021,20.85833,Units
 COL,Colombia,Inactivity rate,Total,From 25 to 54 years,Annual,2022,18.53583,Units
+COL,Colombia,Inactivity rate,Total,From 25 to 54 years,Annual,2023,18.0725,Units
 GRC,Greece,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,67.725,Units
 GRC,Greece,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,67.125,Units
 GRC,Greece,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,67.25,Units
@@ -17405,6 +17509,7 @@ ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2019,5
 ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2020,58.20833,Units
 ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2021,58.56667,Units
 ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2022,60.06667,Units
+ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2023,60.29167,Units
 SVN,Slovenia,Employment rate,Total,15 years or over,Annual,2010,54.875,Units
 SVN,Slovenia,Employment rate,Total,15 years or over,Annual,2011,53.2,Units
 SVN,Slovenia,Employment rate,Total,15 years or over,Annual,2012,52.425,Units
@@ -18015,6 +18120,7 @@ CRI,Costa Rica,Labour force participation rate,Total,From 25 to 54 years,Annual,
 CRI,Costa Rica,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,80.66718,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,81.00821,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,81.55213,Units
+CRI,Costa Rica,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,78.09237,Units
 ITA,Italy,Unemployment rate,Male,From 15 to 24 years,Annual,2010,26.95694,Units
 ITA,Italy,Unemployment rate,Male,From 15 to 24 years,Annual,2011,26.9684,Units
 ITA,Italy,Unemployment rate,Male,From 15 to 24 years,Annual,2012,33.79847,Units
@@ -18132,6 +18238,7 @@ CRI,Costa Rica,Inactivity rate,Male,From 25 to 54 years,Annual,2019,4.569304,Uni
 CRI,Costa Rica,Inactivity rate,Male,From 25 to 54 years,Annual,2020,6.238668,Units
 CRI,Costa Rica,Inactivity rate,Male,From 25 to 54 years,Annual,2021,5.628868,Units
 CRI,Costa Rica,Inactivity rate,Male,From 25 to 54 years,Annual,2022,5.445651,Units
+CRI,Costa Rica,Inactivity rate,Male,From 25 to 54 years,Annual,2023,7.130225,Units
 POL,Poland,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,29.625,Units
 POL,Poland,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,28.225,Units
 POL,Poland,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,28.325,Units
@@ -18471,6 +18578,7 @@ ISR,Israel,Inactivity rate,Female,From 25 to 54 years,Annual,2019,20.13333,Units
 ISR,Israel,Inactivity rate,Female,From 25 to 54 years,Annual,2020,21.3,Units
 ISR,Israel,Inactivity rate,Female,From 25 to 54 years,Annual,2021,20.6,Units
 ISR,Israel,Inactivity rate,Female,From 25 to 54 years,Annual,2022,18.71667,Units
+ISR,Israel,Inactivity rate,Female,From 25 to 54 years,Annual,2023,18.63333,Units
 IRL,Ireland,Employment rate,Male,15 years or over,Annual,2010,58.2,Units
 IRL,Ireland,Employment rate,Male,15 years or over,Annual,2011,56.925,Units
 IRL,Ireland,Employment rate,Male,15 years or over,Annual,2012,56.6,Units
@@ -18510,6 +18618,7 @@ ISR,Israel,Unemployment rate,Male,15 years or over,Annual,2019,3.691667,Units
 ISR,Israel,Unemployment rate,Male,15 years or over,Annual,2020,4.525,Units
 ISR,Israel,Unemployment rate,Male,15 years or over,Annual,2021,5.041667,Units
 ISR,Israel,Unemployment rate,Male,15 years or over,Annual,2022,3.866667,Units
+ISR,Israel,Unemployment rate,Male,15 years or over,Annual,2023,3.6,Units
 DNK,Denmark,Labour force participation rate,Total,15 years or over,Annual,2010,63.475,Units
 DNK,Denmark,Labour force participation rate,Total,15 years or over,Annual,2011,63.025,Units
 DNK,Denmark,Labour force participation rate,Total,15 years or over,Annual,2012,62.325,Units
@@ -18627,6 +18736,7 @@ COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2
 COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,67.6525,Units
 COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,65.3075,Units
 COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,69.6525,Units
+COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,70.3825,Units
 SVN,Slovenia,Inactivity rate,Female,From 15 to 74 years,Annual,2010,40.85,Units
 SVN,Slovenia,Inactivity rate,Female,From 15 to 74 years,Annual,2011,41.675,Units
 SVN,Slovenia,Inactivity rate,Female,From 15 to 74 years,Annual,2012,41.4,Units
@@ -18759,6 +18869,7 @@ COL,Colombia,Employment rate,Male,15 years or over,Annual,2019,73.23583,Units
 COL,Colombia,Employment rate,Male,15 years or over,Annual,2020,66.5375,Units
 COL,Colombia,Employment rate,Male,15 years or over,Annual,2021,67.18166,Units
 COL,Colombia,Employment rate,Male,15 years or over,Annual,2022,69.6325,Units
+COL,Colombia,Employment rate,Male,15 years or over,Annual,2023,70.36667,Units
 GRC,Greece,Employment rate,Total,From 25 to 54 years,Annual,2010,72.875,Units
 GRC,Greece,Employment rate,Total,From 25 to 54 years,Annual,2011,68.5,Units
 GRC,Greece,Employment rate,Total,From 25 to 54 years,Annual,2012,63.375,Units
@@ -18837,6 +18948,7 @@ COL,Colombia,Employment rate,Male,From 15 to 24 years,Annual,2019,48.69167,Units
 COL,Colombia,Employment rate,Male,From 15 to 24 years,Annual,2020,42.35417,Units
 COL,Colombia,Employment rate,Male,From 15 to 24 years,Annual,2021,40.54333,Units
 COL,Colombia,Employment rate,Male,From 15 to 24 years,Annual,2022,42.67417,Units
+COL,Colombia,Employment rate,Male,From 15 to 24 years,Annual,2023,43.09333,Units
 HUN,Hungary,Unemployment rate,Female,From 15 to 64 years,Annual,2010,9.994078,Units
 HUN,Hungary,Unemployment rate,Female,From 15 to 64 years,Annual,2011,10.27949,Units
 HUN,Hungary,Unemployment rate,Female,From 15 to 64 years,Annual,2012,9.979825,Units
@@ -18888,6 +19000,7 @@ CRI,Costa Rica,Inactivity rate,Total,From 15 to 24 years,Annual,2019,54.75229,Un
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 24 years,Annual,2020,55.50895,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 24 years,Annual,2021,54.7026,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 24 years,Annual,2022,57.24579,Units
+CRI,Costa Rica,Inactivity rate,Total,From 15 to 24 years,Annual,2023,62.14474,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2010,39.06113,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2011,39.07127,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2012,32.9,Units
@@ -18901,6 +19014,7 @@ ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2019,30.775,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2020,32.26667,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2021,31.5,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2022,29.775,Units
+ISR,Israel,Inactivity rate,Female,From 15 to 64 years,Annual,2023,29.51667,Units
 DNK,Denmark,Unemployment rate,Female,From 15 to 64 years,Annual,2010,6.875,Units
 DNK,Denmark,Unemployment rate,Female,From 15 to 64 years,Annual,2011,7.75,Units
 DNK,Denmark,Unemployment rate,Female,From 15 to 64 years,Annual,2012,7.925,Units
@@ -18966,6 +19080,7 @@ ISR,Israel,Employment rate,Female,From 15 to 74 years,Annual,2019,61.85833,Units
 ISR,Israel,Employment rate,Female,From 15 to 74 years,Annual,2020,60.28333,Units
 ISR,Israel,Employment rate,Female,From 15 to 74 years,Annual,2021,60.225,Units
 ISR,Israel,Employment rate,Female,From 15 to 74 years,Annual,2022,62.8,Units
+ISR,Israel,Employment rate,Female,From 15 to 74 years,Annual,2023,63.425,Units
 CAN,Canada,Unemployment rate,Male,From 25 to 54 years,Annual,2010,7.558333,Units
 CAN,Canada,Unemployment rate,Male,From 25 to 54 years,Annual,2011,6.658333,Units
 CAN,Canada,Unemployment rate,Male,From 25 to 54 years,Annual,2012,6.416667,Units
@@ -19083,6 +19198,7 @@ ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2019,63
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2020,61.78333,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2021,61.76667,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2022,63.26667,Units
+ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2023,63.53333,Units
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2010,4.480014,Units
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2011,4.071872,Units
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2012,4.274872,Units
@@ -19109,6 +19225,7 @@ JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2019,71.6
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2020,71.64513,Units
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2021,71.56855,Units
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2022,71.48447,Units
+JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2023,71.48143,Units
 NOR,Norway,Employment rate,Female,15 years or over,Annual,2010,66.625,Units
 NOR,Norway,Employment rate,Female,15 years or over,Annual,2011,66.55,Units
 NOR,Norway,Employment rate,Female,15 years or over,Annual,2012,66.65,Units
@@ -19414,6 +19531,7 @@ JPN,Japan,Unemployment rate,Female,From 15 to 64 years,Annual,2019,2.333333,Unit
 JPN,Japan,Unemployment rate,Female,From 15 to 64 years,Annual,2020,2.725,Units
 JPN,Japan,Unemployment rate,Female,From 15 to 64 years,Annual,2021,2.725,Units
 JPN,Japan,Unemployment rate,Female,From 15 to 64 years,Annual,2022,2.541667,Units
+JPN,Japan,Unemployment rate,Female,From 15 to 64 years,Annual,2023,2.533333,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2010,32.675,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2011,33.175,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2012,33.675,Units
@@ -20457,6 +20575,7 @@ COL,Colombia,Unemployment rate,Male,From 55 to 64 years,Annual,2019,6.464167,Uni
 COL,Colombia,Unemployment rate,Male,From 55 to 64 years,Annual,2020,10.24333,Units
 COL,Colombia,Unemployment rate,Male,From 55 to 64 years,Annual,2021,9.0575,Units
 COL,Colombia,Unemployment rate,Male,From 55 to 64 years,Annual,2022,7.3825,Units
+COL,Colombia,Unemployment rate,Male,From 55 to 64 years,Annual,2023,6.555,Units
 ISL,Iceland,Unemployment rate,Male,From 15 to 64 years,Annual,2010,8.5,Units
 ISL,Iceland,Unemployment rate,Male,From 15 to 64 years,Annual,2011,7.975,Units
 ISL,Iceland,Unemployment rate,Male,From 15 to 64 years,Annual,2012,6.45,Units
@@ -20482,6 +20601,7 @@ CRI,Costa Rica,Labour force participation rate,Male,15 years or over,Annual,2019
 CRI,Costa Rica,Labour force participation rate,Male,15 years or over,Annual,2020,72.24239,Units
 CRI,Costa Rica,Labour force participation rate,Male,15 years or over,Annual,2021,71.81955,Units
 CRI,Costa Rica,Labour force participation rate,Male,15 years or over,Annual,2022,71.26895,Units
+CRI,Costa Rica,Labour force participation rate,Male,15 years or over,Annual,2023,68.37857,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 15 to 24 years,Annual,2010,33.4,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 15 to 24 years,Annual,2011,33.075,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 15 to 24 years,Annual,2012,31.75,Units
@@ -20521,6 +20641,7 @@ ISR,Israel,Inactivity rate,Total,From 15 to 74 years,Annual,2019,32.26667,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 74 years,Annual,2020,34.09167,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 74 years,Annual,2021,34.075,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 74 years,Annual,2022,32.26667,Units
+ISR,Israel,Inactivity rate,Total,From 15 to 74 years,Annual,2023,31.8,Units
 POL,Poland,Unemployment rate,Male,From 55 to 64 years,Annual,2010,7.783596,Units
 POL,Poland,Unemployment rate,Male,From 55 to 64 years,Annual,2011,7.618006,Units
 POL,Poland,Unemployment rate,Male,From 55 to 64 years,Annual,2012,8.230771,Units
@@ -20546,6 +20667,7 @@ CRI,Costa Rica,Inactivity rate,Male,From 55 to 64 years,Annual,2019,17.99106,Uni
 CRI,Costa Rica,Inactivity rate,Male,From 55 to 64 years,Annual,2020,23.03592,Units
 CRI,Costa Rica,Inactivity rate,Male,From 55 to 64 years,Annual,2021,21.57499,Units
 CRI,Costa Rica,Inactivity rate,Male,From 55 to 64 years,Annual,2022,20.51847,Units
+CRI,Costa Rica,Inactivity rate,Male,From 55 to 64 years,Annual,2023,24.80364,Units
 AUS,Australia,Employment rate,Male,15 years or over,Annual,2010,68.68732,Units
 AUS,Australia,Employment rate,Male,15 years or over,Annual,2011,68.63783,Units
 AUS,Australia,Employment rate,Male,15 years or over,Annual,2012,68.04022,Units
@@ -20586,6 +20708,7 @@ ISR,Israel,Inactivity rate,Male,From 15 to 74 years,Annual,2019,28.84167,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 74 years,Annual,2020,31.04167,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 74 years,Annual,2021,31.425,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 74 years,Annual,2022,29.64167,Units
+ISR,Israel,Inactivity rate,Male,From 15 to 74 years,Annual,2023,29.1,Units
 IRL,Ireland,Employment rate,Female,15 years or over,Annual,2010,48.925,Units
 IRL,Ireland,Employment rate,Female,15 years or over,Annual,2011,48.1,Units
 IRL,Ireland,Employment rate,Female,15 years or over,Annual,2012,47.775,Units
@@ -20819,6 +20942,7 @@ COL,Colombia,Labour force participation rate,Total,15 years or over,Annual,2019,
 COL,Colombia,Labour force participation rate,Total,15 years or over,Annual,2020,63.375,Units
 COL,Colombia,Labour force participation rate,Total,15 years or over,Annual,2021,61.5475,Units
 COL,Colombia,Labour force participation rate,Total,15 years or over,Annual,2022,63.62833,Units
+COL,Colombia,Labour force participation rate,Total,15 years or over,Annual,2023,64.135,Units
 LTU,Lithuania,Inactivity rate,Total,From 15 to 74 years,Annual,2010,37.475,Units
 LTU,Lithuania,Inactivity rate,Total,From 15 to 74 years,Annual,2011,36.45,Units
 LTU,Lithuania,Inactivity rate,Total,From 15 to 74 years,Annual,2012,35.85,Units
@@ -21015,6 +21139,7 @@ COL,Colombia,Employment rate,Female,From 15 to 74 years,Annual,2019,51.5275,Unit
 COL,Colombia,Employment rate,Female,From 15 to 74 years,Annual,2020,43.43583,Units
 COL,Colombia,Employment rate,Female,From 15 to 74 years,Annual,2021,42.08,Units
 COL,Colombia,Employment rate,Female,From 15 to 74 years,Annual,2022,46.68333,Units
+COL,Colombia,Employment rate,Female,From 15 to 74 years,Annual,2023,48.36917,Units
 GBR,United Kingdom,Unemployment rate,Total,15 years or over,Annual,2010,7.868146,Units
 GBR,United Kingdom,Unemployment rate,Total,15 years or over,Annual,2011,8.106507,Units
 GBR,United Kingdom,Unemployment rate,Total,15 years or over,Annual,2012,7.965436,Units
@@ -21251,6 +21376,7 @@ COL,Colombia,Unemployment rate,Male,From 15 to 64 years,Annual,2019,8.281667,Uni
 COL,Colombia,Unemployment rate,Male,From 15 to 64 years,Annual,2020,13.08417,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 64 years,Annual,2021,11.47583,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 64 years,Annual,2022,9.089167,Units
+COL,Colombia,Unemployment rate,Male,From 15 to 64 years,Annual,2023,8.374166,Units
 FRA,France,Unemployment rate,Female,From 55 to 64 years,Annual,2010,5.619268,Units
 FRA,France,Unemployment rate,Female,From 55 to 64 years,Annual,2011,5.717565,Units
 FRA,France,Unemployment rate,Female,From 55 to 64 years,Annual,2012,6.059206,Units
@@ -21668,6 +21794,7 @@ ISR,Israel,Unemployment rate,Total,From 25 to 54 years,Annual,2019,3.466667,Unit
 ISR,Israel,Unemployment rate,Total,From 25 to 54 years,Annual,2020,3.991667,Units
 ISR,Israel,Unemployment rate,Total,From 25 to 54 years,Annual,2021,4.75,Units
 ISR,Israel,Unemployment rate,Total,From 25 to 54 years,Annual,2022,3.283333,Units
+ISR,Israel,Unemployment rate,Total,From 25 to 54 years,Annual,2023,3.183333,Units
 CZE,Czechia,Inactivity rate,Total,15 years or over,Annual,2010,41.55,Units
 CZE,Czechia,Inactivity rate,Total,15 years or over,Annual,2011,41.75,Units
 CZE,Czechia,Inactivity rate,Total,15 years or over,Annual,2012,41.35,Units
@@ -21941,6 +22068,7 @@ CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2020,76.08302,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,75.68434,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2022,75.56119,Units
+CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2023,72.13213,Units
 AUT,Austria,Labour force participation rate,Male,15 years or over,Annual,2010,67.1,Units
 AUT,Austria,Labour force participation rate,Male,15 years or over,Annual,2011,66.875,Units
 AUT,Austria,Labour force participation rate,Male,15 years or over,Annual,2012,66.925,Units
@@ -22226,6 +22354,7 @@ CRI,Costa Rica,Inactivity rate,Female,From 15 to 74 years,Annual,2019,46.30144,U
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 74 years,Annual,2020,48.68561,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 74 years,Annual,2021,48.04408,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 74 years,Annual,2022,48.25919,Units
+CRI,Costa Rica,Inactivity rate,Female,From 15 to 74 years,Annual,2023,54.46195,Units
 DEU,Germany,Employment rate,Male,15 years or over,Annual,2010,61.2,Units
 DEU,Germany,Employment rate,Male,15 years or over,Annual,2011,62.5,Units
 DEU,Germany,Employment rate,Male,15 years or over,Annual,2012,62.775,Units
@@ -22251,6 +22380,7 @@ COL,Colombia,Employment rate,Female,15 years or over,Annual,2019,49.17,Units
 COL,Colombia,Employment rate,Female,15 years or over,Annual,2020,41.26583,Units
 COL,Colombia,Employment rate,Female,15 years or over,Annual,2021,39.985,Units
 COL,Colombia,Employment rate,Female,15 years or over,Annual,2022,44.35667,Units
+COL,Colombia,Employment rate,Female,15 years or over,Annual,2023,45.85667,Units
 RUS,Russia,Employment rate,Male,From 15 to 64 years,Annual,2010,71.58286,Units
 RUS,Russia,Employment rate,Male,From 15 to 64 years,Annual,2011,72.4151,Units
 RUS,Russia,Employment rate,Male,From 15 to 64 years,Annual,2012,73.57104,Units
@@ -22444,6 +22574,7 @@ ISR,Israel,Employment rate,Male,From 15 to 74 years,Annual,2019,68.53333,Units
 ISR,Israel,Employment rate,Male,From 15 to 74 years,Annual,2020,65.81667,Units
 ISR,Israel,Employment rate,Male,From 15 to 74 years,Annual,2021,65.10833,Units
 ISR,Israel,Employment rate,Male,From 15 to 74 years,Annual,2022,67.61667,Units
+ISR,Israel,Employment rate,Male,From 15 to 74 years,Annual,2023,68.35833,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,57.89083,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,58.87667,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,60.34583,Units
@@ -22457,6 +22588,7 @@ COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2
 COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2020,54.26917,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,51.02917,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2022,54.51083,Units
+COL,Colombia,Labour force participation rate,Female,From 15 to 74 years,Annual,2023,55.52,Units
 KOR,Korea,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,48.11277,Units
 KOR,Korea,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,48.98239,Units
 KOR,Korea,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,50.28863,Units
@@ -22589,6 +22721,7 @@ COL,Colombia,Inactivity rate,Male,15 years or over,Annual,2019,20.29083,Units
 COL,Colombia,Inactivity rate,Male,15 years or over,Annual,2020,23.795,Units
 COL,Colombia,Inactivity rate,Male,15 years or over,Annual,2021,24.2875,Units
 COL,Colombia,Inactivity rate,Male,15 years or over,Annual,2022,23.515,Units
+COL,Colombia,Inactivity rate,Male,15 years or over,Annual,2023,23.3575,Units
 AUT,Austria,Unemployment rate,Female,From 25 to 54 years,Annual,2010,4.33947,Units
 AUT,Austria,Unemployment rate,Female,From 25 to 54 years,Annual,2011,4.309083,Units
 AUT,Austria,Unemployment rate,Female,From 25 to 54 years,Annual,2012,4.513776,Units
@@ -22826,6 +22959,7 @@ ISR,Israel,Employment rate,Male,15 years or over,Annual,2019,65.10833,Units
 ISR,Israel,Employment rate,Male,15 years or over,Annual,2020,62.56667,Units
 ISR,Israel,Employment rate,Male,15 years or over,Annual,2021,61.85,Units
 ISR,Israel,Employment rate,Male,15 years or over,Annual,2022,64.0,Units
+ISR,Israel,Employment rate,Male,15 years or over,Annual,2023,64.50833,Units
 NLD,Netherlands,Inactivity rate,Female,From 15 to 24 years,Annual,2010,19.75,Units
 NLD,Netherlands,Inactivity rate,Female,From 15 to 24 years,Annual,2011,19.15,Units
 NLD,Netherlands,Inactivity rate,Female,From 15 to 24 years,Annual,2012,17.675,Units
@@ -23124,6 +23258,7 @@ ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2019,3.691667,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2020,4.558333,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2021,5.083333,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2022,3.858333,Units
+ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2023,3.616667,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 64 years,Annual,2010,38.14194,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 64 years,Annual,2011,38.86623,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 64 years,Annual,2012,38.59721,Units
@@ -23267,6 +23402,7 @@ CRI,Costa Rica,Unemployment rate,Male,From 15 to 24 years,Annual,2019,28.41459,U
 CRI,Costa Rica,Unemployment rate,Male,From 15 to 24 years,Annual,2020,35.60344,Units
 CRI,Costa Rica,Unemployment rate,Male,From 15 to 24 years,Annual,2021,33.2829,Units
 CRI,Costa Rica,Unemployment rate,Male,From 15 to 24 years,Annual,2022,26.27282,Units
+CRI,Costa Rica,Unemployment rate,Male,From 15 to 24 years,Annual,2023,21.94301,Units
 CZE,Czechia,Inactivity rate,Total,From 15 to 64 years,Annual,2010,29.825,Units
 CZE,Czechia,Inactivity rate,Total,From 15 to 64 years,Annual,2011,29.475,Units
 CZE,Czechia,Inactivity rate,Total,From 15 to 64 years,Annual,2012,28.4,Units
@@ -23325,6 +23461,7 @@ COL,Colombia,Unemployment rate,Male,From 25 to 54 years,Annual,2019,6.480834,Uni
 COL,Colombia,Unemployment rate,Male,From 25 to 54 years,Annual,2020,11.4075,Units
 COL,Colombia,Unemployment rate,Male,From 25 to 54 years,Annual,2021,9.714167,Units
 COL,Colombia,Unemployment rate,Male,From 25 to 54 years,Annual,2022,7.4925,Units
+COL,Colombia,Unemployment rate,Male,From 25 to 54 years,Annual,2023,6.915833,Units
 AUS,Australia,Employment rate,Female,15 years or over,Annual,2010,55.46107,Units
 AUS,Australia,Employment rate,Female,15 years or over,Annual,2011,55.73981,Units
 AUS,Australia,Employment rate,Female,15 years or over,Annual,2012,55.63563,Units
@@ -23536,6 +23673,7 @@ COL,Colombia,Inactivity rate,Total,From 15 to 64 years,Annual,2019,26.81667,Unit
 COL,Colombia,Inactivity rate,Total,From 15 to 64 years,Annual,2020,31.0275,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 64 years,Annual,2021,32.64083,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 64 years,Annual,2022,30.42167,Units
+COL,Colombia,Inactivity rate,Total,From 15 to 64 years,Annual,2023,29.68417,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Female,From 15 to 64 years,Annual,2010,36.52159,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Female,From 15 to 64 years,Annual,2011,36.06889,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Female,From 15 to 64 years,Annual,2012,35.28094,Units
@@ -23902,6 +24040,7 @@ ISR,Israel,Unemployment rate,Male,From 55 to 64 years,Annual,2019,3.0,Units
 ISR,Israel,Unemployment rate,Male,From 55 to 64 years,Annual,2020,3.608333,Units
 ISR,Israel,Unemployment rate,Male,From 55 to 64 years,Annual,2021,4.358333,Units
 ISR,Israel,Unemployment rate,Male,From 55 to 64 years,Annual,2022,3.833333,Units
+ISR,Israel,Unemployment rate,Male,From 55 to 64 years,Annual,2023,2.6,Units
 FRA,France,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,88.9,Units
 FRA,France,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,88.45,Units
 FRA,France,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,88.35,Units
@@ -24362,6 +24501,7 @@ JPN,Japan,Labour force participation rate,Female,15 years or over,Annual,2019,53
 JPN,Japan,Labour force participation rate,Female,15 years or over,Annual,2020,53.36348,Units
 JPN,Japan,Labour force participation rate,Female,15 years or over,Annual,2021,53.74376,Units
 JPN,Japan,Labour force participation rate,Female,15 years or over,Annual,2022,54.26331,Units
+JPN,Japan,Labour force participation rate,Female,15 years or over,Annual,2023,54.88548,Units
 BEL,Belgium,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,92.25,Units
 BEL,Belgium,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,90.725,Units
 BEL,Belgium,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,90.825,Units
@@ -24546,6 +24686,7 @@ ISR,Israel,Inactivity rate,Female,From 15 to 24 years,Annual,2019,53.175,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 24 years,Annual,2020,56.78333,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 24 years,Annual,2021,55.66667,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 24 years,Annual,2022,54.125,Units
+ISR,Israel,Inactivity rate,Female,From 15 to 24 years,Annual,2023,53.65833,Units
 LTU,Lithuania,Unemployment rate,Total,From 15 to 24 years,Annual,2010,35.8,Units
 LTU,Lithuania,Unemployment rate,Total,From 15 to 24 years,Annual,2011,32.55,Units
 LTU,Lithuania,Unemployment rate,Total,From 15 to 24 years,Annual,2012,26.7,Units
@@ -24616,6 +24757,7 @@ COL,Colombia,Employment rate,Male,From 25 to 54 years,Annual,2019,89.395,Units
 COL,Colombia,Employment rate,Male,From 25 to 54 years,Annual,2020,82.2625,Units
 COL,Colombia,Employment rate,Male,From 25 to 54 years,Annual,2021,84.78667,Units
 COL,Colombia,Employment rate,Male,From 25 to 54 years,Annual,2022,86.99084,Units
+COL,Colombia,Employment rate,Male,From 25 to 54 years,Annual,2023,87.6775,Units
 USA,United States,Unemployment rate,Total,From 55 to 64 years,Annual,2010,7.141667,Units
 USA,United States,Unemployment rate,Total,From 55 to 64 years,Annual,2011,6.633333,Units
 USA,United States,Unemployment rate,Total,From 55 to 64 years,Annual,2012,5.958333,Units
@@ -24721,6 +24863,7 @@ COL,Colombia,Labour force participation rate,Female,From 15 to 24 years,Annual,2
 COL,Colombia,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,39.07417,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,36.09417,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,37.92916,Units
+COL,Colombia,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,38.46583,Units
 ISL,Iceland,Inactivity rate,Male,From 55 to 64 years,Annual,2010,12.25,Units
 ISL,Iceland,Inactivity rate,Male,From 55 to 64 years,Annual,2011,11.675,Units
 ISL,Iceland,Inactivity rate,Male,From 55 to 64 years,Annual,2012,12.875,Units
@@ -24877,20 +25020,20 @@ HUN,Hungary,Unemployment rate,Female,From 25 to 54 years,Annual,2019,2.935696,Un
 HUN,Hungary,Unemployment rate,Female,From 25 to 54 years,Annual,2020,3.773709,Units
 HUN,Hungary,Unemployment rate,Female,From 25 to 54 years,Annual,2021,3.7,Units
 HUN,Hungary,Unemployment rate,Female,From 25 to 54 years,Annual,2022,3.175,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2010,46.43089,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2011,46.72364,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2012,46.7878,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2013,46.51627,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2014,46.41533,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2015,46.20133,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2016,46.20776,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2017,45.73639,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2018,45.47515,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2019,44.86068,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2020,46.77313,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2021,45.47596,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2022,45.35544,Units
-USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2023,44.08516,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2010,46.43085,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2011,46.72356,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2012,46.78774,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2013,46.51617,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2014,46.4152,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2015,46.20116,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2016,46.20754,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2017,45.73604,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2018,45.47469,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2019,44.86003,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2020,46.75994,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2021,45.47478,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2022,45.35408,Units
+USA,United States,Inactivity rate,Female,From 15 to 24 years,Annual,2023,44.08349,Units
 NZL,New Zealand,Employment rate,Total,From 55 to 64 years,Annual,2010,73.14348,Units
 NZL,New Zealand,Employment rate,Total,From 55 to 64 years,Annual,2011,73.58389,Units
 NZL,New Zealand,Employment rate,Total,From 55 to 64 years,Annual,2012,73.79611,Units
@@ -24957,6 +25100,7 @@ COL,Colombia,Employment rate,Total,From 15 to 24 years,Annual,2019,40.64583,Unit
 COL,Colombia,Employment rate,Total,From 15 to 24 years,Annual,2020,34.06833,Units
 COL,Colombia,Employment rate,Total,From 15 to 24 years,Annual,2021,32.6125,Units
 COL,Colombia,Employment rate,Total,From 15 to 24 years,Annual,2022,35.12333,Units
+COL,Colombia,Employment rate,Total,From 15 to 24 years,Annual,2023,36.06,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Female,From 15 to 24 years,Annual,2010,29.3,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Female,From 15 to 24 years,Annual,2011,28.9,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Female,From 15 to 24 years,Annual,2012,28.0,Units
@@ -24983,6 +25127,7 @@ JPN,Japan,Unemployment rate,Female,From 15 to 24 years,Annual,2019,3.466667,Unit
 JPN,Japan,Unemployment rate,Female,From 15 to 24 years,Annual,2020,4.05,Units
 JPN,Japan,Unemployment rate,Female,From 15 to 24 years,Annual,2021,4.058333,Units
 JPN,Japan,Unemployment rate,Female,From 15 to 24 years,Annual,2022,3.675,Units
+JPN,Japan,Unemployment rate,Female,From 15 to 24 years,Annual,2023,3.7,Units
 ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,63.29066,Units
 ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,62.75143,Units
 ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,63.2642,Units
@@ -25060,6 +25205,7 @@ CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2
 CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,93.76133,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,94.37113,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,94.55435,Units
+CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,92.86977,Units
 IRL,Ireland,Inactivity rate,Female,From 15 to 74 years,Annual,2010,40.575,Units
 IRL,Ireland,Inactivity rate,Female,From 15 to 74 years,Annual,2011,40.75,Units
 IRL,Ireland,Inactivity rate,Female,From 15 to 74 years,Annual,2012,40.85,Units
@@ -25180,6 +25326,7 @@ JPN,Japan,Unemployment rate,Total,15 years or over,Annual,2019,2.35,Units
 JPN,Japan,Unemployment rate,Total,15 years or over,Annual,2020,2.775,Units
 JPN,Japan,Unemployment rate,Total,15 years or over,Annual,2021,2.816667,Units
 JPN,Japan,Unemployment rate,Total,15 years or over,Annual,2022,2.6,Units
+JPN,Japan,Unemployment rate,Total,15 years or over,Annual,2023,2.566667,Units
 BEL,Belgium,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,54.6,Units
 BEL,Belgium,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,53.9,Units
 BEL,Belgium,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,54.05,Units
@@ -25545,6 +25692,7 @@ ISR,Israel,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,
 ISR,Israel,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,41.40833,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,42.125,Units
 ISR,Israel,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,43.575,Units
+ISR,Israel,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,44.925,Units
 MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2010,42.48571,Units
 MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2011,42.27063,Units
 MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2012,42.79784,Units
@@ -25844,6 +25992,7 @@ CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2019,60.01652,U
 CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2020,52.43105,Units
 CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2021,55.35404,Units
 CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2022,58.98867,Units
+CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2023,57.11312,Units
 CZE,Czechia,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,95.5,Units
 CZE,Czechia,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,95.325,Units
 CZE,Czechia,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,95.475,Units
@@ -26171,6 +26320,7 @@ COL,Colombia,Inactivity rate,Total,From 55 to 64 years,Annual,2019,34.13083,Unit
 COL,Colombia,Inactivity rate,Total,From 55 to 64 years,Annual,2020,38.7325,Units
 COL,Colombia,Inactivity rate,Total,From 55 to 64 years,Annual,2021,43.205,Units
 COL,Colombia,Inactivity rate,Total,From 55 to 64 years,Annual,2022,40.33,Units
+COL,Colombia,Inactivity rate,Total,From 55 to 64 years,Annual,2023,38.495,Units
 PRT,Portugal,Unemployment rate,Female,From 15 to 64 years,Annual,2010,13.0551,Units
 PRT,Portugal,Unemployment rate,Female,From 15 to 64 years,Annual,2011,13.93725,Units
 PRT,Portugal,Unemployment rate,Female,From 15 to 64 years,Annual,2012,16.58735,Units
@@ -26197,6 +26347,7 @@ COL,Colombia,Labour force participation rate,Female,15 years or over,Annual,2019
 COL,Colombia,Labour force participation rate,Female,15 years or over,Annual,2020,51.5025,Units
 COL,Colombia,Labour force participation rate,Female,15 years or over,Annual,2021,48.44833,Units
 COL,Colombia,Labour force participation rate,Female,15 years or over,Annual,2022,51.7525,Units
+COL,Colombia,Labour force participation rate,Female,15 years or over,Annual,2023,52.59583,Units
 FRA,France,Inactivity rate,Male,From 25 to 54 years,Annual,2010,6.3,Units
 FRA,France,Inactivity rate,Male,From 25 to 54 years,Annual,2011,6.8,Units
 FRA,France,Inactivity rate,Male,From 25 to 54 years,Annual,2012,7.1,Units
@@ -26223,6 +26374,7 @@ COL,Colombia,Unemployment rate,Total,From 15 to 24 years,Annual,2019,20.57833,Un
 COL,Colombia,Unemployment rate,Total,From 15 to 24 years,Annual,2020,27.335,Units
 COL,Colombia,Unemployment rate,Total,From 15 to 24 years,Annual,2021,25.60417,Units
 COL,Colombia,Unemployment rate,Total,From 15 to 24 years,Annual,2022,21.87333,Units
+COL,Colombia,Unemployment rate,Total,From 15 to 24 years,Annual,2023,20.15417,Units
 DNK,Denmark,Unemployment rate,Female,15 years or over,Annual,2010,6.762919,Units
 DNK,Denmark,Unemployment rate,Female,15 years or over,Annual,2011,7.621317,Units
 DNK,Denmark,Unemployment rate,Female,15 years or over,Annual,2012,7.789069,Units
@@ -26249,6 +26401,7 @@ ISR,Israel,Inactivity rate,Total,15 years or over,Annual,2019,36.50834,Units
 ISR,Israel,Inactivity rate,Total,15 years or over,Annual,2020,38.21667,Units
 ISR,Israel,Inactivity rate,Total,15 years or over,Annual,2021,38.23333,Units
 ISR,Israel,Inactivity rate,Total,15 years or over,Annual,2022,36.73333,Units
+ISR,Israel,Inactivity rate,Total,15 years or over,Annual,2023,36.46667,Units
 SVN,Slovenia,Employment rate,Female,From 25 to 54 years,Annual,2010,81.4,Units
 SVN,Slovenia,Employment rate,Female,From 25 to 54 years,Annual,2011,80.775,Units
 SVN,Slovenia,Employment rate,Female,From 25 to 54 years,Annual,2012,80.5,Units
@@ -26497,6 +26650,7 @@ JPN,Japan,Employment rate,Total,15 years or over,Annual,2019,60.79101,Units
 JPN,Japan,Employment rate,Total,15 years or over,Annual,2020,60.45766,Units
 JPN,Japan,Employment rate,Total,15 years or over,Annual,2021,60.58966,Units
 JPN,Japan,Employment rate,Total,15 years or over,Annual,2022,60.94912,Units
+JPN,Japan,Employment rate,Total,15 years or over,Annual,2023,61.28218,Units
 USA,United States,Unemployment rate,Male,15 years or over,Annual,2010,10.51667,Units
 USA,United States,Unemployment rate,Male,15 years or over,Annual,2011,9.375,Units
 USA,United States,Unemployment rate,Male,15 years or over,Annual,2012,8.225,Units
@@ -26537,6 +26691,7 @@ ISR,Israel,Employment rate,Total,From 25 to 54 years,Annual,2019,80.16666,Units
 ISR,Israel,Employment rate,Total,From 25 to 54 years,Annual,2020,78.25833,Units
 ISR,Israel,Employment rate,Total,From 25 to 54 years,Annual,2021,77.79166,Units
 ISR,Israel,Employment rate,Total,From 25 to 54 years,Annual,2022,80.78333,Units
+ISR,Israel,Employment rate,Total,From 25 to 54 years,Annual,2023,80.84167,Units
 CAN,Canada,Inactivity rate,Total,From 15 to 24 years,Annual,2010,34.42076,Units
 CAN,Canada,Inactivity rate,Total,From 15 to 24 years,Annual,2011,34.39524,Units
 CAN,Canada,Inactivity rate,Total,From 15 to 24 years,Annual,2012,34.96453,Units
@@ -26589,6 +26744,7 @@ CRI,Costa Rica,Inactivity rate,Female,15 years or over,Annual,2019,49.44138,Unit
 CRI,Costa Rica,Inactivity rate,Female,15 years or over,Annual,2020,51.8647,Units
 CRI,Costa Rica,Inactivity rate,Female,15 years or over,Annual,2021,51.32054,Units
 CRI,Costa Rica,Inactivity rate,Female,15 years or over,Annual,2022,51.62886,Units
+CRI,Costa Rica,Inactivity rate,Female,15 years or over,Annual,2023,57.70113,Units
 GRC,Greece,Labour force participation rate,Total,15 years or over,Annual,2010,53.5,Units
 GRC,Greece,Labour force participation rate,Total,15 years or over,Annual,2011,52.675,Units
 GRC,Greece,Labour force participation rate,Total,15 years or over,Annual,2012,52.325,Units
@@ -26942,6 +27098,7 @@ ISR,Israel,Inactivity rate,Female,From 55 to 64 years,Annual,2019,36.775,Units
 ISR,Israel,Inactivity rate,Female,From 55 to 64 years,Annual,2020,36.05833,Units
 ISR,Israel,Inactivity rate,Female,From 55 to 64 years,Annual,2021,35.25834,Units
 ISR,Israel,Inactivity rate,Female,From 55 to 64 years,Annual,2022,33.68333,Units
+ISR,Israel,Inactivity rate,Female,From 55 to 64 years,Annual,2023,33.45833,Units
 SVN,Slovenia,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,70.8,Units
 SVN,Slovenia,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,69.65,Units
 SVN,Slovenia,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,69.825,Units
@@ -26968,6 +27125,7 @@ COL,Colombia,Unemployment rate,Total,From 15 to 64 years,Annual,2019,10.68083,Un
 COL,Colombia,Unemployment rate,Total,From 15 to 64 years,Annual,2020,16.29417,Units
 COL,Colombia,Unemployment rate,Total,From 15 to 64 years,Annual,2021,14.125,Units
 COL,Colombia,Unemployment rate,Total,From 15 to 64 years,Annual,2022,11.47917,Units
+COL,Colombia,Unemployment rate,Total,From 15 to 64 years,Annual,2023,10.45,Units
 SWE,Sweden,Unemployment rate,Male,From 55 to 64 years,Annual,2010,7.050691,Units
 SWE,Sweden,Unemployment rate,Male,From 55 to 64 years,Annual,2011,6.324763,Units
 SWE,Sweden,Unemployment rate,Male,From 55 to 64 years,Annual,2012,6.107429,Units
@@ -26994,6 +27152,7 @@ ISR,Israel,Unemployment rate,Total,15 years or over,Annual,2019,3.8,Units
 ISR,Israel,Unemployment rate,Total,15 years or over,Annual,2020,4.325,Units
 ISR,Israel,Unemployment rate,Total,15 years or over,Annual,2021,4.958333,Units
 ISR,Israel,Unemployment rate,Total,15 years or over,Annual,2022,3.766667,Units
+ISR,Israel,Unemployment rate,Total,15 years or over,Annual,2023,3.416667,Units
 SVK,Slovak Republic,Inactivity rate,Total,From 15 to 74 years,Annual,2010,35.425,Units
 SVK,Slovak Republic,Inactivity rate,Total,From 15 to 74 years,Annual,2011,35.525,Units
 SVK,Slovak Republic,Inactivity rate,Total,From 15 to 74 years,Annual,2012,35.025,Units
@@ -27137,6 +27296,7 @@ COL,Colombia,Employment rate,Male,From 15 to 74 years,Annual,2019,75.57083,Units
 COL,Colombia,Employment rate,Male,From 15 to 74 years,Annual,2020,68.74917,Units
 COL,Colombia,Employment rate,Male,From 15 to 74 years,Annual,2021,69.55917,Units
 COL,Colombia,Employment rate,Male,From 15 to 74 years,Annual,2022,72.19917,Units
+COL,Colombia,Employment rate,Male,From 15 to 74 years,Annual,2023,72.95917,Units
 GRC,Greece,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,70.3,Units
 GRC,Greece,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,69.025,Units
 GRC,Greece,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,68.25,Units
@@ -27279,6 +27439,7 @@ CRI,Costa Rica,Inactivity rate,Male,From 15 to 64 years,Annual,2019,17.61561,Uni
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 64 years,Annual,2020,19.45284,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 64 years,Annual,2021,19.59591,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 64 years,Annual,2022,19.36878,Units
+CRI,Costa Rica,Inactivity rate,Male,From 15 to 64 years,Annual,2023,22.18433,Units
 BEL,Belgium,Employment rate,Female,From 15 to 24 years,Annual,2010,23.1,Units
 BEL,Belgium,Employment rate,Female,From 15 to 24 years,Annual,2011,24.2,Units
 BEL,Belgium,Employment rate,Female,From 15 to 24 years,Annual,2012,22.675,Units
@@ -27448,6 +27609,7 @@ JPN,Japan,Unemployment rate,Female,From 55 to 64 years,Annual,2019,1.858333,Unit
 JPN,Japan,Unemployment rate,Female,From 55 to 64 years,Annual,2020,2.183333,Units
 JPN,Japan,Unemployment rate,Female,From 55 to 64 years,Annual,2021,2.408333,Units
 JPN,Japan,Unemployment rate,Female,From 55 to 64 years,Annual,2022,2.208333,Units
+JPN,Japan,Unemployment rate,Female,From 55 to 64 years,Annual,2023,2.075,Units
 ESP,Spain,Unemployment rate,Total,From 15 to 74 years,Annual,2010,19.875,Units
 ESP,Spain,Unemployment rate,Total,From 15 to 74 years,Annual,2011,21.425,Units
 ESP,Spain,Unemployment rate,Total,From 15 to 74 years,Annual,2012,24.8,Units
@@ -27617,6 +27779,7 @@ CRI,Costa Rica,Inactivity rate,Female,From 55 to 64 years,Annual,2019,56.66731,U
 CRI,Costa Rica,Inactivity rate,Female,From 55 to 64 years,Annual,2020,61.22735,Units
 CRI,Costa Rica,Inactivity rate,Female,From 55 to 64 years,Annual,2021,63.8948,Units
 CRI,Costa Rica,Inactivity rate,Female,From 55 to 64 years,Annual,2022,61.74349,Units
+CRI,Costa Rica,Inactivity rate,Female,From 55 to 64 years,Annual,2023,67.2597,Units
 LUX,Luxembourg,Employment rate,Male,From 25 to 54 years,Annual,2010,92.0,Units
 LUX,Luxembourg,Employment rate,Male,From 25 to 54 years,Annual,2011,90.825,Units
 LUX,Luxembourg,Employment rate,Male,From 25 to 54 years,Annual,2012,91.025,Units
@@ -27643,6 +27806,7 @@ ISR,Israel,Inactivity rate,Female,From 15 to 74 years,Annual,2019,35.60833,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 74 years,Annual,2020,37.10833,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 74 years,Annual,2021,36.7,Units
 ISR,Israel,Inactivity rate,Female,From 15 to 74 years,Annual,2022,34.8,Units
+ISR,Israel,Inactivity rate,Female,From 15 to 74 years,Annual,2023,34.45,Units
 POL,Poland,Unemployment rate,Male,From 15 to 64 years,Annual,2010,9.774566,Units
 POL,Poland,Unemployment rate,Male,From 15 to 64 years,Annual,2011,9.438706,Units
 POL,Poland,Unemployment rate,Male,From 15 to 64 years,Annual,2012,9.829936,Units
@@ -27889,6 +28053,7 @@ CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2020,63.78394,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2021,63.89077,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2022,63.70009,Units
+CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2023,58.98358,Units
 AUS,Australia,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,62.64016,Units
 AUS,Australia,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,63.26239,Units
 AUS,Australia,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,63.62678,Units
@@ -28098,6 +28263,7 @@ COL,Colombia,Labour force participation rate,Male,From 15 to 24 years,Annual,201
 COL,Colombia,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,54.1225,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,51.435,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,51.83667,Units
+COL,Colombia,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,51.72,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2010,54.85,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2011,56.05,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2012,55.95,Units
@@ -28241,6 +28407,7 @@ CRI,Costa Rica,Unemployment rate,Female,From 15 to 24 years,Annual,2019,37.27151
 CRI,Costa Rica,Unemployment rate,Female,From 15 to 24 years,Annual,2020,52.91108,Units
 CRI,Costa Rica,Unemployment rate,Female,From 15 to 24 years,Annual,2021,48.20945,Units
 CRI,Costa Rica,Unemployment rate,Female,From 15 to 24 years,Annual,2022,38.39349,Units
+CRI,Costa Rica,Unemployment rate,Female,From 15 to 24 years,Annual,2023,29.21489,Units
 HUN,Hungary,Inactivity rate,Male,From 25 to 54 years,Annual,2010,12.6,Units
 HUN,Hungary,Inactivity rate,Male,From 25 to 54 years,Annual,2011,11.7,Units
 HUN,Hungary,Inactivity rate,Male,From 25 to 54 years,Annual,2012,10.575,Units
@@ -28604,6 +28771,7 @@ ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2019,43.43333,Units
 ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2020,39.7,Units
 ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2021,40.8,Units
 ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2022,42.85833,Units
+ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2023,43.66667,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Total,From 15 to 24 years,Annual,2010,31.65,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Total,From 15 to 24 years,Annual,2011,31.225,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Total,From 15 to 24 years,Annual,2012,30.275,Units
@@ -28669,6 +28837,7 @@ COL,Colombia,Inactivity rate,Total,15 years or over,Annual,2019,32.2375,Units
 COL,Colombia,Inactivity rate,Total,15 years or over,Annual,2020,36.625,Units
 COL,Colombia,Inactivity rate,Total,15 years or over,Annual,2021,38.4525,Units
 COL,Colombia,Inactivity rate,Total,15 years or over,Annual,2022,36.37167,Units
+COL,Colombia,Inactivity rate,Total,15 years or over,Annual,2023,35.865,Units
 BEL,Belgium,Labour force participation rate,Male,From 55 to 64 years,Annual,2010,47.6,Units
 BEL,Belgium,Labour force participation rate,Male,From 55 to 64 years,Annual,2011,47.825,Units
 BEL,Belgium,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,47.95,Units
@@ -29100,6 +29269,7 @@ CRI,Costa Rica,Labour force participation rate,Total,From 55 to 64 years,Annual,
 CRI,Costa Rica,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,57.04065,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,56.56744,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,57.85525,Units
+CRI,Costa Rica,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,52.34529,Units
 CZE,Czechia,Employment rate,Female,From 15 to 24 years,Annual,2010,20.6,Units
 CZE,Czechia,Employment rate,Female,From 15 to 24 years,Annual,2011,19.8,Units
 CZE,Czechia,Employment rate,Female,From 15 to 24 years,Annual,2012,21.0,Units
@@ -29571,6 +29741,7 @@ ISR,Israel,Labour force participation rate,Female,From 25 to 54 years,Annual,201
 ISR,Israel,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,78.7,Units
 ISR,Israel,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,79.4,Units
 ISR,Israel,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,81.28333,Units
+ISR,Israel,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,81.36667,Units
 PRT,Portugal,Employment rate,Female,15 years or over,Annual,2010,49.225,Units
 PRT,Portugal,Employment rate,Female,15 years or over,Annual,2011,47.475,Units
 PRT,Portugal,Employment rate,Female,15 years or over,Annual,2012,46.2,Units
@@ -29636,20 +29807,20 @@ EST,Estonia,Employment rate,Male,From 55 to 64 years,Annual,2019,69.125,Units
 EST,Estonia,Employment rate,Male,From 55 to 64 years,Annual,2020,68.3,Units
 EST,Estonia,Employment rate,Male,From 55 to 64 years,Annual,2021,70.15,Units
 EST,Estonia,Employment rate,Male,From 55 to 64 years,Annual,2022,71.7,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2010,44.82702,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2011,45.02662,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2012,45.11827,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2013,44.95401,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2014,44.99285,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2015,44.9898,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2016,44.82708,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2017,44.53041,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2018,44.78109,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2019,44.13788,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2020,46.05596,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2021,44.48788,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2022,44.43257,Units
-USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2023,43.7432,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2010,44.82689,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2011,45.02652,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2012,45.11824,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2013,44.95391,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2014,44.99273,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2015,44.98972,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2016,44.82695,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2017,44.53018,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2018,44.78061,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2019,44.13695,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2020,46.05905,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2021,44.48613,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2022,44.43051,Units
+USA,United States,Inactivity rate,Total,From 15 to 24 years,Annual,2023,43.74089,Units
 NOR,Norway,Employment rate,Total,From 15 to 64 years,Annual,2010,75.3,Units
 NOR,Norway,Employment rate,Total,From 15 to 64 years,Annual,2011,75.3,Units
 NOR,Norway,Employment rate,Total,From 15 to 64 years,Annual,2012,75.75,Units
@@ -29780,6 +29951,7 @@ COL,Colombia,Inactivity rate,Male,From 25 to 54 years,Annual,2019,4.41,Units
 COL,Colombia,Inactivity rate,Male,From 25 to 54 years,Annual,2020,7.226666,Units
 COL,Colombia,Inactivity rate,Male,From 25 to 54 years,Annual,2021,6.1,Units
 COL,Colombia,Inactivity rate,Male,From 25 to 54 years,Annual,2022,5.963333,Units
+COL,Colombia,Inactivity rate,Male,From 25 to 54 years,Annual,2023,5.808333,Units
 SWE,Sweden,Inactivity rate,Male,From 15 to 24 years,Annual,2010,47.875,Units
 SWE,Sweden,Inactivity rate,Male,From 15 to 24 years,Annual,2011,46.525,Units
 SWE,Sweden,Inactivity rate,Male,From 15 to 24 years,Annual,2012,47.95,Units
@@ -29908,6 +30080,7 @@ CRI,Costa Rica,Unemployment rate,Total,15 years or over,Annual,2019,11.75539,Uni
 CRI,Costa Rica,Unemployment rate,Total,15 years or over,Annual,2020,19.60688,Units
 CRI,Costa Rica,Unemployment rate,Total,15 years or over,Annual,2021,16.43337,Units
 CRI,Costa Rica,Unemployment rate,Total,15 years or over,Annual,2022,12.21883,Units
+CRI,Costa Rica,Unemployment rate,Total,15 years or over,Annual,2023,8.890874,Units
 LTU,Lithuania,Employment rate,Total,From 25 to 54 years,Annual,2010,73.6,Units
 LTU,Lithuania,Employment rate,Total,From 25 to 54 years,Annual,2011,76.925,Units
 LTU,Lithuania,Employment rate,Total,From 25 to 54 years,Annual,2012,78.45,Units
@@ -30245,7 +30418,7 @@ USA,United States,Inactivity rate,Female,15 years or over,Annual,2016,43.20154,U
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2017,42.96755,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2018,42.92112,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2019,42.57425,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2020,43.79466,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2020,43.79076,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2021,43.90823,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2022,43.2107,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2023,42.66913,Units
@@ -30262,6 +30435,7 @@ ISR,Israel,Labour force participation rate,Male,From 55 to 64 years,Annual,2019,
 ISR,Israel,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,76.425,Units
 ISR,Israel,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,75.76667,Units
 ISR,Israel,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,78.225,Units
+ISR,Israel,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,79.53333,Units
 AUS,Australia,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,69.60795,Units
 AUS,Australia,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,68.78336,Units
 AUS,Australia,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,68.23244,Units
@@ -30307,6 +30481,7 @@ ISR,Israel,Employment rate,Total,From 15 to 64 years,Annual,2019,68.94167,Units
 ISR,Israel,Employment rate,Total,From 15 to 64 years,Annual,2020,66.78333,Units
 ISR,Israel,Employment rate,Total,From 15 to 64 years,Annual,2021,66.6,Units
 ISR,Israel,Employment rate,Total,From 15 to 64 years,Annual,2022,69.19167,Units
+ISR,Israel,Employment rate,Total,From 15 to 64 years,Annual,2023,69.775,Units
 BEL,Belgium,Inactivity rate,Male,From 15 to 74 years,Annual,2010,33.9,Units
 BEL,Belgium,Inactivity rate,Male,From 15 to 74 years,Annual,2011,35.025,Units
 BEL,Belgium,Inactivity rate,Male,From 15 to 74 years,Annual,2012,35.0,Units
@@ -30359,6 +30534,7 @@ COL,Colombia,Labour force participation rate,Total,From 15 to 74 years,Annual,20
 COL,Colombia,Labour force participation rate,Total,From 15 to 74 years,Annual,2020,66.15,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 74 years,Annual,2021,64.28083,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 74 years,Annual,2022,66.5,Units
+COL,Colombia,Labour force participation rate,Total,From 15 to 74 years,Annual,2023,67.10833,Units
 DNK,Denmark,Employment rate,Total,From 15 to 74 years,Annual,2010,64.15,Units
 DNK,Denmark,Employment rate,Total,From 15 to 74 years,Annual,2011,63.675,Units
 DNK,Denmark,Employment rate,Total,From 15 to 74 years,Annual,2012,63.025,Units
@@ -30500,6 +30676,7 @@ COL,Colombia,Inactivity rate,Total,From 15 to 24 years,Annual,2019,48.83333,Unit
 COL,Colombia,Inactivity rate,Total,From 15 to 24 years,Annual,2020,53.3175,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 24 years,Annual,2021,56.1475,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 24 years,Annual,2022,55.03583,Units
+COL,Colombia,Inactivity rate,Total,From 15 to 24 years,Annual,2023,54.82583,Units
 GRC,Greece,Inactivity rate,Female,From 15 to 74 years,Annual,2010,50.15,Units
 GRC,Greece,Inactivity rate,Female,From 15 to 74 years,Annual,2011,50.25,Units
 GRC,Greece,Inactivity rate,Female,From 15 to 74 years,Annual,2012,49.8,Units
@@ -30539,6 +30716,7 @@ ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2019,3.775,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2020,4.675,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2021,5.216667,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2022,3.941667,Units
+ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2023,3.683333,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2011,42.99239,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2012,43.05643,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2013,42.98477,Units
@@ -30669,6 +30847,7 @@ COL,Colombia,Employment rate,Male,From 55 to 64 years,Annual,2019,79.9925,Units
 COL,Colombia,Employment rate,Male,From 55 to 64 years,Annual,2020,73.07,Units
 COL,Colombia,Employment rate,Male,From 55 to 64 years,Annual,2021,72.71083,Units
 COL,Colombia,Employment rate,Male,From 55 to 64 years,Annual,2022,75.93667,Units
+COL,Colombia,Employment rate,Male,From 55 to 64 years,Annual,2023,76.61,Units
 USA,United States,Unemployment rate,Total,From 15 to 74 years,Annual,2010,9.668201,Units
 USA,United States,Unemployment rate,Total,From 15 to 74 years,Annual,2011,8.97872,Units
 USA,United States,Unemployment rate,Total,From 15 to 74 years,Annual,2012,8.100834,Units
@@ -30748,6 +30927,7 @@ COL,Colombia,Labour force participation rate,Total,From 15 to 24 years,Annual,20
 COL,Colombia,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,46.6825,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,43.8525,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,44.96417,Units
+COL,Colombia,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,45.17417,Units
 KOR,Korea,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,77.15841,Units
 KOR,Korea,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,77.45894,Units
 KOR,Korea,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,77.73217,Units
@@ -31093,6 +31273,7 @@ CRI,Costa Rica,Employment rate,Female,15 years or over,Annual,2019,42.80834,Unit
 CRI,Costa Rica,Employment rate,Female,15 years or over,Annual,2020,35.9182,Units
 CRI,Costa Rica,Employment rate,Female,15 years or over,Annual,2021,37.98326,Units
 CRI,Costa Rica,Employment rate,Female,15 years or over,Annual,2022,40.44799,Units
+CRI,Costa Rica,Employment rate,Female,15 years or over,Annual,2023,37.66746,Units
 DEU,Germany,Inactivity rate,Male,From 15 to 24 years,Annual,2010,46.65,Units
 DEU,Germany,Inactivity rate,Male,From 15 to 24 years,Annual,2011,45.65,Units
 DEU,Germany,Inactivity rate,Male,From 15 to 24 years,Annual,2012,47.175,Units
@@ -31381,6 +31562,7 @@ ISR,Israel,Employment rate,Female,15 years or over,Annual,2019,57.25,Units
 ISR,Israel,Employment rate,Female,15 years or over,Annual,2020,55.81667,Units
 ISR,Israel,Employment rate,Female,15 years or over,Annual,2021,55.73333,Units
 ISR,Israel,Employment rate,Female,15 years or over,Annual,2022,57.86666,Units
+ISR,Israel,Employment rate,Female,15 years or over,Annual,2023,58.325,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2011,16.82669,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2012,16.76224,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2013,16.55285,Units
@@ -31482,7 +31664,7 @@ USA,United States,Inactivity rate,Total,15 years or over,Annual,2016,37.21332,Un
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2017,37.14904,Units
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2018,37.12804,Units
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2019,36.90144,Units
-USA,United States,Inactivity rate,Total,15 years or over,Annual,2020,38.24507,Units
+USA,United States,Inactivity rate,Total,15 years or over,Annual,2020,38.24407,Units
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2021,38.33799,Units
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2022,37.76177,Units
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2023,37.39376,Units
@@ -31929,6 +32111,7 @@ CRI,Costa Rica,Unemployment rate,Female,15 years or over,Annual,2019,15.32681,Un
 CRI,Costa Rica,Unemployment rate,Female,15 years or over,Annual,2020,25.65658,Units
 CRI,Costa Rica,Unemployment rate,Female,15 years or over,Annual,2021,21.97083,Units
 CRI,Costa Rica,Unemployment rate,Female,15 years or over,Annual,2022,16.37755,Units
+CRI,Costa Rica,Unemployment rate,Female,15 years or over,Annual,2023,10.84928,Units
 NLD,Netherlands,Employment rate,Female,From 15 to 74 years,Annual,2010,62.7,Units
 NLD,Netherlands,Employment rate,Female,From 15 to 74 years,Annual,2011,62.925,Units
 NLD,Netherlands,Employment rate,Female,From 15 to 74 years,Annual,2012,62.95,Units
@@ -32216,6 +32399,7 @@ CRI,Costa Rica,Labour force participation rate,Male,From 55 to 64 years,Annual,2
 CRI,Costa Rica,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,76.96408,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,78.42501,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,79.48153,Units
+CRI,Costa Rica,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,75.19637,Units
 HUN,Hungary,Inactivity rate,Female,From 55 to 64 years,Annual,2010,68.27348,Units
 HUN,Hungary,Inactivity rate,Female,From 55 to 64 years,Annual,2011,65.2425,Units
 HUN,Hungary,Inactivity rate,Female,From 55 to 64 years,Annual,2012,65.4894,Units
@@ -32306,6 +32490,7 @@ CRI,Costa Rica,Employment rate,Total,From 15 to 64 years,Annual,2019,61.64743,Un
 CRI,Costa Rica,Employment rate,Total,From 15 to 64 years,Annual,2020,54.83073,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 64 years,Annual,2021,57.15372,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 64 years,Annual,2022,60.05968,Units
+CRI,Costa Rica,Employment rate,Total,From 15 to 64 years,Annual,2023,58.64424,Units
 IRL,Ireland,Inactivity rate,Total,15 years or over,Annual,2010,37.4,Units
 IRL,Ireland,Inactivity rate,Total,15 years or over,Annual,2011,38.025,Units
 IRL,Ireland,Inactivity rate,Total,15 years or over,Annual,2012,38.35,Units
@@ -32717,6 +32902,7 @@ COL,Colombia,Employment rate,Total,From 25 to 54 years,Annual,2019,76.44167,Unit
 COL,Colombia,Employment rate,Total,From 25 to 54 years,Annual,2020,68.16417,Units
 COL,Colombia,Employment rate,Total,From 25 to 54 years,Annual,2021,69.30917,Units
 COL,Colombia,Employment rate,Total,From 25 to 54 years,Annual,2022,73.36916,Units
+COL,Colombia,Employment rate,Total,From 25 to 54 years,Annual,2023,74.47417,Units
 RUS,Russia,Employment rate,Total,From 15 to 24 years,Annual,2010,34.18401,Units
 RUS,Russia,Employment rate,Total,From 15 to 24 years,Annual,2011,34.99566,Units
 RUS,Russia,Employment rate,Total,From 15 to 24 years,Annual,2012,33.69532,Units
@@ -32782,6 +32968,7 @@ ISR,Israel,Inactivity rate,Male,From 15 to 24 years,Annual,2019,54.78333,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 24 years,Annual,2020,58.59167,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 24 years,Annual,2021,57.875,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 24 years,Annual,2022,56.425,Units
+ISR,Israel,Inactivity rate,Male,From 15 to 24 years,Annual,2023,55.075,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2010,36.70934,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2011,37.24857,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2012,36.7358,Units
@@ -32885,6 +33072,7 @@ COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2019,56.03833,Uni
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2020,60.92583,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2021,63.90583,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2022,62.07084,Units
+COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2023,61.53417,Units
 PRT,Portugal,Labour force participation rate,Male,From 55 to 64 years,Annual,2010,56.7,Units
 PRT,Portugal,Labour force participation rate,Male,From 55 to 64 years,Annual,2011,54.55,Units
 PRT,Portugal,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,53.1,Units
@@ -33079,6 +33267,7 @@ CRI,Costa Rica,Employment rate,Female,From 15 to 24 years,Annual,2019,23.76654,U
 CRI,Costa Rica,Employment rate,Female,From 15 to 24 years,Annual,2020,18.01827,Units
 CRI,Costa Rica,Employment rate,Female,From 15 to 24 years,Annual,2021,20.76663,Units
 CRI,Costa Rica,Employment rate,Female,From 15 to 24 years,Annual,2022,22.4596,Units
+CRI,Costa Rica,Employment rate,Female,From 15 to 24 years,Annual,2023,22.70247,Units
 AUT,Austria,Inactivity rate,Female,From 15 to 74 years,Annual,2010,39.3,Units
 AUT,Austria,Inactivity rate,Female,From 15 to 74 years,Annual,2011,39.0,Units
 AUT,Austria,Inactivity rate,Female,From 15 to 74 years,Annual,2012,38.5,Units
@@ -33145,6 +33334,7 @@ COL,Colombia,Employment rate,Female,From 15 to 64 years,Annual,2019,53.9825,Unit
 COL,Colombia,Employment rate,Female,From 15 to 64 years,Annual,2020,45.65917,Units
 COL,Colombia,Employment rate,Female,From 15 to 64 years,Annual,2021,44.59667,Units
 COL,Colombia,Employment rate,Female,From 15 to 64 years,Annual,2022,49.4725,Units
+COL,Colombia,Employment rate,Female,From 15 to 64 years,Annual,2023,51.36833,Units
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,39.925,Units
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,38.95,Units
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,38.425,Units
@@ -33327,6 +33517,7 @@ ISR,Israel,Unemployment rate,Total,From 15 to 64 years,Annual,2019,3.9,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 64 years,Annual,2020,4.458333,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 64 years,Annual,2021,5.091667,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 64 years,Annual,2022,3.808333,Units
+ISR,Israel,Unemployment rate,Total,From 15 to 64 years,Annual,2023,3.5,Units
 LTU,Lithuania,Unemployment rate,Male,From 15 to 74 years,Annual,2010,21.225,Units
 LTU,Lithuania,Unemployment rate,Male,From 15 to 74 years,Annual,2011,17.925,Units
 LTU,Lithuania,Unemployment rate,Male,From 15 to 74 years,Annual,2012,15.2,Units
@@ -33353,6 +33544,7 @@ ISR,Israel,Employment rate,Male,From 25 to 54 years,Annual,2019,83.38333,Units
 ISR,Israel,Employment rate,Male,From 25 to 54 years,Annual,2020,80.80833,Units
 ISR,Israel,Employment rate,Male,From 25 to 54 years,Annual,2021,79.80833,Units
 ISR,Israel,Employment rate,Male,From 25 to 54 years,Annual,2022,83.06667,Units
+ISR,Israel,Employment rate,Male,From 25 to 54 years,Annual,2023,82.80833,Units
 NZL,New Zealand,Inactivity rate,Total,From 15 to 24 years,Annual,2010,40.97478,Units
 NZL,New Zealand,Inactivity rate,Total,From 15 to 24 years,Annual,2011,41.53395,Units
 NZL,New Zealand,Inactivity rate,Total,From 15 to 24 years,Annual,2012,41.67481,Units
@@ -33470,6 +33662,7 @@ JPN,Japan,Unemployment rate,Male,From 15 to 24 years,Annual,2019,4.016667,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 24 years,Annual,2020,5.083333,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 24 years,Annual,2021,5.15,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 24 years,Annual,2022,4.908333,Units
+JPN,Japan,Unemployment rate,Male,From 15 to 24 years,Annual,2023,4.383333,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 24 years,Annual,2010,23.9,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 24 years,Annual,2011,25.475,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 24 years,Annual,2012,22.0,Units
@@ -33548,6 +33741,7 @@ ISR,Israel,Labour force participation rate,Female,From 15 to 64 years,Annual,201
 ISR,Israel,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,67.73333,Units
 ISR,Israel,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,68.5,Units
 ISR,Israel,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,70.225,Units
+ISR,Israel,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,70.48333,Units
 KOR,Korea,Unemployment rate,Male,From 15 to 64 years,Annual,2010,4.060878,Units
 KOR,Korea,Unemployment rate,Male,From 15 to 64 years,Annual,2011,3.685477,Units
 KOR,Korea,Unemployment rate,Male,From 15 to 64 years,Annual,2012,3.449594,Units
@@ -33666,6 +33860,7 @@ ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2019,7.191667,Uni
 ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2020,8.25,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2021,7.958333,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2022,6.6,Units
+ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2023,5.8,Units
 SVN,Slovenia,Inactivity rate,Male,From 25 to 54 years,Annual,2010,9.325,Units
 SVN,Slovenia,Inactivity rate,Male,From 25 to 54 years,Annual,2011,9.1,Units
 SVN,Slovenia,Inactivity rate,Male,From 25 to 54 years,Annual,2012,8.475,Units
@@ -33978,6 +34173,7 @@ COL,Colombia,Inactivity rate,Male,From 15 to 64 years,Annual,2019,15.58083,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 64 years,Annual,2020,18.76833,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 64 years,Annual,2021,18.76833,Units
 COL,Colombia,Inactivity rate,Male,From 15 to 64 years,Annual,2022,18.13,Units
+COL,Colombia,Inactivity rate,Male,From 15 to 64 years,Annual,2023,17.88167,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 64 years,Annual,2010,57.55,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 64 years,Annual,2011,60.2,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 64 years,Annual,2012,62.025,Units
@@ -34017,6 +34213,7 @@ ISR,Israel,Labour force participation rate,Female,From 55 to 64 years,Annual,201
 ISR,Israel,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,63.94167,Units
 ISR,Israel,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,64.74167,Units
 ISR,Israel,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,66.31667,Units
+ISR,Israel,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,66.54166,Units
 SVN,Slovenia,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,89.075,Units
 SVN,Slovenia,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,89.375,Units
 SVN,Slovenia,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,90.05,Units
@@ -34160,6 +34357,7 @@ CRI,Costa Rica,Inactivity rate,Male,From 15 to 24 years,Annual,2019,48.45799,Uni
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 24 years,Annual,2020,49.66054,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 24 years,Annual,2021,50.78345,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 24 years,Annual,2022,52.00116,Units
+CRI,Costa Rica,Inactivity rate,Male,From 15 to 24 years,Annual,2023,57.75664,Units
 AUT,Austria,Inactivity rate,Total,From 15 to 74 years,Annual,2010,33.7,Units
 AUT,Austria,Inactivity rate,Total,From 15 to 74 years,Annual,2011,33.6,Units
 AUT,Austria,Inactivity rate,Total,From 15 to 74 years,Annual,2012,33.325,Units
@@ -34501,6 +34699,7 @@ ISR,Israel,Labour force participation rate,Total,From 15 to 74 years,Annual,2019
 ISR,Israel,Labour force participation rate,Total,From 15 to 74 years,Annual,2020,65.90833,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 74 years,Annual,2021,65.925,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 74 years,Annual,2022,67.73333,Units
+ISR,Israel,Labour force participation rate,Total,From 15 to 74 years,Annual,2023,68.2,Units
 CAN,Canada,Employment rate,Total,From 55 to 64 years,Annual,2010,57.61163,Units
 CAN,Canada,Employment rate,Total,From 55 to 64 years,Annual,2011,58.09771,Units
 CAN,Canada,Employment rate,Total,From 55 to 64 years,Annual,2012,59.15725,Units
@@ -34593,6 +34792,7 @@ ISR,Israel,Inactivity rate,Total,From 55 to 64 years,Annual,2019,30.05833,Units
 ISR,Israel,Inactivity rate,Total,From 55 to 64 years,Annual,2020,29.94167,Units
 ISR,Israel,Inactivity rate,Total,From 55 to 64 years,Annual,2021,29.85,Units
 ISR,Israel,Inactivity rate,Total,From 55 to 64 years,Annual,2022,27.88333,Units
+ISR,Israel,Inactivity rate,Total,From 55 to 64 years,Annual,2023,27.11667,Units
 JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2010,15.85567,Units
 JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2011,15.68869,Units
 JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2012,15.91966,Units
@@ -34852,6 +35052,7 @@ CRI,Costa Rica,Labour force participation rate,Female,From 15 to 74 years,Annual
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 74 years,Annual,2020,51.31439,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,51.95592,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 15 to 74 years,Annual,2022,51.74081,Units
+CRI,Costa Rica,Labour force participation rate,Female,From 15 to 74 years,Annual,2023,45.53805,Units
 DNK,Denmark,Unemployment rate,Male,15 years or over,Annual,2010,8.620202,Units
 DNK,Denmark,Unemployment rate,Male,15 years or over,Annual,2011,7.902107,Units
 DNK,Denmark,Unemployment rate,Male,15 years or over,Annual,2012,7.805448,Units
@@ -34981,6 +35182,7 @@ CRI,Costa Rica,Employment rate,Male,From 25 to 54 years,Annual,2019,89.42449,Uni
 CRI,Costa Rica,Employment rate,Male,From 25 to 54 years,Annual,2020,81.87578,Units
 CRI,Costa Rica,Employment rate,Male,From 25 to 54 years,Annual,2021,85.43681,Units
 CRI,Costa Rica,Employment rate,Male,From 25 to 54 years,Annual,2022,87.85082,Units
+CRI,Costa Rica,Employment rate,Male,From 25 to 54 years,Annual,2023,87.08886,Units
 DEU,Germany,Unemployment rate,Total,From 15 to 24 years,Annual,2010,10.47018,Units
 DEU,Germany,Unemployment rate,Total,From 15 to 24 years,Annual,2011,9.087987,Units
 DEU,Germany,Unemployment rate,Total,From 15 to 24 years,Annual,2012,8.575577,Units
@@ -35007,6 +35209,7 @@ COL,Colombia,Labour force participation rate,Male,15 years or over,Annual,2019,7
 COL,Colombia,Labour force participation rate,Male,15 years or over,Annual,2020,76.205,Units
 COL,Colombia,Labour force participation rate,Male,15 years or over,Annual,2021,75.7125,Units
 COL,Colombia,Labour force participation rate,Male,15 years or over,Annual,2022,76.485,Units
+COL,Colombia,Labour force participation rate,Male,15 years or over,Annual,2023,76.6425,Units
 DEU,Germany,Employment rate,Total,From 15 to 24 years,Annual,2010,45.625,Units
 DEU,Germany,Employment rate,Total,From 15 to 24 years,Annual,2011,47.3,Units
 DEU,Germany,Employment rate,Total,From 15 to 24 years,Annual,2012,46.0,Units
@@ -35033,6 +35236,7 @@ ISR,Israel,Inactivity rate,Male,15 years or over,Annual,2019,32.4,Units
 ISR,Israel,Inactivity rate,Male,15 years or over,Annual,2020,34.45833,Units
 ISR,Israel,Inactivity rate,Male,15 years or over,Annual,2021,34.88334,Units
 ISR,Israel,Inactivity rate,Male,15 years or over,Annual,2022,33.41667,Units
+ISR,Israel,Inactivity rate,Male,15 years or over,Annual,2023,33.08333,Units
 LVA,Latvia,Inactivity rate,Female,15 years or over,Annual,2010,46.075,Units
 LVA,Latvia,Inactivity rate,Female,15 years or over,Annual,2011,46.95,Units
 LVA,Latvia,Inactivity rate,Female,15 years or over,Annual,2012,45.675,Units
@@ -35177,6 +35381,7 @@ CRI,Costa Rica,Inactivity rate,Male,15 years or over,Annual,2019,25.63416,Units
 CRI,Costa Rica,Inactivity rate,Male,15 years or over,Annual,2020,27.7576,Units
 CRI,Costa Rica,Inactivity rate,Male,15 years or over,Annual,2021,28.18045,Units
 CRI,Costa Rica,Inactivity rate,Male,15 years or over,Annual,2022,28.73105,Units
+CRI,Costa Rica,Inactivity rate,Male,15 years or over,Annual,2023,31.62143,Units
 LUX,Luxembourg,Unemployment rate,Total,15 years or over,Annual,2010,4.351644,Units
 LUX,Luxembourg,Unemployment rate,Total,15 years or over,Annual,2011,4.896927,Units
 LUX,Luxembourg,Unemployment rate,Total,15 years or over,Annual,2012,5.138786,Units
@@ -35437,6 +35642,7 @@ JPN,Japan,Unemployment rate,Total,From 55 to 64 years,Annual,2019,2.116667,Units
 JPN,Japan,Unemployment rate,Total,From 55 to 64 years,Annual,2020,2.591667,Units
 JPN,Japan,Unemployment rate,Total,From 55 to 64 years,Annual,2021,2.775,Units
 JPN,Japan,Unemployment rate,Total,From 55 to 64 years,Annual,2022,2.525,Units
+JPN,Japan,Unemployment rate,Total,From 55 to 64 years,Annual,2023,2.483333,Units
 EA20,Euro area (20 countries),Labour force participation rate,Total,From 25 to 54 years,Annual,2010,84.75,Units
 EA20,Euro area (20 countries),Labour force participation rate,Total,From 25 to 54 years,Annual,2011,84.825,Units
 EA20,Euro area (20 countries),Labour force participation rate,Total,From 25 to 54 years,Annual,2012,85.175,Units
@@ -35593,6 +35799,7 @@ ISR,Israel,Unemployment rate,Male,From 25 to 54 years,Annual,2019,3.391667,Units
 ISR,Israel,Unemployment rate,Male,From 25 to 54 years,Annual,2020,4.275,Units
 ISR,Israel,Unemployment rate,Male,From 25 to 54 years,Annual,2021,4.916667,Units
 ISR,Israel,Unemployment rate,Male,From 25 to 54 years,Annual,2022,3.241667,Units
+ISR,Israel,Unemployment rate,Male,From 25 to 54 years,Annual,2023,3.358333,Units
 DNK,Denmark,Unemployment rate,Male,From 15 to 24 years,Annual,2010,17.95,Units
 DNK,Denmark,Unemployment rate,Male,From 15 to 24 years,Annual,2011,18.2,Units
 DNK,Denmark,Unemployment rate,Male,From 15 to 24 years,Annual,2012,16.775,Units
@@ -35619,6 +35826,7 @@ JPN,Japan,Employment rate,Male,15 years or over,Annual,2019,69.84651,Units
 JPN,Japan,Employment rate,Male,15 years or over,Annual,2020,69.49152,Units
 JPN,Japan,Employment rate,Male,15 years or over,Annual,2021,69.38542,Units
 JPN,Japan,Employment rate,Male,15 years or over,Annual,2022,69.47762,Units
+JPN,Japan,Employment rate,Male,15 years or over,Annual,2023,69.5052,Units
 NLD,Netherlands,Employment rate,Female,From 55 to 64 years,Annual,2010,41.525,Units
 NLD,Netherlands,Employment rate,Female,From 55 to 64 years,Annual,2011,45.05,Units
 NLD,Netherlands,Employment rate,Female,From 55 to 64 years,Annual,2012,47.5,Units
@@ -35789,6 +35997,7 @@ COL,Colombia,Labour force participation rate,Total,From 55 to 64 years,Annual,20
 COL,Colombia,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,61.2675,Units
 COL,Colombia,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,56.795,Units
 COL,Colombia,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,59.67,Units
+COL,Colombia,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,61.505,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,From 25 to 54 years,Annual,2010,77.9,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,From 25 to 54 years,Annual,2011,78.2,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,From 25 to 54 years,Annual,2012,78.9,Units
@@ -35841,6 +36050,7 @@ ISR,Israel,Labour force participation rate,Female,From 15 to 74 years,Annual,201
 ISR,Israel,Labour force participation rate,Female,From 15 to 74 years,Annual,2020,62.89167,Units
 ISR,Israel,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,63.3,Units
 ISR,Israel,Labour force participation rate,Female,From 15 to 74 years,Annual,2022,65.2,Units
+ISR,Israel,Labour force participation rate,Female,From 15 to 74 years,Annual,2023,65.55,Units
 LVA,Latvia,Employment rate,Total,From 25 to 54 years,Annual,2010,72.25,Units
 LVA,Latvia,Employment rate,Total,From 25 to 54 years,Annual,2011,74.675,Units
 LVA,Latvia,Employment rate,Total,From 25 to 54 years,Annual,2012,76.05,Units
@@ -35960,6 +36170,7 @@ JPN,Japan,Unemployment rate,Male,15 years or over,Annual,2019,2.483333,Units
 JPN,Japan,Unemployment rate,Male,15 years or over,Annual,2020,3.0,Units
 JPN,Japan,Unemployment rate,Male,15 years or over,Annual,2021,3.05,Units
 JPN,Japan,Unemployment rate,Male,15 years or over,Annual,2022,2.8,Units
+JPN,Japan,Unemployment rate,Male,15 years or over,Annual,2023,2.766667,Units
 FRA,France,Unemployment rate,Total,From 15 to 64 years,Annual,2010,9.306608,Units
 FRA,France,Unemployment rate,Total,From 15 to 64 years,Annual,2011,9.253405,Units
 FRA,France,Unemployment rate,Total,From 15 to 64 years,Annual,2012,9.836194,Units
@@ -36169,6 +36380,7 @@ COL,Colombia,Unemployment rate,Total,From 25 to 54 years,Annual,2019,8.956667,Un
 COL,Colombia,Unemployment rate,Total,From 25 to 54 years,Annual,2020,14.68833,Units
 COL,Colombia,Unemployment rate,Total,From 25 to 54 years,Annual,2021,12.43417,Units
 COL,Colombia,Unemployment rate,Total,From 25 to 54 years,Annual,2022,9.939167,Units
+COL,Colombia,Unemployment rate,Total,From 25 to 54 years,Annual,2023,9.101666,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 64 years,Annual,2010,18.175,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 64 years,Annual,2011,18.275,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 64 years,Annual,2012,17.375,Units
@@ -36585,6 +36797,7 @@ COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2019,8.165833,Uni
 COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2020,12.89333,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2021,11.35083,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2022,9.015,Units
+COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2023,8.241667,Units
 ITA,Italy,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,64.225,Units
 ITA,Italy,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,64.4,Units
 ITA,Italy,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,66.15,Units
@@ -36702,6 +36915,7 @@ ISR,Israel,Unemployment rate,Total,From 15 to 24 years,Annual,2019,6.666667,Unit
 ISR,Israel,Unemployment rate,Total,From 15 to 24 years,Annual,2020,7.933333,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 24 years,Annual,2021,7.725,Units
 ISR,Israel,Unemployment rate,Total,From 15 to 24 years,Annual,2022,6.875,Units
+ISR,Israel,Unemployment rate,Total,From 15 to 24 years,Annual,2023,5.975,Units
 AUT,Austria,Unemployment rate,Total,From 15 to 24 years,Annual,2010,10.16834,Units
 AUT,Austria,Unemployment rate,Total,From 15 to 24 years,Annual,2011,9.525568,Units
 AUT,Austria,Unemployment rate,Total,From 15 to 24 years,Annual,2012,9.984708,Units
@@ -36767,6 +36981,7 @@ COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2019,65.36667,Unit
 COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2020,57.83167,Units
 COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2021,57.84833,Units
 COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2022,61.59167,Units
+COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2023,62.97167,Units
 SVK,Slovak Republic,Inactivity rate,Female,15 years or over,Annual,2010,49.2,Units
 SVK,Slovak Republic,Inactivity rate,Female,15 years or over,Annual,2011,49.85,Units
 SVK,Slovak Republic,Inactivity rate,Female,15 years or over,Annual,2012,49.3,Units
@@ -36988,6 +37203,7 @@ COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2019,43.28833,Units
 COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2020,48.4975,Units
 COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2021,51.55167,Units
 COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2022,48.2475,Units
+COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2023,47.40417,Units
 EA20,Euro area (20 countries),Employment rate,Male,From 15 to 64 years,Annual,2010,69.6,Units
 EA20,Euro area (20 countries),Employment rate,Male,From 15 to 64 years,Annual,2011,69.5,Units
 EA20,Euro area (20 countries),Employment rate,Male,From 15 to 64 years,Annual,2012,68.7,Units
@@ -37092,6 +37308,7 @@ ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2019
 ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,81.51667,Units
 ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,81.64167,Units
 ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,83.53333,Units
+ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,83.49167,Units
 FIN,Finland,Inactivity rate,Female,From 15 to 74 years,Annual,2010,37.325,Units
 FIN,Finland,Inactivity rate,Female,From 15 to 74 years,Annual,2011,37.45,Units
 FIN,Finland,Inactivity rate,Female,From 15 to 74 years,Annual,2012,37.125,Units
@@ -37169,6 +37386,7 @@ ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2019,66.44167,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2020,64.86667,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2021,65.09167,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2022,67.625,Units
+ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2023,68.13333,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 55 to 64 years,Annual,2010,11.21688,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 55 to 64 years,Annual,2011,9.086057,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 55 to 64 years,Annual,2012,11.59269,Units
@@ -37220,6 +37438,7 @@ ISR,Israel,Unemployment rate,Female,From 15 to 64 years,Annual,2019,4.041667,Uni
 ISR,Israel,Unemployment rate,Female,From 15 to 64 years,Annual,2020,4.216667,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 64 years,Annual,2021,4.941667,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 64 years,Annual,2022,3.725,Units
+ISR,Israel,Unemployment rate,Female,From 15 to 64 years,Annual,2023,3.308333,Units
 BEL,Belgium,Employment rate,Male,15 years or over,Annual,2010,55.825,Units
 BEL,Belgium,Employment rate,Male,15 years or over,Annual,2011,55.475,Units
 BEL,Belgium,Employment rate,Male,15 years or over,Annual,2012,55.175,Units
@@ -37245,6 +37464,7 @@ CRI,Costa Rica,Unemployment rate,Total,From 15 to 24 years,Annual,2019,31.8951,U
 CRI,Costa Rica,Unemployment rate,Total,From 15 to 24 years,Annual,2020,42.44603,Units
 CRI,Costa Rica,Unemployment rate,Total,From 15 to 24 years,Annual,2021,39.35659,Units
 CRI,Costa Rica,Unemployment rate,Total,From 15 to 24 years,Annual,2022,30.95234,Units
+CRI,Costa Rica,Unemployment rate,Total,From 15 to 24 years,Annual,2023,24.83803,Units
 AUT,Austria,Employment rate,Male,From 15 to 64 years,Annual,2010,75.975,Units
 AUT,Austria,Employment rate,Male,From 15 to 64 years,Annual,2011,76.225,Units
 AUT,Austria,Employment rate,Male,From 15 to 64 years,Annual,2012,76.225,Units
@@ -37374,6 +37594,7 @@ CRI,Costa Rica,Employment rate,Female,From 15 to 64 years,Annual,2019,48.56737,U
 CRI,Costa Rica,Employment rate,Female,From 15 to 64 years,Annual,2020,41.43744,Units
 CRI,Costa Rica,Employment rate,Female,From 15 to 64 years,Annual,2021,43.92369,Units
 CRI,Costa Rica,Employment rate,Female,From 15 to 64 years,Annual,2022,47.06725,Units
+CRI,Costa Rica,Employment rate,Female,From 15 to 64 years,Annual,2023,45.08326,Units
 SVN,Slovenia,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,32.85,Units
 SVN,Slovenia,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,30.6,Units
 SVN,Slovenia,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,28.45,Units
@@ -37569,6 +37790,7 @@ COL,Colombia,Employment rate,Female,From 25 to 54 years,Annual,2019,64.36667,Uni
 COL,Colombia,Employment rate,Female,From 25 to 54 years,Annual,2020,54.97667,Units
 COL,Colombia,Employment rate,Female,From 25 to 54 years,Annual,2021,54.8025,Units
 COL,Colombia,Employment rate,Female,From 25 to 54 years,Annual,2022,60.57583,Units
+COL,Colombia,Employment rate,Female,From 25 to 54 years,Annual,2023,62.04667,Units
 COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,42.71583,Units
 COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,45.40583,Units
 COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,47.98917,Units
@@ -37582,6 +37804,7 @@ COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2
 COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,43.925,Units
 COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,37.49,Units
 COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,40.8625,Units
+COL,Colombia,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,44.21083,Units
 IRL,Ireland,Unemployment rate,Total,From 25 to 54 years,Annual,2010,13.03596,Units
 IRL,Ireland,Unemployment rate,Total,From 25 to 54 years,Annual,2011,14.07925,Units
 IRL,Ireland,Unemployment rate,Total,From 25 to 54 years,Annual,2012,13.94081,Units
@@ -37685,6 +37908,7 @@ CRI,Costa Rica,Employment rate,Total,From 15 to 24 years,Annual,2019,30.79197,Un
 CRI,Costa Rica,Employment rate,Total,From 15 to 24 years,Annual,2020,25.77477,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 24 years,Annual,2021,27.41347,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 24 years,Annual,2022,29.5178,Units
+CRI,Costa Rica,Employment rate,Total,From 15 to 24 years,Annual,2023,28.39743,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2010,26.4,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2011,25.825,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2012,25.725,Units

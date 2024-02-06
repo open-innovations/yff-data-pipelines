@@ -173,7 +173,6 @@
   ],
   "version":[
     "Final",
-    "Provisional",
     "Revised"
   ],
   "education_investment_area_flag":[
@@ -196,7 +195,8 @@
   ],
   "breakdown":[
     "Disadvantage",
-    "Ethnic major",
+    "Ethnicity major",
+    "Ethnicity minor",
     "First language",
     "Free school meals",
     "SEN description",
@@ -241,6 +241,7 @@
   ],
   "variable":[
     "avg_att8",
-    "avg_p8score"
+    "avg_p8score",
+    "ethnicity_minor"
   ]
 }
