@@ -1,19 +1,19 @@
 date,Sector,key_youth_sectors,wanted_youth_sectors,variable,value
-2023-10-01,Real estate activities,False,False,Growth since previous quarter (%),16.0
-2023-10-01,Administrative & support service activities,False,False,Growth since previous quarter (%),10.7
-2023-10-01,Construction,False,False,Growth since previous quarter (%),5.9
-2023-10-01,Financial & insurance activities,False,True,Growth since previous quarter (%),2.0
-2023-10-01,Education,False,False,Growth since previous quarter (%),-2.1
-2023-10-01,Accommodation & food service activities,True,False,Growth since previous quarter (%),-5.9
-2023-10-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),-9.4
-2023-10-01,Transport & storage,False,False,Growth since previous quarter (%),-23.7
-2023-10-01,Arts entertainment & recreation,False,True,Growth since previous quarter (%),-31.6
-2023-10-01,Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),-17.1
-2023-10-01,Administrative & support service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),15.3
-2023-10-01,Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),35.2
-2023-10-01,Financial & insurance activities,False,True,Growth since pre-coronavirus January to March 2020 (%),21.8
-2023-10-01,Education,False,False,Growth since pre-coronavirus January to March 2020 (%),27.9
-2023-10-01,Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),26.4
-2023-10-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),-4.6
-2023-10-01,Transport & storage,False,False,Growth since pre-coronavirus January to March 2020 (%),-17.2
-2023-10-01,Arts entertainment & recreation,False,True,Growth since pre-coronavirus January to March 2020 (%),-18.2
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Real estate activities,False,False,Growth since previous quarter (%),41.6
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Information & communication,False,False,Growth since previous quarter (%),6.2
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Construction,False,False,Growth since previous quarter (%),2.3
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Financial & insurance activities,False,True,Growth since previous quarter (%),-3.2
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),-5.1
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Accommodation & food service activities,True,False,Growth since previous quarter (%),-5.9
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Human health & social work activities,True,False,Growth since previous quarter (%),-6.4
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Arts entertainment & recreation,False,True,Growth since previous quarter (%),-8.7
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Electricity gas steam & air conditioning supply,False,False,Growth since previous quarter (%),-11.1
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),-10.0
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Information & communication,False,False,Growth since pre-coronavirus January to March 2020 (%),2.5
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),33.3
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Financial & insurance activities,False,True,Growth since pre-coronavirus January to March 2020 (%),15.0
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),-3.8
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),26.4
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Human health & social work activities,True,False,Growth since pre-coronavirus January to March 2020 (%),22.6
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Arts entertainment & recreation,False,True,Growth since pre-coronavirus January to March 2020 (%),-14.1
+"November 2023 to January 2024 three-month average vacancies in the UK, quarterly percentage growth from August to October 2023 and percentage growth from pre-coronavirus January to March 2020",Electricity gas steam & air conditioning supply,False,False,Growth since pre-coronavirus January to March 2020 (%),45.5
