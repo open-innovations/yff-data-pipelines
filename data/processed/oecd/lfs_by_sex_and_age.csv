@@ -1298,6 +1298,7 @@ MEX,Mexico,Labour force participation rate,Total,15 years or over,Annual,2019,60
 MEX,Mexico,Labour force participation rate,Total,15 years or over,Annual,2020,55.5923,Units
 MEX,Mexico,Labour force participation rate,Total,15 years or over,Annual,2021,58.81825,Units
 MEX,Mexico,Labour force participation rate,Total,15 years or over,Annual,2022,59.75613,Units
+MEX,Mexico,Labour force participation rate,Total,15 years or over,Annual,2023,60.39805,Units
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2010,7.783696,Units
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2011,7.882461,Units
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2012,8.417224,Units
@@ -1337,6 +1338,7 @@ MEX,Mexico,Employment rate,Female,15 years or over,Annual,2019,43.19088,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2020,39.35019,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2021,41.81235,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2022,43.53586,Units
+MEX,Mexico,Employment rate,Female,15 years or over,Annual,2023,44.95546,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2010,36.725,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2011,36.3,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2012,36.075,Units
@@ -2738,6 +2740,7 @@ MEX,Mexico,Employment rate,Male,From 15 to 24 years,Annual,2018,52.9484,Units
 MEX,Mexico,Employment rate,Male,From 15 to 24 years,Annual,2019,53.49628,Units
 MEX,Mexico,Employment rate,Male,From 15 to 24 years,Annual,2021,51.76548,Units
 MEX,Mexico,Employment rate,Male,From 15 to 24 years,Annual,2022,52.80017,Units
+MEX,Mexico,Employment rate,Male,From 15 to 24 years,Annual,2023,52.7801,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Total,From 55 to 64 years,Annual,2010,52.65596,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Total,From 55 to 64 years,Annual,2011,51.27124,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Total,From 55 to 64 years,Annual,2012,49.33295,Units
@@ -4348,6 +4351,7 @@ MEX,Mexico,Inactivity rate,Total,From 25 to 54 years,Annual,2018,26.00077,Units
 MEX,Mexico,Inactivity rate,Total,From 25 to 54 years,Annual,2019,25.2419,Units
 MEX,Mexico,Inactivity rate,Total,From 25 to 54 years,Annual,2021,26.0445,Units
 MEX,Mexico,Inactivity rate,Total,From 25 to 54 years,Annual,2022,24.79323,Units
+MEX,Mexico,Inactivity rate,Total,From 25 to 54 years,Annual,2023,23.84583,Units
 NZL,New Zealand,Inactivity rate,Female,From 15 to 24 years,Annual,2010,42.86431,Units
 NZL,New Zealand,Inactivity rate,Female,From 15 to 24 years,Annual,2011,44.15113,Units
 NZL,New Zealand,Inactivity rate,Female,From 15 to 24 years,Annual,2012,43.85463,Units
@@ -5256,6 +5260,7 @@ MEX,Mexico,Employment rate,Female,From 55 to 64 years,Annual,2018,37.1398,Units
 MEX,Mexico,Employment rate,Female,From 55 to 64 years,Annual,2019,39.40662,Units
 MEX,Mexico,Employment rate,Female,From 55 to 64 years,Annual,2021,35.77989,Units
 MEX,Mexico,Employment rate,Female,From 55 to 64 years,Annual,2022,38.84901,Units
+MEX,Mexico,Employment rate,Female,From 55 to 64 years,Annual,2023,40.74341,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,43.70717,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,43.38065,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,41.9998,Units
@@ -5413,6 +5418,7 @@ MEX,Mexico,Unemployment rate,Total,From 15 to 24 years,Annual,2018,6.889628,Unit
 MEX,Mexico,Unemployment rate,Total,From 15 to 24 years,Annual,2019,7.236226,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 24 years,Annual,2021,7.945299,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 24 years,Annual,2022,6.527505,Units
+MEX,Mexico,Unemployment rate,Total,From 15 to 24 years,Annual,2023,5.920864,Units
 ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2010,52.9,Units
 ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2011,52.1,Units
 ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2012,49.975,Units
@@ -5840,6 +5846,7 @@ MEX,Mexico,Employment rate,Female,From 15 to 64 years,Annual,2018,45.65526,Units
 MEX,Mexico,Employment rate,Female,From 15 to 64 years,Annual,2019,47.05855,Units
 MEX,Mexico,Employment rate,Female,From 15 to 64 years,Annual,2021,46.17591,Units
 MEX,Mexico,Employment rate,Female,From 15 to 64 years,Annual,2022,48.00699,Units
+MEX,Mexico,Employment rate,Female,From 15 to 64 years,Annual,2023,49.70797,Units
 EST,Estonia,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,72.375,Units
 EST,Estonia,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,72.275,Units
 EST,Estonia,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,72.95,Units
@@ -6992,6 +6999,7 @@ MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,201
 MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2019,32.42048,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,32.4021,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,32.46268,Units
+MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,33.69421,Units
 SVN,Slovenia,Inactivity rate,Female,From 15 to 24 years,Annual,2010,67.15,Units
 SVN,Slovenia,Inactivity rate,Female,From 15 to 24 years,Annual,2011,69.4,Units
 SVN,Slovenia,Inactivity rate,Female,From 15 to 24 years,Annual,2012,71.55,Units
@@ -7530,6 +7538,7 @@ MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2018
 MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2019,57.13099,Units
 MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,54.56015,Units
 MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,56.666,Units
+MEX,Mexico,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,57.7921,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2010,57.21607,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2011,57.39384,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2012,58.26327,Units
@@ -7648,6 +7657,7 @@ MEX,Mexico,Inactivity rate,Total,From 15 to 64 years,Annual,2018,36.2232,Units
 MEX,Mexico,Inactivity rate,Total,From 15 to 64 years,Annual,2019,35.38264,Units
 MEX,Mexico,Inactivity rate,Total,From 15 to 64 years,Annual,2021,36.25448,Units
 MEX,Mexico,Inactivity rate,Total,From 15 to 64 years,Annual,2022,35.26508,Units
+MEX,Mexico,Inactivity rate,Total,From 15 to 64 years,Annual,2023,34.39454,Units
 G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2010,67.20168,Units
 G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2011,67.43855,Units
 G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2012,67.70052,Units
@@ -7988,6 +7998,7 @@ MEX,Mexico,Inactivity rate,Male,15 years or over,Annual,2019,22.74564,Units
 MEX,Mexico,Inactivity rate,Male,15 years or over,Annual,2020,28.3039,Units
 MEX,Mexico,Inactivity rate,Male,15 years or over,Annual,2021,24.29443,Units
 MEX,Mexico,Inactivity rate,Male,15 years or over,Annual,2022,23.68189,Units
+MEX,Mexico,Inactivity rate,Male,15 years or over,Annual,2023,23.63378,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 74 years,Annual,2010,29.95,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 74 years,Annual,2011,29.5,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 74 years,Annual,2012,29.275,Units
@@ -8133,6 +8144,7 @@ MEX,Mexico,Employment rate,Male,From 25 to 54 years,Annual,2018,91.76981,Units
 MEX,Mexico,Employment rate,Male,From 25 to 54 years,Annual,2019,91.25697,Units
 MEX,Mexico,Employment rate,Male,From 25 to 54 years,Annual,2021,89.54941,Units
 MEX,Mexico,Employment rate,Male,From 25 to 54 years,Annual,2022,90.84157,Units
+MEX,Mexico,Employment rate,Male,From 25 to 54 years,Annual,2023,91.67839,Units
 EA20,Euro area (20 countries),Employment rate,Female,From 15 to 74 years,Annual,2010,50.55,Units
 EA20,Euro area (20 countries),Employment rate,Female,From 15 to 74 years,Annual,2011,50.875,Units
 EA20,Euro area (20 countries),Employment rate,Female,From 15 to 74 years,Annual,2012,50.8,Units
@@ -8528,6 +8540,7 @@ MEX,Mexico,Unemployment rate,Male,From 25 to 54 years,Annual,2018,2.711257,Units
 MEX,Mexico,Unemployment rate,Male,From 25 to 54 years,Annual,2019,2.98165,Units
 MEX,Mexico,Unemployment rate,Male,From 25 to 54 years,Annual,2021,3.58446,Units
 MEX,Mexico,Unemployment rate,Male,From 25 to 54 years,Annual,2022,2.83947,Units
+MEX,Mexico,Unemployment rate,Male,From 25 to 54 years,Annual,2023,2.406152,Units
 ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2010,69.3443,Units
 ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2011,70.24001,Units
 ISR,Israel,Employment rate,Female,From 25 to 54 years,Annual,2012,72.11667,Units
@@ -9463,6 +9476,7 @@ MEX,Mexico,Labour force participation rate,Male,15 years or over,Annual,2019,77.
 MEX,Mexico,Labour force participation rate,Male,15 years or over,Annual,2020,71.6961,Units
 MEX,Mexico,Labour force participation rate,Male,15 years or over,Annual,2021,75.70557,Units
 MEX,Mexico,Labour force participation rate,Male,15 years or over,Annual,2022,76.31811,Units
+MEX,Mexico,Labour force participation rate,Male,15 years or over,Annual,2023,76.36623,Units
 CAN,Canada,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,55.60069,Units
 CAN,Canada,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,56.27685,Units
 CAN,Canada,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,57.19685,Units
@@ -10251,6 +10265,7 @@ MEX,Mexico,Inactivity rate,Male,From 25 to 54 years,Annual,2018,5.672749,Units
 MEX,Mexico,Inactivity rate,Male,From 25 to 54 years,Annual,2019,5.938295,Units
 MEX,Mexico,Inactivity rate,Male,From 25 to 54 years,Annual,2021,7.122445,Units
 MEX,Mexico,Inactivity rate,Male,From 25 to 54 years,Annual,2022,6.504141,Units
+MEX,Mexico,Inactivity rate,Male,From 25 to 54 years,Annual,2023,6.061189,Units
 LVA,Latvia,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,72.725,Units
 LVA,Latvia,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,72.65,Units
 LVA,Latvia,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,74.3,Units
@@ -10343,6 +10358,7 @@ MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2018,69.08702,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2019,67.57953,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2021,67.5979,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2022,67.53732,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 24 years,Annual,2023,66.30579,Units
 ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2010,24.73381,Units
 ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2011,25.71399,Units
 ISR,Israel,Employment rate,Male,From 15 to 24 years,Annual,2012,44.53333,Units
@@ -11882,6 +11898,7 @@ MEX,Mexico,Labour force participation rate,Female,From 55 to 64 years,Annual,201
 MEX,Mexico,Labour force participation rate,Female,From 55 to 64 years,Annual,2019,39.84996,Units
 MEX,Mexico,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,36.5489,Units
 MEX,Mexico,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,39.32042,Units
+MEX,Mexico,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,41.22364,Units
 LVA,Latvia,Employment rate,Male,From 15 to 24 years,Annual,2010,26.475,Units
 LVA,Latvia,Employment rate,Male,From 15 to 24 years,Annual,2011,28.25,Units
 LVA,Latvia,Employment rate,Male,From 15 to 24 years,Annual,2012,31.8,Units
@@ -12115,6 +12132,7 @@ MEX,Mexico,Unemployment rate,Female,From 15 to 64 years,Annual,2018,3.543993,Uni
 MEX,Mexico,Unemployment rate,Female,From 15 to 64 years,Annual,2019,3.668776,Units
 MEX,Mexico,Unemployment rate,Female,From 15 to 64 years,Annual,2021,4.287743,Units
 MEX,Mexico,Unemployment rate,Female,From 15 to 64 years,Annual,2022,3.449208,Units
+MEX,Mexico,Unemployment rate,Female,From 15 to 64 years,Annual,2023,2.917889,Units
 EST,Estonia,Employment rate,Male,From 15 to 64 years,Annual,2010,61.825,Units
 EST,Estonia,Employment rate,Male,From 15 to 64 years,Annual,2011,67.8,Units
 EST,Estonia,Employment rate,Male,From 15 to 64 years,Annual,2012,69.725,Units
@@ -12377,6 +12395,7 @@ MEX,Mexico,Unemployment rate,Male,From 55 to 64 years,Annual,2018,1.934048,Units
 MEX,Mexico,Unemployment rate,Male,From 55 to 64 years,Annual,2019,2.310736,Units
 MEX,Mexico,Unemployment rate,Male,From 55 to 64 years,Annual,2021,2.989607,Units
 MEX,Mexico,Unemployment rate,Male,From 55 to 64 years,Annual,2022,2.383991,Units
+MEX,Mexico,Unemployment rate,Male,From 55 to 64 years,Annual,2023,1.747973,Units
 DNK,Denmark,Labour force participation rate,Male,15 years or over,Annual,2010,68.325,Units
 DNK,Denmark,Labour force participation rate,Male,15 years or over,Annual,2011,67.65,Units
 DNK,Denmark,Labour force participation rate,Male,15 years or over,Annual,2012,66.6,Units
@@ -14258,6 +14277,7 @@ MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2018,76.23377,Units
 MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2019,75.48824,Units
 MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2021,73.33311,Units
 MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2022,75.66976,Units
+MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2023,76.59039,Units
 TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2010,69.9,Units
 TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2011,70.95,Units
 TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2012,70.325,Units
@@ -14377,6 +14397,7 @@ MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2019,55.22355,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2020,58.9617,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2021,56.37507,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2022,54.9658,Units
+MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2023,53.7412,Units
 EST,Estonia,Employment rate,Female,From 15 to 64 years,Annual,2010,62.075,Units
 EST,Estonia,Employment rate,Female,From 15 to 64 years,Annual,2011,63.75,Units
 EST,Estonia,Employment rate,Female,From 15 to 64 years,Annual,2012,66.275,Units
@@ -15206,6 +15227,7 @@ MEX,Mexico,Employment rate,Female,From 25 to 54 years,Annual,2018,54.40451,Units
 MEX,Mexico,Employment rate,Female,From 25 to 54 years,Annual,2019,55.80209,Units
 MEX,Mexico,Employment rate,Female,From 25 to 54 years,Annual,2021,55.06776,Units
 MEX,Mexico,Employment rate,Female,From 25 to 54 years,Annual,2022,57.32962,Units
+MEX,Mexico,Employment rate,Female,From 25 to 54 years,Annual,2023,59.0698,Units
 NZL,New Zealand,Employment rate,Female,From 15 to 24 years,Annual,2010,47.44342,Units
 NZL,New Zealand,Employment rate,Female,From 15 to 24 years,Annual,2011,47.39513,Units
 NZL,New Zealand,Employment rate,Female,From 15 to 24 years,Annual,2012,46.69705,Units
@@ -15627,6 +15649,7 @@ MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2018,2.974466,Uni
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2019,3.057538,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2021,3.673153,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2022,2.951493,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2023,2.441918,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2010,70.225,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2011,70.175,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2012,72.025,Units
@@ -15705,6 +15728,7 @@ MEX,Mexico,Inactivity rate,Total,15 years or over,Annual,2019,39.81601,Units
 MEX,Mexico,Inactivity rate,Total,15 years or over,Annual,2020,44.4077,Units
 MEX,Mexico,Inactivity rate,Total,15 years or over,Annual,2021,41.18175,Units
 MEX,Mexico,Inactivity rate,Total,15 years or over,Annual,2022,40.24387,Units
+MEX,Mexico,Inactivity rate,Total,15 years or over,Annual,2023,39.60195,Units
 ITA,Italy,Inactivity rate,Male,From 25 to 54 years,Annual,2010,11.425,Units
 ITA,Italy,Inactivity rate,Male,From 25 to 54 years,Annual,2011,11.5,Units
 ITA,Italy,Inactivity rate,Male,From 25 to 54 years,Annual,2012,11.475,Units
@@ -15968,6 +15992,7 @@ MEX,Mexico,Employment rate,Total,From 25 to 54 years,Annual,2018,71.91428,Units
 MEX,Mexico,Employment rate,Total,From 25 to 54 years,Annual,2019,72.50587,Units
 MEX,Mexico,Employment rate,Total,From 25 to 54 years,Annual,2021,71.27863,Units
 MEX,Mexico,Employment rate,Total,From 25 to 54 years,Annual,2022,73.03724,Units
+MEX,Mexico,Employment rate,Total,From 25 to 54 years,Annual,2023,74.31033,Units
 TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2010,72.875,Units
 TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2011,71.6,Units
 TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2012,70.975,Units
@@ -16263,6 +16288,7 @@ MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2018,
 MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,57.38511,Units
 MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,55.99072,Units
 MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,56.18397,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,55.90059,Units
 HUN,Hungary,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,56.675,Units
 HUN,Hungary,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,57.1,Units
 HUN,Hungary,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,58.05,Units
@@ -16301,6 +16327,7 @@ MEX,Mexico,Unemployment rate,Total,From 25 to 54 years,Annual,2018,2.817192,Unit
 MEX,Mexico,Unemployment rate,Total,From 25 to 54 years,Annual,2019,3.012607,Units
 MEX,Mexico,Unemployment rate,Total,From 25 to 54 years,Annual,2021,3.621511,Units
 MEX,Mexico,Unemployment rate,Total,From 25 to 54 years,Annual,2022,2.886178,Units
+MEX,Mexico,Unemployment rate,Total,From 25 to 54 years,Annual,2023,2.421211,Units
 OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2011,39.84649,Units
 OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2012,39.73544,Units
 OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2013,39.78763,Units
@@ -16573,6 +16600,7 @@ MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2018,52.66664,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2019,51.14929,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2021,51.75625,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2022,50.2792,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2023,48.7979,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,43.43904,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,48.31407,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2013,47.9506,Units
@@ -17269,19 +17297,20 @@ FIN,Finland,Labour force participation rate,Female,From 25 to 54 years,Annual,20
 FIN,Finland,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,83.525,Units
 FIN,Finland,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,85.6,Units
 FIN,Finland,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,86.8,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2010,5.329356,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2011,5.195487,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2012,4.923293,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2013,4.943293,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2014,4.831348,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2015,4.335953,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2016,3.885131,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2017,3.437664,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2018,3.291984,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2019,3.499388,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2020,4.491996,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2021,4.115397,Units
-MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2022,3.275,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2010,5.329352,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2011,5.195492,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2012,4.923288,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2013,4.943295,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2014,4.831354,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2015,4.335954,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2016,3.885133,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2017,3.437665,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2018,3.291983,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2019,3.499389,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2020,4.492032,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2021,4.115406,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2022,3.275006,Units
+MEX,Mexico,Unemployment rate,Total,15 years or over,Annual,2023,2.787915,Units
 ESP,Spain,Unemployment rate,Male,15 years or over,Annual,2010,19.5675,Units
 ESP,Spain,Unemployment rate,Male,15 years or over,Annual,2011,21.04477,Units
 ESP,Spain,Unemployment rate,Male,15 years or over,Annual,2012,24.58285,Units
@@ -17307,6 +17336,7 @@ MEX,Mexico,Inactivity rate,Female,From 55 to 64 years,Annual,2018,62.42259,Units
 MEX,Mexico,Inactivity rate,Female,From 55 to 64 years,Annual,2019,60.15004,Units
 MEX,Mexico,Inactivity rate,Female,From 55 to 64 years,Annual,2021,63.4511,Units
 MEX,Mexico,Inactivity rate,Female,From 55 to 64 years,Annual,2022,60.67958,Units
+MEX,Mexico,Inactivity rate,Female,From 55 to 64 years,Annual,2023,58.77636,Units
 ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2010,68.75117,Units
 ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2011,70.72459,Units
 ISR,Israel,Employment rate,Male,From 55 to 64 years,Annual,2012,71.61667,Units
@@ -17845,6 +17875,7 @@ MEX,Mexico,Unemployment rate,Female,From 15 to 24 years,Annual,2018,7.611939,Uni
 MEX,Mexico,Unemployment rate,Female,From 15 to 24 years,Annual,2019,8.065818,Units
 MEX,Mexico,Unemployment rate,Female,From 15 to 24 years,Annual,2021,8.621646,Units
 MEX,Mexico,Unemployment rate,Female,From 15 to 24 years,Annual,2022,7.392641,Units
+MEX,Mexico,Unemployment rate,Female,From 15 to 24 years,Annual,2023,6.480423,Units
 CZE,Czechia,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,36.2,Units
 CZE,Czechia,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,35.475,Units
 CZE,Czechia,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,36.45,Units
@@ -18065,6 +18096,7 @@ MEX,Mexico,Unemployment rate,Total,From 55 to 64 years,Annual,2018,1.659876,Unit
 MEX,Mexico,Unemployment rate,Total,From 55 to 64 years,Annual,2019,1.86047,Units
 MEX,Mexico,Unemployment rate,Total,From 55 to 64 years,Annual,2021,2.67262,Units
 MEX,Mexico,Unemployment rate,Total,From 55 to 64 years,Annual,2022,1.93784,Units
+MEX,Mexico,Unemployment rate,Total,From 55 to 64 years,Annual,2023,1.519009,Units
 ESP,Spain,Employment rate,Total,From 15 to 24 years,Annual,2010,24.975,Units
 ESP,Spain,Employment rate,Total,From 15 to 24 years,Annual,2011,22.0,Units
 ESP,Spain,Employment rate,Total,From 15 to 24 years,Annual,2012,18.4,Units
@@ -18631,6 +18663,7 @@ MEX,Mexico,Employment rate,Male,15 years or over,Annual,2019,74.57188,Units
 MEX,Mexico,Employment rate,Male,15 years or over,Annual,2020,68.34374,Units
 MEX,Mexico,Employment rate,Male,15 years or over,Annual,2021,72.614,Units
 MEX,Mexico,Employment rate,Male,15 years or over,Annual,2022,73.84641,Units
+MEX,Mexico,Employment rate,Male,15 years or over,Annual,2023,74.2531,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2010,28.075,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2011,27.05,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2012,27.65,Units
@@ -19279,6 +19312,7 @@ MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2018,18.18438,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2019,18.12227,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2021,19.31035,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2022,18.59938,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2023,18.31937,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2010,57.33683,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2011,57.37276,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2012,63.56667,Units
@@ -20991,6 +21025,7 @@ MEX,Mexico,Employment rate,Total,From 55 to 64 years,Annual,2018,55.35482,Units
 MEX,Mexico,Employment rate,Total,From 55 to 64 years,Annual,2019,56.06799,Units
 MEX,Mexico,Employment rate,Total,From 55 to 64 years,Annual,2021,53.10433,Units
 MEX,Mexico,Employment rate,Total,From 55 to 64 years,Annual,2022,55.5694,Units
+MEX,Mexico,Employment rate,Total,From 55 to 64 years,Annual,2023,56.91404,Units
 DNK,Denmark,Inactivity rate,Total,From 15 to 24 years,Annual,2010,36.0,Units
 DNK,Denmark,Inactivity rate,Total,From 15 to 24 years,Annual,2011,36.625,Units
 DNK,Denmark,Inactivity rate,Total,From 15 to 24 years,Annual,2012,39.0,Units
@@ -21792,6 +21827,7 @@ MEX,Mexico,Labour force participation rate,Male,From 15 to 64 years,Annual,2018,
 MEX,Mexico,Labour force participation rate,Male,From 15 to 64 years,Annual,2019,81.87772,Units
 MEX,Mexico,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,80.68965,Units
 MEX,Mexico,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,81.40062,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,81.68063,Units
 FRA,France,Employment rate,Total,From 15 to 74 years,Annual,2010,57.65,Units
 FRA,France,Employment rate,Total,From 15 to 74 years,Annual,2011,57.525,Units
 FRA,France,Employment rate,Total,From 15 to 74 years,Annual,2012,57.4,Units
@@ -21817,6 +21853,7 @@ MEX,Mexico,Labour force participation rate,Male,From 25 to 54 years,Annual,2018,
 MEX,Mexico,Labour force participation rate,Male,From 25 to 54 years,Annual,2019,94.06171,Units
 MEX,Mexico,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,92.87756,Units
 MEX,Mexico,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,93.49586,Units
+MEX,Mexico,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,93.93881,Units
 EST,Estonia,Unemployment rate,Total,15 years or over,Annual,2010,16.70262,Units
 EST,Estonia,Unemployment rate,Total,15 years or over,Annual,2011,12.33337,Units
 EST,Estonia,Unemployment rate,Total,15 years or over,Annual,2012,10.02366,Units
@@ -23283,6 +23320,7 @@ MEX,Mexico,Labour force participation rate,Male,From 55 to 64 years,Annual,2018,
 MEX,Mexico,Labour force participation rate,Male,From 55 to 64 years,Annual,2019,77.27351,Units
 MEX,Mexico,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,75.58788,Units
 MEX,Mexico,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,77.51762,Units
+MEX,Mexico,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,77.95265,Units
 JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2010,40.10301,Units
 JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2011,40.2856,Units
 JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2012,38.89713,Units
@@ -23348,6 +23386,7 @@ MEX,Mexico,Labour force participation rate,Female,15 years or over,Annual,2019,4
 MEX,Mexico,Labour force participation rate,Female,15 years or over,Annual,2020,41.0383,Units
 MEX,Mexico,Labour force participation rate,Female,15 years or over,Annual,2021,43.62493,Units
 MEX,Mexico,Labour force participation rate,Female,15 years or over,Annual,2022,45.0342,Units
+MEX,Mexico,Labour force participation rate,Female,15 years or over,Annual,2023,46.2588,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2010,6.800593,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2011,5.626317,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 74 years,Annual,2012,6.783333,Units
@@ -23544,6 +23583,7 @@ MEX,Mexico,Employment rate,Female,From 15 to 24 years,Annual,2018,28.55847,Units
 MEX,Mexico,Employment rate,Female,From 15 to 24 years,Annual,2019,29.80412,Units
 MEX,Mexico,Employment rate,Female,From 15 to 24 years,Annual,2021,29.61345,Units
 MEX,Mexico,Employment rate,Female,From 15 to 24 years,Annual,2022,30.06107,Units
+MEX,Mexico,Employment rate,Female,From 15 to 24 years,Annual,2023,31.50846,Units
 NOR,Norway,Unemployment rate,Male,From 55 to 64 years,Annual,2010,1.775,Units
 NOR,Norway,Unemployment rate,Male,From 55 to 64 years,Annual,2011,1.35,Units
 NOR,Norway,Unemployment rate,Male,From 55 to 64 years,Annual,2012,1.525,Units
@@ -24582,6 +24622,7 @@ MEX,Mexico,Inactivity rate,Male,From 15 to 24 years,Annual,2018,43.37026,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 24 years,Annual,2019,42.61489,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 24 years,Annual,2021,44.00928,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 24 years,Annual,2022,43.81603,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 24 years,Annual,2023,44.09941,Units
 NOR,Norway,Employment rate,Male,From 25 to 54 years,Annual,2010,87.1,Units
 NOR,Norway,Employment rate,Male,From 25 to 54 years,Annual,2011,87.05,Units
 NOR,Norway,Employment rate,Male,From 25 to 54 years,Annual,2012,86.95,Units
@@ -25504,6 +25545,7 @@ MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2018,3.421113,Unit
 MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2019,3.642177,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2021,4.259806,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2022,3.398854,Units
+MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2023,2.901594,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,64.575,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,64.475,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,64.975,Units
@@ -25818,6 +25860,7 @@ MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2018,40.78579,Units
 MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2019,41.64879,Units
 MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2021,40.80938,Units
 MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2022,41.37482,Units
+MEX,Mexico,Employment rate,Total,From 15 to 24 years,Annual,2023,42.09526,Units
 JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2010,80.20833,Units
 JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2011,80.58157,Units
 JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2012,80.37296,Units
@@ -26014,6 +26057,7 @@ MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2019,3.471814,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2020,4.714087,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2021,4.086453,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2022,3.239187,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2023,2.76693,Units
 AUS,Australia,Inactivity rate,Total,From 15 to 64 years,Annual,2010,23.56542,Units
 AUS,Australia,Inactivity rate,Total,From 15 to 64 years,Annual,2011,23.35761,Units
 AUS,Australia,Inactivity rate,Total,From 15 to 64 years,Annual,2012,23.5701,Units
@@ -27020,6 +27064,7 @@ MEX,Mexico,Labour force participation rate,Total,From 15 to 24 years,Annual,2018
 MEX,Mexico,Labour force participation rate,Total,From 15 to 24 years,Annual,2019,44.90108,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,44.32467,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,44.26519,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,44.74622,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,84.93557,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,84.89972,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,84.38338,Units
@@ -28433,6 +28478,7 @@ MEX,Mexico,Employment rate,Total,15 years or over,Annual,2019,58.07803,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2020,53.11408,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2021,56.3998,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2022,57.79974,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2023,58.71442,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2010,27.3,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2011,27.725,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2012,27.8,Units
@@ -28694,6 +28740,7 @@ MEX,Mexico,Labour force participation rate,Total,From 25 to 54 years,Annual,2018
 MEX,Mexico,Labour force participation rate,Total,From 25 to 54 years,Annual,2019,74.75809,Units
 MEX,Mexico,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,73.9555,Units
 MEX,Mexico,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,75.20676,Units
+MEX,Mexico,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,76.15417,Units
 SVK,Slovak Republic,Labour force participation rate,Female,15 years or over,Annual,2010,50.8,Units
 SVK,Slovak Republic,Labour force participation rate,Female,15 years or over,Annual,2011,50.15,Units
 SVK,Slovak Republic,Labour force participation rate,Female,15 years or over,Annual,2012,50.7,Units
@@ -28889,6 +28936,7 @@ MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2018,79.08022,Units
 MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2019,78.90898,Units
 MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2021,77.27067,Units
 MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2022,78.66234,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2023,79.31955,Units
 ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2010,29.32084,Units
 ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2011,28.48849,Units
 ISR,Israel,Employment rate,Female,From 15 to 24 years,Annual,2012,42.40833,Units
@@ -29036,6 +29084,7 @@ MEX,Mexico,Labour force participation rate,Female,From 15 to 64 years,Annual,201
 MEX,Mexico,Labour force participation rate,Female,From 15 to 64 years,Annual,2019,48.85071,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,48.24375,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,49.7208,Units
+MEX,Mexico,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,51.2021,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2010,8.933333,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2011,8.075,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2012,7.791667,Units
@@ -30183,6 +30232,7 @@ MEX,Mexico,Inactivity rate,Total,From 55 to 64 years,Annual,2018,43.71095,Units
 MEX,Mexico,Inactivity rate,Total,From 55 to 64 years,Annual,2019,42.86901,Units
 MEX,Mexico,Inactivity rate,Total,From 55 to 64 years,Annual,2021,45.43985,Units
 MEX,Mexico,Inactivity rate,Total,From 55 to 64 years,Annual,2022,43.334,Units
+MEX,Mexico,Inactivity rate,Total,From 55 to 64 years,Annual,2023,42.2079,Units
 OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2011,35.85101,Units
 OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2012,35.98003,Units
 OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2013,36.13597,Units
@@ -30353,6 +30403,7 @@ MEX,Mexico,Unemployment rate,Female,15 years or over,Annual,2019,3.541161,Units
 MEX,Mexico,Unemployment rate,Female,15 years or over,Annual,2020,4.128355,Units
 MEX,Mexico,Unemployment rate,Female,15 years or over,Annual,2021,4.156742,Units
 MEX,Mexico,Unemployment rate,Female,15 years or over,Annual,2022,3.329586,Units
+MEX,Mexico,Unemployment rate,Female,15 years or over,Annual,2023,2.817322,Units
 ISL,Iceland,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,76.1,Units
 ISL,Iceland,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,74.525,Units
 ISL,Iceland,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,78.0,Units
@@ -30767,6 +30818,7 @@ MEX,Mexico,Inactivity rate,Total,From 15 to 24 years,Annual,2018,56.19451,Units
 MEX,Mexico,Inactivity rate,Total,From 15 to 24 years,Annual,2019,55.09892,Units
 MEX,Mexico,Inactivity rate,Total,From 15 to 24 years,Annual,2021,55.67533,Units
 MEX,Mexico,Inactivity rate,Total,From 15 to 24 years,Annual,2022,55.73481,Units
+MEX,Mexico,Inactivity rate,Total,From 15 to 24 years,Annual,2023,55.25378,Units
 EST,Estonia,Employment rate,Male,From 15 to 24 years,Annual,2010,26.5,Units
 EST,Estonia,Employment rate,Male,From 15 to 24 years,Annual,2011,33.075,Units
 EST,Estonia,Employment rate,Male,From 15 to 24 years,Annual,2012,34.125,Units
@@ -31905,6 +31957,7 @@ MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2018,61.59449,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2019,62.26349,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2021,61.03192,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2022,62.53553,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2023,63.70166,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2010,8.421144,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2011,7.255722,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2012,7.688304,Units
@@ -32431,6 +32484,7 @@ MEX,Mexico,Unemployment rate,Female,From 55 to 64 years,Annual,2018,1.164957,Uni
 MEX,Mexico,Unemployment rate,Female,From 55 to 64 years,Annual,2019,1.111138,Units
 MEX,Mexico,Unemployment rate,Female,From 55 to 64 years,Annual,2021,2.095468,Units
 MEX,Mexico,Unemployment rate,Female,From 55 to 64 years,Annual,2022,1.201057,Units
+MEX,Mexico,Unemployment rate,Female,From 55 to 64 years,Annual,2023,1.163979,Units
 ESP,Spain,Labour force participation rate,Female,15 years or over,Annual,2010,52.15,Units
 ESP,Spain,Labour force participation rate,Female,15 years or over,Annual,2011,52.8,Units
 ESP,Spain,Labour force participation rate,Female,15 years or over,Annual,2012,53.45,Units
@@ -32911,6 +32965,7 @@ MEX,Mexico,Inactivity rate,Female,From 25 to 54 years,Annual,2018,43.92727,Units
 MEX,Mexico,Inactivity rate,Female,From 25 to 54 years,Annual,2019,42.43808,Units
 MEX,Mexico,Inactivity rate,Female,From 25 to 54 years,Annual,2021,42.83319,Units
 MEX,Mexico,Inactivity rate,Female,From 25 to 54 years,Annual,2022,40.92854,Units
+MEX,Mexico,Inactivity rate,Female,From 25 to 54 years,Annual,2023,39.45184,Units
 CZE,Czechia,Inactivity rate,Female,From 55 to 64 years,Annual,2010,62.05,Units
 CZE,Czechia,Inactivity rate,Female,From 55 to 64 years,Annual,2011,60.6,Units
 CZE,Czechia,Inactivity rate,Female,From 55 to 64 years,Annual,2012,58.45,Units
@@ -33212,6 +33267,7 @@ MEX,Mexico,Unemployment rate,Male,From 15 to 64 years,Annual,2018,3.343115,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 64 years,Annual,2019,3.625301,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 64 years,Annual,2021,4.240028,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 64 years,Annual,2022,3.364402,Units
+MEX,Mexico,Unemployment rate,Male,From 15 to 64 years,Annual,2023,2.890309,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2010,55.98417,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2011,55.10083,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2012,53.63,Units
@@ -36718,6 +36774,7 @@ MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2018,6.499133,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2019,6.770461,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2021,7.562507,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2022,6.021815,Units
+MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2023,5.580342,Units
 NLD,Netherlands,Unemployment rate,Total,From 15 to 74 years,Annual,2010,6.052252,Units
 NLD,Netherlands,Unemployment rate,Total,From 15 to 74 years,Annual,2011,6.042267,Units
 NLD,Netherlands,Unemployment rate,Total,From 15 to 74 years,Annual,2012,6.853964,Units
@@ -37137,6 +37194,7 @@ MEX,Mexico,Inactivity rate,Male,From 55 to 64 years,Annual,2018,22.2627,Units
 MEX,Mexico,Inactivity rate,Male,From 55 to 64 years,Annual,2019,22.72649,Units
 MEX,Mexico,Inactivity rate,Male,From 55 to 64 years,Annual,2021,24.41212,Units
 MEX,Mexico,Inactivity rate,Male,From 55 to 64 years,Annual,2022,22.48238,Units
+MEX,Mexico,Inactivity rate,Male,From 55 to 64 years,Annual,2023,22.04735,Units
 COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2010,63.35083,Units
 COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2011,64.82417,Units
 COL,Colombia,Employment rate,Total,From 15 to 64 years,Annual,2012,66.015,Units
@@ -37308,6 +37366,7 @@ MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,201
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2019,57.56192,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,57.16681,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,59.07146,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,60.54816,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2010,26.325,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2011,26.95,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2012,24.325,Units
@@ -37543,6 +37602,7 @@ MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2018
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2019,64.61736,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,63.74552,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,64.73492,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,65.60546,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2010,56.93691,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2011,57.46632,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2012,62.35833,Units
