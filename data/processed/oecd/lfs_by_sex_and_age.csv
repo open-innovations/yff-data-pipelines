@@ -529,6 +529,7 @@ TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2019,14.725,Uni
 TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2020,13.025,Units
 TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2021,12.975,Units
 TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2022,12.225,Units
+TUR,Türkiye,Unemployment rate,Female,From 25 to 54 years,Annual,2023,11.65,Units
 KOR,Korea,Inactivity rate,Female,15 years or over,Annual,2010,50.42451,Units
 KOR,Korea,Inactivity rate,Female,15 years or over,Annual,2011,50.18901,Units
 KOR,Korea,Inactivity rate,Female,15 years or over,Annual,2012,49.88091,Units
@@ -928,6 +929,7 @@ TUR,Türkiye,Employment rate,Total,From 15 to 64 years,Annual,2019,50.3,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 64 years,Annual,2020,47.5,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 64 years,Annual,2021,50.25,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 64 years,Annual,2022,52.825,Units
+TUR,Türkiye,Employment rate,Total,From 15 to 64 years,Annual,2023,53.8,Units
 ISR,Israel,Employment rate,Total,15 years or over,Annual,2010,53.53135,Units
 ISR,Israel,Employment rate,Total,15 years or over,Annual,2011,54.15836,Units
 ISR,Israel,Employment rate,Total,15 years or over,Annual,2012,59.225,Units
@@ -1699,6 +1701,7 @@ ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2019,48.02463,U
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2020,43.69771,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2021,42.30382,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2022,43.63331,Units
+ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2023,45.44151,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2010,49.95,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2011,52.425,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2012,54.15,Units
@@ -1857,6 +1860,7 @@ TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2019,8.05,Units
 TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2020,7.175,Units
 TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2021,7.3,Units
 TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2022,6.475,Units
+TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2023,5.575,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2010,9.325,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2011,8.289311,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 24 years,Annual,2012,8.125,Units
@@ -2332,6 +2336,7 @@ TUR,Türkiye,Unemployment rate,Female,From 15 to 64 years,Annual,2019,16.7,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 64 years,Annual,2020,15.125,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 64 years,Annual,2021,15.0,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 64 years,Annual,2022,13.775,Units
+TUR,Türkiye,Unemployment rate,Female,From 15 to 64 years,Annual,2023,13.0,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,94.85,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,93.9,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,94.65,Units
@@ -2531,6 +2536,7 @@ ZAF,South Africa,Inactivity rate,Total,From 15 to 64 years,Annual,2019,40.456,Un
 ZAF,South Africa,Inactivity rate,Total,From 15 to 64 years,Annual,2020,45.4004,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 64 years,Annual,2021,43.66442,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 64 years,Annual,2022,41.91874,Units
+ZAF,South Africa,Inactivity rate,Total,From 15 to 64 years,Annual,2023,40.21469,Units
 FIN,Finland,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,89.55,Units
 FIN,Finland,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,90.05,Units
 FIN,Finland,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,89.6,Units
@@ -3087,6 +3093,7 @@ TUR,Türkiye,Employment rate,Total,15 years or over,Annual,2019,45.675,Units
 TUR,Türkiye,Employment rate,Total,15 years or over,Annual,2020,42.825,Units
 TUR,Türkiye,Employment rate,Total,15 years or over,Annual,2021,45.225,Units
 TUR,Türkiye,Employment rate,Total,15 years or over,Annual,2022,47.5,Units
+TUR,Türkiye,Employment rate,Total,15 years or over,Annual,2023,48.3,Units
 LVA,Latvia,Inactivity rate,Male,15 years or over,Annual,2010,34.975,Units
 LVA,Latvia,Inactivity rate,Male,15 years or over,Annual,2011,34.675,Units
 LVA,Latvia,Inactivity rate,Male,15 years or over,Annual,2012,33.575,Units
@@ -3401,6 +3408,7 @@ TUR,Türkiye,Inactivity rate,Male,From 15 to 24 years,Annual,2019,44.2,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 24 years,Annual,2020,49.95,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 24 years,Annual,2021,46.85,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 24 years,Annual,2022,43.85,Units
+TUR,Türkiye,Inactivity rate,Male,From 15 to 24 years,Annual,2023,42.6,Units
 ESP,Spain,Inactivity rate,Male,From 15 to 24 years,Annual,2010,55.025,Units
 ESP,Spain,Inactivity rate,Male,From 15 to 24 years,Annual,2011,57.45,Units
 ESP,Spain,Inactivity rate,Male,From 15 to 24 years,Annual,2012,59.65,Units
@@ -3730,6 +3738,7 @@ TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2019,30.25,Unit
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2020,29.875,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2021,28.675,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2022,25.4,Units
+TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2023,23.375,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,50.75,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,52.4,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,53.5,Units
@@ -3769,6 +3778,7 @@ TUR,Türkiye,Employment rate,Total,From 15 to 74 years,Annual,2019,47.6,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 74 years,Annual,2020,44.7,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 74 years,Annual,2021,47.225,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 74 years,Annual,2022,49.575,Units
+TUR,Türkiye,Employment rate,Total,From 15 to 74 years,Annual,2023,50.475,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,70.175,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,70.475,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,70.85,Units
@@ -4149,6 +4159,7 @@ TUR,Türkiye,Labour force participation rate,Male,From 55 to 64 years,Annual,201
 TUR,Türkiye,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,50.025,Units
 TUR,Türkiye,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,53.75,Units
 TUR,Türkiye,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,54.75,Units
+TUR,Türkiye,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,56.075,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 24 years,Annual,2010,43.1,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 24 years,Annual,2011,48.175,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 24 years,Annual,2012,54.175,Units
@@ -4214,6 +4225,7 @@ TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,201
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,74.55,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,76.95,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,78.2,Units
+TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,78.05,Units
 BRA,Brazil,Employment rate,Total,From 15 to 24 years,Annual,2010,46.03247,Units
 BRA,Brazil,Employment rate,Total,From 15 to 24 years,Annual,2011,46.56374,Units
 BRA,Brazil,Employment rate,Total,From 15 to 24 years,Annual,2012,46.7378,Units
@@ -4470,6 +4482,7 @@ TUR,Türkiye,Labour force participation rate,Male,From 25 to 54 years,Annual,201
 TUR,Türkiye,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,88.425,Units
 TUR,Türkiye,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,90.475,Units
 TUR,Türkiye,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,91.075,Units
+TUR,Türkiye,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,90.0,Units
 GRC,Greece,Inactivity rate,Female,From 25 to 54 years,Annual,2010,28.225,Units
 GRC,Greece,Inactivity rate,Female,From 25 to 54 years,Annual,2011,27.75,Units
 GRC,Greece,Inactivity rate,Female,From 25 to 54 years,Annual,2012,26.625,Units
@@ -5354,6 +5367,7 @@ TUR,Türkiye,Unemployment rate,Female,From 55 to 64 years,Annual,2019,4.225,Unit
 TUR,Türkiye,Unemployment rate,Female,From 55 to 64 years,Annual,2020,3.8,Units
 TUR,Türkiye,Unemployment rate,Female,From 55 to 64 years,Annual,2021,4.95,Units
 TUR,Türkiye,Unemployment rate,Female,From 55 to 64 years,Annual,2022,4.4,Units
+TUR,Türkiye,Unemployment rate,Female,From 55 to 64 years,Annual,2023,4.475,Units
 BEL,Belgium,Unemployment rate,Female,From 15 to 74 years,Annual,2010,8.579565,Units
 BEL,Belgium,Unemployment rate,Female,From 15 to 74 years,Annual,2011,7.26334,Units
 BEL,Belgium,Unemployment rate,Female,From 15 to 74 years,Annual,2012,7.495489,Units
@@ -5927,6 +5941,7 @@ ZAF,South Africa,Inactivity rate,Total,From 55 to 64 years,Annual,2019,55.48292,
 ZAF,South Africa,Inactivity rate,Total,From 55 to 64 years,Annual,2020,58.09783,Units
 ZAF,South Africa,Inactivity rate,Total,From 55 to 64 years,Annual,2021,59.36312,Units
 ZAF,South Africa,Inactivity rate,Total,From 55 to 64 years,Annual,2022,60.41142,Units
+ZAF,South Africa,Inactivity rate,Total,From 55 to 64 years,Annual,2023,57.75623,Units
 CZE,Czechia,Employment rate,Female,From 55 to 64 years,Annual,2010,35.475,Units
 CZE,Czechia,Employment rate,Female,From 55 to 64 years,Annual,2011,37.15,Units
 CZE,Czechia,Employment rate,Female,From 55 to 64 years,Annual,2012,39.05,Units
@@ -6070,6 +6085,7 @@ ZAF,South Africa,Inactivity rate,Female,From 15 to 64 years,Annual,2019,46.57988
 ZAF,South Africa,Inactivity rate,Female,From 15 to 64 years,Annual,2020,51.3391,Units
 ZAF,South Africa,Inactivity rate,Female,From 15 to 64 years,Annual,2021,49.76518,Units
 ZAF,South Africa,Inactivity rate,Female,From 15 to 64 years,Annual,2022,47.67995,Units
+ZAF,South Africa,Inactivity rate,Female,From 15 to 64 years,Annual,2023,45.48741,Units
 NZL,New Zealand,Unemployment rate,Male,15 years or over,Annual,2010,5.975,Units
 NZL,New Zealand,Unemployment rate,Male,15 years or over,Annual,2011,5.875,Units
 NZL,New Zealand,Unemployment rate,Male,15 years or over,Annual,2012,6.225,Units
@@ -6149,6 +6165,7 @@ TUR,Türkiye,Labour force participation rate,Total,From 15 to 24 years,Annual,20
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,38.975,Units
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,41.7,Units
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,43.85,Units
+TUR,Türkiye,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,45.525,Units
 SVK,Slovak Republic,Unemployment rate,Total,15 years or over,Annual,2010,14.38103,Units
 SVK,Slovak Republic,Unemployment rate,Total,15 years or over,Annual,2011,13.61758,Units
 SVK,Slovak Republic,Unemployment rate,Total,15 years or over,Annual,2012,13.96335,Units
@@ -6829,6 +6846,7 @@ ZAF,South Africa,Unemployment rate,Total,From 15 to 24 years,Annual,2019,56.9940
 ZAF,South Africa,Unemployment rate,Total,From 15 to 24 years,Annual,2020,58.97215,Units
 ZAF,South Africa,Unemployment rate,Total,From 15 to 24 years,Annual,2021,65.17122,Units
 ZAF,South Africa,Unemployment rate,Total,From 15 to 24 years,Annual,2022,61.48245,Units
+ZAF,South Africa,Unemployment rate,Total,From 15 to 24 years,Annual,2023,60.0507,Units
 POL,Poland,Unemployment rate,Female,From 25 to 54 years,Annual,2010,8.935191,Units
 POL,Poland,Unemployment rate,Female,From 25 to 54 years,Annual,2011,9.320069,Units
 POL,Poland,Unemployment rate,Female,From 25 to 54 years,Annual,2012,9.891554,Units
@@ -6961,6 +6979,7 @@ ZAF,South Africa,Employment rate,Total,From 15 to 24 years,Annual,2019,11.03125,
 ZAF,South Africa,Employment rate,Total,From 15 to 24 years,Annual,2020,8.488349,Units
 ZAF,South Africa,Employment rate,Total,From 15 to 24 years,Annual,2021,7.645674,Units
 ZAF,South Africa,Employment rate,Total,From 15 to 24 years,Annual,2022,9.927649,Units
+ZAF,South Africa,Employment rate,Total,From 15 to 24 years,Annual,2023,10.7738,Units
 NLD,Netherlands,Employment rate,Female,From 15 to 24 years,Annual,2010,71.675,Units
 NLD,Netherlands,Employment rate,Female,From 15 to 24 years,Annual,2011,72.6,Units
 NLD,Netherlands,Employment rate,Female,From 15 to 24 years,Annual,2012,72.45,Units
@@ -6987,6 +7006,7 @@ TUR,Türkiye,Unemployment rate,Total,15 years or over,Annual,2019,13.66726,Units
 TUR,Türkiye,Unemployment rate,Total,15 years or over,Annual,2020,13.10915,Units
 TUR,Türkiye,Unemployment rate,Total,15 years or over,Annual,2021,11.97937,Units
 TUR,Türkiye,Unemployment rate,Total,15 years or over,Annual,2022,10.47738,Units
+TUR,Türkiye,Unemployment rate,Total,15 years or over,Annual,2023,9.392621,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,33.29799,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,33.27131,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,33.79842,Units
@@ -7513,6 +7533,7 @@ TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2019,13.7,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2020,13.15,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2021,12.0,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2022,10.5,Units
+TUR,Türkiye,Unemployment rate,Total,From 15 to 74 years,Annual,2023,9.45,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2011,38.2852,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2012,34.13599,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 74 years,Annual,2013,34.92652,Units
@@ -7855,6 +7876,7 @@ ZAF,South Africa,Unemployment rate,Total,From 25 to 54 years,Annual,2019,26.4366
 ZAF,South Africa,Unemployment rate,Total,From 25 to 54 years,Annual,2020,27.32047,Units
 ZAF,South Africa,Unemployment rate,Total,From 25 to 54 years,Annual,2021,32.49036,Units
 ZAF,South Africa,Unemployment rate,Total,From 25 to 54 years,Annual,2022,31.46902,Units
+ZAF,South Africa,Unemployment rate,Total,From 25 to 54 years,Annual,2023,30.48733,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,43.01398,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,43.15458,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2013,43.25086,Units
@@ -8634,6 +8656,7 @@ TUR,Türkiye,Employment rate,Female,From 15 to 24 years,Annual,2019,22.6,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 24 years,Annual,2020,19.225,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 24 years,Annual,2021,21.225,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 24 years,Annual,2022,23.1,Units
+TUR,Türkiye,Employment rate,Female,From 15 to 24 years,Annual,2023,25.275,Units
 DNK,Denmark,Employment rate,Female,From 15 to 24 years,Annual,2010,55.525,Units
 DNK,Denmark,Employment rate,Female,From 15 to 24 years,Annual,2011,54.225,Units
 DNK,Denmark,Employment rate,Female,From 15 to 24 years,Annual,2012,51.925,Units
@@ -8779,6 +8802,7 @@ TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2019,61.35,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2020,65.0,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2021,62.675,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2022,60.075,Units
+TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2023,59.175,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2010,80.38333,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2011,80.925,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2012,81.41666,Units
@@ -9121,6 +9145,7 @@ TUR,Türkiye,Employment rate,Total,From 55 to 64 years,Annual,2019,33.6,Units
 TUR,Türkiye,Employment rate,Total,From 55 to 64 years,Annual,2020,31.075,Units
 TUR,Türkiye,Employment rate,Total,From 55 to 64 years,Annual,2021,33.575,Units
 TUR,Türkiye,Employment rate,Total,From 55 to 64 years,Annual,2022,34.825,Units
+TUR,Türkiye,Employment rate,Total,From 55 to 64 years,Annual,2023,36.325,Units
 BEL,Belgium,Employment rate,Female,From 55 to 64 years,Annual,2010,29.25,Units
 BEL,Belgium,Employment rate,Female,From 55 to 64 years,Annual,2011,31.6,Units
 BEL,Belgium,Employment rate,Female,From 55 to 64 years,Annual,2012,33.125,Units
@@ -9663,6 +9688,7 @@ TUR,Türkiye,Labour force participation rate,Male,From 15 to 24 years,Annual,201
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,50.05,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,53.15,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,56.15,Units
+TUR,Türkiye,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,57.4,Units
 LVA,Latvia,Employment rate,Male,15 years or over,Annual,2010,50.275,Units
 LVA,Latvia,Employment rate,Male,15 years or over,Annual,2011,53.125,Units
 LVA,Latvia,Employment rate,Male,15 years or over,Annual,2012,55.7,Units
@@ -10000,6 +10026,7 @@ TUR,Türkiye,Inactivity rate,Male,From 25 to 54 years,Annual,2019,8.95,Units
 TUR,Türkiye,Inactivity rate,Male,From 25 to 54 years,Annual,2020,11.575,Units
 TUR,Türkiye,Inactivity rate,Male,From 25 to 54 years,Annual,2021,9.525,Units
 TUR,Türkiye,Inactivity rate,Male,From 25 to 54 years,Annual,2022,8.925,Units
+TUR,Türkiye,Inactivity rate,Male,From 25 to 54 years,Annual,2023,10.0,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,72.19833,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,73.0275,Units
 COL,Colombia,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,73.99,Units
@@ -10386,6 +10413,7 @@ TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2019,47.1,Units
 TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2020,50.725,Units
 TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2021,48.6,Units
 TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2022,46.95,Units
+TUR,Türkiye,Inactivity rate,Total,15 years or over,Annual,2023,46.7,Units
 CAN,Canada,Employment rate,Male,From 25 to 54 years,Annual,2010,83.825,Units
 CAN,Canada,Employment rate,Male,From 25 to 54 years,Annual,2011,84.83334,Units
 CAN,Canada,Employment rate,Male,From 25 to 54 years,Annual,2012,85.325,Units
@@ -11112,6 +11140,7 @@ TUR,Türkiye,Labour force participation rate,Total,From 55 to 64 years,Annual,20
 TUR,Türkiye,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,33.5,Units
 TUR,Türkiye,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,36.2,Units
 TUR,Türkiye,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,37.2,Units
+TUR,Türkiye,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,38.45,Units
 JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2010,40.28012,Units
 JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2011,40.65195,Units
 JPN,Japan,Inactivity rate,Total,15 years or over,Annual,2012,40.89514,Units
@@ -11454,6 +11483,7 @@ TUR,Türkiye,Labour force participation rate,Female,15 years or over,Annual,2019
 TUR,Türkiye,Labour force participation rate,Female,15 years or over,Annual,2020,30.85,Units
 TUR,Türkiye,Labour force participation rate,Female,15 years or over,Annual,2021,32.85,Units
 TUR,Türkiye,Labour force participation rate,Female,15 years or over,Annual,2022,35.075,Units
+TUR,Türkiye,Labour force participation rate,Female,15 years or over,Annual,2023,35.8,Units
 G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2010,64.16156,Units
 G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2011,64.51763,Units
 G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2012,65.60596,Units
@@ -11717,6 +11747,7 @@ ZAF,South Africa,Employment rate,Total,From 55 to 64 years,Annual,2019,40.09815,
 ZAF,South Africa,Employment rate,Total,From 55 to 64 years,Annual,2020,37.24924,Units
 ZAF,South Africa,Employment rate,Total,From 55 to 64 years,Annual,2021,35.58696,Units
 ZAF,South Africa,Employment rate,Total,From 55 to 64 years,Annual,2022,34.47446,Units
+ZAF,South Africa,Employment rate,Total,From 55 to 64 years,Annual,2023,37.60327,Units
 FIN,Finland,Inactivity rate,Total,From 15 to 74 years,Annual,2010,34.5,Units
 FIN,Finland,Inactivity rate,Total,From 15 to 74 years,Annual,2011,34.375,Units
 FIN,Finland,Inactivity rate,Total,From 15 to 74 years,Annual,2012,34.4,Units
@@ -12277,6 +12308,7 @@ TUR,Türkiye,Labour force participation rate,Female,From 55 to 64 years,Annual,2
 TUR,Türkiye,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,17.35,Units
 TUR,Türkiye,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,19.1,Units
 TUR,Türkiye,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,20.075,Units
+TUR,Türkiye,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,21.225,Units
 LUX,Luxembourg,Unemployment rate,Female,From 15 to 74 years,Annual,2010,5.075,Units
 LUX,Luxembourg,Unemployment rate,Female,From 15 to 74 years,Annual,2011,6.25,Units
 LUX,Luxembourg,Unemployment rate,Female,From 15 to 74 years,Annual,2012,5.875,Units
@@ -12449,6 +12481,7 @@ ZAF,South Africa,Unemployment rate,Male,From 15 to 64 years,Annual,2019,27.025,U
 ZAF,South Africa,Unemployment rate,Male,From 15 to 64 years,Annual,2020,27.75,Units
 ZAF,South Africa,Unemployment rate,Male,From 15 to 64 years,Annual,2021,32.375,Units
 ZAF,South Africa,Unemployment rate,Male,From 15 to 64 years,Annual,2022,31.75,Units
+ZAF,South Africa,Unemployment rate,Male,From 15 to 64 years,Annual,2023,30.225,Units
 USA,United States,Unemployment rate,Male,From 15 to 64 years,Annual,2010,10.68602,Units
 USA,United States,Unemployment rate,Male,From 15 to 64 years,Annual,2011,9.521729,Units
 USA,United States,Unemployment rate,Male,From 15 to 64 years,Annual,2012,8.341394,Units
@@ -12556,6 +12589,7 @@ TUR,Türkiye,Unemployment rate,Total,From 15 to 64 years,Annual,2019,13.975,Unit
 TUR,Türkiye,Unemployment rate,Total,From 15 to 64 years,Annual,2020,13.35,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 64 years,Annual,2021,12.225,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 64 years,Annual,2022,10.7,Units
+TUR,Türkiye,Unemployment rate,Total,From 15 to 64 years,Annual,2023,9.6,Units
 POL,Poland,Labour force participation rate,Total,15 years or over,Annual,2010,55.325,Units
 POL,Poland,Labour force participation rate,Total,15 years or over,Annual,2011,55.525,Units
 POL,Poland,Labour force participation rate,Total,15 years or over,Annual,2012,55.85,Units
@@ -12621,6 +12655,7 @@ TUR,Türkiye,Inactivity rate,Total,From 15 to 24 years,Annual,2019,55.7,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 24 years,Annual,2020,61.025,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 24 years,Annual,2021,58.3,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 24 years,Annual,2022,56.15,Units
+TUR,Türkiye,Inactivity rate,Total,From 15 to 24 years,Annual,2023,54.475,Units
 SVK,Slovak Republic,Inactivity rate,Male,From 15 to 64 years,Annual,2010,24.60927,Units
 SVK,Slovak Republic,Inactivity rate,Male,From 15 to 64 years,Annual,2011,24.0752,Units
 SVK,Slovak Republic,Inactivity rate,Male,From 15 to 64 years,Annual,2012,23.51504,Units
@@ -13081,6 +13116,7 @@ ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annu
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,48.6609,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,50.23482,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,52.32005,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,54.51259,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2010,14.375,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2011,13.375,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2012,11.925,Units
@@ -13159,6 +13195,7 @@ ZAF,South Africa,Labour force participation rate,Total,From 15 to 24 years,Annua
 ZAF,South Africa,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,20.88028,Units
 ZAF,South Africa,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,21.97049,Units
 ZAF,South Africa,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,25.76015,Units
+ZAF,South Africa,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,26.9833,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,30.925,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,29.95,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,31.275,Units
@@ -13423,6 +13460,7 @@ TUR,Türkiye,Unemployment rate,Female,From 15 to 74 years,Annual,2019,16.425,Uni
 TUR,Türkiye,Unemployment rate,Female,From 15 to 74 years,Annual,2020,14.875,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 74 years,Annual,2021,14.7,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 74 years,Annual,2022,13.5,Units
+TUR,Türkiye,Unemployment rate,Female,From 15 to 74 years,Annual,2023,12.75,Units
 GRC,Greece,Inactivity rate,Female,From 15 to 24 years,Annual,2010,72.8,Units
 GRC,Greece,Inactivity rate,Female,From 15 to 24 years,Annual,2011,73.075,Units
 GRC,Greece,Inactivity rate,Female,From 15 to 24 years,Annual,2012,72.975,Units
@@ -13922,6 +13960,7 @@ TUR,Türkiye,Unemployment rate,Male,From 15 to 74 years,Annual,2019,12.375,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 74 years,Annual,2020,12.35,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 74 years,Annual,2021,10.725,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 74 years,Annual,2022,9.0,Units
+TUR,Türkiye,Unemployment rate,Male,From 15 to 74 years,Annual,2023,7.7,Units
 EA20,Euro area (20 countries),Labour force participation rate,Male,From 15 to 24 years,Annual,2010,45.825,Units
 EA20,Euro area (20 countries),Labour force participation rate,Male,From 15 to 24 years,Annual,2011,45.075,Units
 EA20,Euro area (20 countries),Labour force participation rate,Male,From 15 to 24 years,Annual,2012,44.6,Units
@@ -13974,6 +14013,7 @@ TUR,Türkiye,Inactivity rate,Male,From 15 to 64 years,Annual,2019,21.875,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 64 years,Annual,2020,25.45,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 64 years,Annual,2021,23.05,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 64 years,Annual,2022,21.8,Units
+TUR,Türkiye,Inactivity rate,Male,From 15 to 64 years,Annual,2023,21.95,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2010,35.47925,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2011,35.43704,Units
 ISR,Israel,Inactivity rate,Total,From 15 to 64 years,Annual,2012,28.525,Units
@@ -14291,6 +14331,7 @@ TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2019,7
 TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2020,68.15,Units
 TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2021,70.325,Units
 TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2022,71.425,Units
+TUR,Türkiye,Labour force participation rate,Male,15 years or over,Annual,2023,71.175,Units
 KOR,Korea,Employment rate,Total,15 years or over,Annual,2010,58.86652,Units
 KOR,Korea,Employment rate,Total,15 years or over,Annual,2011,59.25884,Units
 KOR,Korea,Employment rate,Total,15 years or over,Annual,2012,59.61824,Units
@@ -14516,6 +14557,7 @@ ZAF,South Africa,Unemployment rate,Total,From 55 to 64 years,Annual,2019,9.92477
 ZAF,South Africa,Unemployment rate,Total,From 55 to 64 years,Annual,2020,11.07903,Units
 ZAF,South Africa,Unemployment rate,Total,From 55 to 64 years,Annual,2021,12.41016,Units
 ZAF,South Africa,Unemployment rate,Total,From 55 to 64 years,Annual,2022,12.91274,Units
+ZAF,South Africa,Unemployment rate,Total,From 55 to 64 years,Annual,2023,10.98114,Units
 LTU,Lithuania,Unemployment rate,Male,From 15 to 24 years,Annual,2010,39.15,Units
 LTU,Lithuania,Unemployment rate,Male,From 15 to 24 years,Annual,2011,34.8,Units
 LTU,Lithuania,Unemployment rate,Male,From 15 to 24 years,Annual,2012,29.825,Units
@@ -16006,6 +16048,7 @@ TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2019,65.7,Units
 TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2020,69.15,Units
 TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2021,67.15,Units
 TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2022,64.925,Units
+TUR,Türkiye,Inactivity rate,Female,15 years or over,Annual,2023,64.2,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,46.125,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,47.075,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,49.725,Units
@@ -16046,6 +16089,7 @@ TUR,Türkiye,Inactivity rate,Female,From 15 to 24 years,Annual,2019,67.55,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 24 years,Annual,2020,72.55,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 24 years,Annual,2021,70.225,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 24 years,Annual,2022,69.0,Units
+TUR,Türkiye,Inactivity rate,Female,From 15 to 24 years,Annual,2023,67.05,Units
 KOR,Korea,Unemployment rate,Total,15 years or over,Annual,2010,3.708333,Units
 KOR,Korea,Unemployment rate,Total,15 years or over,Annual,2011,3.408333,Units
 KOR,Korea,Unemployment rate,Total,15 years or over,Annual,2012,3.225,Units
@@ -16180,6 +16224,7 @@ TUR,Türkiye,Employment rate,Male,From 15 to 74 years,Annual,2019,65.125,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 74 years,Annual,2020,61.825,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 74 years,Annual,2021,64.95,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 74 years,Annual,2022,67.2,Units
+TUR,Türkiye,Employment rate,Male,From 15 to 74 years,Annual,2023,68.0,Units
 KOR,Korea,Inactivity rate,Total,From 55 to 64 years,Annual,2010,37.34317,Units
 KOR,Korea,Inactivity rate,Total,From 55 to 64 years,Annual,2011,36.29029,Units
 KOR,Korea,Inactivity rate,Total,From 55 to 64 years,Annual,2012,35.27782,Units
@@ -16406,6 +16451,7 @@ TUR,Türkiye,Unemployment rate,Total,From 25 to 54 years,Annual,2019,12.2,Units
 TUR,Türkiye,Unemployment rate,Total,From 25 to 54 years,Annual,2020,11.775,Units
 TUR,Türkiye,Unemployment rate,Total,From 25 to 54 years,Annual,2021,10.675,Units
 TUR,Türkiye,Unemployment rate,Total,From 25 to 54 years,Annual,2022,9.325,Units
+TUR,Türkiye,Unemployment rate,Total,From 25 to 54 years,Annual,2023,8.425,Units
 DNK,Denmark,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,52.75,Units
 DNK,Denmark,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,55.0,Units
 DNK,Denmark,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,55.95,Units
@@ -16537,6 +16583,7 @@ TUR,Türkiye,Employment rate,Total,From 25 to 54 years,Annual,2019,59.75,Units
 TUR,Türkiye,Employment rate,Total,From 25 to 54 years,Annual,2020,57.375,Units
 TUR,Türkiye,Employment rate,Total,From 25 to 54 years,Annual,2021,60.225,Units
 TUR,Türkiye,Employment rate,Total,From 25 to 54 years,Annual,2022,62.85,Units
+TUR,Türkiye,Employment rate,Total,From 25 to 54 years,Annual,2023,63.2,Units
 DEU,Germany,Labour force participation rate,Total,15 years or over,Annual,2010,59.375,Units
 DEU,Germany,Labour force participation rate,Total,15 years or over,Annual,2011,60.1,Units
 DEU,Germany,Labour force participation rate,Total,15 years or over,Annual,2012,60.075,Units
@@ -17070,6 +17117,7 @@ TUR,Türkiye,Employment rate,Female,From 25 to 54 years,Annual,2019,38.4,Units
 TUR,Türkiye,Employment rate,Female,From 25 to 54 years,Annual,2020,36.15,Units
 TUR,Türkiye,Employment rate,Female,From 25 to 54 years,Annual,2021,38.425,Units
 TUR,Türkiye,Employment rate,Female,From 25 to 54 years,Annual,2022,41.75,Units
+TUR,Türkiye,Employment rate,Female,From 25 to 54 years,Annual,2023,42.4,Units
 DEU,Germany,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,80.975,Units
 DEU,Germany,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,81.275,Units
 DEU,Germany,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,81.2,Units
@@ -18292,6 +18340,7 @@ ZAF,South Africa,Employment rate,Female,From 15 to 64 years,Annual,2019,37.00681
 ZAF,South Africa,Employment rate,Female,From 15 to 64 years,Annual,2020,33.46181,Units
 ZAF,South Africa,Employment rate,Female,From 15 to 64 years,Annual,2021,31.85591,Units
 ZAF,South Africa,Employment rate,Female,From 15 to 64 years,Annual,2022,33.68352,Units
+ZAF,South Africa,Employment rate,Female,From 15 to 64 years,Annual,2023,35.49455,Units
 CZE,Czechia,Employment rate,Male,From 15 to 74 years,Annual,2010,67.325,Units
 CZE,Czechia,Employment rate,Male,From 15 to 74 years,Annual,2011,67.425,Units
 CZE,Czechia,Employment rate,Male,From 15 to 74 years,Annual,2012,67.525,Units
@@ -18677,6 +18726,7 @@ TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2019,25.65,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2020,29.45,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2021,27.275,Units
 TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2022,26.1,Units
+TUR,Türkiye,Inactivity rate,Male,From 15 to 74 years,Annual,2023,26.35,Units
 FIN,Finland,Employment rate,Male,From 15 to 24 years,Annual,2010,38.075,Units
 FIN,Finland,Employment rate,Male,From 15 to 24 years,Annual,2011,39.675,Units
 FIN,Finland,Employment rate,Male,From 15 to 24 years,Annual,2012,40.925,Units
@@ -18849,6 +18899,7 @@ TUR,Türkiye,Employment rate,Female,15 years or over,Annual,2019,28.7,Units
 TUR,Türkiye,Employment rate,Female,15 years or over,Annual,2020,26.275,Units
 TUR,Türkiye,Employment rate,Female,15 years or over,Annual,2021,28.025,Units
 TUR,Türkiye,Employment rate,Female,15 years or over,Annual,2022,30.375,Units
+TUR,Türkiye,Employment rate,Female,15 years or over,Annual,2023,31.25,Units
 COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,70.65667,Units
 COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,71.51167,Units
 COL,Colombia,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,72.8475,Units
@@ -19620,6 +19671,7 @@ ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2019,23.63249,
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2020,29.34792,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2021,27.15989,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2022,26.05148,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2023,24.52967,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2010,16.00997,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2011,14.91608,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2012,14.55587,Units
@@ -19951,6 +20003,7 @@ ZAF,South Africa,Labour force participation rate,Total,From 15 to 64 years,Annua
 ZAF,South Africa,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,54.5996,Units
 ZAF,South Africa,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,56.33558,Units
 ZAF,South Africa,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,58.08126,Units
+ZAF,South Africa,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,59.78531,Units
 OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2011,28.766,Units
 OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2012,28.33219,Units
 OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2013,28.12989,Units
@@ -20069,6 +20122,7 @@ TUR,Türkiye,Employment rate,Male,From 15 to 24 years,Annual,2019,43.35,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 24 years,Annual,2020,38.775,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 24 years,Annual,2021,42.8,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 24 years,Annual,2022,46.975,Units
+TUR,Türkiye,Employment rate,Male,From 15 to 24 years,Annual,2023,49.2,Units
 IRL,Ireland,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,73.625,Units
 IRL,Ireland,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,72.725,Units
 IRL,Ireland,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,72.425,Units
@@ -20109,6 +20163,7 @@ TUR,Türkiye,Unemployment rate,Male,From 15 to 64 years,Annual,2019,12.575,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 64 years,Annual,2020,12.55,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 64 years,Annual,2021,10.875,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 64 years,Annual,2022,9.15,Units
+TUR,Türkiye,Unemployment rate,Male,From 15 to 64 years,Annual,2023,7.8,Units
 ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2010,23.0,Units
 ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2011,22.7,Units
 ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2012,23.0,Units
@@ -20122,6 +20177,7 @@ ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2019,27.025,Unit
 ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2020,27.75,Units
 ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2021,32.375,Units
 ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2022,31.75,Units
+ZAF,South Africa,Unemployment rate,Male,15 years or over,Annual,2023,30.225,Units
 LTU,Lithuania,Unemployment rate,Total,From 25 to 54 years,Annual,2010,16.7,Units
 LTU,Lithuania,Unemployment rate,Total,From 25 to 54 years,Annual,2011,14.275,Units
 LTU,Lithuania,Unemployment rate,Total,From 25 to 54 years,Annual,2012,12.55,Units
@@ -20578,6 +20634,7 @@ TUR,Türkiye,Unemployment rate,Male,From 55 to 64 years,Annual,2019,9.475,Units
 TUR,Türkiye,Unemployment rate,Male,From 55 to 64 years,Annual,2020,8.375,Units
 TUR,Türkiye,Unemployment rate,Male,From 55 to 64 years,Annual,2021,8.175,Units
 TUR,Türkiye,Unemployment rate,Male,From 55 to 64 years,Annual,2022,7.225,Units
+TUR,Türkiye,Unemployment rate,Male,From 55 to 64 years,Annual,2023,5.975,Units
 ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,72.47903,Units
 ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,72.72136,Units
 ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,73.32093,Units
@@ -20591,6 +20648,7 @@ ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annua
 ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,70.65208,Units
 ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,72.8401,Units
 ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,73.94852,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,75.47032,Units
 FRA,France,Employment rate,Male,15 years or over,Annual,2010,56.65,Units
 FRA,France,Employment rate,Male,15 years or over,Annual,2011,56.4,Units
 FRA,France,Employment rate,Male,15 years or over,Annual,2012,56.025,Units
@@ -21762,6 +21820,7 @@ TUR,Türkiye,Labour force participation rate,Female,From 25 to 54 years,Annual,2
 TUR,Türkiye,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,41.55,Units
 TUR,Türkiye,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,44.15,Units
 TUR,Türkiye,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,47.55,Units
+TUR,Türkiye,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,48.0,Units
 AUT,Austria,Unemployment rate,Male,From 15 to 24 years,Annual,2010,10.44968,Units
 AUT,Austria,Unemployment rate,Male,From 15 to 24 years,Annual,2011,9.631429,Units
 AUT,Austria,Unemployment rate,Male,From 15 to 24 years,Annual,2012,10.34269,Units
@@ -22195,6 +22254,7 @@ ZAF,South Africa,Unemployment rate,Female,15 years or over,Annual,2019,30.7,Unit
 ZAF,South Africa,Unemployment rate,Female,15 years or over,Annual,2020,30.95,Units
 ZAF,South Africa,Unemployment rate,Female,15 years or over,Annual,2021,36.575,Units
 ZAF,South Africa,Unemployment rate,Female,15 years or over,Annual,2022,35.625,Units
+ZAF,South Africa,Unemployment rate,Female,15 years or over,Annual,2023,34.875,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,76.33873,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,78.95703,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 15 to 74 years,Annual,2013,78.12726,Units
@@ -22794,6 +22854,7 @@ TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,27.45,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,29.775,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,31.0,Units
+TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,32.95,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,42.78393,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,42.60616,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,41.73673,Units
@@ -23045,6 +23106,7 @@ TUR,Türkiye,Labour force participation rate,Total,From 15 to 74 years,Annual,20
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 74 years,Annual,2020,51.45,Units
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 74 years,Annual,2021,53.675,Units
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 74 years,Annual,2022,55.425,Units
+TUR,Türkiye,Labour force participation rate,Total,From 15 to 74 years,Annual,2023,55.725,Units
 JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2010,84.13832,Units
 JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2011,83.78517,Units
 JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,82.9099,Units
@@ -23256,6 +23318,7 @@ TUR,Türkiye,Employment rate,Female,From 55 to 64 years,Annual,2019,18.8,Units
 TUR,Türkiye,Employment rate,Female,From 55 to 64 years,Annual,2020,16.7,Units
 TUR,Türkiye,Employment rate,Female,From 55 to 64 years,Annual,2021,18.175,Units
 TUR,Türkiye,Employment rate,Female,From 55 to 64 years,Annual,2022,19.225,Units
+TUR,Türkiye,Employment rate,Female,From 55 to 64 years,Annual,2023,20.275,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 64 years,Annual,2010,7.375,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 64 years,Annual,2011,6.8,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 64 years,Annual,2012,7.05,Units
@@ -23493,6 +23556,7 @@ TUR,Türkiye,Employment rate,Female,From 15 to 64 years,Annual,2019,32.2,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 64 years,Annual,2020,29.675,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 64 years,Annual,2021,31.725,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 64 years,Annual,2022,34.4,Units
+TUR,Türkiye,Employment rate,Female,From 15 to 64 years,Annual,2023,35.525,Units
 HUN,Hungary,Employment rate,Male,From 15 to 64 years,Annual,2010,59.925,Units
 HUN,Hungary,Employment rate,Male,From 15 to 64 years,Annual,2011,60.8,Units
 HUN,Hungary,Employment rate,Male,From 15 to 64 years,Annual,2012,61.65,Units
@@ -23645,6 +23709,7 @@ TUR,Türkiye,Inactivity rate,Total,From 15 to 64 years,Annual,2019,41.575,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 64 years,Annual,2020,45.15,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 64 years,Annual,2021,42.75,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 64 years,Annual,2022,40.85,Units
+TUR,Türkiye,Inactivity rate,Total,From 15 to 64 years,Annual,2023,40.45,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2010,22.38309,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2011,21.12374,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2012,20.44182,Units
@@ -23777,6 +23842,7 @@ TUR,Türkiye,Inactivity rate,Total,From 55 to 64 years,Annual,2019,63.425,Units
 TUR,Türkiye,Inactivity rate,Total,From 55 to 64 years,Annual,2020,66.5,Units
 TUR,Türkiye,Inactivity rate,Total,From 55 to 64 years,Annual,2021,63.8,Units
 TUR,Türkiye,Inactivity rate,Total,From 55 to 64 years,Annual,2022,62.8,Units
+TUR,Türkiye,Inactivity rate,Total,From 55 to 64 years,Annual,2023,61.55,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 74 years,Annual,2010,7.3,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 74 years,Annual,2011,6.7,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 74 years,Annual,2012,7.0,Units
@@ -24012,6 +24078,7 @@ TUR,Türkiye,Labour force participation rate,Total,15 years or over,Annual,2019,
 TUR,Türkiye,Labour force participation rate,Total,15 years or over,Annual,2020,49.275,Units
 TUR,Türkiye,Labour force participation rate,Total,15 years or over,Annual,2021,51.4,Units
 TUR,Türkiye,Labour force participation rate,Total,15 years or over,Annual,2022,53.05,Units
+TUR,Türkiye,Labour force participation rate,Total,15 years or over,Annual,2023,53.3,Units
 KOR,Korea,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,54.5444,Units
 KOR,Korea,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,54.89278,Units
 KOR,Korea,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,55.23594,Units
@@ -24349,6 +24416,7 @@ TUR,Türkiye,Unemployment rate,Total,From 15 to 24 years,Annual,2019,25.2,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 24 years,Annual,2020,25.05,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 24 years,Annual,2021,22.725,Units
 TUR,Türkiye,Unemployment rate,Total,From 15 to 24 years,Annual,2022,19.525,Units
+TUR,Türkiye,Unemployment rate,Total,From 15 to 24 years,Annual,2023,17.5,Units
 SVN,Slovenia,Inactivity rate,Female,15 years or over,Annual,2010,46.75,Units
 SVN,Slovenia,Inactivity rate,Female,15 years or over,Annual,2011,47.7,Units
 SVN,Slovenia,Inactivity rate,Female,15 years or over,Annual,2012,47.775,Units
@@ -24441,6 +24509,7 @@ TUR,Türkiye,Labour force participation rate,Female,From 15 to 74 years,Annual,2
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 74 years,Annual,2020,32.5,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,34.625,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 74 years,Annual,2022,36.975,Units
+TUR,Türkiye,Labour force participation rate,Female,From 15 to 74 years,Annual,2023,37.825,Units
 DEU,Germany,Inactivity rate,Female,From 25 to 54 years,Annual,2010,20.125,Units
 DEU,Germany,Inactivity rate,Female,From 25 to 54 years,Annual,2011,19.275,Units
 DEU,Germany,Inactivity rate,Female,From 25 to 54 years,Annual,2012,19.15,Units
@@ -25293,6 +25362,7 @@ ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual
 ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,60.65136,Units
 ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,62.5456,Units
 ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,63.93915,Units
+ZAF,South Africa,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,65.14013,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,77.04105,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,77.22512,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,77.048,Units
@@ -25533,6 +25603,7 @@ TUR,Türkiye,Inactivity rate,Total,From 15 to 74 years,Annual,2019,44.825,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 74 years,Annual,2020,48.55,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 74 years,Annual,2021,46.325,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 74 years,Annual,2022,44.575,Units
+TUR,Türkiye,Inactivity rate,Total,From 15 to 74 years,Annual,2023,44.275,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2010,5.506372,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2011,5.366127,Units
 MEX,Mexico,Unemployment rate,Total,From 15 to 64 years,Annual,2012,5.084452,Units
@@ -25664,6 +25735,7 @@ TUR,Türkiye,Employment rate,Female,From 15 to 74 years,Annual,2019,30.15,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 74 years,Annual,2020,27.675,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 74 years,Annual,2021,29.575,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 74 years,Annual,2022,32.0,Units
+TUR,Türkiye,Employment rate,Female,From 15 to 74 years,Annual,2023,33.0,Units
 HUN,Hungary,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,27.55,Units
 HUN,Hungary,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,27.0,Units
 HUN,Hungary,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,27.925,Units
@@ -25730,6 +25802,7 @@ TUR,Türkiye,Inactivity rate,Male,15 years or over,Annual,2019,28.05,Units
 TUR,Türkiye,Inactivity rate,Male,15 years or over,Annual,2020,31.85,Units
 TUR,Türkiye,Inactivity rate,Male,15 years or over,Annual,2021,29.675,Units
 TUR,Türkiye,Inactivity rate,Male,15 years or over,Annual,2022,28.575,Units
+TUR,Türkiye,Inactivity rate,Male,15 years or over,Annual,2023,28.825,Units
 SVK,Slovak Republic,Employment rate,Female,15 years or over,Annual,2010,43.375,Units
 SVK,Slovak Republic,Employment rate,Female,15 years or over,Annual,2011,43.325,Units
 SVK,Slovak Republic,Employment rate,Female,15 years or over,Annual,2012,43.3,Units
@@ -25808,6 +25881,7 @@ TUR,Türkiye,Employment rate,Male,From 55 to 64 years,Annual,2019,48.775,Units
 TUR,Türkiye,Employment rate,Male,From 55 to 64 years,Annual,2020,45.825,Units
 TUR,Türkiye,Employment rate,Male,From 55 to 64 years,Annual,2021,49.375,Units
 TUR,Türkiye,Employment rate,Male,From 55 to 64 years,Annual,2022,50.825,Units
+TUR,Türkiye,Employment rate,Male,From 55 to 64 years,Annual,2023,52.75,Units
 IRL,Ireland,Employment rate,Total,From 55 to 64 years,Annual,2010,50.225,Units
 IRL,Ireland,Employment rate,Total,From 55 to 64 years,Annual,2011,50.05,Units
 IRL,Ireland,Employment rate,Total,From 55 to 64 years,Annual,2012,49.25,Units
@@ -26137,6 +26211,7 @@ TUR,Türkiye,Unemployment rate,Male,From 25 to 54 years,Annual,2019,10.975,Units
 TUR,Türkiye,Unemployment rate,Male,From 25 to 54 years,Annual,2020,11.175,Units
 TUR,Türkiye,Unemployment rate,Male,From 25 to 54 years,Annual,2021,9.525,Units
 TUR,Türkiye,Unemployment rate,Male,From 25 to 54 years,Annual,2022,7.9,Units
+TUR,Türkiye,Unemployment rate,Male,From 25 to 54 years,Annual,2023,6.75,Units
 CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2011,54.08847,Units
 CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2012,59.78316,Units
 CRI,Costa Rica,Employment rate,Female,From 25 to 54 years,Annual,2013,60.18055,Units
@@ -26720,6 +26795,7 @@ TUR,Türkiye,Employment rate,Male,From 25 to 54 years,Annual,2019,81.025,Units
 TUR,Türkiye,Employment rate,Male,From 25 to 54 years,Annual,2020,78.525,Units
 TUR,Türkiye,Employment rate,Male,From 25 to 54 years,Annual,2021,81.85,Units
 TUR,Türkiye,Employment rate,Male,From 25 to 54 years,Annual,2022,83.9,Units
+TUR,Türkiye,Employment rate,Male,From 25 to 54 years,Annual,2023,83.925,Units
 LVA,Latvia,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,90.725,Units
 LVA,Latvia,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,90.5,Units
 LVA,Latvia,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,91.0,Units
@@ -27567,6 +27643,7 @@ TUR,Türkiye,Employment rate,Total,From 15 to 24 years,Annual,2019,33.125,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 24 years,Annual,2020,29.175,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 24 years,Annual,2021,32.25,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 24 years,Annual,2022,35.325,Units
+TUR,Türkiye,Employment rate,Total,From 15 to 24 years,Annual,2023,37.55,Units
 NZL,New Zealand,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,57.12749,Units
 NZL,New Zealand,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,55.85704,Units
 NZL,New Zealand,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,56.15351,Units
@@ -28215,6 +28292,7 @@ ZAF,South Africa,Employment rate,Total,From 15 to 64 years,Annual,2019,42.46033,
 ZAF,South Africa,Employment rate,Total,From 15 to 64 years,Annual,2020,38.53147,Units
 ZAF,South Africa,Employment rate,Total,From 15 to 64 years,Annual,2021,37.03354,Units
 ZAF,South Africa,Employment rate,Total,From 15 to 64 years,Annual,2022,38.61707,Units
+ZAF,South Africa,Employment rate,Total,From 15 to 64 years,Annual,2023,40.42961,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,61.7148,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,65.86401,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 74 years,Annual,2013,65.07348,Units
@@ -28281,6 +28359,7 @@ TUR,Türkiye,Unemployment rate,Male,From 15 to 24 years,Annual,2019,22.325,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 24 years,Annual,2020,22.55,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 24 years,Annual,2021,19.525,Units
 TUR,Türkiye,Unemployment rate,Male,From 15 to 24 years,Annual,2022,16.4,Units
+TUR,Türkiye,Unemployment rate,Male,From 15 to 24 years,Annual,2023,14.3,Units
 LVA,Latvia,Labour force participation rate,Total,15 years or over,Annual,2010,58.875,Units
 LVA,Latvia,Labour force participation rate,Total,15 years or over,Annual,2011,58.55,Units
 LVA,Latvia,Labour force participation rate,Total,15 years or over,Annual,2012,59.75,Units
@@ -29480,6 +29559,7 @@ TUR,Türkiye,Labour force participation rate,Total,From 25 to 54 years,Annual,20
 TUR,Türkiye,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,65.05,Units
 TUR,Türkiye,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,67.35,Units
 TUR,Türkiye,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,69.375,Units
+TUR,Türkiye,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,69.05,Units
 ISL,Iceland,Inactivity rate,Total,15 years or over,Annual,2010,19.625,Units
 ISL,Iceland,Inactivity rate,Total,15 years or over,Annual,2011,20.225,Units
 ISL,Iceland,Inactivity rate,Total,15 years or over,Annual,2012,20.125,Units
@@ -29771,6 +29851,7 @@ TUR,Türkiye,Labour force participation rate,Total,From 15 to 64 years,Annual,20
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,54.85,Units
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,57.25,Units
 TUR,Türkiye,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,59.15,Units
+TUR,Türkiye,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,59.55,Units
 SVN,Slovenia,Labour force participation rate,Male,From 25 to 54 years,Annual,2010,90.675,Units
 SVN,Slovenia,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,90.9,Units
 SVN,Slovenia,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,91.525,Units
@@ -29955,6 +30036,7 @@ TUR,Türkiye,Inactivity rate,Female,From 25 to 54 years,Annual,2019,54.975,Units
 TUR,Türkiye,Inactivity rate,Female,From 25 to 54 years,Annual,2020,58.45,Units
 TUR,Türkiye,Inactivity rate,Female,From 25 to 54 years,Annual,2021,55.85,Units
 TUR,Türkiye,Inactivity rate,Female,From 25 to 54 years,Annual,2022,52.45,Units
+TUR,Türkiye,Inactivity rate,Female,From 25 to 54 years,Annual,2023,52.0,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,71.8,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,71.325,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,71.425,Units
@@ -30443,6 +30525,7 @@ TUR,Türkiye,Unemployment rate,Female,15 years or over,Annual,2019,16.4024,Units
 TUR,Türkiye,Unemployment rate,Female,15 years or over,Annual,2020,14.82158,Units
 TUR,Türkiye,Unemployment rate,Female,15 years or over,Annual,2021,14.66274,Units
 TUR,Türkiye,Unemployment rate,Female,15 years or over,Annual,2022,13.45946,Units
+TUR,Türkiye,Unemployment rate,Female,15 years or over,Annual,2023,12.71212,Units
 SVK,Slovak Republic,Employment rate,Female,From 55 to 64 years,Annual,2010,30.7,Units
 SVK,Slovak Republic,Employment rate,Female,From 55 to 64 years,Annual,2011,33.65,Units
 SVK,Slovak Republic,Employment rate,Female,From 55 to 64 years,Annual,2012,35.975,Units
@@ -30469,6 +30552,7 @@ ZAF,South Africa,Employment rate,Total,From 25 to 54 years,Annual,2019,56.17611,
 ZAF,South Africa,Employment rate,Total,From 25 to 54 years,Annual,2020,51.1913,Units
 ZAF,South Africa,Employment rate,Total,From 25 to 54 years,Annual,2021,49.17752,Units
 ZAF,South Africa,Employment rate,Total,From 25 to 54 years,Annual,2022,50.68176,Units
+ZAF,South Africa,Employment rate,Total,From 25 to 54 years,Annual,2023,52.46214,Units
 EA20,Euro area (20 countries),Employment rate,Male,15 years or over,Annual,2010,57.95,Units
 EA20,Euro area (20 countries),Employment rate,Male,15 years or over,Annual,2011,57.75,Units
 EA20,Euro area (20 countries),Employment rate,Male,15 years or over,Annual,2012,56.975,Units
@@ -31420,6 +31504,7 @@ TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2019,12.33264,Units
 TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2020,12.31604,Units
 TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2021,10.69174,Units
 TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2022,8.979652,Units
+TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2023,7.687895,Units
 SVN,Slovenia,Inactivity rate,Male,From 15 to 74 years,Annual,2010,31.35,Units
 SVN,Slovenia,Inactivity rate,Male,From 15 to 74 years,Annual,2011,32.75,Units
 SVN,Slovenia,Inactivity rate,Male,From 15 to 74 years,Annual,2012,33.3,Units
@@ -31905,6 +31990,7 @@ TUR,Türkiye,Inactivity rate,Total,From 25 to 54 years,Annual,2019,31.925,Units
 TUR,Türkiye,Inactivity rate,Total,From 25 to 54 years,Annual,2020,34.95,Units
 TUR,Türkiye,Inactivity rate,Total,From 25 to 54 years,Annual,2021,32.65,Units
 TUR,Türkiye,Inactivity rate,Total,From 25 to 54 years,Annual,2022,30.625,Units
+TUR,Türkiye,Inactivity rate,Total,From 25 to 54 years,Annual,2023,30.95,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,75.025,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,75.575,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,76.9,Units
@@ -32023,6 +32109,7 @@ TUR,Türkiye,Labour force participation rate,Female,From 15 to 64 years,Annual,2
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,35.0,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,37.325,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,39.925,Units
+TUR,Türkiye,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,40.825,Units
 OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2010,51.09331,Units
 OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2011,51.1668,Units
 OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2012,51.45652,Units
@@ -32577,6 +32664,7 @@ TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2019,68.275,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2020,65.175,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2021,68.575,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2022,71.05,Units
+TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2023,71.925,Units
 KOR,Korea,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,19.95321,Units
 KOR,Korea,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,20.97491,Units
 KOR,Korea,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,21.91732,Units
@@ -32722,6 +32810,7 @@ TUR,Türkiye,Labour force participation rate,Male,From 15 to 74 years,Annual,201
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 74 years,Annual,2020,70.55,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,72.725,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 74 years,Annual,2022,73.9,Units
+TUR,Türkiye,Labour force participation rate,Male,From 15 to 74 years,Annual,2023,73.65,Units
 LTU,Lithuania,Employment rate,Female,From 15 to 64 years,Annual,2010,58.55,Units
 LTU,Lithuania,Employment rate,Female,From 15 to 64 years,Annual,2011,60.25,Units
 LTU,Lithuania,Employment rate,Female,From 15 to 64 years,Annual,2012,61.8,Units
@@ -33190,6 +33279,7 @@ ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2019,34.20771,U
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2020,39.34864,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2021,37.4544,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2022,36.06085,Units
+ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2023,34.85987,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2010,11.17377,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2011,11.03269,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2012,11.00812,Units
@@ -33583,6 +33673,7 @@ ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2019,74.33834,
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2020,79.11972,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2021,78.02952,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2022,74.23985,Units
+ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2023,73.0167,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2010,41.125,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2011,41.45,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2012,40.25,Units
@@ -33794,6 +33885,7 @@ ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2019,30.7,U
 ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2020,30.95,Units
 ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2021,36.575,Units
 ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2022,35.625,Units
+ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2023,34.875,Units
 IRL,Ireland,Unemployment rate,Female,From 25 to 54 years,Annual,2010,10.25038,Units
 IRL,Ireland,Unemployment rate,Female,From 25 to 54 years,Annual,2011,11.60064,Units
 IRL,Ireland,Unemployment rate,Female,From 25 to 54 years,Annual,2012,11.7666,Units
@@ -34163,6 +34255,7 @@ TUR,Türkiye,Employment rate,Male,15 years or over,Annual,2019,63.1,Units
 TUR,Türkiye,Employment rate,Male,15 years or over,Annual,2020,59.775,Units
 TUR,Türkiye,Employment rate,Male,15 years or over,Annual,2021,62.8,Units
 TUR,Türkiye,Employment rate,Male,15 years or over,Annual,2022,65.0,Units
+TUR,Türkiye,Employment rate,Male,15 years or over,Annual,2023,65.725,Units
 POL,Poland,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,57.725,Units
 POL,Poland,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,58.2,Units
 POL,Poland,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,58.85,Units
@@ -34228,6 +34321,7 @@ ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annua
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,41.90217,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,40.63688,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,39.58858,Units
+ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,42.24377,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,71.23409,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,71.66758,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,71.87054,Units
@@ -37009,6 +37103,7 @@ TUR,Türkiye,Inactivity rate,Male,From 55 to 64 years,Annual,2019,46.125,Units
 TUR,Türkiye,Inactivity rate,Male,From 55 to 64 years,Annual,2020,49.975,Units
 TUR,Türkiye,Inactivity rate,Male,From 55 to 64 years,Annual,2021,46.25,Units
 TUR,Türkiye,Inactivity rate,Male,From 55 to 64 years,Annual,2022,45.25,Units
+TUR,Türkiye,Inactivity rate,Male,From 55 to 64 years,Annual,2023,43.925,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2010,9.2175,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2011,8.41,Units
 COL,Colombia,Unemployment rate,Male,From 15 to 74 years,Annual,2012,8.05,Units
@@ -37340,6 +37435,7 @@ TUR,Türkiye,Inactivity rate,Female,From 15 to 74 years,Annual,2019,63.875,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 74 years,Annual,2020,67.5,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 74 years,Annual,2021,65.375,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 74 years,Annual,2022,63.025,Units
+TUR,Türkiye,Inactivity rate,Female,From 15 to 74 years,Annual,2023,62.175,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2010,17.64229,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2011,17.82986,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2012,17.5176,Units
@@ -37418,6 +37514,7 @@ TUR,Türkiye,Inactivity rate,Female,From 55 to 64 years,Annual,2019,80.4,Units
 TUR,Türkiye,Inactivity rate,Female,From 55 to 64 years,Annual,2020,82.65,Units
 TUR,Türkiye,Inactivity rate,Female,From 55 to 64 years,Annual,2021,80.9,Units
 TUR,Türkiye,Inactivity rate,Female,From 55 to 64 years,Annual,2022,79.925,Units
+TUR,Türkiye,Inactivity rate,Female,From 55 to 64 years,Annual,2023,78.775,Units
 COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2010,44.26833,Units
 COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2011,43.40083,Units
 COL,Colombia,Inactivity rate,Female,15 years or over,Annual,2012,42.05833,Units
