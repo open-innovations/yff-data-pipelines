@@ -10,19 +10,19 @@ stages:
     outs:
     - path: ../../data/raw/education/16-18-destination-measures.zip
       hash: md5
-      md5: c065b8acbe35b65a4492ef65ac41ce2b
-      size: 17304941
+      md5: 626501f7509d005abe61460ee358ca77
+      size: 17304081
     - path: ../../data/raw/education/key-stage-4-performance.zip
       hash: md5
-      md5: 05f5933cb7bd0a0fa47bcf5a41042a1e
+      md5: c9754e82232d1104bf9392478a0fcfe8
       size: 10924962
   transform:
     cmd: papermill transform.ipynb ../../output/education-transform.ipynb
     deps:
     - path: ../../data/raw/education/
       hash: md5
-      md5: 6d4a9e1db2ee9695b9baee32a76301fa.dir
-      size: 28229903
+      md5: 2d7199fbce841ae3f10a940efca3cd78.dir
+      size: 28229043
       nfiles: 2
     - path: transform.ipynb
       hash: md5
