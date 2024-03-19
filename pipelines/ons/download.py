@@ -1,6 +1,6 @@
 import os
 import sys
-import requests
+from etl.sources import download_file
 
 
 if __name__ == '__main__':
@@ -9,6 +9,4 @@ if __name__ == '__main__':
     RAW_CSV = os.path.abspath(f'{os.path.dirname(__file__)}/../../data/raw/{key}.csv')
     os.makedirs(os.path.dirname(RAW_CSV), exist_ok=True)
 
-    r = requests.get(url)
-    with open(RAW_CSV, 'wb') as f:
-        f.write(r.content)
+    download_file(url, RAW_CSV)

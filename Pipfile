@@ -18,6 +18,7 @@ mapclassify = "*"
 openpyxl = "*"
 odfpy = "*"
 pyarrow = "*"
+petl = {extras = ["remote"], version = "*"}
 
 [dev-packages]
 

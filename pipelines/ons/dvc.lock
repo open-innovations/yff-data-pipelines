@@ -7,8 +7,8 @@ stages:
     deps:
     - path: ../../data/raw/unem.csv
       hash: md5
-      md5: fa7c928adfc17012779e2554377732c6
-      size: 1634516
+      md5: 50cb55722365caf6040f466c78076ab0
+      size: 982393
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424
@@ -29,8 +29,8 @@ stages:
     deps:
     - path: ../../data/raw/mm23.csv
       hash: md5
-      md5: 4bd3fb9711ba66d22e6bbdd18027e110
-      size: 22217812
+      md5: 3e7031cb872ee1b53bad5e1e612b1d36
+      size: 10432272
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424
@@ -51,8 +51,8 @@ stages:
     deps:
     - path: ../../data/raw/lms.csv
       hash: md5
-      md5: 1ff4fc92bbec4e1e3284c08305076f6c
-      size: 11254229
+      md5: b583aa1c964c8c5b12fbb8c14b615aa4
+      size: 5704321
     - path: process.ipynb
       hash: md5
       md5: 60b7453ab496ab4dd98f5813833de424
@@ -72,36 +72,36 @@ stages:
     deps:
     - path: download.py
       hash: md5
-      md5: edf996605b8b03b6684b8969ab19a825
-      size: 333
+      md5: 840b22a3dcb54623903bc97da7a617b6
+      size: 300
     outs:
     - path: ../../data/raw/mm23.csv
       hash: md5
-      md5: 4bd3fb9711ba66d22e6bbdd18027e110
-      size: 22217812
+      md5: 3e7031cb872ee1b53bad5e1e612b1d36
+      size: 10432272
   download@unem:
     cmd: python download.py unem 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/claimantcountandvacanciesdataset/current/unem.csv
     deps:
     - path: download.py
       hash: md5
-      md5: edf996605b8b03b6684b8969ab19a825
-      size: 333
+      md5: 840b22a3dcb54623903bc97da7a617b6
+      size: 300
     outs:
     - path: ../../data/raw/unem.csv
       hash: md5
-      md5: fa7c928adfc17012779e2554377732c6
-      size: 1634516
+      md5: 50cb55722365caf6040f466c78076ab0
+      size: 982393
   download@lms:
     cmd: python download.py lms 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics/current/lms.csv
     deps:
     - path: download.py
       hash: md5
-      md5: edf996605b8b03b6684b8969ab19a825
-      size: 333
+      md5: 840b22a3dcb54623903bc97da7a617b6
+      size: 300
     outs:
     - path: ../../data/raw/lms.csv
       hash: md5
-      md5: 1ff4fc92bbec4e1e3284c08305076f6c
-      size: 11254229
+      md5: b583aa1c964c8c5b12fbb8c14b615aa4
+      size: 5704321
