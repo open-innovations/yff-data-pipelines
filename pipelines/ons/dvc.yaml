@@ -4,7 +4,8 @@ stages:
   download:
     foreach: '${sources}'
     do:
-      cmd: PYTHONPATH=${TOP}/lib python download.py ${key} ${item.url}
+      cmd: PYTHONPATH=${TOP} python download.py ${key} ${item.url}
+      always_changed: true
       deps:
         - download.py
       outs:

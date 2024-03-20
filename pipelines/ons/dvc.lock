@@ -67,39 +67,39 @@ stages:
       md5: 93c268450b8540063d6ed5dcb068397a
       size: 18526156
   download@mm23:
-    cmd: PYTHONPATH=../../lib python download.py mm23 
+    cmd: PYTHONPATH=../.. python download.py mm23 
       https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/consumerpriceindices/current/mm23.csv
     deps:
     - path: download.py
       hash: md5
-      md5: 840b22a3dcb54623903bc97da7a617b6
-      size: 300
+      md5: 6620e209ed9968e5640adf17e1797dd6
+      size: 304
     outs:
     - path: ../../data/raw/mm23.csv
       hash: md5
       md5: 51a97bb45c3f901ac73de7767ea12ab3
       size: 10449106
   download@unem:
-    cmd: PYTHONPATH=../../lib python download.py unem 
+    cmd: PYTHONPATH=../.. python download.py unem 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/claimantcountandvacanciesdataset/current/unem.csv
     deps:
     - path: download.py
       hash: md5
-      md5: 840b22a3dcb54623903bc97da7a617b6
-      size: 300
+      md5: 6620e209ed9968e5640adf17e1797dd6
+      size: 304
     outs:
     - path: ../../data/raw/unem.csv
       hash: md5
       md5: 50cb55722365caf6040f466c78076ab0
       size: 982393
   download@lms:
-    cmd: PYTHONPATH=../../lib python download.py lms 
+    cmd: PYTHONPATH=../.. python download.py lms 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics/current/lms.csv
     deps:
     - path: download.py
       hash: md5
-      md5: 840b22a3dcb54623903bc97da7a617b6
-      size: 300
+      md5: 6620e209ed9968e5640adf17e1797dd6
+      size: 304
     outs:
     - path: ../../data/raw/lms.csv
       hash: md5
