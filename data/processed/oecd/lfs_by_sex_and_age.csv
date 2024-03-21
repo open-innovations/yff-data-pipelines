@@ -235,6 +235,7 @@ CHE,Switzerland,Employment rate,Female,From 15 to 74 years,Annual,2019,67.875,Un
 CHE,Switzerland,Employment rate,Female,From 15 to 74 years,Annual,2020,67.4,Units
 CHE,Switzerland,Employment rate,Female,From 15 to 74 years,Annual,2021,66.85,Units
 CHE,Switzerland,Employment rate,Female,From 15 to 74 years,Annual,2022,66.775,Units
+CHE,Switzerland,Employment rate,Female,From 15 to 74 years,Annual,2023,68.075,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,70.51114,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,70.78556,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2013,70.95672,Units
@@ -2474,6 +2475,7 @@ CHE,Switzerland,Labour force participation rate,Total,From 15 to 74 years,Annual
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 74 years,Annual,2020,75.6,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 74 years,Annual,2021,75.1,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 74 years,Annual,2022,74.575,Units
+CHE,Switzerland,Labour force participation rate,Total,From 15 to 74 years,Annual,2023,75.55,Units
 DNK,Denmark,Labour force participation rate,Female,15 years or over,Annual,2010,58.85,Units
 DNK,Denmark,Labour force participation rate,Female,15 years or over,Annual,2011,58.6,Units
 DNK,Denmark,Labour force participation rate,Female,15 years or over,Annual,2012,58.15,Units
@@ -2904,6 +2906,7 @@ CHE,Switzerland,Inactivity rate,Total,From 25 to 54 years,Annual,2019,8.725,Unit
 CHE,Switzerland,Inactivity rate,Total,From 25 to 54 years,Annual,2020,8.8,Units
 CHE,Switzerland,Inactivity rate,Total,From 25 to 54 years,Annual,2021,9.325,Units
 CHE,Switzerland,Inactivity rate,Total,From 25 to 54 years,Annual,2022,9.975,Units
+CHE,Switzerland,Inactivity rate,Total,From 25 to 54 years,Annual,2023,9.425,Units
 LVA,Latvia,Labour force participation rate,Female,15 years or over,Annual,2010,53.925,Units
 LVA,Latvia,Labour force participation rate,Female,15 years or over,Annual,2011,53.05,Units
 LVA,Latvia,Labour force participation rate,Female,15 years or over,Annual,2012,54.325,Units
@@ -2959,7 +2962,7 @@ OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2019,5.578226,Units
 OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2020,7.381019,Units
 OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2021,6.348397,Units
 OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2022,5.26101,Units
-OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2023,5.029197,Units
+OECD,OECD,Unemployment rate,Female,15 years or over,Annual,2023,5.028195,Units
 DNK,Denmark,Inactivity rate,Total,From 15 to 74 years,Annual,2010,30.5,Units
 DNK,Denmark,Inactivity rate,Total,From 15 to 74 years,Annual,2011,30.925,Units
 DNK,Denmark,Inactivity rate,Total,From 15 to 74 years,Annual,2012,31.675,Units
@@ -3099,6 +3102,7 @@ OECD,OECD,Labour force participation rate,Total,15 years or over,Annual,2019,60.
 OECD,OECD,Labour force participation rate,Total,15 years or over,Annual,2020,59.3203,Units
 OECD,OECD,Labour force participation rate,Total,15 years or over,Annual,2021,59.87806,Units
 OECD,OECD,Labour force participation rate,Total,15 years or over,Annual,2022,60.55727,Units
+OECD,OECD,Labour force participation rate,Total,15 years or over,Annual,2023,60.93508,Units
 KOR,Korea,Labour force participation rate,Male,15 years or over,Annual,2010,73.18647,Units
 KOR,Korea,Labour force participation rate,Male,15 years or over,Annual,2011,73.3605,Units
 KOR,Korea,Labour force participation rate,Male,15 years or over,Annual,2012,73.54453,Units
@@ -3459,6 +3463,7 @@ ISL,Iceland,Unemployment rate,Female,From 55 to 64 years,Annual,2019,1.265962,Un
 ISL,Iceland,Unemployment rate,Female,From 55 to 64 years,Annual,2020,4.005241,Units
 ISL,Iceland,Unemployment rate,Female,From 55 to 64 years,Annual,2021,3.874347,Units
 ISL,Iceland,Unemployment rate,Female,From 55 to 64 years,Annual,2022,0.8531491,Units
+ISL,Iceland,Unemployment rate,Female,From 55 to 64 years,Annual,2023,1.055667,Units
 OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2011,32.19883,Units
 OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2012,31.32565,Units
 OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2013,30.64401,Units
@@ -4028,6 +4033,7 @@ OECD,OECD,Inactivity rate,Male,15 years or over,Annual,2019,30.6837,Units
 OECD,OECD,Inactivity rate,Male,15 years or over,Annual,2020,32.31915,Units
 OECD,OECD,Inactivity rate,Male,15 years or over,Annual,2021,31.77875,Units
 OECD,OECD,Inactivity rate,Male,15 years or over,Annual,2022,31.35438,Units
+OECD,OECD,Inactivity rate,Male,15 years or over,Annual,2023,31.21956,Units
 LTU,Lithuania,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,65.85,Units
 LTU,Lithuania,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,67.275,Units
 LTU,Lithuania,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,67.575,Units
@@ -4419,6 +4425,7 @@ CHE,Switzerland,Labour force participation rate,Female,From 25 to 54 years,Annua
 CHE,Switzerland,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,86.9,Units
 CHE,Switzerland,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,86.625,Units
 CHE,Switzerland,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,86.075,Units
+CHE,Switzerland,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,86.975,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,74.55,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,75.625,Units
 TUR,Türkiye,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,75.0,Units
@@ -4896,6 +4903,7 @@ CHE,Switzerland,Employment rate,Female,From 55 to 64 years,Annual,2019,66.575,Un
 CHE,Switzerland,Employment rate,Female,From 55 to 64 years,Annual,2020,67.775,Units
 CHE,Switzerland,Employment rate,Female,From 55 to 64 years,Annual,2021,67.0,Units
 CHE,Switzerland,Employment rate,Female,From 55 to 64 years,Annual,2022,67.25,Units
+CHE,Switzerland,Employment rate,Female,From 55 to 64 years,Annual,2023,69.075,Units
 PRT,Portugal,Labour force participation rate,Total,15 years or over,Annual,2010,61.25,Units
 PRT,Portugal,Labour force participation rate,Total,15 years or over,Annual,2011,60.475,Units
 PRT,Portugal,Labour force participation rate,Total,15 years or over,Annual,2012,60.15,Units
@@ -4923,6 +4931,7 @@ CHE,Switzerland,Employment rate,Female,From 15 to 64 years,Annual,2019,76.35,Uni
 CHE,Switzerland,Employment rate,Female,From 15 to 64 years,Annual,2020,75.9,Units
 CHE,Switzerland,Employment rate,Female,From 15 to 64 years,Annual,2021,75.375,Units
 CHE,Switzerland,Employment rate,Female,From 15 to 64 years,Annual,2022,75.425,Units
+CHE,Switzerland,Employment rate,Female,From 15 to 64 years,Annual,2023,76.725,Units
 EST,Estonia,Employment rate,Female,From 55 to 64 years,Annual,2010,55.275,Units
 EST,Estonia,Employment rate,Female,From 55 to 64 years,Annual,2011,57.825,Units
 EST,Estonia,Employment rate,Female,From 55 to 64 years,Annual,2012,61.5,Units
@@ -5006,6 +5015,7 @@ CHE,Switzerland,Inactivity rate,Total,From 15 to 24 years,Annual,2019,33.5,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 24 years,Annual,2020,34.975,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 24 years,Annual,2021,34.6,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 24 years,Annual,2022,34.975,Units
+CHE,Switzerland,Inactivity rate,Total,From 15 to 24 years,Annual,2023,33.575,Units
 USA,United States,Employment rate,Total,From 55 to 64 years,Annual,2010,60.29404,Units
 USA,United States,Employment rate,Total,From 55 to 64 years,Annual,2011,59.98019,Units
 USA,United States,Employment rate,Total,From 55 to 64 years,Annual,2012,60.64771,Units
@@ -5439,6 +5449,7 @@ CHE,Switzerland,Inactivity rate,Male,From 55 to 64 years,Annual,2019,17.225,Unit
 CHE,Switzerland,Inactivity rate,Male,From 55 to 64 years,Annual,2020,17.125,Units
 CHE,Switzerland,Inactivity rate,Male,From 55 to 64 years,Annual,2021,18.275,Units
 CHE,Switzerland,Inactivity rate,Male,From 55 to 64 years,Annual,2022,18.425,Units
+CHE,Switzerland,Inactivity rate,Male,From 55 to 64 years,Annual,2023,16.875,Units
 JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2010,6.033333,Units
 JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2011,5.433333,Units
 JPN,Japan,Unemployment rate,Male,From 55 to 64 years,Annual,2012,4.9,Units
@@ -6201,6 +6212,7 @@ CHE,Switzerland,Inactivity rate,Male,From 15 to 64 years,Annual,2019,11.725,Unit
 CHE,Switzerland,Inactivity rate,Male,From 15 to 64 years,Annual,2020,11.875,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 64 years,Annual,2021,12.45,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 64 years,Annual,2022,12.975,Units
+CHE,Switzerland,Inactivity rate,Male,From 15 to 64 years,Annual,2023,12.25,Units
 CAN,Canada,Unemployment rate,Total,From 25 to 54 years,Annual,2010,7.091667,Units
 CAN,Canada,Unemployment rate,Total,From 25 to 54 years,Annual,2011,6.466667,Units
 CAN,Canada,Unemployment rate,Total,From 25 to 54 years,Annual,2012,6.2,Units
@@ -6577,6 +6589,7 @@ CHE,Switzerland,Inactivity rate,Male,From 15 to 74 years,Annual,2019,19.65,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 74 years,Annual,2020,19.8,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 74 years,Annual,2021,20.45,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 74 years,Annual,2022,20.825,Units
+CHE,Switzerland,Inactivity rate,Male,From 15 to 74 years,Annual,2023,20.075,Units
 EST,Estonia,Inactivity rate,Male,From 15 to 64 years,Annual,2010,23.0247,Units
 EST,Estonia,Inactivity rate,Male,From 15 to 64 years,Annual,2011,21.79508,Units
 EST,Estonia,Inactivity rate,Male,From 15 to 64 years,Annual,2012,21.54829,Units
@@ -6879,6 +6892,7 @@ CHE,Switzerland,Employment rate,Female,From 25 to 54 years,Annual,2019,82.95,Uni
 CHE,Switzerland,Employment rate,Female,From 25 to 54 years,Annual,2020,82.5,Units
 CHE,Switzerland,Employment rate,Female,From 25 to 54 years,Annual,2021,82.125,Units
 CHE,Switzerland,Employment rate,Female,From 25 to 54 years,Annual,2022,82.175,Units
+CHE,Switzerland,Employment rate,Female,From 25 to 54 years,Annual,2023,83.425,Units
 BEL,Belgium,Inactivity rate,Male,15 years or over,Annual,2010,39.225,Units
 BEL,Belgium,Inactivity rate,Male,15 years or over,Annual,2011,40.3,Units
 BEL,Belgium,Inactivity rate,Male,15 years or over,Annual,2012,40.25,Units
@@ -7070,6 +7084,7 @@ CHE,Switzerland,Unemployment rate,Male,From 15 to 24 years,Annual,2019,8.775,Uni
 CHE,Switzerland,Unemployment rate,Male,From 15 to 24 years,Annual,2020,9.175,Units
 CHE,Switzerland,Unemployment rate,Male,From 15 to 24 years,Annual,2021,8.875,Units
 CHE,Switzerland,Unemployment rate,Male,From 15 to 24 years,Annual,2022,7.475,Units
+CHE,Switzerland,Unemployment rate,Male,From 15 to 24 years,Annual,2023,8.275,Units
 LTU,Lithuania,Labour force participation rate,Male,15 years or over,Annual,2010,62.0,Units
 LTU,Lithuania,Labour force participation rate,Male,15 years or over,Annual,2011,63.05,Units
 LTU,Lithuania,Labour force participation rate,Male,15 years or over,Annual,2012,63.25,Units
@@ -7250,6 +7265,7 @@ CHE,Switzerland,Employment rate,Male,From 15 to 24 years,Annual,2019,60.775,Unit
 CHE,Switzerland,Employment rate,Male,From 15 to 24 years,Annual,2020,59.45,Units
 CHE,Switzerland,Employment rate,Male,From 15 to 24 years,Annual,2021,60.6,Units
 CHE,Switzerland,Employment rate,Male,From 15 to 24 years,Annual,2022,61.575,Units
+CHE,Switzerland,Employment rate,Male,From 15 to 24 years,Annual,2023,62.625,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,60.85,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,60.25,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,62.05,Units
@@ -7612,6 +7628,7 @@ CHE,Switzerland,Labour force participation rate,Total,From 55 to 64 years,Annual
 CHE,Switzerland,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,76.5,Units
 CHE,Switzerland,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,75.85,Units
 CHE,Switzerland,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,75.7,Units
+CHE,Switzerland,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,77.275,Units
 BEL,Belgium,Unemployment rate,Male,From 25 to 54 years,Annual,2010,7.269262,Units
 BEL,Belgium,Unemployment rate,Male,From 25 to 54 years,Annual,2011,6.474448,Units
 BEL,Belgium,Unemployment rate,Male,From 25 to 54 years,Annual,2012,6.936923,Units
@@ -7667,6 +7684,7 @@ ISL,Iceland,Unemployment rate,Total,From 55 to 64 years,Annual,2019,1.749682,Uni
 ISL,Iceland,Unemployment rate,Total,From 55 to 64 years,Annual,2020,3.534973,Units
 ISL,Iceland,Unemployment rate,Total,From 55 to 64 years,Annual,2021,3.950287,Units
 ISL,Iceland,Unemployment rate,Total,From 55 to 64 years,Annual,2022,1.492514,Units
+ISL,Iceland,Unemployment rate,Total,From 55 to 64 years,Annual,2023,1.182452,Units
 CHL,Chile,Unemployment rate,Male,15 years or over,Annual,2010,7.2,Units
 CHL,Chile,Unemployment rate,Male,15 years or over,Annual,2011,6.05,Units
 CHL,Chile,Unemployment rate,Male,15 years or over,Annual,2012,5.523956,Units
@@ -7833,6 +7851,7 @@ CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,84.125,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,83.65,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,83.15,Units
+CHE,Switzerland,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,84.0,Units
 KOR,Korea,Employment rate,Female,From 25 to 54 years,Annual,2010,60.35325,Units
 KOR,Korea,Employment rate,Female,From 25 to 54 years,Annual,2011,60.95202,Units
 KOR,Korea,Employment rate,Female,From 25 to 54 years,Annual,2012,61.20595,Units
@@ -8621,6 +8640,7 @@ CHE,Switzerland,Unemployment rate,Male,From 15 to 74 years,Annual,2019,4.15,Unit
 CHE,Switzerland,Unemployment rate,Male,From 15 to 74 years,Annual,2020,4.7,Units
 CHE,Switzerland,Unemployment rate,Male,From 15 to 74 years,Annual,2021,4.95,Units
 CHE,Switzerland,Unemployment rate,Male,From 15 to 74 years,Annual,2022,4.125,Units
+CHE,Switzerland,Unemployment rate,Male,From 15 to 74 years,Annual,2023,3.9,Units
 LTU,Lithuania,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,88.375,Units
 LTU,Lithuania,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,89.75,Units
 LTU,Lithuania,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,89.725,Units
@@ -8704,6 +8724,7 @@ CHE,Switzerland,Employment rate,Female,15 years or over,Annual,2019,60.025,Units
 CHE,Switzerland,Employment rate,Female,15 years or over,Annual,2020,59.4,Units
 CHE,Switzerland,Employment rate,Female,15 years or over,Annual,2021,58.925,Units
 CHE,Switzerland,Employment rate,Female,15 years or over,Annual,2022,58.7,Units
+CHE,Switzerland,Employment rate,Female,15 years or over,Annual,2023,59.85,Units
 HUN,Hungary,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,80.9,Units
 HUN,Hungary,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,80.9,Units
 HUN,Hungary,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,82.575,Units
@@ -9427,6 +9448,7 @@ CHE,Switzerland,Labour force participation rate,Male,15 years or over,Annual,201
 CHE,Switzerland,Labour force participation rate,Male,15 years or over,Annual,2020,73.375,Units
 CHE,Switzerland,Labour force participation rate,Male,15 years or over,Annual,2021,72.675,Units
 CHE,Switzerland,Labour force participation rate,Male,15 years or over,Annual,2022,71.95,Units
+CHE,Switzerland,Labour force participation rate,Male,15 years or over,Annual,2023,72.8,Units
 PRT,Portugal,Unemployment rate,Female,From 55 to 64 years,Annual,2010,8.323381,Units
 PRT,Portugal,Unemployment rate,Female,From 55 to 64 years,Annual,2011,10.85349,Units
 PRT,Portugal,Unemployment rate,Female,From 55 to 64 years,Annual,2012,12.31352,Units
@@ -10020,6 +10042,7 @@ CHE,Switzerland,Unemployment rate,Female,From 55 to 64 years,Annual,2019,3.625,U
 CHE,Switzerland,Unemployment rate,Female,From 55 to 64 years,Annual,2020,3.225,Units
 CHE,Switzerland,Unemployment rate,Female,From 55 to 64 years,Annual,2021,4.15,Units
 CHE,Switzerland,Unemployment rate,Female,From 55 to 64 years,Annual,2022,3.6,Units
+CHE,Switzerland,Unemployment rate,Female,From 55 to 64 years,Annual,2023,3.25,Units
 IRL,Ireland,Labour force participation rate,Female,From 15 to 24 years,Annual,2010,51.725,Units
 IRL,Ireland,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,49.125,Units
 IRL,Ireland,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,48.6,Units
@@ -10432,6 +10455,7 @@ CHE,Switzerland,Inactivity rate,Total,From 15 to 64 years,Annual,2019,15.675,Uni
 CHE,Switzerland,Inactivity rate,Total,From 15 to 64 years,Annual,2020,15.875,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 64 years,Annual,2021,16.35,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 64 years,Annual,2022,16.85,Units
+CHE,Switzerland,Inactivity rate,Total,From 15 to 64 years,Annual,2023,16.0,Units
 CZE,Czechia,Inactivity rate,Female,From 15 to 64 years,Annual,2010,38.475,Units
 CZE,Czechia,Inactivity rate,Female,From 15 to 64 years,Annual,2011,37.8,Units
 CZE,Czechia,Inactivity rate,Female,From 15 to 64 years,Annual,2012,36.5,Units
@@ -10971,6 +10995,7 @@ OECD,OECD,Labour force participation rate,Male,15 years or over,Annual,2019,69.3
 OECD,OECD,Labour force participation rate,Male,15 years or over,Annual,2020,67.62936,Units
 OECD,OECD,Labour force participation rate,Male,15 years or over,Annual,2021,68.2177,Units
 OECD,OECD,Labour force participation rate,Male,15 years or over,Annual,2022,68.64143,Units
+OECD,OECD,Labour force participation rate,Male,15 years or over,Annual,2023,68.77445,Units
 AUS,Australia,Labour force participation rate,Female,15 years or over,Annual,2010,58.61237,Units
 AUS,Australia,Labour force participation rate,Female,15 years or over,Annual,2011,58.86245,Units
 AUS,Australia,Labour force participation rate,Female,15 years or over,Annual,2012,58.76575,Units
@@ -11610,6 +11635,7 @@ CHE,Switzerland,Unemployment rate,Male,From 55 to 64 years,Annual,2019,4.075,Uni
 CHE,Switzerland,Unemployment rate,Male,From 55 to 64 years,Annual,2020,4.5,Units
 CHE,Switzerland,Unemployment rate,Male,From 55 to 64 years,Annual,2021,5.125,Units
 CHE,Switzerland,Unemployment rate,Male,From 55 to 64 years,Annual,2022,4.125,Units
+CHE,Switzerland,Unemployment rate,Male,From 55 to 64 years,Annual,2023,3.55,Units
 SVN,Slovenia,Labour force participation rate,Total,From 15 to 74 years,Annual,2010,63.95,Units
 SVN,Slovenia,Labour force participation rate,Total,From 15 to 74 years,Annual,2011,62.825,Units
 SVN,Slovenia,Labour force participation rate,Total,From 15 to 74 years,Annual,2012,62.675,Units
@@ -11928,6 +11954,7 @@ CHE,Switzerland,Unemployment rate,Total,From 25 to 54 years,Annual,2019,4.075,Un
 CHE,Switzerland,Unemployment rate,Total,From 25 to 54 years,Annual,2020,4.575,Units
 CHE,Switzerland,Unemployment rate,Total,From 25 to 54 years,Annual,2021,4.775,Units
 CHE,Switzerland,Unemployment rate,Total,From 25 to 54 years,Annual,2022,4.05,Units
+CHE,Switzerland,Unemployment rate,Total,From 25 to 54 years,Annual,2023,3.675,Units
 IRL,Ireland,Inactivity rate,Male,From 15 to 74 years,Annual,2010,26.375,Units
 IRL,Ireland,Inactivity rate,Male,From 15 to 74 years,Annual,2011,27.275,Units
 IRL,Ireland,Inactivity rate,Male,From 15 to 74 years,Annual,2012,27.575,Units
@@ -12442,6 +12469,7 @@ CHE,Switzerland,Labour force participation rate,Female,From 15 to 64 years,Annua
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,79.975,Units
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,79.675,Units
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,79.175,Units
+CHE,Switzerland,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,80.2,Units
 EST,Estonia,Unemployment rate,Female,15 years or over,Annual,2010,14.09136,Units
 EST,Estonia,Unemployment rate,Female,15 years or over,Annual,2011,11.58559,Units
 EST,Estonia,Unemployment rate,Female,15 years or over,Annual,2012,9.0976,Units
@@ -13234,6 +13262,7 @@ CHE,Switzerland,Labour force participation rate,Male,From 15 to 64 years,Annual,
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,88.125,Units
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,87.55,Units
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,87.025,Units
+CHE,Switzerland,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,87.75,Units
 HUN,Hungary,Employment rate,Female,From 15 to 64 years,Annual,2010,54.3,Units
 HUN,Hungary,Employment rate,Female,From 15 to 64 years,Annual,2011,54.5,Units
 HUN,Hungary,Employment rate,Female,From 15 to 64 years,Annual,2012,55.7,Units
@@ -14556,6 +14585,7 @@ CHE,Switzerland,Employment rate,Total,From 15 to 74 years,Annual,2019,72.45,Unit
 CHE,Switzerland,Employment rate,Total,From 15 to 74 years,Annual,2020,71.925,Units
 CHE,Switzerland,Employment rate,Total,From 15 to 74 years,Annual,2021,71.25,Units
 CHE,Switzerland,Employment rate,Total,From 15 to 74 years,Annual,2022,71.35,Units
+CHE,Switzerland,Employment rate,Total,From 15 to 74 years,Annual,2023,72.475,Units
 SWE,Sweden,Inactivity rate,Male,From 55 to 64 years,Annual,2010,22.00305,Units
 SWE,Sweden,Inactivity rate,Male,From 55 to 64 years,Annual,2011,21.31582,Units
 SWE,Sweden,Inactivity rate,Male,From 55 to 64 years,Annual,2012,20.38802,Units
@@ -15222,6 +15252,7 @@ CHE,Switzerland,Labour force participation rate,Total,From 15 to 24 years,Annual
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,65.025,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,65.4,Units
 CHE,Switzerland,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,65.025,Units
+CHE,Switzerland,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,66.425,Units
 KOR,Korea,Unemployment rate,Female,From 15 to 24 years,Annual,2010,8.860362,Units
 KOR,Korea,Unemployment rate,Female,From 15 to 24 years,Annual,2011,8.100979,Units
 KOR,Korea,Unemployment rate,Female,From 15 to 24 years,Annual,2012,8.520329,Units
@@ -15443,6 +15474,7 @@ CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2019,79.375,Unit
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2020,79.15,Units
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2021,77.55,Units
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2022,78.25,Units
+CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2023,80.175,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2010,28.13396,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2011,28.18627,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2012,28.38899,Units
@@ -15498,6 +15530,7 @@ CHE,Switzerland,Inactivity rate,Male,From 25 to 54 years,Annual,2019,4.6,Units
 CHE,Switzerland,Inactivity rate,Male,From 25 to 54 years,Annual,2020,4.575,Units
 CHE,Switzerland,Inactivity rate,Male,From 25 to 54 years,Annual,2021,5.35,Units
 CHE,Switzerland,Inactivity rate,Male,From 25 to 54 years,Annual,2022,6.125,Units
+CHE,Switzerland,Inactivity rate,Male,From 25 to 54 years,Annual,2023,5.925,Units
 JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2010,73.83396,Units
 JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2011,74.09546,Units
 JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2012,74.06855,Units
@@ -16904,6 +16937,7 @@ CHE,Switzerland,Inactivity rate,Female,From 15 to 64 years,Annual,2019,19.775,Un
 CHE,Switzerland,Inactivity rate,Female,From 15 to 64 years,Annual,2020,20.025,Units
 CHE,Switzerland,Inactivity rate,Female,From 15 to 64 years,Annual,2021,20.325,Units
 CHE,Switzerland,Inactivity rate,Female,From 15 to 64 years,Annual,2022,20.825,Units
+CHE,Switzerland,Inactivity rate,Female,From 15 to 64 years,Annual,2023,19.8,Units
 KOR,Korea,Employment rate,Male,From 25 to 54 years,Annual,2010,86.77641,Units
 KOR,Korea,Employment rate,Male,From 25 to 54 years,Annual,2011,87.44303,Units
 KOR,Korea,Employment rate,Male,From 25 to 54 years,Annual,2012,87.82494,Units
@@ -17180,6 +17214,7 @@ OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2019,39.13556,Units
 OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2020,40.62922,Units
 OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2021,40.12103,Units
 OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2022,39.44205,Units
+OECD,OECD,Inactivity rate,Total,15 years or over,Annual,2023,39.06443,Units
 KOR,Korea,Unemployment rate,Total,From 15 to 24 years,Annual,2010,9.697101,Units
 KOR,Korea,Unemployment rate,Total,From 15 to 24 years,Annual,2011,9.628199,Units
 KOR,Korea,Unemployment rate,Total,From 15 to 24 years,Annual,2012,8.988364,Units
@@ -17414,6 +17449,7 @@ CHE,Switzerland,Labour force participation rate,Total,15 years or over,Annual,20
 CHE,Switzerland,Labour force participation rate,Total,15 years or over,Annual,2020,67.85,Units
 CHE,Switzerland,Labour force participation rate,Total,15 years or over,Annual,2021,67.4,Units
 CHE,Switzerland,Labour force participation rate,Total,15 years or over,Annual,2022,66.65,Units
+CHE,Switzerland,Labour force participation rate,Total,15 years or over,Annual,2023,67.575,Units
 BEL,Belgium,Inactivity rate,Female,15 years or over,Annual,2010,52.3,Units
 BEL,Belgium,Inactivity rate,Female,15 years or over,Annual,2011,52.95,Units
 BEL,Belgium,Inactivity rate,Female,15 years or over,Annual,2012,52.9,Units
@@ -17593,6 +17629,7 @@ CHE,Switzerland,Unemployment rate,Female,From 15 to 74 years,Annual,2019,4.75,Un
 CHE,Switzerland,Unemployment rate,Female,From 15 to 74 years,Annual,2020,5.025,Units
 CHE,Switzerland,Unemployment rate,Female,From 15 to 74 years,Annual,2021,5.35,Units
 CHE,Switzerland,Unemployment rate,Female,From 15 to 74 years,Annual,2022,4.575,Units
+CHE,Switzerland,Unemployment rate,Female,From 15 to 74 years,Annual,2023,4.3,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 74 years,Annual,2010,19.6,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 74 years,Annual,2011,20.225,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 74 years,Annual,2012,20.125,Units
@@ -17634,6 +17671,7 @@ CHE,Switzerland,Labour force participation rate,Female,15 years or over,Annual,2
 CHE,Switzerland,Labour force participation rate,Female,15 years or over,Annual,2020,62.5,Units
 CHE,Switzerland,Labour force participation rate,Female,15 years or over,Annual,2021,62.225,Units
 CHE,Switzerland,Labour force participation rate,Female,15 years or over,Annual,2022,61.5,Units
+CHE,Switzerland,Labour force participation rate,Female,15 years or over,Annual,2023,62.5,Units
 ESP,Spain,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,78.75,Units
 ESP,Spain,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,79.725,Units
 ESP,Spain,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,81.075,Units
@@ -18124,6 +18162,7 @@ CHE,Switzerland,Unemployment rate,Total,From 55 to 64 years,Annual,2019,3.875,Un
 CHE,Switzerland,Unemployment rate,Total,From 55 to 64 years,Annual,2020,3.925,Units
 CHE,Switzerland,Unemployment rate,Total,From 55 to 64 years,Annual,2021,4.675,Units
 CHE,Switzerland,Unemployment rate,Total,From 55 to 64 years,Annual,2022,3.875,Units
+CHE,Switzerland,Unemployment rate,Total,From 55 to 64 years,Annual,2023,3.4,Units
 ESP,Spain,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,73.175,Units
 ESP,Spain,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,72.75,Units
 ESP,Spain,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,72.35,Units
@@ -18400,6 +18439,7 @@ CHE,Switzerland,Unemployment rate,Total,From 15 to 74 years,Annual,2019,4.425,Un
 CHE,Switzerland,Unemployment rate,Total,From 15 to 74 years,Annual,2020,4.85,Units
 CHE,Switzerland,Unemployment rate,Total,From 15 to 74 years,Annual,2021,5.175,Units
 CHE,Switzerland,Unemployment rate,Total,From 15 to 74 years,Annual,2022,4.325,Units
+CHE,Switzerland,Unemployment rate,Total,From 15 to 74 years,Annual,2023,4.1,Units
 ISL,Iceland,Employment rate,Male,From 15 to 24 years,Annual,2010,58.225,Units
 ISL,Iceland,Employment rate,Male,From 15 to 24 years,Annual,2011,58.6,Units
 ISL,Iceland,Employment rate,Male,From 15 to 24 years,Annual,2012,62.75,Units
@@ -18511,6 +18551,7 @@ CHE,Switzerland,Employment rate,Male,15 years or over,Annual,2019,70.625,Units
 CHE,Switzerland,Employment rate,Male,15 years or over,Annual,2020,69.95,Units
 CHE,Switzerland,Employment rate,Male,15 years or over,Annual,2021,69.1,Units
 CHE,Switzerland,Employment rate,Male,15 years or over,Annual,2022,69.025,Units
+CHE,Switzerland,Employment rate,Male,15 years or over,Annual,2023,69.975,Units
 ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2010,52.74206,Units
 ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2011,52.64636,Units
 ISR,Israel,Labour force participation rate,Female,15 years or over,Annual,2012,58.10833,Units
@@ -18873,6 +18914,7 @@ CHE,Switzerland,Labour force participation rate,Female,From 15 to 24 years,Annua
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,64.6,Units
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,64.175,Units
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,63.375,Units
+CHE,Switzerland,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,64.425,Units
 BEL,Belgium,Unemployment rate,Total,From 25 to 54 years,Annual,2010,7.383846,Units
 BEL,Belgium,Unemployment rate,Total,From 25 to 54 years,Annual,2011,6.431434,Units
 BEL,Belgium,Unemployment rate,Total,From 25 to 54 years,Annual,2012,6.813199,Units
@@ -19076,6 +19118,7 @@ CHE,Switzerland,Unemployment rate,Total,From 15 to 64 years,Annual,2019,4.525,Un
 CHE,Switzerland,Unemployment rate,Total,From 15 to 64 years,Annual,2020,4.95,Units
 CHE,Switzerland,Unemployment rate,Total,From 15 to 64 years,Annual,2021,5.275,Units
 CHE,Switzerland,Unemployment rate,Total,From 15 to 64 years,Annual,2022,4.425,Units
+CHE,Switzerland,Unemployment rate,Total,From 15 to 64 years,Annual,2023,4.15,Units
 NLD,Netherlands,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,67.2,Units
 NLD,Netherlands,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,67.35,Units
 NLD,Netherlands,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,67.95,Units
@@ -19755,6 +19798,7 @@ OECD,OECD,Employment rate,Male,15 years or over,Annual,2019,65.66946,Units
 OECD,OECD,Employment rate,Male,15 years or over,Annual,2020,62.95746,Units
 OECD,OECD,Employment rate,Male,15 years or over,Annual,2021,64.12809,Units
 OECD,OECD,Employment rate,Male,15 years or over,Annual,2022,65.34885,Units
+OECD,OECD,Employment rate,Male,15 years or over,Annual,2023,65.56273,Units
 ESP,Spain,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,44.975,Units
 ESP,Spain,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,42.55,Units
 ESP,Spain,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,40.35,Units
@@ -20157,6 +20201,7 @@ CHE,Switzerland,Inactivity rate,Female,From 15 to 24 years,Annual,2019,33.7,Unit
 CHE,Switzerland,Inactivity rate,Female,From 15 to 24 years,Annual,2020,35.4,Units
 CHE,Switzerland,Inactivity rate,Female,From 15 to 24 years,Annual,2021,35.825,Units
 CHE,Switzerland,Inactivity rate,Female,From 15 to 24 years,Annual,2022,36.625,Units
+CHE,Switzerland,Inactivity rate,Female,From 15 to 24 years,Annual,2023,35.575,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,75.575,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,76.775,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,77.325,Units
@@ -20323,6 +20368,7 @@ CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2019,4.115638,Uni
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2020,4.657479,Units
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2021,4.906497,Units
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2022,4.06251,Units
+CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2023,3.861737,Units
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2010,71.78909,Units
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2011,71.31367,Units
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2012,70.79772,Units
@@ -21969,6 +22015,7 @@ CHE,Switzerland,Inactivity rate,Female,From 25 to 54 years,Annual,2019,12.975,Un
 CHE,Switzerland,Inactivity rate,Female,From 25 to 54 years,Annual,2020,13.1,Units
 CHE,Switzerland,Inactivity rate,Female,From 25 to 54 years,Annual,2021,13.375,Units
 CHE,Switzerland,Inactivity rate,Female,From 25 to 54 years,Annual,2022,13.925,Units
+CHE,Switzerland,Inactivity rate,Female,From 25 to 54 years,Annual,2023,13.025,Units
 SVN,Slovenia,Labour force participation rate,Male,From 55 to 64 years,Annual,2010,46.975,Units
 SVN,Slovenia,Labour force participation rate,Male,From 55 to 64 years,Annual,2011,42.25,Units
 SVN,Slovenia,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,43.225,Units
@@ -22214,6 +22261,7 @@ OECD,OECD,Inactivity rate,Female,15 years or over,Annual,2019,47.09024,Units
 OECD,OECD,Inactivity rate,Female,15 years or over,Annual,2020,48.45722,Units
 OECD,OECD,Inactivity rate,Female,15 years or over,Annual,2021,47.9745,Units
 OECD,OECD,Inactivity rate,Female,15 years or over,Annual,2022,47.0671,Units
+OECD,OECD,Inactivity rate,Female,15 years or over,Annual,2023,46.46894,Units
 JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2010,53.70563,Units
 JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2011,53.91973,Units
 JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2012,54.20549,Units
@@ -22909,6 +22957,7 @@ CHE,Switzerland,Labour force participation rate,Male,From 15 to 24 years,Annual,
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,65.425,Units
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,66.55,Units
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,66.55,Units
+CHE,Switzerland,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,68.275,Units
 CAN,Canada,Inactivity rate,Male,From 25 to 54 years,Annual,2010,9.326854,Units
 CAN,Canada,Inactivity rate,Male,From 25 to 54 years,Annual,2011,9.124863,Units
 CAN,Canada,Inactivity rate,Male,From 25 to 54 years,Annual,2012,8.843307,Units
@@ -23032,6 +23081,7 @@ CHE,Switzerland,Inactivity rate,Total,15 years or over,Annual,2019,31.775,Units
 CHE,Switzerland,Inactivity rate,Total,15 years or over,Annual,2020,32.15,Units
 CHE,Switzerland,Inactivity rate,Total,15 years or over,Annual,2021,32.6,Units
 CHE,Switzerland,Inactivity rate,Total,15 years or over,Annual,2022,33.35,Units
+CHE,Switzerland,Inactivity rate,Total,15 years or over,Annual,2023,32.425,Units
 PRT,Portugal,Inactivity rate,Female,From 15 to 64 years,Annual,2010,33.45647,Units
 PRT,Portugal,Inactivity rate,Female,From 15 to 64 years,Annual,2011,32.58686,Units
 PRT,Portugal,Inactivity rate,Female,From 15 to 64 years,Annual,2012,32.31586,Units
@@ -23101,6 +23151,7 @@ CHE,Switzerland,Employment rate,Total,From 25 to 54 years,Annual,2019,87.575,Uni
 CHE,Switzerland,Employment rate,Total,From 25 to 54 years,Annual,2020,87.0,Units
 CHE,Switzerland,Employment rate,Total,From 25 to 54 years,Annual,2021,86.35,Units
 CHE,Switzerland,Employment rate,Total,From 25 to 54 years,Annual,2022,86.4,Units
+CHE,Switzerland,Employment rate,Total,From 25 to 54 years,Annual,2023,87.25,Units
 CAN,Canada,Employment rate,Female,From 55 to 64 years,Annual,2010,52.30235,Units
 CAN,Canada,Employment rate,Female,From 55 to 64 years,Annual,2011,52.67047,Units
 CAN,Canada,Employment rate,Female,From 55 to 64 years,Annual,2012,53.74377,Units
@@ -23722,6 +23773,7 @@ CHE,Switzerland,Employment rate,Total,From 15 to 64 years,Annual,2019,80.475,Uni
 CHE,Switzerland,Employment rate,Total,From 15 to 64 years,Annual,2020,79.925,Units
 CHE,Switzerland,Employment rate,Total,From 15 to 64 years,Annual,2021,79.25,Units
 CHE,Switzerland,Employment rate,Total,From 15 to 64 years,Annual,2022,79.45,Units
+CHE,Switzerland,Employment rate,Total,From 15 to 64 years,Annual,2023,80.55,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,From 55 to 64 years,Annual,2010,40.8,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,From 55 to 64 years,Annual,2011,42.725,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,From 55 to 64 years,Annual,2012,45.0,Units
@@ -24153,6 +24205,7 @@ CHE,Switzerland,Employment rate,Total,From 55 to 64 years,Annual,2019,73.025,Uni
 CHE,Switzerland,Employment rate,Total,From 55 to 64 years,Annual,2020,73.5,Units
 CHE,Switzerland,Employment rate,Total,From 55 to 64 years,Annual,2021,72.3,Units
 CHE,Switzerland,Employment rate,Total,From 55 to 64 years,Annual,2022,72.75,Units
+CHE,Switzerland,Employment rate,Total,From 55 to 64 years,Annual,2023,74.625,Units
 CAN,Canada,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,82.35833,Units
 CAN,Canada,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,82.16666,Units
 CAN,Canada,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,82.475,Units
@@ -24347,7 +24400,7 @@ OECD,OECD,Unemployment rate,Male,15 years or over,Annual,2019,5.257545,Units
 OECD,OECD,Unemployment rate,Male,15 years or over,Annual,2020,6.907464,Units
 OECD,OECD,Unemployment rate,Male,15 years or over,Annual,2021,5.995866,Units
 OECD,OECD,Unemployment rate,Male,15 years or over,Annual,2022,4.797735,Units
-OECD,OECD,Unemployment rate,Male,15 years or over,Annual,2023,4.670603,Units
+OECD,OECD,Unemployment rate,Male,15 years or over,Annual,2023,4.670432,Units
 BEL,Belgium,Employment rate,Male,From 25 to 54 years,Annual,2010,85.525,Units
 BEL,Belgium,Employment rate,Male,From 25 to 54 years,Annual,2011,84.85,Units
 BEL,Belgium,Employment rate,Male,From 25 to 54 years,Annual,2012,84.5,Units
@@ -25160,6 +25213,7 @@ CHE,Switzerland,Unemployment rate,Female,From 25 to 54 years,Annual,2019,4.675,U
 CHE,Switzerland,Unemployment rate,Female,From 25 to 54 years,Annual,2020,5.075,Units
 CHE,Switzerland,Unemployment rate,Female,From 25 to 54 years,Annual,2021,5.225,Units
 CHE,Switzerland,Unemployment rate,Female,From 25 to 54 years,Annual,2022,4.5,Units
+CHE,Switzerland,Unemployment rate,Female,From 25 to 54 years,Annual,2023,4.075,Units
 FRA,France,Labour force participation rate,Male,From 55 to 64 years,Annual,2010,45.675,Units
 FRA,France,Labour force participation rate,Male,From 55 to 64 years,Annual,2011,47.525,Units
 FRA,France,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,51.625,Units
@@ -25325,6 +25379,7 @@ CHE,Switzerland,Inactivity rate,Female,15 years or over,Annual,2019,37.025,Units
 CHE,Switzerland,Inactivity rate,Female,15 years or over,Annual,2020,37.5,Units
 CHE,Switzerland,Inactivity rate,Female,15 years or over,Annual,2021,37.775,Units
 CHE,Switzerland,Inactivity rate,Female,15 years or over,Annual,2022,38.5,Units
+CHE,Switzerland,Inactivity rate,Female,15 years or over,Annual,2023,37.5,Units
 ISL,Iceland,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,83.5,Units
 ISL,Iceland,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,83.775,Units
 ISL,Iceland,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,82.6,Units
@@ -25464,6 +25519,7 @@ CHE,Switzerland,Employment rate,Male,From 15 to 74 years,Annual,2019,77.025,Unit
 CHE,Switzerland,Employment rate,Male,From 15 to 74 years,Annual,2020,76.425,Units
 CHE,Switzerland,Employment rate,Male,From 15 to 74 years,Annual,2021,75.625,Units
 CHE,Switzerland,Employment rate,Male,From 15 to 74 years,Annual,2022,75.9,Units
+CHE,Switzerland,Employment rate,Male,From 15 to 74 years,Annual,2023,76.8,Units
 ESP,Spain,Employment rate,Male,From 25 to 54 years,Annual,2010,75.85,Units
 ESP,Spain,Employment rate,Male,From 25 to 54 years,Annual,2011,74.6,Units
 ESP,Spain,Employment rate,Male,From 25 to 54 years,Annual,2012,71.275,Units
@@ -27267,6 +27323,7 @@ CHE,Switzerland,Employment rate,Total,15 years or over,Annual,2019,65.2,Units
 CHE,Switzerland,Employment rate,Total,15 years or over,Annual,2020,64.6,Units
 CHE,Switzerland,Employment rate,Total,15 years or over,Annual,2021,63.925,Units
 CHE,Switzerland,Employment rate,Total,15 years or over,Annual,2022,63.775,Units
+CHE,Switzerland,Employment rate,Total,15 years or over,Annual,2023,64.825,Units
 NOR,Norway,Employment rate,Male,From 55 to 64 years,Annual,2010,72.2,Units
 NOR,Norway,Employment rate,Male,From 55 to 64 years,Annual,2011,72.925,Units
 NOR,Norway,Employment rate,Male,From 55 to 64 years,Annual,2012,74.75,Units
@@ -27432,6 +27489,7 @@ CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,95.425,Units
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,94.65,Units
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,93.875,Units
+CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,94.075,Units
 BEL,Belgium,Inactivity rate,Total,From 25 to 54 years,Annual,2010,13.6,Units
 BEL,Belgium,Inactivity rate,Total,From 25 to 54 years,Annual,2011,15.2,Units
 BEL,Belgium,Inactivity rate,Total,From 25 to 54 years,Annual,2012,14.925,Units
@@ -29547,6 +29605,7 @@ CHE,Switzerland,Labour force participation rate,Female,From 55 to 64 years,Annua
 CHE,Switzerland,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,70.025,Units
 CHE,Switzerland,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,69.9,Units
 CHE,Switzerland,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,69.75,Units
+CHE,Switzerland,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,71.375,Units
 LVA,Latvia,Employment rate,Male,From 15 to 74 years,Annual,2010,52.675,Units
 LVA,Latvia,Employment rate,Male,From 15 to 74 years,Annual,2011,55.9,Units
 LVA,Latvia,Employment rate,Male,From 15 to 74 years,Annual,2012,58.975,Units
@@ -30129,6 +30188,7 @@ CHE,Switzerland,Employment rate,Male,From 25 to 54 years,Annual,2019,92.025,Unit
 CHE,Switzerland,Employment rate,Male,From 25 to 54 years,Annual,2020,91.475,Units
 CHE,Switzerland,Employment rate,Male,From 25 to 54 years,Annual,2021,90.475,Units
 CHE,Switzerland,Employment rate,Male,From 25 to 54 years,Annual,2022,90.45,Units
+CHE,Switzerland,Employment rate,Male,From 25 to 54 years,Annual,2023,91.0,Units
 CAN,Canada,Inactivity rate,Total,From 15 to 64 years,Annual,2010,22.00372,Units
 CAN,Canada,Inactivity rate,Total,From 15 to 64 years,Annual,2011,21.99966,Units
 CAN,Canada,Inactivity rate,Total,From 15 to 64 years,Annual,2012,21.82617,Units
@@ -30695,6 +30755,7 @@ CHE,Switzerland,Unemployment rate,Male,From 15 to 64 years,Annual,2019,4.25,Unit
 CHE,Switzerland,Unemployment rate,Male,From 15 to 64 years,Annual,2020,4.825,Units
 CHE,Switzerland,Unemployment rate,Male,From 15 to 64 years,Annual,2021,5.075,Units
 CHE,Switzerland,Unemployment rate,Male,From 15 to 64 years,Annual,2022,4.2,Units
+CHE,Switzerland,Unemployment rate,Male,From 15 to 64 years,Annual,2023,3.95,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,58.525,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,58.9,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,59.125,Units
@@ -31361,6 +31422,7 @@ CHE,Switzerland,Labour force participation rate,Total,From 25 to 54 years,Annual
 CHE,Switzerland,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,91.2,Units
 CHE,Switzerland,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,90.675,Units
 CHE,Switzerland,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,90.025,Units
+CHE,Switzerland,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,90.575,Units
 NLD,Netherlands,Employment rate,Male,From 55 to 64 years,Annual,2010,63.675,Units
 NLD,Netherlands,Employment rate,Male,From 55 to 64 years,Annual,2011,64.85,Units
 NLD,Netherlands,Employment rate,Male,From 55 to 64 years,Annual,2012,67.25,Units
@@ -31736,6 +31798,7 @@ CHE,Switzerland,Labour force participation rate,Female,From 15 to 74 years,Annua
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 74 years,Annual,2020,70.975,Units
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,70.625,Units
 CHE,Switzerland,Labour force participation rate,Female,From 15 to 74 years,Annual,2022,69.975,Units
+CHE,Switzerland,Labour force participation rate,Female,From 15 to 74 years,Annual,2023,71.125,Units
 FIN,Finland,Inactivity rate,Male,From 15 to 64 years,Annual,2010,24.32913,Units
 FIN,Finland,Inactivity rate,Male,From 15 to 64 years,Annual,2011,23.45499,Units
 FIN,Finland,Inactivity rate,Male,From 15 to 64 years,Annual,2012,23.5538,Units
@@ -32163,6 +32226,7 @@ OECD,OECD,Employment rate,Total,15 years or over,Annual,2019,57.57635,Units
 OECD,OECD,Employment rate,Total,15 years or over,Annual,2020,55.09711,Units
 OECD,OECD,Employment rate,Total,15 years or over,Annual,2021,56.19398,Units
 OECD,OECD,Employment rate,Total,15 years or over,Annual,2022,57.52626,Units
+OECD,OECD,Employment rate,Total,15 years or over,Annual,2023,57.99131,Units
 BEL,Belgium,Unemployment rate,Male,From 15 to 64 years,Annual,2010,8.277581,Units
 BEL,Belgium,Unemployment rate,Male,From 15 to 64 years,Annual,2011,7.259024,Units
 BEL,Belgium,Unemployment rate,Male,From 15 to 64 years,Annual,2012,7.819611,Units
@@ -32486,6 +32550,7 @@ CHE,Switzerland,Inactivity rate,Male,From 15 to 24 years,Annual,2019,33.35,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 24 years,Annual,2020,34.575,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 24 years,Annual,2021,33.45,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 24 years,Annual,2022,33.45,Units
+CHE,Switzerland,Inactivity rate,Male,From 15 to 24 years,Annual,2023,31.725,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2010,6.923012,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2011,5.725624,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2012,6.85,Units
@@ -33115,6 +33180,7 @@ CHE,Switzerland,Employment rate,Male,From 15 to 64 years,Annual,2019,84.525,Unit
 CHE,Switzerland,Employment rate,Male,From 15 to 64 years,Annual,2020,83.875,Units
 CHE,Switzerland,Employment rate,Male,From 15 to 64 years,Annual,2021,83.075,Units
 CHE,Switzerland,Employment rate,Male,From 15 to 64 years,Annual,2022,83.375,Units
+CHE,Switzerland,Employment rate,Male,From 15 to 64 years,Annual,2023,84.275,Units
 KOR,Korea,Unemployment rate,Total,From 55 to 64 years,Annual,2010,2.930933,Units
 KOR,Korea,Unemployment rate,Total,From 55 to 64 years,Annual,2011,2.473378,Units
 KOR,Korea,Unemployment rate,Total,From 55 to 64 years,Annual,2012,2.495842,Units
@@ -33240,7 +33306,7 @@ OECD,OECD,Unemployment rate,Total,15 years or over,Annual,2019,5.402442,Units
 OECD,OECD,Unemployment rate,Total,15 years or over,Annual,2020,7.119883,Units
 OECD,OECD,Unemployment rate,Total,15 years or over,Annual,2021,6.153731,Units
 OECD,OECD,Unemployment rate,Total,15 years or over,Annual,2022,5.006106,Units
-OECD,OECD,Unemployment rate,Total,15 years or over,Annual,2023,4.832332,Units
+OECD,OECD,Unemployment rate,Total,15 years or over,Annual,2023,4.831786,Units
 SVN,Slovenia,Employment rate,Male,From 55 to 64 years,Annual,2010,45.05,Units
 SVN,Slovenia,Employment rate,Male,From 55 to 64 years,Annual,2011,39.075,Units
 SVN,Slovenia,Employment rate,Male,From 55 to 64 years,Annual,2012,40.375,Units
@@ -33683,6 +33749,7 @@ OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2019,52
 OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2020,51.49461,Units
 OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2021,52.0247,Units
 OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2022,52.93244,Units
+OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2023,53.53075,Units
 CHL,Chile,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,37.52443,Units
 CHL,Chile,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,38.53649,Units
 CHL,Chile,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,37.2844,Units
@@ -33808,6 +33875,7 @@ CHE,Switzerland,Unemployment rate,Female,From 15 to 64 years,Annual,2019,4.825,U
 CHE,Switzerland,Unemployment rate,Female,From 15 to 64 years,Annual,2020,5.1,Units
 CHE,Switzerland,Unemployment rate,Female,From 15 to 64 years,Annual,2021,5.45,Units
 CHE,Switzerland,Unemployment rate,Female,From 15 to 64 years,Annual,2022,4.675,Units
+CHE,Switzerland,Unemployment rate,Female,From 15 to 64 years,Annual,2023,4.375,Units
 ISL,Iceland,Inactivity rate,Female,From 25 to 54 years,Annual,2010,15.7,Units
 ISL,Iceland,Inactivity rate,Female,From 25 to 54 years,Annual,2011,15.325,Units
 ISL,Iceland,Inactivity rate,Female,From 25 to 54 years,Annual,2012,14.625,Units
@@ -34236,6 +34304,7 @@ CHE,Switzerland,Labour force participation rate,Male,From 15 to 74 years,Annual,
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 74 years,Annual,2020,80.2,Units
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,79.55,Units
 CHE,Switzerland,Labour force participation rate,Male,From 15 to 74 years,Annual,2022,79.175,Units
+CHE,Switzerland,Labour force participation rate,Male,From 15 to 74 years,Annual,2023,79.925,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2010,66.65,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2011,69.225,Units
 TUR,Türkiye,Employment rate,Male,From 15 to 64 years,Annual,2012,69.175,Units
@@ -35517,6 +35586,7 @@ CHE,Switzerland,Inactivity rate,Total,From 55 to 64 years,Annual,2019,24.05,Unit
 CHE,Switzerland,Inactivity rate,Total,From 55 to 64 years,Annual,2020,23.5,Units
 CHE,Switzerland,Inactivity rate,Total,From 55 to 64 years,Annual,2021,24.15,Units
 CHE,Switzerland,Inactivity rate,Total,From 55 to 64 years,Annual,2022,24.3,Units
+CHE,Switzerland,Inactivity rate,Total,From 55 to 64 years,Annual,2023,22.725,Units
 ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2010,27.2,Units
 ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2011,27.35,Units
 ZAF,South Africa,Unemployment rate,Female,From 15 to 64 years,Annual,2012,27.175,Units
@@ -35726,6 +35796,7 @@ OECD,OECD,Employment rate,Female,15 years or over,Annual,2019,49.95694,Units
 OECD,OECD,Employment rate,Female,15 years or over,Annual,2020,47.69305,Units
 OECD,OECD,Employment rate,Female,15 years or over,Annual,2021,48.72265,Units
 OECD,OECD,Employment rate,Female,15 years or over,Annual,2022,50.14794,Units
+OECD,OECD,Employment rate,Female,15 years or over,Annual,2023,50.83947,Units
 LUX,Luxembourg,Unemployment rate,Total,From 15 to 64 years,Annual,2010,4.4,Units
 LUX,Luxembourg,Unemployment rate,Total,From 15 to 64 years,Annual,2011,4.95,Units
 LUX,Luxembourg,Unemployment rate,Total,From 15 to 64 years,Annual,2012,5.175,Units
@@ -35809,6 +35880,7 @@ CHE,Switzerland,Inactivity rate,Female,From 15 to 74 years,Annual,2019,28.75,Uni
 CHE,Switzerland,Inactivity rate,Female,From 15 to 74 years,Annual,2020,29.025,Units
 CHE,Switzerland,Inactivity rate,Female,From 15 to 74 years,Annual,2021,29.375,Units
 CHE,Switzerland,Inactivity rate,Female,From 15 to 74 years,Annual,2022,30.025,Units
+CHE,Switzerland,Inactivity rate,Female,From 15 to 74 years,Annual,2023,28.875,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2010,12.82492,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2011,11.37485,Units
 ISR,Israel,Unemployment rate,Female,From 15 to 24 years,Annual,2012,12.64167,Units
@@ -35962,6 +36034,7 @@ CHE,Switzerland,Inactivity rate,Female,From 55 to 64 years,Annual,2019,30.9,Unit
 CHE,Switzerland,Inactivity rate,Female,From 55 to 64 years,Annual,2020,29.975,Units
 CHE,Switzerland,Inactivity rate,Female,From 55 to 64 years,Annual,2021,30.1,Units
 CHE,Switzerland,Inactivity rate,Female,From 55 to 64 years,Annual,2022,30.25,Units
+CHE,Switzerland,Inactivity rate,Female,From 55 to 64 years,Annual,2023,28.625,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,63.30022,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,63.68623,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,63.44428,Units
@@ -36432,6 +36505,7 @@ CHE,Switzerland,Inactivity rate,Male,15 years or over,Annual,2019,26.35,Units
 CHE,Switzerland,Inactivity rate,Male,15 years or over,Annual,2020,26.625,Units
 CHE,Switzerland,Inactivity rate,Male,15 years or over,Annual,2021,27.325,Units
 CHE,Switzerland,Inactivity rate,Male,15 years or over,Annual,2022,28.05,Units
+CHE,Switzerland,Inactivity rate,Male,15 years or over,Annual,2023,27.2,Units
 ITA,Italy,Inactivity rate,Female,From 15 to 74 years,Annual,2010,56.1,Units
 ITA,Italy,Inactivity rate,Female,From 15 to 74 years,Annual,2011,55.7,Units
 ITA,Italy,Inactivity rate,Female,From 15 to 74 years,Annual,2012,54.15,Units
@@ -36739,6 +36813,7 @@ CHE,Switzerland,Unemployment rate,Total,15 years or over,Annual,2019,4.394452,Un
 CHE,Switzerland,Unemployment rate,Total,15 years or over,Annual,2020,4.815328,Units
 CHE,Switzerland,Unemployment rate,Total,15 years or over,Annual,2021,5.098192,Units
 CHE,Switzerland,Unemployment rate,Total,15 years or over,Annual,2022,4.299916,Units
+CHE,Switzerland,Unemployment rate,Total,15 years or over,Annual,2023,4.050889,Units
 NZL,New Zealand,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,83.23629,Units
 NZL,New Zealand,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,83.22086,Units
 NZL,New Zealand,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,82.65566,Units
@@ -37489,6 +37564,7 @@ CHE,Switzerland,Unemployment rate,Female,From 15 to 24 years,Annual,2019,7.15,Un
 CHE,Switzerland,Unemployment rate,Female,From 15 to 24 years,Annual,2020,7.975,Units
 CHE,Switzerland,Unemployment rate,Female,From 15 to 24 years,Annual,2021,8.75,Units
 CHE,Switzerland,Unemployment rate,Female,From 15 to 24 years,Annual,2022,7.525,Units
+CHE,Switzerland,Unemployment rate,Female,From 15 to 24 years,Annual,2023,7.75,Units
 SVN,Slovenia,Unemployment rate,Total,From 15 to 74 years,Annual,2010,7.254902,Units
 SVN,Slovenia,Unemployment rate,Total,From 15 to 74 years,Annual,2011,8.14992,Units
 SVN,Slovenia,Unemployment rate,Total,From 15 to 74 years,Annual,2012,8.80948,Units
@@ -37751,6 +37827,7 @@ CHE,Switzerland,Employment rate,Total,From 15 to 24 years,Annual,2019,61.15,Unit
 CHE,Switzerland,Employment rate,Total,From 15 to 24 years,Annual,2020,59.425,Units
 CHE,Switzerland,Employment rate,Total,From 15 to 24 years,Annual,2021,59.6,Units
 CHE,Switzerland,Employment rate,Total,From 15 to 24 years,Annual,2022,60.15,Units
+CHE,Switzerland,Employment rate,Total,From 15 to 24 years,Annual,2023,61.075,Units
 PRT,Portugal,Unemployment rate,Male,From 15 to 64 years,Annual,2010,12.71056,Units
 PRT,Portugal,Unemployment rate,Male,From 15 to 64 years,Annual,2011,13.47427,Units
 PRT,Portugal,Unemployment rate,Male,From 15 to 64 years,Annual,2012,17.02165,Units
@@ -37778,6 +37855,7 @@ CHE,Switzerland,Unemployment rate,Total,From 15 to 24 years,Annual,2019,8.0,Unit
 CHE,Switzerland,Unemployment rate,Total,From 15 to 24 years,Annual,2020,8.625,Units
 CHE,Switzerland,Unemployment rate,Total,From 15 to 24 years,Annual,2021,8.85,Units
 CHE,Switzerland,Unemployment rate,Total,From 15 to 24 years,Annual,2022,7.5,Units
+CHE,Switzerland,Unemployment rate,Total,From 15 to 24 years,Annual,2023,8.025,Units
 LVA,Latvia,Unemployment rate,Total,From 25 to 54 years,Annual,2010,18.20354,Units
 LVA,Latvia,Unemployment rate,Total,From 25 to 54 years,Annual,2011,14.9549,Units
 LVA,Latvia,Unemployment rate,Total,From 25 to 54 years,Annual,2012,13.73606,Units
@@ -38698,6 +38776,7 @@ CHE,Switzerland,Unemployment rate,Female,15 years or over,Annual,2019,4.711465,U
 CHE,Switzerland,Unemployment rate,Female,15 years or over,Annual,2020,4.992707,Units
 CHE,Switzerland,Unemployment rate,Female,15 years or over,Annual,2021,5.31777,Units
 CHE,Switzerland,Unemployment rate,Female,15 years or over,Annual,2022,4.570727,Units
+CHE,Switzerland,Unemployment rate,Female,15 years or over,Annual,2023,4.266901,Units
 G7,G7,Employment rate,Total,15 years or over,Annual,2010,56.08511,Units
 G7,G7,Employment rate,Total,15 years or over,Annual,2011,56.16203,Units
 G7,G7,Employment rate,Total,15 years or over,Annual,2012,56.25132,Units
@@ -39212,6 +39291,7 @@ CHE,Switzerland,Employment rate,Female,From 15 to 24 years,Annual,2019,61.575,Un
 CHE,Switzerland,Employment rate,Female,From 15 to 24 years,Annual,2020,59.4,Units
 CHE,Switzerland,Employment rate,Female,From 15 to 24 years,Annual,2021,58.575,Units
 CHE,Switzerland,Employment rate,Female,From 15 to 24 years,Annual,2022,58.625,Units
+CHE,Switzerland,Employment rate,Female,From 15 to 24 years,Annual,2023,59.425,Units
 ESP,Spain,Inactivity rate,Female,15 years or over,Annual,2010,47.85,Units
 ESP,Spain,Inactivity rate,Female,15 years or over,Annual,2011,47.2,Units
 ESP,Spain,Inactivity rate,Female,15 years or over,Annual,2012,46.55,Units
@@ -39461,6 +39541,7 @@ CHE,Switzerland,Unemployment rate,Male,From 25 to 54 years,Annual,2019,3.525,Uni
 CHE,Switzerland,Unemployment rate,Male,From 25 to 54 years,Annual,2020,4.2,Units
 CHE,Switzerland,Unemployment rate,Male,From 25 to 54 years,Annual,2021,4.4,Units
 CHE,Switzerland,Unemployment rate,Male,From 25 to 54 years,Annual,2022,3.625,Units
+CHE,Switzerland,Unemployment rate,Male,From 25 to 54 years,Annual,2023,3.275,Units
 ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,78.68488,Units
 ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,78.841,Units
 ISR,Israel,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,81.80833,Units
@@ -39695,6 +39776,7 @@ CHE,Switzerland,Labour force participation rate,Male,From 55 to 64 years,Annual,
 CHE,Switzerland,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,82.875,Units
 CHE,Switzerland,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,81.725,Units
 CHE,Switzerland,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,81.575,Units
+CHE,Switzerland,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,83.125,Units
 JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2010,65.52266,Units
 JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2011,65.88393,Units
 JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2012,65.48348,Units
@@ -40123,6 +40205,7 @@ CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2019,24.2,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2020,24.4,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2021,24.9,Units
 CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2022,25.425,Units
+CHE,Switzerland,Inactivity rate,Total,From 15 to 74 years,Annual,2023,24.45,Units
 HUN,Hungary,Unemployment rate,Total,From 55 to 64 years,Annual,2010,7.848653,Units
 HUN,Hungary,Unemployment rate,Total,From 55 to 64 years,Annual,2011,9.111364,Units
 HUN,Hungary,Unemployment rate,Total,From 55 to 64 years,Annual,2012,8.406296,Units
