@@ -248,6 +248,7 @@ OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2019,
 OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,71.20513,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,72.24613,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,73.11373,Units
+OECD,OECD,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,73.69245,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2011,66.39586,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2012,61.21295,Units
 CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2013,60.25584,Units
@@ -749,6 +750,7 @@ JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2019
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,80.13988,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,80.95541,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,81.84535,Units
+JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,82.65839,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2010,20.22356,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2011,21.81188,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2012,25.03308,Units
@@ -1139,6 +1141,7 @@ JPN,Japan,Labour force participation rate,Total,From 15 to 74 years,Annual,2019,
 JPN,Japan,Labour force participation rate,Total,From 15 to 74 years,Annual,2020,72.51181,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 74 years,Annual,2021,72.87885,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 74 years,Annual,2022,73.45402,Units
+JPN,Japan,Labour force participation rate,Total,From 15 to 74 years,Annual,2023,74.26637,Units
 AUS,Australia,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,68.42574,Units
 AUS,Australia,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,68.1396,Units
 AUS,Australia,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,67.52089,Units
@@ -1936,6 +1939,7 @@ OECD,OECD,Labour force participation rate,Total,From 55 to 64 years,Annual,2019,
 OECD,OECD,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,63.56273,Units
 OECD,OECD,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,64.29057,Units
 OECD,OECD,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,65.28915,Units
+OECD,OECD,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,66.31644,Units
 TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2010,5.025,Units
 TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2011,4.35,Units
 TUR,Türkiye,Unemployment rate,Total,From 55 to 64 years,Annual,2012,3.9,Units
@@ -2032,6 +2036,7 @@ OECD,OECD,Unemployment rate,Male,From 25 to 54 years,Annual,2019,4.663624,Units
 OECD,OECD,Unemployment rate,Male,From 25 to 54 years,Annual,2020,6.257054,Units
 OECD,OECD,Unemployment rate,Male,From 25 to 54 years,Annual,2021,5.390901,Units
 OECD,OECD,Unemployment rate,Male,From 25 to 54 years,Annual,2022,4.212195,Units
+OECD,OECD,Unemployment rate,Male,From 25 to 54 years,Annual,2023,4.092566,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 15 to 24 years,Annual,2010,34.88448,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 15 to 24 years,Annual,2011,36.41181,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 15 to 24 years,Annual,2012,35.20852,Units
@@ -3477,6 +3482,7 @@ OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2019,26.5445,Units
 OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2020,27.52357,Units
 OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2021,26.62973,Units
 OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2022,25.77914,Units
+OECD,OECD,Inactivity rate,Male,From 55 to 64 years,Annual,2023,25.00348,Units
 AUT,Austria,Unemployment rate,Total,From 25 to 54 years,Annual,2010,4.710775,Units
 AUT,Austria,Unemployment rate,Total,From 25 to 54 years,Annual,2011,4.29034,Units
 AUT,Austria,Unemployment rate,Total,From 25 to 54 years,Annual,2012,4.626832,Units
@@ -4835,6 +4841,7 @@ OECD,OECD,Unemployment rate,Male,From 15 to 24 years,Annual,2019,12.00302,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 24 years,Annual,2020,14.96341,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 24 years,Annual,2021,12.80571,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 24 years,Annual,2022,10.91354,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 24 years,Annual,2023,10.75934,Units
 GBR,United Kingdom,Unemployment rate,Total,From 25 to 54 years,Annual,2010,6.1,Units
 GBR,United Kingdom,Unemployment rate,Total,From 25 to 54 years,Annual,2011,6.125,Units
 GBR,United Kingdom,Unemployment rate,Total,From 25 to 54 years,Annual,2012,5.975,Units
@@ -5477,6 +5484,7 @@ OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2019,3.565062,Unit
 OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2020,5.162422,Units
 OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2021,4.526014,Units
 OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2022,3.5413,Units
+OECD,OECD,Unemployment rate,Female,From 55 to 64 years,Annual,2023,3.373411,Units
 DNK,Denmark,Employment rate,Male,From 55 to 64 years,Annual,2010,60.575,Units
 DNK,Denmark,Employment rate,Male,From 55 to 64 years,Annual,2011,61.55,Units
 DNK,Denmark,Employment rate,Male,From 55 to 64 years,Annual,2012,63.125,Units
@@ -5559,6 +5567,7 @@ JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2019
 JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,49.20617,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,49.71162,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,49.8763,Units
+JPN,Japan,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,51.2459,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 15 to 64 years,Annual,2010,63.675,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 15 to 64 years,Annual,2011,63.8,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 15 to 64 years,Annual,2012,63.35,Units
@@ -6367,6 +6376,7 @@ G7,G7,Employment rate,Total,From 25 to 54 years,Annual,2019,81.45739,Units
 G7,G7,Employment rate,Total,From 25 to 54 years,Annual,2020,79.0268,Units
 G7,G7,Employment rate,Total,From 25 to 54 years,Annual,2021,80.30963,Units
 G7,G7,Employment rate,Total,From 25 to 54 years,Annual,2022,81.84353,Units
+G7,G7,Employment rate,Total,From 25 to 54 years,Annual,2023,82.37396,Units
 SVK,Slovak Republic,Employment rate,Female,From 15 to 24 years,Annual,2010,17.75,Units
 SVK,Slovak Republic,Employment rate,Female,From 15 to 24 years,Annual,2011,15.35,Units
 SVK,Slovak Republic,Employment rate,Female,From 15 to 24 years,Annual,2012,16.325,Units
@@ -6673,6 +6683,7 @@ OECD,OECD,Inactivity rate,Male,From 15 to 64 years,Annual,2019,19.40212,Units
 OECD,OECD,Inactivity rate,Male,From 15 to 64 years,Annual,2020,21.00852,Units
 OECD,OECD,Inactivity rate,Male,From 15 to 64 years,Annual,2021,20.02678,Units
 OECD,OECD,Inactivity rate,Male,From 15 to 64 years,Annual,2022,19.44989,Units
+OECD,OECD,Inactivity rate,Male,From 15 to 64 years,Annual,2023,19.18217,Units
 NZL,New Zealand,Inactivity rate,Female,From 25 to 54 years,Annual,2010,23.61403,Units
 NZL,New Zealand,Inactivity rate,Female,From 25 to 54 years,Annual,2011,22.65449,Units
 NZL,New Zealand,Inactivity rate,Female,From 25 to 54 years,Annual,2012,22.78049,Units
@@ -6713,6 +6724,7 @@ OECD,OECD,Unemployment rate,Female,From 15 to 64 years,Annual,2019,5.774562,Unit
 OECD,OECD,Unemployment rate,Female,From 15 to 64 years,Annual,2020,7.596412,Units
 OECD,OECD,Unemployment rate,Female,From 15 to 64 years,Annual,2021,6.523039,Units
 OECD,OECD,Unemployment rate,Female,From 15 to 64 years,Annual,2022,5.423143,Units
+OECD,OECD,Unemployment rate,Female,From 15 to 64 years,Annual,2023,5.187501,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 55 to 64 years,Annual,2010,59.275,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 55 to 64 years,Annual,2011,58.325,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,59.775,Units
@@ -7002,6 +7014,7 @@ OECD,OECD,Inactivity rate,Male,From 15 to 24 years,Annual,2019,48.12156,Units
 OECD,OECD,Inactivity rate,Male,From 15 to 24 years,Annual,2020,51.15904,Units
 OECD,OECD,Inactivity rate,Male,From 15 to 24 years,Annual,2021,49.34916,Units
 OECD,OECD,Inactivity rate,Male,From 15 to 24 years,Annual,2022,48.41097,Units
+OECD,OECD,Inactivity rate,Male,From 15 to 24 years,Annual,2023,48.00644,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2010,30.74583,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2011,29.15417,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 24 years,Annual,2012,27.51833,Units
@@ -7825,6 +7838,7 @@ JPN,Japan,Inactivity rate,Male,From 25 to 54 years,Annual,2019,4.384628,Units
 JPN,Japan,Inactivity rate,Male,From 25 to 54 years,Annual,2020,4.417877,Units
 JPN,Japan,Inactivity rate,Male,From 25 to 54 years,Annual,2021,4.253461,Units
 JPN,Japan,Inactivity rate,Male,From 25 to 54 years,Annual,2022,4.426344,Units
+JPN,Japan,Inactivity rate,Male,From 25 to 54 years,Annual,2023,4.629728,Units
 COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2010,15.74833,Units
 COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2011,14.51083,Units
 COL,Colombia,Unemployment rate,Female,15 years or over,Annual,2012,13.78333,Units
@@ -7962,6 +7976,7 @@ JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2019,50.63877,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2020,51.38186,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2021,51.23265,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2022,51.23871,Units
+JPN,Japan,Inactivity rate,Total,From 15 to 24 years,Annual,2023,50.07839,Units
 ESP,Spain,Labour force participation rate,Male,15 years or over,Annual,2010,67.325,Units
 ESP,Spain,Labour force participation rate,Male,15 years or over,Annual,2011,66.825,Units
 ESP,Spain,Labour force participation rate,Male,15 years or over,Annual,2012,66.325,Units
@@ -8085,6 +8100,7 @@ G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2019,72.08088,Units
 G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2020,69.59152,Units
 G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2021,71.05892,Units
 G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2022,72.45045,Units
+G7,G7,Employment rate,Total,From 15 to 64 years,Annual,2023,72.9973,Units
 SVN,Slovenia,Employment rate,Male,From 15 to 74 years,Annual,2010,63.55,Units
 SVN,Slovenia,Employment rate,Male,From 15 to 74 years,Annual,2011,61.75,Units
 SVN,Slovenia,Employment rate,Male,From 15 to 74 years,Annual,2012,61.075,Units
@@ -8293,6 +8309,7 @@ OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2019
 OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,42.12455,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,43.41301,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,44.32233,Units
+OECD,OECD,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,45.25269,Units
 IRL,Ireland,Unemployment rate,Male,From 55 to 64 years,Annual,2010,10.19781,Units
 IRL,Ireland,Unemployment rate,Male,From 55 to 64 years,Annual,2011,11.61396,Units
 IRL,Ireland,Unemployment rate,Male,From 55 to 64 years,Annual,2012,12.92061,Units
@@ -8753,6 +8770,7 @@ OECD,OECD,Employment rate,Female,From 15 to 64 years,Annual,2019,61.44372,Units
 OECD,OECD,Employment rate,Female,From 15 to 64 years,Annual,2020,58.80964,Units
 OECD,OECD,Employment rate,Female,From 15 to 64 years,Annual,2021,60.40965,Units
 OECD,OECD,Employment rate,Female,From 15 to 64 years,Annual,2022,62.21038,Units
+OECD,OECD,Employment rate,Female,From 15 to 64 years,Annual,2023,63.18626,Units
 SVK,Slovak Republic,Employment rate,Total,15 years or over,Annual,2010,50.5,Units
 SVK,Slovak Republic,Employment rate,Total,15 years or over,Annual,2011,50.75,Units
 SVK,Slovak Republic,Employment rate,Total,15 years or over,Annual,2012,50.925,Units
@@ -8948,6 +8966,7 @@ OECD,OECD,Employment rate,Female,From 55 to 64 years,Annual,2019,53.90442,Units
 OECD,OECD,Employment rate,Female,From 55 to 64 years,Annual,2020,52.33297,Units
 OECD,OECD,Employment rate,Female,From 55 to 64 years,Annual,2021,53.20614,Units
 OECD,OECD,Employment rate,Female,From 55 to 64 years,Annual,2022,54.81126,Units
+OECD,OECD,Employment rate,Female,From 55 to 64 years,Annual,2023,56.12309,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2010,15.81667,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2011,14.5875,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 74 years,Annual,2012,13.86417,Units
@@ -9380,6 +9399,7 @@ G7,G7,Employment rate,Total,From 55 to 64 years,Annual,2019,65.26327,Units
 G7,G7,Employment rate,Total,From 55 to 64 years,Annual,2020,63.5968,Units
 G7,G7,Employment rate,Total,From 55 to 64 years,Annual,2021,64.5202,Units
 G7,G7,Employment rate,Total,From 55 to 64 years,Annual,2022,65.79884,Units
+G7,G7,Employment rate,Total,From 55 to 64 years,Annual,2023,66.82054,Units
 PRT,Portugal,Employment rate,Female,From 55 to 64 years,Annual,2010,36.775,Units
 PRT,Portugal,Employment rate,Female,From 55 to 64 years,Annual,2011,36.45,Units
 PRT,Portugal,Employment rate,Female,From 55 to 64 years,Annual,2012,36.125,Units
@@ -9852,6 +9872,7 @@ OECD,OECD,Labour force participation rate,Male,From 15 to 64 years,Annual,2019,8
 OECD,OECD,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,78.90645,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,79.97318,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,80.5501,Units
+OECD,OECD,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,80.81772,Units
 CZE,Czechia,Employment rate,Total,From 15 to 64 years,Annual,2010,64.975,Units
 CZE,Czechia,Employment rate,Total,From 15 to 64 years,Annual,2011,65.725,Units
 CZE,Czechia,Employment rate,Total,From 15 to 64 years,Annual,2012,66.55,Units
@@ -9946,6 +9967,7 @@ OECD,OECD,Inactivity rate,Total,From 15 to 64 years,Annual,2019,27.17265,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 64 years,Annual,2020,28.74738,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 64 years,Annual,2021,27.75387,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 64 years,Annual,2022,26.88629,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 64 years,Annual,2023,26.30754,Units
 PRT,Portugal,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,40.175,Units
 PRT,Portugal,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,40.9,Units
 PRT,Portugal,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,41.125,Units
@@ -10141,6 +10163,7 @@ JPN,Japan,Employment rate,Male,From 25 to 54 years,Annual,2019,93.86301,Units
 JPN,Japan,Employment rate,Male,From 25 to 54 years,Annual,2020,93.3533,Units
 JPN,Japan,Employment rate,Male,From 25 to 54 years,Annual,2021,92.92264,Units
 JPN,Japan,Employment rate,Male,From 25 to 54 years,Annual,2022,92.95853,Units
+JPN,Japan,Employment rate,Male,From 25 to 54 years,Annual,2023,92.85441,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 25 to 54 years,Annual,2010,76.85,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 25 to 54 years,Annual,2011,76.8,Units
 EA20,Euro area (20 countries),Employment rate,Total,From 25 to 54 years,Annual,2012,76.075,Units
@@ -10321,6 +10344,7 @@ JPN,Japan,Employment rate,Female,From 25 to 54 years,Annual,2019,78.9176,Units
 JPN,Japan,Employment rate,Female,From 25 to 54 years,Annual,2020,78.55176,Units
 JPN,Japan,Employment rate,Female,From 25 to 54 years,Annual,2021,78.85338,Units
 JPN,Japan,Employment rate,Female,From 25 to 54 years,Annual,2022,79.83611,Units
+JPN,Japan,Employment rate,Female,From 25 to 54 years,Annual,2023,80.59366,Units
 BEL,Belgium,Unemployment rate,Female,From 25 to 54 years,Annual,2010,7.531025,Units
 BEL,Belgium,Unemployment rate,Female,From 25 to 54 years,Annual,2011,6.368289,Units
 BEL,Belgium,Unemployment rate,Female,From 25 to 54 years,Annual,2012,6.670835,Units
@@ -10361,6 +10385,7 @@ OECD,OECD,Labour force participation rate,Total,From 15 to 24 years,Annual,2019,
 OECD,OECD,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,45.72187,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,47.08802,Units
 OECD,OECD,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,48.00437,Units
+OECD,OECD,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,48.67599,Units
 FRA,France,Employment rate,Female,From 15 to 74 years,Annual,2010,54.075,Units
 FRA,France,Employment rate,Female,From 15 to 74 years,Annual,2011,53.95,Units
 FRA,France,Employment rate,Female,From 15 to 74 years,Annual,2012,54.075,Units
@@ -11527,6 +11552,7 @@ JPN,Japan,Inactivity rate,Male,From 15 to 24 years,Annual,2019,51.40042,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 24 years,Annual,2020,51.93732,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 24 years,Annual,2021,52.14362,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 24 years,Annual,2022,52.30613,Units
+JPN,Japan,Inactivity rate,Male,From 15 to 24 years,Annual,2023,51.36595,Units
 CAN,Canada,Labour force participation rate,Male,15 years or over,Annual,2010,71.85833,Units
 CAN,Canada,Labour force participation rate,Male,15 years or over,Annual,2011,71.80833,Units
 CAN,Canada,Labour force participation rate,Male,15 years or over,Annual,2012,71.60833,Units
@@ -11818,6 +11844,7 @@ JPN,Japan,Labour force participation rate,Female,From 15 to 74 years,Annual,2019
 JPN,Japan,Labour force participation rate,Female,From 15 to 74 years,Annual,2020,64.6762,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,65.33626,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 74 years,Annual,2022,66.29269,Units
+JPN,Japan,Labour force participation rate,Female,From 15 to 74 years,Annual,2023,67.49644,Units
 KOR,Korea,Employment rate,Male,From 15 to 64 years,Annual,2010,74.02631,Units
 KOR,Korea,Employment rate,Male,From 15 to 64 years,Annual,2011,74.60502,Units
 KOR,Korea,Employment rate,Male,From 15 to 64 years,Annual,2012,75.05131,Units
@@ -11858,6 +11885,7 @@ OECD,OECD,Inactivity rate,Female,From 15 to 64 years,Annual,2019,34.82576,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 64 years,Annual,2020,36.3644,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 64 years,Annual,2021,35.37476,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 64 years,Annual,2022,34.22227,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 64 years,Annual,2023,33.35673,Units
 FIN,Finland,Employment rate,Male,15 years or over,Annual,2010,58.325,Units
 FIN,Finland,Employment rate,Male,15 years or over,Annual,2011,58.875,Units
 FIN,Finland,Employment rate,Male,15 years or over,Annual,2012,58.425,Units
@@ -12081,6 +12109,7 @@ G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2019,71.69267,Units
 G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2020,69.86032,Units
 G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2021,70.59574,Units
 G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2022,71.85897,Units
+G7,G7,Employment rate,Male,From 55 to 64 years,Annual,2023,72.70984,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2010,29.93333,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2011,29.13,Units
 COL,Colombia,Inactivity rate,Total,From 15 to 74 years,Annual,2012,28.18083,Units
@@ -12206,6 +12235,7 @@ JPN,Japan,Inactivity rate,Female,From 15 to 24 years,Annual,2019,49.80357,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 24 years,Annual,2020,50.79383,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 24 years,Annual,2021,50.28838,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 24 years,Annual,2022,50.1237,Units
+JPN,Japan,Inactivity rate,Female,From 15 to 24 years,Annual,2023,48.7541,Units
 SVN,Slovenia,Unemployment rate,Total,From 15 to 64 years,Annual,2010,7.399446,Units
 SVN,Slovenia,Unemployment rate,Total,From 15 to 64 years,Annual,2011,8.337816,Units
 SVN,Slovenia,Unemployment rate,Total,From 15 to 64 years,Annual,2012,8.979243,Units
@@ -12902,6 +12932,7 @@ G7,G7,Employment rate,Female,From 25 to 54 years,Annual,2019,75.33669,Units
 G7,G7,Employment rate,Female,From 25 to 54 years,Annual,2020,73.11787,Units
 G7,G7,Employment rate,Female,From 25 to 54 years,Annual,2021,74.54139,Units
 G7,G7,Employment rate,Female,From 25 to 54 years,Annual,2022,76.1069,Units
+G7,G7,Employment rate,Female,From 25 to 54 years,Annual,2023,76.92783,Units
 POL,Poland,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,69.775,Units
 POL,Poland,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,70.325,Units
 POL,Poland,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,71.15,Units
@@ -13502,6 +13533,7 @@ OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2019,70.30628,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2020,67.63772,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2021,69.26643,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2022,71.23537,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2023,72.15066,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,78.125,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,77.825,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,78.275,Units
@@ -13598,6 +13630,7 @@ OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2019,55.49446,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2020,57.98471,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2021,56.58667,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2022,55.67844,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2023,54.74746,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2010,18.58343,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2011,17.6015,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2012,16.4222,Units
@@ -14393,6 +14426,7 @@ JPN,Japan,Inactivity rate,Total,From 55 to 64 years,Annual,2019,21.89283,Units
 JPN,Japan,Inactivity rate,Total,From 55 to 64 years,Annual,2020,21.18872,Units
 JPN,Japan,Inactivity rate,Total,From 55 to 64 years,Annual,2021,20.70365,Units
 JPN,Japan,Inactivity rate,Total,From 55 to 64 years,Annual,2022,19.84401,Units
+JPN,Japan,Inactivity rate,Total,From 55 to 64 years,Annual,2023,19.19345,Units
 DNK,Denmark,Inactivity rate,Total,From 55 to 64 years,Annual,2010,41.1,Units
 DNK,Denmark,Inactivity rate,Total,From 55 to 64 years,Annual,2011,39.575,Units
 DNK,Denmark,Inactivity rate,Total,From 55 to 64 years,Annual,2012,38.5,Units
@@ -14767,6 +14801,7 @@ OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2019,78.74607,Units
 OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2020,75.91438,Units
 OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2021,77.57094,Units
 OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2022,79.30714,Units
+OECD,OECD,Employment rate,Total,From 25 to 54 years,Annual,2023,79.90895,Units
 LUX,Luxembourg,Unemployment rate,Total,From 15 to 74 years,Annual,2010,4.35,Units
 LUX,Luxembourg,Unemployment rate,Total,From 15 to 74 years,Annual,2011,4.925,Units
 LUX,Luxembourg,Unemployment rate,Total,From 15 to 74 years,Annual,2012,5.15,Units
@@ -15046,6 +15081,7 @@ JPN,Japan,Employment rate,Female,From 15 to 64 years,Annual,2019,71.40417,Units
 JPN,Japan,Employment rate,Female,From 15 to 64 years,Annual,2020,71.05914,Units
 JPN,Japan,Employment rate,Female,From 15 to 64 years,Annual,2021,71.49782,Units
 JPN,Japan,Employment rate,Female,From 15 to 64 years,Annual,2022,72.47396,Units
+JPN,Japan,Employment rate,Female,From 15 to 64 years,Annual,2023,73.32972,Units
 MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2010,74.90881,Units
 MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2011,74.64413,Units
 MEX,Mexico,Employment rate,Male,From 55 to 64 years,Annual,2012,76.17254,Units
@@ -15546,6 +15582,7 @@ JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2019,78.45713,Units
 JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2020,78.09668,Units
 JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2021,77.88325,Units
 JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2022,78.26427,Units
+JPN,Japan,Employment rate,Male,From 15 to 74 years,Annual,2023,78.70601,Units
 HUN,Hungary,Employment rate,Total,From 15 to 64 years,Annual,2010,57.05,Units
 HUN,Hungary,Employment rate,Total,From 15 to 64 years,Annual,2011,57.55,Units
 HUN,Hungary,Employment rate,Total,From 15 to 64 years,Annual,2012,58.625,Units
@@ -15697,6 +15734,7 @@ JPN,Japan,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,4
 JPN,Japan,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,48.06268,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,47.85638,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,47.69387,Units
+JPN,Japan,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,48.63405,Units
 LTU,Lithuania,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,70.25,Units
 LTU,Lithuania,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,71.375,Units
 LTU,Lithuania,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,71.825,Units
@@ -15892,6 +15930,7 @@ JPN,Japan,Employment rate,Total,From 15 to 64 years,Annual,2019,78.11421,Units
 JPN,Japan,Employment rate,Total,From 15 to 64 years,Annual,2020,77.72765,Units
 JPN,Japan,Employment rate,Total,From 15 to 64 years,Annual,2021,77.88137,Units
 JPN,Japan,Employment rate,Total,From 15 to 64 years,Annual,2022,78.45472,Units
+JPN,Japan,Employment rate,Total,From 15 to 64 years,Annual,2023,78.94055,Units
 SVN,Slovenia,Labour force participation rate,Female,From 15 to 74 years,Annual,2010,59.15,Units
 SVN,Slovenia,Labour force participation rate,Female,From 15 to 74 years,Annual,2011,58.325,Units
 SVN,Slovenia,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,58.6,Units
@@ -16404,6 +16443,7 @@ JPN,Japan,Labour force participation rate,Female,From 55 to 64 years,Annual,2019
 JPN,Japan,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,68.01608,Units
 JPN,Japan,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,68.77646,Units
 JPN,Japan,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,70.11863,Units
+JPN,Japan,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,71.07579,Units
 LTU,Lithuania,Inactivity rate,Total,From 25 to 54 years,Annual,2010,11.625,Units
 LTU,Lithuania,Inactivity rate,Total,From 25 to 54 years,Annual,2011,10.25,Units
 LTU,Lithuania,Inactivity rate,Total,From 25 to 54 years,Annual,2012,10.275,Units
@@ -16471,6 +16511,7 @@ OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2019,51.75732,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2020,54.45104,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2021,52.91182,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2022,51.99557,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2023,51.32406,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2010,22.71335,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2011,22.54089,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2012,24.47042,Units
@@ -16635,6 +16676,7 @@ OECD,OECD,Employment rate,Male,From 55 to 64 years,Annual,2019,70.5438,Units
 OECD,OECD,Employment rate,Male,From 55 to 64 years,Annual,2020,68.59049,Units
 OECD,OECD,Employment rate,Male,From 55 to 64 years,Annual,2021,69.85188,Units
 OECD,OECD,Employment rate,Male,From 55 to 64 years,Annual,2022,71.42846,Units
+OECD,OECD,Employment rate,Male,From 55 to 64 years,Annual,2023,72.31104,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2011,55.33511,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2012,59.14121,Units
 CRI,Costa Rica,Employment rate,Total,From 15 to 74 years,Annual,2013,58.95032,Units
@@ -16759,6 +16801,7 @@ JPN,Japan,Labour force participation rate,Total,From 55 to 64 years,Annual,2019,
 JPN,Japan,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,78.81128,Units
 JPN,Japan,Labour force participation rate,Total,From 55 to 64 years,Annual,2021,79.29635,Units
 JPN,Japan,Labour force participation rate,Total,From 55 to 64 years,Annual,2022,80.156,Units
+JPN,Japan,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,80.80655,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2010,5.308333,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2011,4.80584,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 64 years,Annual,2012,4.558333,Units
@@ -17257,6 +17300,7 @@ OECD,OECD,Inactivity rate,Male,From 25 to 54 years,Annual,2019,8.483438,Units
 OECD,OECD,Inactivity rate,Male,From 25 to 54 years,Annual,2020,9.903074,Units
 OECD,OECD,Inactivity rate,Male,From 25 to 54 years,Annual,2021,9.115527,Units
 OECD,OECD,Inactivity rate,Male,From 25 to 54 years,Annual,2022,8.679193,Units
+OECD,OECD,Inactivity rate,Male,From 25 to 54 years,Annual,2023,8.524589,Units
 LUX,Luxembourg,Inactivity rate,Female,From 15 to 64 years,Annual,2010,39.7,Units
 LUX,Luxembourg,Inactivity rate,Female,From 15 to 64 years,Annual,2011,39.275,Units
 LUX,Luxembourg,Inactivity rate,Female,From 15 to 64 years,Annual,2012,37.275,Units
@@ -17909,6 +17953,7 @@ OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2019,4.929325,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2020,6.527328,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2021,5.636134,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2022,4.543496,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2023,4.378249,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2010,26.81353,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2011,26.63954,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2012,26.45543,Units
@@ -18053,6 +18098,7 @@ JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2019,13.4754,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2020,13.40487,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2021,13.15663,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2022,13.17498,Units
+JPN,Japan,Inactivity rate,Male,From 15 to 64 years,Annual,2023,13.14362,Units
 DEU,Germany,Employment rate,Male,From 15 to 64 years,Annual,2010,75.25,Units
 DEU,Germany,Employment rate,Male,From 15 to 64 years,Annual,2011,76.55,Units
 DEU,Germany,Employment rate,Male,From 15 to 64 years,Annual,2012,76.85,Units
@@ -18288,6 +18334,7 @@ OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,5
 OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,49.25719,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,50.65028,Units
 OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,51.58964,Units
+OECD,OECD,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,51.99374,Units
 DNK,Denmark,Employment rate,Total,From 15 to 64 years,Annual,2010,71.8,Units
 DNK,Denmark,Employment rate,Total,From 15 to 64 years,Annual,2011,71.625,Units
 DNK,Denmark,Employment rate,Total,From 15 to 64 years,Annual,2012,71.025,Units
@@ -19397,6 +19444,7 @@ OECD,OECD,Unemployment rate,Total,From 15 to 64 years,Annual,2019,5.594272,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 64 years,Annual,2020,7.338392,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 64 years,Annual,2021,6.329256,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 64 years,Annual,2022,5.1601,Units
+OECD,OECD,Unemployment rate,Total,From 15 to 64 years,Annual,2023,4.985459,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 24 years,Annual,2010,18.275,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 24 years,Annual,2011,19.0,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 24 years,Annual,2012,21.5,Units
@@ -21032,6 +21080,7 @@ OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2019,25.84819,Units
 OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2020,27.4143,Units
 OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2021,26.36414,Units
 OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2022,25.05957,Units
+OECD,OECD,Inactivity rate,Female,From 25 to 54 years,Annual,2023,24.27492,Units
 LTU,Lithuania,Labour force participation rate,Female,15 years or over,Annual,2010,52.525,Units
 LTU,Lithuania,Labour force participation rate,Female,15 years or over,Annual,2011,52.725,Units
 LTU,Lithuania,Labour force participation rate,Female,15 years or over,Annual,2012,53.2,Units
@@ -21436,6 +21485,7 @@ OECD,OECD,Unemployment rate,Female,From 25 to 54 years,Annual,2019,5.263096,Unit
 OECD,OECD,Unemployment rate,Female,From 25 to 54 years,Annual,2020,6.850926,Units
 OECD,OECD,Unemployment rate,Female,From 25 to 54 years,Annual,2021,5.935361,Units
 OECD,OECD,Unemployment rate,Female,From 25 to 54 years,Annual,2022,4.944155,Units
+OECD,OECD,Unemployment rate,Female,From 25 to 54 years,Annual,2023,4.719514,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 64 years,Annual,2010,9.075,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 64 years,Annual,2011,8.175,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 64 years,Annual,2012,7.908333,Units
@@ -21644,6 +21694,7 @@ JPN,Japan,Inactivity rate,Male,From 15 to 74 years,Annual,2019,19.77735,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 74 years,Annual,2020,19.69014,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 74 years,Annual,2021,19.60811,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 74 years,Annual,2022,19.42084,Units
+JPN,Japan,Inactivity rate,Male,From 15 to 74 years,Annual,2023,19.01032,Units
 IRL,Ireland,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,45.675,Units
 IRL,Ireland,Labour force participation rate,Female,From 55 to 64 years,Annual,2011,46.775,Units
 IRL,Ireland,Labour force participation rate,Female,From 55 to 64 years,Annual,2012,46.675,Units
@@ -21797,6 +21848,7 @@ JPN,Japan,Inactivity rate,Female,From 15 to 64 years,Annual,2019,27.28651,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 64 years,Annual,2020,27.32256,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 64 years,Annual,2021,26.5014,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 64 years,Annual,2022,25.63617,Units
+JPN,Japan,Inactivity rate,Female,From 15 to 64 years,Annual,2023,24.76011,Units
 ESP,Spain,Unemployment rate,Total,From 25 to 54 years,Annual,2010,18.375,Units
 ESP,Spain,Unemployment rate,Total,From 25 to 54 years,Annual,2011,19.875,Units
 ESP,Spain,Unemployment rate,Total,From 25 to 54 years,Annual,2012,23.25,Units
@@ -22074,6 +22126,7 @@ JPN,Japan,Unemployment rate,Male,From 15 to 74 years,Annual,2019,2.573195,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 74 years,Annual,2020,3.085636,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 74 years,Annual,2021,3.122556,Units
 JPN,Japan,Unemployment rate,Male,From 15 to 74 years,Annual,2022,2.875108,Units
+JPN,Japan,Unemployment rate,Male,From 15 to 74 years,Annual,2023,2.819765,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Total,From 15 to 64 years,Annual,2010,62.6,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Total,From 15 to 64 years,Annual,2011,62.75,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Total,From 15 to 64 years,Annual,2012,62.55,Units
@@ -22101,6 +22154,7 @@ JPN,Japan,Labour force participation rate,Male,From 25 to 54 years,Annual,2019,9
 JPN,Japan,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,95.58212,Units
 JPN,Japan,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,95.74654,Units
 JPN,Japan,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,95.57365,Units
+JPN,Japan,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,95.37027,Units
 SVK,Slovak Republic,Inactivity rate,Total,From 25 to 54 years,Annual,2010,10.575,Units
 SVK,Slovak Republic,Inactivity rate,Total,From 25 to 54 years,Annual,2011,10.5,Units
 SVK,Slovak Republic,Inactivity rate,Total,From 25 to 54 years,Annual,2012,10.375,Units
@@ -22127,6 +22181,7 @@ OECD,OECD,Inactivity rate,Total,From 55 to 64 years,Annual,2019,35.59726,Units
 OECD,OECD,Inactivity rate,Total,From 55 to 64 years,Annual,2020,36.45054,Units
 OECD,OECD,Inactivity rate,Total,From 55 to 64 years,Annual,2021,35.70942,Units
 OECD,OECD,Inactivity rate,Total,From 55 to 64 years,Annual,2022,34.71112,Units
+OECD,OECD,Inactivity rate,Total,From 55 to 64 years,Annual,2023,33.68386,Units
 GBR,United Kingdom,Inactivity rate,Male,From 25 to 54 years,Annual,2010,8.575,Units
 GBR,United Kingdom,Inactivity rate,Male,From 25 to 54 years,Annual,2011,8.325,Units
 GBR,United Kingdom,Inactivity rate,Male,From 25 to 54 years,Annual,2012,8.0,Units
@@ -22278,6 +22333,7 @@ JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2019,63.53197,Units
 JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2020,63.31121,Units
 JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2021,63.65148,Units
 JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2022,64.70065,Units
+JPN,Japan,Employment rate,Female,From 15 to 74 years,Annual,2023,65.86906,Units
 USA,United States,Labour force participation rate,Male,15 years or over,Annual,2010,71.18333,Units
 USA,United States,Labour force participation rate,Male,15 years or over,Annual,2011,70.48333,Units
 USA,United States,Labour force participation rate,Male,15 years or over,Annual,2012,70.15833,Units
@@ -22389,6 +22445,7 @@ JPN,Japan,Inactivity rate,Female,From 55 to 64 years,Annual,2019,32.6691,Units
 JPN,Japan,Inactivity rate,Female,From 55 to 64 years,Annual,2020,31.98392,Units
 JPN,Japan,Inactivity rate,Female,From 55 to 64 years,Annual,2021,31.22354,Units
 JPN,Japan,Inactivity rate,Female,From 55 to 64 years,Annual,2022,29.88137,Units
+JPN,Japan,Inactivity rate,Female,From 55 to 64 years,Annual,2023,28.92421,Units
 PRT,Portugal,Employment rate,Total,From 15 to 64 years,Annual,2010,62.25,Units
 PRT,Portugal,Employment rate,Total,From 15 to 64 years,Annual,2011,61.85,Units
 PRT,Portugal,Employment rate,Total,From 15 to 64 years,Annual,2012,59.325,Units
@@ -22570,6 +22627,7 @@ JPN,Japan,Unemployment rate,Total,From 15 to 74 years,Annual,2019,2.410548,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 74 years,Annual,2020,2.856338,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 74 years,Annual,2021,2.881796,Units
 JPN,Japan,Unemployment rate,Total,From 15 to 74 years,Annual,2022,2.660691,Units
+JPN,Japan,Unemployment rate,Total,From 15 to 74 years,Annual,2023,2.633468,Units
 ITA,Italy,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,37.55,Units
 ITA,Italy,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,39.075,Units
 ITA,Italy,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,42.15,Units
@@ -22891,6 +22949,7 @@ G7,G7,Employment rate,Male,From 15 to 24 years,Annual,2019,47.16231,Units
 G7,G7,Employment rate,Male,From 15 to 24 years,Annual,2020,43.91587,Units
 G7,G7,Employment rate,Male,From 15 to 24 years,Annual,2021,46.48005,Units
 G7,G7,Employment rate,Male,From 15 to 24 years,Annual,2022,47.73409,Units
+G7,G7,Employment rate,Male,From 15 to 24 years,Annual,2023,48.15635,Units
 HUN,Hungary,Unemployment rate,Total,From 15 to 74 years,Annual,2010,10.80053,Units
 HUN,Hungary,Unemployment rate,Total,From 15 to 74 years,Annual,2011,10.65336,Units
 HUN,Hungary,Unemployment rate,Total,From 15 to 74 years,Annual,2012,10.67249,Units
@@ -23489,6 +23548,7 @@ G7,G7,Employment rate,Female,From 55 to 64 years,Annual,2019,59.15207,Units
 G7,G7,Employment rate,Female,From 55 to 64 years,Annual,2020,57.63055,Units
 G7,G7,Employment rate,Female,From 55 to 64 years,Annual,2021,58.74008,Units
 G7,G7,Employment rate,Female,From 55 to 64 years,Annual,2022,59.968,Units
+G7,G7,Employment rate,Female,From 55 to 64 years,Annual,2023,61.13301,Units
 SWE,Sweden,Unemployment rate,Male,From 15 to 24 years,Annual,2010,25.08802,Units
 SWE,Sweden,Unemployment rate,Male,From 15 to 24 years,Annual,2011,22.41221,Units
 SWE,Sweden,Unemployment rate,Male,From 15 to 24 years,Annual,2012,24.15743,Units
@@ -24041,6 +24101,7 @@ JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2019,
 JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2020,48.61814,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2021,48.76735,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2022,48.76129,Units
+JPN,Japan,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,49.92161,Units
 KOR,Korea,Unemployment rate,Male,15 years or over,Annual,2010,3.975,Units
 KOR,Korea,Unemployment rate,Male,15 years or over,Annual,2011,3.608333,Units
 KOR,Korea,Unemployment rate,Male,15 years or over,Annual,2012,3.383333,Units
@@ -24306,6 +24367,7 @@ JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2019,8
 JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,89.74014,Units
 JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,89.94149,Units
 JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,90.29702,Units
+JPN,Japan,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,90.61084,Units
 CZE,Czechia,Unemployment rate,Total,From 55 to 64 years,Annual,2010,6.5,Units
 CZE,Czechia,Unemployment rate,Total,From 55 to 64 years,Annual,2011,5.8,Units
 CZE,Czechia,Unemployment rate,Total,From 55 to 64 years,Annual,2012,5.825,Units
@@ -24598,6 +24660,7 @@ JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2019,48.41041,Units
 JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2020,47.22321,Units
 JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2021,47.72947,Units
 JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2022,48.03805,Units
+JPN,Japan,Employment rate,Female,From 15 to 24 years,Annual,2023,49.31829,Units
 GRC,Greece,Unemployment rate,Female,15 years or over,Annual,2010,16.33638,Units
 GRC,Greece,Unemployment rate,Female,15 years or over,Annual,2011,21.50938,Units
 GRC,Greece,Unemployment rate,Female,15 years or over,Annual,2012,28.20933,Units
@@ -24694,6 +24757,7 @@ JPN,Japan,Employment rate,Total,From 15 to 24 years,Annual,2019,47.12876,Units
 JPN,Japan,Employment rate,Total,From 15 to 24 years,Annual,2020,46.06501,Units
 JPN,Japan,Employment rate,Total,From 15 to 24 years,Annual,2021,46.53971,Units
 JPN,Japan,Employment rate,Total,From 15 to 24 years,Annual,2022,46.66373,Units
+JPN,Japan,Employment rate,Total,From 15 to 24 years,Annual,2023,47.91145,Units
 SVK,Slovak Republic,Unemployment rate,Total,From 15 to 24 years,Annual,2010,34.9235,Units
 SVK,Slovak Republic,Unemployment rate,Total,From 15 to 24 years,Annual,2011,34.73606,Units
 SVK,Slovak Republic,Unemployment rate,Total,From 15 to 24 years,Annual,2012,35.30608,Units
@@ -25257,6 +25321,7 @@ OECD,OECD,Unemployment rate,Total,From 55 to 64 years,Annual,2019,3.799893,Units
 OECD,OECD,Unemployment rate,Total,From 55 to 64 years,Annual,2020,5.278485,Units
 OECD,OECD,Unemployment rate,Total,From 55 to 64 years,Annual,2021,4.67576,Units
 OECD,OECD,Unemployment rate,Total,From 55 to 64 years,Annual,2022,3.665502,Units
+OECD,OECD,Unemployment rate,Total,From 55 to 64 years,Annual,2023,3.48857,Units
 EST,Estonia,Employment rate,Male,15 years or over,Annual,2010,54.025,Units
 EST,Estonia,Employment rate,Male,15 years or over,Annual,2011,59.125,Units
 EST,Estonia,Employment rate,Male,15 years or over,Annual,2012,60.9,Units
@@ -25793,6 +25858,7 @@ JPN,Japan,Employment rate,Male,From 55 to 64 years,Annual,2019,87.12717,Units
 JPN,Japan,Employment rate,Male,From 55 to 64 years,Annual,2020,87.32823,Units
 JPN,Japan,Employment rate,Male,From 55 to 64 years,Annual,2021,87.19019,Units
 JPN,Japan,Employment rate,Male,From 55 to 64 years,Annual,2022,87.8172,Units
+JPN,Japan,Employment rate,Male,From 55 to 64 years,Annual,2023,88.07431,Units
 ESP,Spain,Unemployment rate,Total,From 55 to 64 years,Annual,2010,14.225,Units
 ESP,Spain,Unemployment rate,Total,From 55 to 64 years,Annual,2011,15.075,Units
 ESP,Spain,Unemployment rate,Total,From 55 to 64 years,Annual,2012,18.025,Units
@@ -25848,6 +25914,7 @@ G7,G7,Employment rate,Female,From 15 to 64 years,Annual,2019,66.99001,Units
 G7,G7,Employment rate,Female,From 15 to 64 years,Annual,2020,64.60878,Units
 G7,G7,Employment rate,Female,From 15 to 64 years,Annual,2021,66.22043,Units
 G7,G7,Employment rate,Female,From 15 to 64 years,Annual,2022,67.65786,Units
+G7,G7,Employment rate,Female,From 15 to 64 years,Annual,2023,68.456,Units
 GRC,Greece,Employment rate,Female,From 15 to 74 years,Annual,2010,41.525,Units
 GRC,Greece,Employment rate,Female,From 15 to 74 years,Annual,2011,38.9,Units
 GRC,Greece,Employment rate,Female,From 15 to 74 years,Annual,2012,35.85,Units
@@ -26083,6 +26150,7 @@ OECD,OECD,Labour force participation rate,Female,From 55 to 64 years,Annual,2019
 OECD,OECD,Labour force participation rate,Female,From 55 to 64 years,Annual,2020,55.1645,Units
 OECD,OECD,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,55.72758,Units
 OECD,OECD,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,56.82643,Units
+OECD,OECD,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,58.08324,Units
 SWE,Sweden,Employment rate,Total,15 years or over,Annual,2010,57.825,Units
 SWE,Sweden,Employment rate,Total,15 years or over,Annual,2011,58.725,Units
 SWE,Sweden,Employment rate,Total,15 years or over,Annual,2012,58.8,Units
@@ -26297,6 +26365,7 @@ JPN,Japan,Inactivity rate,Female,From 15 to 74 years,Annual,2019,35.35532,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 74 years,Annual,2020,35.3238,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 74 years,Annual,2021,34.66374,Units
 JPN,Japan,Inactivity rate,Female,From 15 to 74 years,Annual,2022,33.70731,Units
+JPN,Japan,Inactivity rate,Female,From 15 to 74 years,Annual,2023,32.50356,Units
 ISL,Iceland,Inactivity rate,Male,From 15 to 74 years,Annual,2010,16.025,Units
 ISL,Iceland,Inactivity rate,Male,From 15 to 74 years,Annual,2011,16.825,Units
 ISL,Iceland,Inactivity rate,Male,From 15 to 74 years,Annual,2012,17.375,Units
@@ -26716,6 +26785,7 @@ OECD,OECD,Employment rate,Total,From 15 to 64 years,Annual,2019,68.78661,Units
 OECD,OECD,Employment rate,Total,From 15 to 64 years,Annual,2020,66.01063,Units
 OECD,OECD,Employment rate,Total,From 15 to 64 years,Annual,2021,67.67359,Units
 OECD,OECD,Employment rate,Total,From 15 to 64 years,Annual,2022,69.34095,Units
+OECD,OECD,Employment rate,Total,From 15 to 64 years,Annual,2023,70.01868,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2011,93.84341,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2012,94.33365,Units
 CRI,Costa Rica,Labour force participation rate,Male,From 25 to 54 years,Annual,2013,94.52397,Units
@@ -27271,6 +27341,7 @@ JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2019,84.63779,Units
 JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2020,84.20238,Units
 JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2021,84.10136,Units
 JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2022,84.27872,Units
+JPN,Japan,Employment rate,Male,From 15 to 64 years,Annual,2023,84.39635,Units
 HUN,Hungary,Unemployment rate,Total,From 25 to 54 years,Annual,2010,10.02096,Units
 HUN,Hungary,Unemployment rate,Total,From 25 to 54 years,Annual,2011,9.753767,Units
 HUN,Hungary,Unemployment rate,Total,From 25 to 54 years,Annual,2012,9.623132,Units
@@ -27367,6 +27438,7 @@ OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2019,5.446154,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2020,7.127304,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2021,6.170058,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2022,4.942121,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2023,4.817181,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2010,9.95803,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2011,10.07985,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2012,10.98138,Units
@@ -28538,6 +28610,7 @@ JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2019,8
 JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,86.59512,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,86.84338,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,86.82501,Units
+JPN,Japan,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,86.85638,Units
 NOR,Norway,Unemployment rate,Total,From 15 to 24 years,Annual,2010,9.25,Units
 NOR,Norway,Unemployment rate,Total,From 15 to 24 years,Annual,2011,8.675,Units
 NOR,Norway,Unemployment rate,Total,From 15 to 24 years,Annual,2012,8.45,Units
@@ -28578,6 +28651,7 @@ OECD,OECD,Labour force participation rate,Male,From 25 to 54 years,Annual,2019,9
 OECD,OECD,Labour force participation rate,Male,From 25 to 54 years,Annual,2020,89.87031,Units
 OECD,OECD,Labour force participation rate,Male,From 25 to 54 years,Annual,2021,90.88436,Units
 OECD,OECD,Labour force participation rate,Male,From 25 to 54 years,Annual,2022,91.32083,Units
+OECD,OECD,Labour force participation rate,Male,From 25 to 54 years,Annual,2023,91.47533,Units
 GRC,Greece,Employment rate,Total,From 15 to 74 years,Annual,2010,52.125,Units
 GRC,Greece,Employment rate,Total,From 15 to 74 years,Annual,2011,48.525,Units
 GRC,Greece,Employment rate,Total,From 15 to 74 years,Annual,2012,44.425,Units
@@ -29360,6 +29434,7 @@ JPN,Japan,Unemployment rate,Female,From 15 to 74 years,Annual,2019,2.216351,Unit
 JPN,Japan,Unemployment rate,Female,From 15 to 74 years,Annual,2020,2.57041,Units
 JPN,Japan,Unemployment rate,Female,From 15 to 74 years,Annual,2021,2.581538,Units
 JPN,Japan,Unemployment rate,Female,From 15 to 74 years,Annual,2022,2.401701,Units
+JPN,Japan,Unemployment rate,Female,From 15 to 74 years,Annual,2023,2.413672,Units
 IRL,Ireland,Inactivity rate,Female,From 15 to 24 years,Annual,2010,48.275,Units
 IRL,Ireland,Inactivity rate,Female,From 15 to 24 years,Annual,2011,50.875,Units
 IRL,Ireland,Inactivity rate,Female,From 15 to 24 years,Annual,2012,51.4,Units
@@ -29901,6 +29976,7 @@ JPN,Japan,Inactivity rate,Total,From 15 to 74 years,Annual,2019,27.54996,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 74 years,Annual,2020,27.48819,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 74 years,Annual,2021,27.12115,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 74 years,Annual,2022,26.54598,Units
+JPN,Japan,Inactivity rate,Total,From 15 to 74 years,Annual,2023,25.73363,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,68.75,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,67.925,Units
 LUX,Luxembourg,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,69.025,Units
@@ -30150,6 +30226,7 @@ OECD,OECD,Inactivity rate,Total,From 25 to 54 years,Annual,2019,17.2282,Units
 OECD,OECD,Inactivity rate,Total,From 25 to 54 years,Annual,2020,18.74703,Units
 OECD,OECD,Inactivity rate,Total,From 25 to 54 years,Annual,2021,17.79596,Units
 OECD,OECD,Inactivity rate,Total,From 25 to 54 years,Annual,2022,16.91797,Units
+OECD,OECD,Inactivity rate,Total,From 25 to 54 years,Annual,2023,16.43218,Units
 FIN,Finland,Employment rate,Male,From 15 to 74 years,Annual,2010,61.95,Units
 FIN,Finland,Employment rate,Male,From 15 to 74 years,Annual,2011,62.675,Units
 FIN,Finland,Employment rate,Male,From 15 to 74 years,Annual,2012,62.45,Units
@@ -30372,6 +30449,7 @@ G7,G7,Employment rate,Male,From 15 to 64 years,Annual,2019,77.22337,Units
 G7,G7,Employment rate,Male,From 15 to 64 years,Annual,2020,74.62075,Units
 G7,G7,Employment rate,Male,From 15 to 64 years,Annual,2021,75.94296,Units
 G7,G7,Employment rate,Male,From 15 to 64 years,Annual,2022,77.2701,Units
+G7,G7,Employment rate,Male,From 15 to 64 years,Annual,2023,77.54236,Units
 OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2010,84.50237,Units
 OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2011,84.92371,Units
 OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2012,84.98295,Units
@@ -30385,6 +30463,7 @@ OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2019,87.30524,Units
 OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2020,84.30166,Units
 OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2021,85.98483,Units
 OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2022,87.47385,Units
+OECD,OECD,Employment rate,Male,From 25 to 54 years,Annual,2023,87.73206,Units
 JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2010,63.72862,Units
 JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2011,63.96718,Units
 JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2012,64.1057,Units
@@ -30398,6 +30477,7 @@ JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2019,71.01745,Units
 JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2020,70.73254,Units
 JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2021,70.77767,Units
 JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2022,71.5015,Units
+JPN,Japan,Employment rate,Total,From 15 to 74 years,Annual,2023,72.31421,Units
 EA20,Euro area (20 countries),Employment rate,Female,15 years or over,Annual,2010,44.725,Units
 EA20,Euro area (20 countries),Employment rate,Female,15 years or over,Annual,2011,44.9,Units
 EA20,Euro area (20 countries),Employment rate,Female,15 years or over,Annual,2012,44.75,Units
@@ -30606,6 +30686,7 @@ OECD,OECD,Employment rate,Total,From 55 to 64 years,Annual,2019,61.97775,Units
 OECD,OECD,Employment rate,Total,From 55 to 64 years,Annual,2020,60.22964,Units
 OECD,OECD,Employment rate,Total,From 55 to 64 years,Annual,2021,61.28482,Units
 OECD,OECD,Employment rate,Total,From 55 to 64 years,Annual,2022,62.89526,Units
+OECD,OECD,Employment rate,Total,From 55 to 64 years,Annual,2023,64.00278,Units
 KOR,Korea,Employment rate,Female,From 55 to 64 years,Annual,2010,47.04906,Units
 KOR,Korea,Employment rate,Female,From 55 to 64 years,Annual,2011,48.15047,Units
 KOR,Korea,Employment rate,Female,From 55 to 64 years,Annual,2012,49.42402,Units
@@ -30842,6 +30923,7 @@ G7,G7,Employment rate,Total,From 15 to 24 years,Annual,2019,46.75819,Units
 G7,G7,Employment rate,Total,From 15 to 24 years,Annual,2020,43.2134,Units
 G7,G7,Employment rate,Total,From 15 to 24 years,Annual,2021,45.9487,Units
 G7,G7,Employment rate,Total,From 15 to 24 years,Annual,2022,47.32856,Units
+G7,G7,Employment rate,Total,From 15 to 24 years,Annual,2023,47.90155,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2010,25.79486,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2011,25.60233,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2012,26.01303,Units
@@ -30855,6 +30937,7 @@ JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2019,20.29407,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2020,20.27286,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2021,19.7424,Units
 JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2022,19.32516,Units
+JPN,Japan,Inactivity rate,Total,From 15 to 64 years,Annual,2023,18.87047,Units
 CZE,Czechia,Employment rate,Male,From 15 to 24 years,Annual,2010,29.575,Units
 CZE,Czechia,Employment rate,Male,From 15 to 24 years,Annual,2011,29.025,Units
 CZE,Czechia,Employment rate,Male,From 15 to 24 years,Annual,2012,29.225,Units
@@ -31704,6 +31787,7 @@ OECD,OECD,Labour force participation rate,Female,From 15 to 64 years,Annual,2019
 OECD,OECD,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,63.61131,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,64.62521,Units
 OECD,OECD,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,65.77775,Units
+OECD,OECD,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,66.64314,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,89.425,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,89.5,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,89.625,Units
@@ -31869,6 +31953,7 @@ OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2019,39.28148,Units
 OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2020,35.58176,Units
 OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2021,37.85741,Units
 OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2022,39.5124,Units
+OECD,OECD,Employment rate,Female,From 15 to 24 years,Annual,2023,40.5484,Units
 GBR,United Kingdom,Labour force participation rate,Total,15 years or over,Annual,2010,63.17693,Units
 GBR,United Kingdom,Labour force participation rate,Total,15 years or over,Annual,2011,63.11561,Units
 GBR,United Kingdom,Labour force participation rate,Total,15 years or over,Annual,2012,63.29328,Units
@@ -31964,6 +32049,7 @@ OECD,OECD,Labour force participation rate,Male,From 55 to 64 years,Annual,2019,7
 OECD,OECD,Labour force participation rate,Male,From 55 to 64 years,Annual,2020,72.46075,Units
 OECD,OECD,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,73.37055,Units
 OECD,OECD,Labour force participation rate,Male,From 55 to 64 years,Annual,2022,74.22058,Units
+OECD,OECD,Labour force participation rate,Male,From 55 to 64 years,Annual,2023,74.99789,Units
 FIN,Finland,Labour force participation rate,Female,15 years or over,Annual,2010,56.025,Units
 FIN,Finland,Labour force participation rate,Female,15 years or over,Annual,2011,55.8,Units
 FIN,Finland,Labour force participation rate,Female,15 years or over,Annual,2012,56.0,Units
@@ -32580,6 +32666,7 @@ OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2019,45.59513,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2020,41.83559,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2021,44.1623,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2022,45.96167,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2023,46.40205,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,81.68333,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,81.825,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,81.86667,Units
@@ -33087,6 +33174,7 @@ OECD,OECD,Inactivity rate,Female,From 55 to 64 years,Annual,2019,44.12463,Units
 OECD,OECD,Inactivity rate,Female,From 55 to 64 years,Annual,2020,44.86029,Units
 OECD,OECD,Inactivity rate,Female,From 55 to 64 years,Annual,2021,44.27271,Units
 OECD,OECD,Inactivity rate,Female,From 55 to 64 years,Annual,2022,43.17291,Units
+OECD,OECD,Inactivity rate,Female,From 55 to 64 years,Annual,2023,41.91679,Units
 TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2010,10.38599,Units
 TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2011,8.283156,Units
 TUR,Türkiye,Unemployment rate,Male,15 years or over,Annual,2012,7.643485,Units
@@ -33365,6 +33453,7 @@ JPN,Japan,Labour force participation rate,Male,From 15 to 74 years,Annual,2019,8
 JPN,Japan,Labour force participation rate,Male,From 15 to 74 years,Annual,2020,80.30986,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,80.39189,Units
 JPN,Japan,Labour force participation rate,Male,From 15 to 74 years,Annual,2022,80.57915,Units
+JPN,Japan,Labour force participation rate,Male,From 15 to 74 years,Annual,2023,80.98968,Units
 EA20,Euro area (20 countries),Labour force participation rate,Total,From 15 to 64 years,Annual,2010,71.075,Units
 EA20,Euro area (20 countries),Labour force participation rate,Total,From 15 to 64 years,Annual,2011,71.225,Units
 EA20,Euro area (20 countries),Labour force participation rate,Total,From 15 to 64 years,Annual,2012,71.675,Units
@@ -33475,6 +33564,7 @@ OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2019,11.8828,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2020,15.18198,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2021,12.80333,Units
 OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2022,10.88463,Units
+OECD,OECD,Unemployment rate,Total,From 15 to 24 years,Annual,2023,10.59162,Units
 FRA,France,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,43.6,Units
 FRA,France,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,42.25,Units
 FRA,France,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,41.825,Units
@@ -33516,6 +33606,7 @@ G7,G7,Employment rate,Male,From 25 to 54 years,Annual,2019,87.63155,Units
 G7,G7,Employment rate,Male,From 25 to 54 years,Annual,2020,84.98489,Units
 G7,G7,Employment rate,Male,From 25 to 54 years,Annual,2021,86.12077,Units
 G7,G7,Employment rate,Male,From 25 to 54 years,Annual,2022,87.5964,Units
+G7,G7,Employment rate,Male,From 25 to 54 years,Annual,2023,87.80286,Units
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2010,66.14607,Units
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2011,66.6507,Units
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2012,66.57001,Units
@@ -34018,6 +34109,7 @@ JPN,Japan,Labour force participation rate,Total,From 25 to 54 years,Annual,2019,
 JPN,Japan,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,87.97589,Units
 JPN,Japan,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,88.46629,Units
 JPN,Japan,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,88.81807,Units
+JPN,Japan,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,89.1264,Units
 SVN,Slovenia,Employment rate,Total,From 15 to 64 years,Annual,2010,65.525,Units
 SVN,Slovenia,Employment rate,Total,From 15 to 64 years,Annual,2011,63.825,Units
 SVN,Slovenia,Employment rate,Total,From 15 to 64 years,Annual,2012,63.575,Units
@@ -34071,6 +34163,7 @@ OECD,OECD,Employment rate,Total,From 15 to 24 years,Annual,2019,42.48271,Units
 OECD,OECD,Employment rate,Total,From 15 to 24 years,Annual,2020,38.75507,Units
 OECD,OECD,Employment rate,Total,From 15 to 24 years,Annual,2021,41.05973,Units
 OECD,OECD,Employment rate,Total,From 15 to 24 years,Annual,2022,42.77928,Units
+OECD,OECD,Employment rate,Total,From 15 to 24 years,Annual,2023,43.52211,Units
 KOR,Korea,Unemployment rate,Male,From 55 to 64 years,Annual,2010,3.368059,Units
 KOR,Korea,Unemployment rate,Male,From 55 to 64 years,Annual,2011,2.961382,Units
 KOR,Korea,Unemployment rate,Male,From 55 to 64 years,Annual,2012,2.996062,Units
@@ -34515,6 +34608,7 @@ JPN,Japan,Inactivity rate,Female,From 25 to 54 years,Annual,2019,19.83933,Units
 JPN,Japan,Inactivity rate,Female,From 25 to 54 years,Annual,2020,19.86012,Units
 JPN,Japan,Inactivity rate,Female,From 25 to 54 years,Annual,2021,19.04458,Units
 JPN,Japan,Inactivity rate,Female,From 25 to 54 years,Annual,2022,18.15465,Units
+JPN,Japan,Inactivity rate,Female,From 25 to 54 years,Annual,2023,17.34161,Units
 HUN,Hungary,Inactivity rate,Female,From 25 to 54 years,Annual,2010,19.1,Units
 HUN,Hungary,Inactivity rate,Female,From 25 to 54 years,Annual,2011,19.1,Units
 HUN,Hungary,Inactivity rate,Female,From 25 to 54 years,Annual,2012,17.425,Units
@@ -34783,6 +34877,7 @@ OECD,OECD,Labour force participation rate,Total,From 25 to 54 years,Annual,2019,
 OECD,OECD,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,81.16095,Units
 OECD,OECD,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,82.20402,Units
 OECD,OECD,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,83.08207,Units
+OECD,OECD,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,83.56783,Units
 CZE,Czechia,Labour force participation rate,Male,From 15 to 74 years,Annual,2010,71.975,Units
 CZE,Czechia,Labour force participation rate,Male,From 15 to 74 years,Annual,2011,71.575,Units
 CZE,Czechia,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,71.85,Units
@@ -35478,6 +35573,7 @@ JPN,Japan,Employment rate,Total,From 25 to 54 years,Annual,2019,86.51769,Units
 JPN,Japan,Employment rate,Total,From 25 to 54 years,Annual,2020,86.06786,Units
 JPN,Japan,Employment rate,Total,From 25 to 54 years,Annual,2021,85.99577,Units
 JPN,Japan,Employment rate,Total,From 25 to 54 years,Annual,2022,86.50793,Units
+JPN,Japan,Employment rate,Total,From 25 to 54 years,Annual,2023,86.82867,Units
 AUT,Austria,Employment rate,Total,From 15 to 24 years,Annual,2010,52.75,Units
 AUT,Austria,Employment rate,Total,From 15 to 24 years,Annual,2011,53.9,Units
 AUT,Austria,Employment rate,Total,From 15 to 24 years,Annual,2012,53.675,Units
@@ -36051,6 +36147,7 @@ JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2019
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,72.67744,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,73.4986,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2022,74.36382,Units
+JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,75.23989,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,41.05239,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,41.2872,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,41.53368,Units
@@ -36077,6 +36174,7 @@ OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2019
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,72.55543,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,73.63608,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,74.94055,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,75.72536,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,56.575,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,54.675,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,56.275,Units
@@ -36118,6 +36216,7 @@ JPN,Japan,Employment rate,Male,From 15 to 24 years,Annual,2019,45.93142,Units
 JPN,Japan,Employment rate,Male,From 15 to 24 years,Annual,2020,44.97188,Units
 JPN,Japan,Employment rate,Male,From 15 to 24 years,Annual,2021,45.38229,Units
 JPN,Japan,Employment rate,Male,From 15 to 24 years,Annual,2022,45.37713,Units
+JPN,Japan,Employment rate,Male,From 15 to 24 years,Annual,2023,46.519,Units
 DNK,Denmark,Inactivity rate,Female,From 25 to 54 years,Annual,2010,15.0,Units
 DNK,Denmark,Inactivity rate,Female,From 25 to 54 years,Annual,2011,15.7,Units
 DNK,Denmark,Inactivity rate,Female,From 25 to 54 years,Annual,2012,15.575,Units
@@ -36900,6 +36999,7 @@ JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2019,11.99841,Units
 JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2020,12.02411,Units
 JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2021,11.53372,Units
 JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2022,11.18193,Units
+JPN,Japan,Inactivity rate,Total,From 25 to 54 years,Annual,2023,10.8736,Units
 SVN,Slovenia,Employment rate,Female,From 15 to 74 years,Annual,2010,54.975,Units
 SVN,Slovenia,Employment rate,Female,From 15 to 74 years,Annual,2011,53.55,Units
 SVN,Slovenia,Employment rate,Female,From 15 to 74 years,Annual,2012,53.1,Units
@@ -37623,6 +37723,7 @@ JPN,Japan,Inactivity rate,Male,From 55 to 64 years,Annual,2019,11.00702,Units
 JPN,Japan,Inactivity rate,Male,From 55 to 64 years,Annual,2020,10.25986,Units
 JPN,Japan,Inactivity rate,Male,From 55 to 64 years,Annual,2021,10.05851,Units
 JPN,Japan,Inactivity rate,Male,From 55 to 64 years,Annual,2022,9.702978,Units
+JPN,Japan,Inactivity rate,Male,From 55 to 64 years,Annual,2023,9.389161,Units
 SVK,Slovak Republic,Employment rate,Male,15 years or over,Annual,2010,58.2,Units
 SVK,Slovak Republic,Employment rate,Male,15 years or over,Annual,2011,58.775,Units
 SVK,Slovak Republic,Employment rate,Male,15 years or over,Annual,2012,59.1,Units
@@ -37650,6 +37751,7 @@ OECD,OECD,Employment rate,Male,From 15 to 64 years,Annual,2019,76.24084,Units
 OECD,OECD,Employment rate,Male,From 15 to 64 years,Annual,2020,73.31142,Units
 OECD,OECD,Employment rate,Male,From 15 to 64 years,Annual,2021,75.03883,Units
 OECD,OECD,Employment rate,Male,From 15 to 64 years,Annual,2022,76.56862,Units
+OECD,OECD,Employment rate,Male,From 15 to 64 years,Annual,2023,76.9248,Units
 AUT,Austria,Employment rate,Total,15 years or over,Annual,2010,57.5,Units
 AUT,Austria,Employment rate,Total,15 years or over,Annual,2011,57.75,Units
 AUT,Austria,Employment rate,Total,15 years or over,Annual,2012,57.775,Units
@@ -38012,6 +38114,7 @@ JPN,Japan,Labour force participation rate,Total,From 15 to 64 years,Annual,2019,
 JPN,Japan,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,79.72714,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,80.2576,Units
 JPN,Japan,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,80.67484,Units
+JPN,Japan,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,81.12953,Units
 IRL,Ireland,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,55.05,Units
 IRL,Ireland,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,55.475,Units
 IRL,Ireland,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,55.15,Units
@@ -39072,6 +39175,7 @@ JPN,Japan,Employment rate,Female,From 55 to 64 years,Annual,2019,66.31797,Units
 JPN,Japan,Employment rate,Female,From 55 to 64 years,Annual,2020,66.72813,Units
 JPN,Japan,Employment rate,Female,From 55 to 64 years,Annual,2021,67.14492,Units
 JPN,Japan,Employment rate,Female,From 55 to 64 years,Annual,2022,68.5378,Units
+JPN,Japan,Employment rate,Female,From 55 to 64 years,Annual,2023,69.57455,Units
 PRT,Portugal,Unemployment rate,Female,15 years or over,Annual,2010,11.86583,Units
 PRT,Portugal,Unemployment rate,Female,15 years or over,Annual,2011,13.05137,Units
 PRT,Portugal,Unemployment rate,Female,15 years or over,Annual,2012,15.50533,Units
@@ -39793,6 +39897,7 @@ JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2019,76.69804,Units
 JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2020,77.00284,Units
 JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2021,77.10837,Units
 JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2022,78.12254,Units
+JPN,Japan,Employment rate,Total,From 55 to 64 years,Annual,2023,78.795,Units
 POL,Poland,Inactivity rate,Total,From 55 to 64 years,Annual,2010,64.46317,Units
 POL,Poland,Inactivity rate,Total,From 55 to 64 years,Annual,2011,61.55162,Units
 POL,Poland,Inactivity rate,Total,From 55 to 64 years,Annual,2012,59.34105,Units
@@ -40250,3 +40355,4 @@ G7,G7,Employment rate,Female,From 15 to 24 years,Annual,2019,46.3397,Units
 G7,G7,Employment rate,Female,From 15 to 24 years,Annual,2020,42.48893,Units
 G7,G7,Employment rate,Female,From 15 to 24 years,Annual,2021,45.39515,Units
 G7,G7,Employment rate,Female,From 15 to 24 years,Annual,2022,46.91378,Units
+G7,G7,Employment rate,Female,From 15 to 24 years,Annual,2023,47.63008,Units
