@@ -1,19 +1,19 @@
 date,Sector,key_youth_sectors,wanted_youth_sectors,variable,value
-2024-01-01,Real estate activities,False,False,Growth since previous quarter (%),28.0
-2024-01-01,Transport & storage,False,False,Growth since previous quarter (%),13.0
-2024-01-01,Administrative & support service activities,False,False,Growth since previous quarter (%),4.9
-2024-01-01,Construction,False,False,Growth since previous quarter (%),1.4
-2024-01-01,Other service activities,False,False,Growth since previous quarter (%),0.0
-2024-01-01,Accommodation & food service activities,True,False,Growth since previous quarter (%),-1.2
-2024-01-01,Human health & social work activities,True,False,Growth since previous quarter (%),-5.6
-2024-01-01,Education,False,False,Growth since previous quarter (%),-6.1
-2024-01-01,Arts entertainment & recreation,False,True,Growth since previous quarter (%),-18.3
-2024-01-01,Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),14.3
-2024-01-01,Transport & storage,False,False,Growth since pre-coronavirus January to March 2020 (%),-5.7
-2024-01-01,Administrative & support service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),26.0
-2024-01-01,Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),39.0
-2024-01-01,Other service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),9.9
-2024-01-01,Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),25.8
-2024-01-01,Human health & social work activities,True,False,Growth since pre-coronavirus January to March 2020 (%),17.5
-2024-01-01,Education,False,False,Growth since pre-coronavirus January to March 2020 (%),21.4
-2024-01-01,Arts entertainment & recreation,False,True,Growth since pre-coronavirus January to March 2020 (%),-40.3
+2021-07-01,Human health and social work activities,False,False,Growth since previous quarter (%),11.6
+2021-07-01,Education,False,False,Growth since previous quarter (%),21.7
+2021-07-01,Accomodation and food service activities,False,False,Growth since previous quarter (%),22.5
+2021-07-01,Administrative and support service activities,False,False,Growth since previous quarter (%),29.7
+2021-07-01,Professional scientific and technical activities,False,False,Growth since previous quarter (%),30.0
+2021-07-01,Manufacturing,False,False,Growth since previous quarter (%),32.4
+2021-07-01,Wholesale and retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),32.4
+2021-07-01,Construction,False,False,Growth since previous quarter (%),45.3
+2021-07-01,Transport and storage,False,False,Growth since previous quarter (%),56.1
+2021-07-01,Human health and social work activities,False,False,Growth since pre-coronavirus January to March 2020 (%),27.3
+2021-07-01,Education,False,False,Growth since pre-coronavirus January to March 2020 (%),21.5
+2021-07-01,Accomodation and food service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),59.0
+2021-07-01,Administrative and support service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),63.1
+2021-07-01,Professional scientific and technical activities,False,False,Growth since pre-coronavirus January to March 2020 (%),49.2
+2021-07-01,Manufacturing,False,False,Growth since pre-coronavirus January to March 2020 (%),63.5
+2021-07-01,Wholesale and retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),11.0
+2021-07-01,Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),65.4
+2021-07-01,Transport and storage,False,False,Growth since pre-coronavirus January to March 2020 (%),45.5
