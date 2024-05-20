@@ -81,8 +81,8 @@ stages:
     deps:
     - path: download-from-nomis-api.py
       hash: md5
-      md5: e34998407bc063cc69ee0d73bf2058c3
-      size: 6309
+      md5: 7019c9815302a08994629926bb72ec3b
+      size: 6529
     outs:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
