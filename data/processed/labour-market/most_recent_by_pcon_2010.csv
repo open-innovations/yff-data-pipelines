@@ -8177,7 +8177,7 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,Orkney and Shetland,S14000051,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,% of economically inactive student,1493,27.2,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,% who are economically inactive - aged 16+,110,37.2,Normal Value
-2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,% who are economically inactive - aged 16-19,112,68.4,Normal Value
+2023-09-01,Oct 2022-Sep 2023,Paisley and Renfrewshire North,S14000052,% who are economically inactive - aged 16-19,112,59.7,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,% who are economically inactive - aged 16-24,1219,42.6,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,% who are economically inactive - aged 16-64,111,21.0,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,% who are economically inactive - aged 20-24,113,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
@@ -8191,7 +8191,7 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire North,S14000052,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire South,S14000053,% of economically inactive student,1493,21.3,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire South,S14000053,% who are economically inactive - aged 16+,110,42.0,Normal Value
-2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire South,S14000053,% who are economically inactive - aged 16-19,112,100.0,Normal Value
+2023-09-01,Oct 2022-Sep 2023,Paisley and Renfrewshire South,S14000053,% who are economically inactive - aged 16-19,112,90.9,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire South,S14000053,% who are economically inactive - aged 16-24,1219,23.6,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire South,S14000053,% who are economically inactive - aged 16-64,111,23.5,Normal Value
 2023-03-01,Apr 2022-Mar 2023,Paisley and Renfrewshire South,S14000053,% who are economically inactive - aged 20-24,113,43.4,Normal Value
@@ -8205,7 +8205,7 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,Paisley and Renfrewshire South,S14000053,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,% of economically inactive student,1493,23.9,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,% who are economically inactive - aged 16+,110,41.4,Normal Value
-2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,% who are economically inactive - aged 16-19,112,49.2,Normal Value
+2023-09-01,Oct 2022-Sep 2023,Perth and North Perthshire,S14000054,% who are economically inactive - aged 16-19,112,41.2,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,% who are economically inactive - aged 16-24,1219,44.2,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,% who are economically inactive - aged 16-64,111,21.1,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,% who are economically inactive - aged 20-24,113,41.5,Normal Value
@@ -8219,7 +8219,6 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,Perth and North Perthshire,S14000054,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,% of economically inactive student,1493,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,% who are economically inactive - aged 16+,110,49.5,Normal Value
-2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,% who are economically inactive - aged 16-19,112,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,% who are economically inactive - aged 16-24,1219,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,% who are economically inactive - aged 16-64,111,22.4,Normal Value
 2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,% who are economically inactive - aged 20-24,113,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
@@ -8233,7 +8232,7 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,"Ross, Skye and Lochaber",S14000055,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,% of economically inactive student,1493,31.2,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,% who are economically inactive - aged 16+,110,36.9,Normal Value
-2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,% who are economically inactive - aged 16-19,112,100.0,Normal Value
+2023-09-01,Oct 2022-Sep 2023,Rutherglen and Hamilton West,S14000056,% who are economically inactive - aged 16-19,112,100.0,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,% who are economically inactive - aged 16-24,1219,44.7,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,% who are economically inactive - aged 16-64,111,19.6,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,% who are economically inactive - aged 20-24,113,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
@@ -8247,7 +8246,7 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,Rutherglen and Hamilton West,S14000056,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,Stirling,S14000057,% of economically inactive student,1493,22.3,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Stirling,S14000057,% who are economically inactive - aged 16+,110,33.6,Normal Value
-2023-12-01,Jan 2023-Dec 2023,Stirling,S14000057,% who are economically inactive - aged 16-19,112,33.9,Normal Value
+2023-09-01,Oct 2022-Sep 2023,Stirling,S14000057,% who are economically inactive - aged 16-19,112,47.3,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Stirling,S14000057,% who are economically inactive - aged 16-24,1219,29.3,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Stirling,S14000057,% who are economically inactive - aged 16-64,111,17.2,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Stirling,S14000057,% who are economically inactive - aged 20-24,113,25.8,Normal Value
@@ -8275,7 +8274,7 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2023-12-01,Jan 2023-Dec 2023,West Aberdeenshire and Kincardine,S14000058,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2023-12-01,Jan 2023-Dec 2023,West Dunbartonshire,S14000059,% of economically inactive student,1493,27.7,Normal Value
 2023-12-01,Jan 2023-Dec 2023,West Dunbartonshire,S14000059,% who are economically inactive - aged 16+,110,43.8,Normal Value
-2023-12-01,Jan 2023-Dec 2023,West Dunbartonshire,S14000059,% who are economically inactive - aged 16-19,112,65.5,Normal Value
+2023-09-01,Oct 2022-Sep 2023,West Dunbartonshire,S14000059,% who are economically inactive - aged 16-19,112,61.9,Normal Value
 2023-12-01,Jan 2023-Dec 2023,West Dunbartonshire,S14000059,% who are economically inactive - aged 16-24,1219,48.7,Normal Value
 2023-12-01,Jan 2023-Dec 2023,West Dunbartonshire,S14000059,% who are economically inactive - aged 16-64,111,25.9,Normal Value
 2023-12-01,Jan 2023-Dec 2023,West Dunbartonshire,S14000059,% who are economically inactive - aged 20-24,113,27.8,Normal Value
