@@ -1,9 +1,14 @@
+import logging
 import re
 from pathlib import Path
 
 from lib.util import set_working_directory
 from lib.downloader import download_url_to_file
 from lib.scraper import get_links
+
+logging.basicConfig(
+  level=logging.INFO
+)
 
 
 def main():
