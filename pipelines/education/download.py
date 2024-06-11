@@ -1,9 +1,15 @@
+import logging
 import re
 from pathlib import Path
 
 from lib.util import set_working_directory
 from lib.scraper import get_links
 from lib.downloader import download_url_to_file
+
+logging.basicConfig(
+    level=logging.INFO
+)
+logger = logging.getLogger(__name__)
 
 
 def download():
@@ -16,6 +22,9 @@ def download():
             'https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance',
             string=re.compile(r'Download all data \(zip\)')
         )
+        logging.info("Links: %s", links)
+        # TODO Find proper persistent URL for this
+        links=['https://content.explore-education-statistics.service.gov.uk/api/releases/90c95fb2-f2a1-4723-aba8-09c4b6e231a5/files']
         download_url_to_file(
             links[0],
             local_file='key-stage-4-performance.zip'
