@@ -22,10 +22,10 @@ stages:
       size: 874
     - path: process.ipynb
       hash: md5
-      md5: d725b4ad0e9fb6dd5be296c7473fffa5
-      size: 4730
+      md5: 73461e36385b458f3752a99d0d67b8d0
+      size: 4904
     outs:
     - path: ../../data/processed/vacancies/vacancies-growth-by-sector.csv
       hash: md5
-      md5: 6cd6ce2fc935faa3d22005d1b4db2d0c
-      size: 2122
+      md5: 77a0a838bef14a75b7e29b27afa18741
+      size: 1983
