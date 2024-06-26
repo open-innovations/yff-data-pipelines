@@ -77,11 +77,6 @@ ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2016,13.075,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2015,12.71667,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2014,13.18333,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2013,13.49167,Units
-HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2013,36.1,Units
-HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2012,37.125,Units
-HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2011,38.075,Units
-HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2010,38.6,Units
-HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2023,26.65,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2022,27.45,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2021,28.275,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2020,28.875,Units
@@ -90,6 +85,11 @@ HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2018,29.675,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2017,30.425,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2016,31.425,Units
 HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2015,32.8,Units
+HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2014,34.25,Units
+HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2013,36.1,Units
+HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2012,37.125,Units
+HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2011,38.075,Units
+HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2010,38.6,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2012,31.09923,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2011,35.11835,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2023,35.45634,Units
@@ -269,9 +269,6 @@ SVN,Slovenia,Employment rate,Male,From 25 to 54 years,Annual,2012,84.6,Units
 SVN,Slovenia,Employment rate,Male,From 25 to 54 years,Annual,2013,83.575,Units
 SVN,Slovenia,Employment rate,Male,From 25 to 54 years,Annual,2014,83.9,Units
 SVN,Slovenia,Employment rate,Male,From 25 to 54 years,Annual,2015,85.275,Units
-CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2014,7.141667,Units
-CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2013,7.233333,Units
-CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2012,7.491667,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2011,7.733333,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2010,8.283334,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2023,5.483333,Units
@@ -282,6 +279,9 @@ CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2019,5.775,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2018,5.9,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2017,6.491667,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2016,7.116667,Units
+CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2015,7.033333,Units
+CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2014,7.141667,Units
+CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2013,7.233333,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,69.95,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,70.625,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,74.4,Units
@@ -412,11 +412,6 @@ COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,201
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,83.52333,Units
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2013,83.73,Units
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2014,84.37083,Units
-CAN,Canada,Employment rate,Male,15 years or over,Annual,2019,66.24167,Units
-CAN,Canada,Employment rate,Male,15 years or over,Annual,2018,65.975,Units
-CAN,Canada,Employment rate,Male,15 years or over,Annual,2017,65.825,Units
-CAN,Canada,Employment rate,Male,15 years or over,Annual,2016,65.15,Units
-CAN,Canada,Employment rate,Male,15 years or over,Annual,2015,65.68333,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2014,65.71667,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2013,66.05833,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2012,66.01667,Units
@@ -425,6 +420,11 @@ CAN,Canada,Employment rate,Male,15 years or over,Annual,2010,65.46667,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2023,65.80833,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2022,65.73333,Units
 CAN,Canada,Employment rate,Male,15 years or over,Annual,2021,64.45834,Units
+CAN,Canada,Employment rate,Male,15 years or over,Annual,2020,62.19167,Units
+CAN,Canada,Employment rate,Male,15 years or over,Annual,2019,66.24167,Units
+CAN,Canada,Employment rate,Male,15 years or over,Annual,2018,65.975,Units
+CAN,Canada,Employment rate,Male,15 years or over,Annual,2017,65.825,Units
+CAN,Canada,Employment rate,Male,15 years or over,Annual,2016,65.15,Units
 SVN,Slovenia,Labour force participation rate,Female,From 55 to 64 years,Annual,2022,52.825,Units
 SVN,Slovenia,Labour force participation rate,Female,From 55 to 64 years,Annual,2023,52.625,Units
 SVN,Slovenia,Labour force participation rate,Female,From 55 to 64 years,Annual,2010,25.25,Units
@@ -645,6 +645,11 @@ JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2012
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,73.74472,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2014,74.66242,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2015,75.33498,Units
+ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2016,21.37899,Units
+ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2015,23.54808,Units
+ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2014,25.42508,Units
+ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2013,26.67064,Units
+ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2012,25.03308,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2011,21.81188,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2010,20.22356,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2023,13.87685,Units
@@ -653,11 +658,6 @@ ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2021,16.84227,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2020,17.41824,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2019,15.99726,Units
 ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2018,17.02628,Units
-ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2017,19.02808,Units
-ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2016,21.37899,Units
-ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2015,23.54808,Units
-ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2014,25.42508,Units
-ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2013,26.67064,Units
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2016,60.11872,Units
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2017,60.59198,Units
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2018,61.6629,Units
@@ -904,6 +904,7 @@ CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2017,7.524369,Unit
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2016,7.995725,Units
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2015,7.976577,Units
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2014,8.132883,Units
+ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2017,87.025,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2016,87.4,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2015,87.35,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2014,87.325,Units
@@ -916,7 +917,6 @@ ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,86.9,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,85.5,Units
 ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2019,87.0,Units
-ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2018,86.9,Units
 ISL,Iceland,Employment rate,Total,From 15 to 64 years,Annual,2016,86.525,Units
 ISL,Iceland,Employment rate,Total,From 15 to 64 years,Annual,2017,86.1,Units
 ISL,Iceland,Employment rate,Total,From 15 to 64 years,Annual,2018,85.075,Units
@@ -1202,10 +1202,6 @@ FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2012,8.417224,Unit
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2013,8.911153,Units
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2014,8.974416,Units
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2015,9.022091,Units
-MEX,Mexico,Employment rate,Female,15 years or over,Annual,2015,41.41177,Units
-MEX,Mexico,Employment rate,Female,15 years or over,Annual,2014,40.95522,Units
-MEX,Mexico,Employment rate,Female,15 years or over,Annual,2013,41.69365,Units
-MEX,Mexico,Employment rate,Female,15 years or over,Annual,2012,41.6973,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2011,40.63587,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2010,40.3115,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2023,44.95546,Units
@@ -1215,6 +1211,10 @@ MEX,Mexico,Employment rate,Female,15 years or over,Annual,2020,39.35019,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2019,43.19088,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2018,42.06134,Units
 MEX,Mexico,Employment rate,Female,15 years or over,Annual,2017,41.50681,Units
+MEX,Mexico,Employment rate,Female,15 years or over,Annual,2016,41.68983,Units
+MEX,Mexico,Employment rate,Female,15 years or over,Annual,2015,41.41177,Units
+MEX,Mexico,Employment rate,Female,15 years or over,Annual,2014,40.95522,Units
+MEX,Mexico,Employment rate,Female,15 years or over,Annual,2013,41.69365,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2022,33.075,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2023,32.475,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2010,36.725,Units
@@ -1504,6 +1504,10 @@ LVA,Latvia,Employment rate,Male,From 25 to 54 years,Annual,2011,74.675,Units
 LVA,Latvia,Employment rate,Male,From 25 to 54 years,Annual,2010,71.25,Units
 LVA,Latvia,Employment rate,Male,From 25 to 54 years,Annual,2023,84.3,Units
 LVA,Latvia,Employment rate,Male,From 25 to 54 years,Annual,2022,84.025,Units
+ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2015,49.87223,Units
+ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2014,48.85346,Units
+ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2013,48.72585,Units
+ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2012,48.71193,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2011,48.5082,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2010,48.7239,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2023,45.44151,Units
@@ -1513,10 +1517,6 @@ ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2020,43.69771,U
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2019,48.02463,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2018,48.99478,Units
 ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2017,49.13255,Units
-ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2016,49.19887,Units
-ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2015,49.87223,Units
-ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2014,48.85346,Units
-ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2013,48.72585,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2017,64.45,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2018,65.9,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2019,67.375,Units
@@ -2381,7 +2381,6 @@ PRT,Portugal,Unemployment rate,Male,From 15 to 24 years,Annual,2010,27.36086,Uni
 PRT,Portugal,Unemployment rate,Male,From 15 to 24 years,Annual,2023,20.625,Units
 PRT,Portugal,Unemployment rate,Male,From 15 to 24 years,Annual,2022,17.925,Units
 PRT,Portugal,Unemployment rate,Male,From 15 to 24 years,Annual,2021,21.05,Units
-CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2017,76.61667,Units
 CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2016,75.64167,Units
 CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2015,75.875,Units
 CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2014,75.54166,Units
@@ -2394,6 +2393,7 @@ CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2022,78.4,Units
 CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2021,76.48333,Units
 CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2020,73.26667,Units
 CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2019,77.54166,Units
+CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2018,77.15,Units
 NOR,Norway,Unemployment rate,Female,From 15 to 64 years,Annual,2017,3.8,Units
 NOR,Norway,Unemployment rate,Female,From 15 to 64 years,Annual,2018,3.65,Units
 NOR,Norway,Unemployment rate,Female,From 15 to 64 years,Annual,2019,3.5,Units
@@ -3452,9 +3452,6 @@ TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2017,25.6,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2018,24.975,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2019,30.25,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2020,29.875,Units
-ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2014,55.4,Units
-ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2013,54.05,Units
-ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,53.5,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,52.4,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,50.75,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,67.15,Units
@@ -3465,6 +3462,9 @@ ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2019,
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2018,60.5,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2017,59.625,Units
 ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2016,59.2,Units
+ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2015,57.625,Units
+ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2014,55.4,Units
+ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2013,54.05,Units
 NOR,Norway,Employment rate,Female,From 55 to 64 years,Annual,2016,69.5,Units
 NOR,Norway,Employment rate,Female,From 55 to 64 years,Annual,2017,68.725,Units
 NOR,Norway,Employment rate,Female,From 55 to 64 years,Annual,2018,67.825,Units
@@ -5193,6 +5193,9 @@ ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2016,23.21667,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2015,23.44167,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2014,23.85,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2013,23.29167,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,65.45834,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2018,65.125,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2017,65.425,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2016,64.38333,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2015,65.35,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2014,64.96667,Units
@@ -5203,9 +5206,6 @@ CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,64.85,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,64.55,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,64.14167,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,62.475,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,65.45834,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2018,65.125,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,66.03265,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,60.24212,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,62.85844,Units
@@ -7036,6 +7036,11 @@ BEL,Belgium,Labour force participation rate,Total,From 15 to 24 years,Annual,201
 BEL,Belgium,Labour force participation rate,Total,From 15 to 24 years,Annual,2013,31.075,Units
 BEL,Belgium,Labour force participation rate,Total,From 15 to 24 years,Annual,2014,30.25,Units
 BEL,Belgium,Labour force participation rate,Total,From 15 to 24 years,Annual,2015,30.175,Units
+ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2016,42.725,Units
+ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2015,40.15,Units
+ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2014,37.8,Units
+ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2013,36.3,Units
+ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2012,36.0,Units
 ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2011,35.675,Units
 ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2010,33.1,Units
 ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2023,53.0,Units
@@ -7044,11 +7049,6 @@ ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2021,49.175,Units
 ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2020,48.025,Units
 ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2019,46.9,Units
 ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2018,44.925,Units
-ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2017,43.55,Units
-ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2016,42.725,Units
-ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2015,40.15,Units
-ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2014,37.8,Units
-ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2013,36.3,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 74 years,Annual,2016,65.325,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 74 years,Annual,2017,65.725,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 74 years,Annual,2018,66.4,Units
@@ -7955,6 +7955,12 @@ TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2012,68.225,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2013,66.75,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2014,66.45,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2015,65.1,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2023,84.75,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2022,84.725,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2021,82.525,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2020,79.63333,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2019,83.43333,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2018,82.85833,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2017,82.29166,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2016,81.34167,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2015,81.48333,Units
@@ -7962,12 +7968,6 @@ CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2014,81.28333,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2013,81.63333,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2012,81.41666,Units
 CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2011,80.925,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2010,80.38333,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2023,84.75,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2022,84.725,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2021,82.525,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2020,79.63333,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2019,83.43333,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 24 years,Annual,2016,33.075,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 24 years,Annual,2017,33.775,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 24 years,Annual,2018,32.775,Units
@@ -9852,8 +9852,6 @@ EST,Estonia,Labour force participation rate,Male,From 15 to 74 years,Annual,2011
 EST,Estonia,Labour force participation rate,Male,From 15 to 74 years,Annual,2012,72.75,Units
 EST,Estonia,Labour force participation rate,Male,From 15 to 74 years,Annual,2013,72.975,Units
 EST,Estonia,Labour force participation rate,Male,From 15 to 74 years,Annual,2014,73.75,Units
-ESP,Spain,Employment rate,Male,15 years or over,Annual,2017,53.9,Units
-ESP,Spain,Employment rate,Male,15 years or over,Annual,2016,52.625,Units
 ESP,Spain,Employment rate,Male,15 years or over,Annual,2015,51.375,Units
 ESP,Spain,Employment rate,Male,15 years or over,Annual,2014,49.7,Units
 ESP,Spain,Employment rate,Male,15 years or over,Annual,2013,48.8,Units
@@ -9865,6 +9863,8 @@ ESP,Spain,Employment rate,Male,15 years or over,Annual,2022,55.875,Units
 ESP,Spain,Employment rate,Male,15 years or over,Annual,2021,54.525,Units
 ESP,Spain,Employment rate,Male,15 years or over,Annual,2020,53.5,Units
 ESP,Spain,Employment rate,Male,15 years or over,Annual,2019,55.55,Units
+ESP,Spain,Employment rate,Male,15 years or over,Annual,2018,54.95,Units
+ESP,Spain,Employment rate,Male,15 years or over,Annual,2017,53.9,Units
 HUN,Hungary,Unemployment rate,Female,15 years or over,Annual,2011,10.98449,Units
 HUN,Hungary,Unemployment rate,Female,15 years or over,Annual,2010,10.66368,Units
 HUN,Hungary,Unemployment rate,Female,15 years or over,Annual,2023,4.146613,Units
@@ -10751,7 +10751,7 @@ ITA,Italy,Unemployment rate,Total,From 15 to 64 years,Annual,2012,11.01333,Units
 AUS,Australia,Inactivity rate,Female,15 years or over,Annual,2016,40.67331,Units
 HUN,Hungary,Employment rate,Female,15 years or over,Annual,2018,46.75,Units
 ISR,Israel,Inactivity rate,Male,From 25 to 54 years,Annual,2012,13.13333,Units
-HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2014,34.25,Units
+HUN,Hungary,Inactivity rate,Male,From 15 to 74 years,Annual,2023,26.65,Units
 CRI,Costa Rica,Inactivity rate,Total,From 15 to 64 years,Annual,2013,31.76313,Units
 HUN,Hungary,Labour force participation rate,Total,15 years or over,Annual,2012,51.675,Units
 ISL,Iceland,Labour force participation rate,Male,From 15 to 64 years,Annual,2016,92.275,Units
@@ -10766,7 +10766,7 @@ CRI,Costa Rica,Inactivity rate,Female,From 15 to 24 years,Annual,2019,62.01564,U
 AUT,Austria,Unemployment rate,Male,15 years or over,Annual,2021,6.248525,Units
 KOR,Korea,Employment rate,Total,From 15 to 64 years,Annual,2016,66.07566,Units
 SVN,Slovenia,Employment rate,Male,From 25 to 54 years,Annual,2016,84.875,Units
-CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2015,7.033333,Units
+CAN,Canada,Unemployment rate,Total,From 15 to 64 years,Annual,2012,7.491667,Units
 LVA,Latvia,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,71.85,Units
 COL,Colombia,Unemployment rate,Female,From 15 to 64 years,Annual,2016,12.30917,Units
 PRT,Portugal,Labour force participation rate,Female,From 15 to 24 years,Annual,2011,35.775,Units
@@ -10777,7 +10777,7 @@ NZL,New Zealand,Employment rate,Male,From 25 to 54 years,Annual,2016,89.59719,Un
 POL,Poland,Employment rate,Male,From 15 to 74 years,Annual,2012,59.45,Units
 NLD,Netherlands,Unemployment rate,Female,From 25 to 54 years,Annual,2021,3.55,Units
 COL,Colombia,Labour force participation rate,Male,From 55 to 64 years,Annual,2015,85.18667,Units
-CAN,Canada,Employment rate,Male,15 years or over,Annual,2020,62.19167,Units
+CAN,Canada,Employment rate,Male,15 years or over,Annual,2015,65.68333,Units
 SVN,Slovenia,Labour force participation rate,Female,From 55 to 64 years,Annual,2021,50.575,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 74 years,Annual,2015,39.10417,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 55 to 64 years,Annual,2019,43.33269,Units
@@ -10795,7 +10795,7 @@ ITA,Italy,Unemployment rate,Total,From 55 to 64 years,Annual,2017,5.780247,Units
 EA20,Euro area (20 countries),Employment rate,Female,From 15 to 24 years,Annual,2016,30.025,Units
 ISR,Israel,Unemployment rate,Female,15 years or over,Annual,2018,3.958333,Units
 JPN,Japan,Labour force participation rate,Female,From 25 to 54 years,Annual,2016,76.34732,Units
-ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2012,25.03308,Units
+ESP,Spain,Unemployment rate,Female,15 years or over,Annual,2017,19.02808,Units
 JPN,Japan,Labour force participation rate,Total,15 years or over,Annual,2015,59.66071,Units
 KOR,Korea,Unemployment rate,Female,From 25 to 54 years,Annual,2015,3.17371,Units
 ISL,Iceland,Inactivity rate,Female,From 15 to 74 years,Annual,2012,22.9,Units
@@ -10815,7 +10815,7 @@ EA20,Euro area (20 countries),Labour force participation rate,Male,From 55 to 64
 COL,Colombia,Labour force participation rate,Male,From 15 to 64 years,Annual,2015,85.4725,Units
 CAN,Canada,Unemployment rate,Total,From 55 to 64 years,Annual,2017,6.001938,Units
 CRI,Costa Rica,Unemployment rate,Male,15 years or over,Annual,2013,8.251846,Units
-ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2017,87.025,Units
+ESP,Spain,Labour force participation rate,Total,From 25 to 54 years,Annual,2018,86.9,Units
 ISL,Iceland,Employment rate,Total,From 15 to 64 years,Annual,2015,84.725,Units
 LTU,Lithuania,Unemployment rate,Female,From 15 to 74 years,Annual,2016,6.675,Units
 EA20,Euro area (20 countries),Unemployment rate,Female,From 55 to 64 years,Annual,2021,6.075,Units
@@ -10838,7 +10838,7 @@ BEL,Belgium,Labour force participation rate,Total,From 15 to 64 years,Annual,201
 POL,Poland,Unemployment rate,Total,From 55 to 64 years,Annual,2012,7.930006,Units
 MEX,Mexico,Labour force participation rate,Total,15 years or over,Annual,2019,60.18399,Units
 FRA,France,Unemployment rate,Total,From 25 to 54 years,Annual,2016,8.704269,Units
-MEX,Mexico,Employment rate,Female,15 years or over,Annual,2016,41.68983,Units
+MEX,Mexico,Employment rate,Female,15 years or over,Annual,2012,41.6973,Units
 SWE,Sweden,Inactivity rate,Total,15 years or over,Annual,2021,33.425,Units
 BEL,Belgium,Unemployment rate,Female,15 years or over,Annual,2015,7.766144,Units
 SVK,Slovak Republic,Inactivity rate,Female,From 15 to 74 years,Annual,2021,39.35,Units
@@ -10862,7 +10862,7 @@ EST,Estonia,Unemployment rate,Male,From 25 to 54 years,Annual,2018,4.488842,Unit
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Total,From 25 to 54 years,Annual,2014,15.225,Units
 EA20,Euro area (20 countries),Unemployment rate,Female,From 15 to 64 years,Annual,2011,10.62142,Units
 LVA,Latvia,Employment rate,Male,From 25 to 54 years,Annual,2021,82.9,Units
-ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2012,48.71193,Units
+ZAF,South Africa,Employment rate,Male,From 15 to 64 years,Annual,2016,49.19887,Units
 DEU,Germany,Employment rate,Female,From 55 to 64 years,Annual,2016,62.625,Units
 ISR,Israel,Labour force participation rate,Total,From 55 to 64 years,Annual,2017,69.13333,Units
 KOR,Korea,Employment rate,Total,From 25 to 54 years,Annual,2016,76.16335,Units
@@ -10930,7 +10930,7 @@ ITA,Italy,Labour force participation rate,Female,From 15 to 74 years,Annual,2012
 BEL,Belgium,Unemployment rate,Female,From 15 to 64 years,Annual,2015,7.954433,Units
 CZE,Czechia,Employment rate,Total,From 15 to 74 years,Annual,2016,62.725,Units
 PRT,Portugal,Unemployment rate,Male,From 15 to 24 years,Annual,2020,20.93885,Units
-CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2018,77.15,Units
+CAN,Canada,Employment rate,Male,From 15 to 64 years,Annual,2017,76.61667,Units
 NOR,Norway,Unemployment rate,Female,From 15 to 64 years,Annual,2016,4.025,Units
 AUS,Australia,Employment rate,Total,15 years or over,Annual,2010,61.98109,Units
 HUN,Hungary,Unemployment rate,Male,From 55 to 64 years,Annual,2012,8.710388,Units
@@ -11013,7 +11013,7 @@ ISL,Iceland,Employment rate,Total,From 15 to 74 years,Annual,2015,79.7,Units
 PRT,Portugal,Employment rate,Female,From 15 to 74 years,Annual,2011,50.775,Units
 NLD,Netherlands,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,77.325,Units
 TUR,Türkiye,Unemployment rate,Female,From 15 to 24 years,Annual,2021,28.675,Units
-ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2015,57.625,Units
+ESP,Spain,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,53.5,Units
 NOR,Norway,Employment rate,Female,From 55 to 64 years,Annual,2015,68.75,Units
 TUR,Türkiye,Employment rate,Total,From 15 to 74 years,Annual,2016,48.275,Units
 SVK,Slovak Republic,Labour force participation rate,Male,From 15 to 74 years,Annual,2021,70.025,Units
@@ -11148,7 +11148,7 @@ CHL,Chile,Unemployment rate,Male,From 15 to 24 years,Annual,2015,13.57612,Units
 FRA,France,Labour force participation rate,Female,From 25 to 54 years,Annual,2016,84.1,Units
 AUS,Australia,Unemployment rate,Female,15 years or over,Annual,2015,6.076174,Units
 ISR,Israel,Inactivity rate,Male,From 55 to 64 years,Annual,2012,24.5,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2017,65.425,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,62.475,Units
 CRI,Costa Rica,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,65.68214,Units
 IRL,Ireland,Inactivity rate,Male,15 years or over,Annual,2015,30.95,Units
 GBR,United Kingdom,Unemployment rate,Male,From 15 to 64 years,Annual,2022,3.975,Units
@@ -11291,7 +11291,7 @@ AUT,Austria,Labour force participation rate,Female,From 55 to 64 years,Annual,20
 BEL,Belgium,Employment rate,Female,From 15 to 74 years,Annual,2016,50.575,Units
 POL,Poland,Unemployment rate,Female,From 15 to 24 years,Annual,2016,18.05277,Units
 BEL,Belgium,Labour force participation rate,Total,From 15 to 24 years,Annual,2016,28.5,Units
-ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2012,36.0,Units
+ESP,Spain,Employment rate,Female,From 55 to 64 years,Annual,2017,43.55,Units
 CZE,Czechia,Labour force participation rate,Total,From 15 to 74 years,Annual,2015,64.625,Units
 GRC,Greece,Employment rate,Male,From 55 to 64 years,Annual,2012,47.525,Units
 ZAF,South Africa,Unemployment rate,Total,From 25 to 54 years,Annual,2012,21.89158,Units
@@ -11362,7 +11362,7 @@ AUS,Australia,Labour force participation rate,Total,From 15 to 64 years,Annual,2
 LTU,Lithuania,Inactivity rate,Male,From 15 to 74 years,Annual,2016,29.025,Units
 NOR,Norway,Inactivity rate,Female,From 55 to 64 years,Annual,2016,29.675,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 64 years,Annual,2016,63.825,Units
-CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2018,82.85833,Units
+CAN,Canada,Employment rate,Total,From 25 to 54 years,Annual,2010,80.38333,Units
 SVK,Slovak Republic,Labour force participation rate,Total,From 15 to 24 years,Annual,2015,32.4,Units
 ESP,Spain,Employment rate,Female,15 years or over,Annual,2017,42.6,Units
 NZL,New Zealand,Unemployment rate,Female,From 15 to 24 years,Annual,2014,14.73934,Units
@@ -11509,7 +11509,7 @@ NZL,New Zealand,Inactivity rate,Male,15 years or over,Annual,2017,23.50003,Units
 NLD,Netherlands,Inactivity rate,Male,From 15 to 64 years,Annual,2015,13.26447,Units
 AUS,Australia,Inactivity rate,Male,From 55 to 64 years,Annual,2015,27.22092,Units
 EST,Estonia,Labour force participation rate,Male,From 15 to 74 years,Annual,2015,74.15,Units
-ESP,Spain,Employment rate,Male,15 years or over,Annual,2018,54.95,Units
+ESP,Spain,Employment rate,Male,15 years or over,Annual,2016,52.625,Units
 HUN,Hungary,Unemployment rate,Female,15 years or over,Annual,2012,10.61539,Units
 ITA,Italy,Unemployment rate,Male,From 15 to 74 years,Annual,2012,10.07623,Units
 SVN,Slovenia,Employment rate,Female,15 years or over,Annual,2016,47.55,Units
@@ -12485,6 +12485,11 @@ POL,Poland,Employment rate,Female,From 15 to 74 years,Annual,2021,53.5,Units
 POL,Poland,Employment rate,Female,From 15 to 74 years,Annual,2020,51.9,Units
 POL,Poland,Employment rate,Female,From 15 to 74 years,Annual,2019,52.1,Units
 POL,Poland,Employment rate,Female,From 15 to 74 years,Annual,2018,51.55,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2016,68.09653,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2015,67.42113,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2014,66.86152,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2013,66.44844,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2012,66.20966,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2011,65.91588,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2010,65.62238,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2023,72.13163,Units
@@ -12493,11 +12498,6 @@ OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2021,69.26556,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2020,67.6775,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2019,70.33905,Units
 OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2018,69.62951,Units
-OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2017,68.86289,Units
-OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2016,68.09653,Units
-OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2015,67.42113,Units
-OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2014,66.86152,Units
-OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2013,66.44844,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,80.375,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,78.125,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,77.825,Units
@@ -12563,18 +12563,18 @@ DEU,Germany,Inactivity rate,Total,From 15 to 24 years,Annual,2011,47.95,Units
 DEU,Germany,Inactivity rate,Total,From 15 to 24 years,Annual,2012,49.7,Units
 DEU,Germany,Inactivity rate,Total,From 15 to 24 years,Annual,2013,49.55,Units
 DEU,Germany,Inactivity rate,Total,From 15 to 24 years,Annual,2014,50.45,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2018,56.11119,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2017,56.35491,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2016,56.53801,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2015,56.70869,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2014,56.81091,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2013,56.7526,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2012,56.84811,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2011,56.98936,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2023,54.76358,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2022,55.69746,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2021,56.59482,Units
 OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2020,57.99226,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2019,55.50289,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2018,56.11119,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2017,56.35491,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2016,56.53801,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2015,56.70869,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2014,56.81091,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2016,15.46741,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2017,17.36672,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2018,17.73031,Units
@@ -12742,11 +12742,6 @@ SVN,Slovenia,Inactivity rate,Total,From 15 to 74 years,Annual,2022,34.825,Units
 SVN,Slovenia,Inactivity rate,Total,From 15 to 74 years,Annual,2023,35.075,Units
 SVN,Slovenia,Inactivity rate,Total,From 15 to 74 years,Annual,2010,36.05,Units
 SVN,Slovenia,Inactivity rate,Total,From 15 to 74 years,Annual,2011,37.175,Units
-ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2016,52.24891,Units
-ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2015,52.10783,Units
-ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2014,50.68133,Units
-ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2013,50.3864,Units
-ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,49.36948,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,49.01429,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,48.43527,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,54.51259,Units
@@ -12755,6 +12750,11 @@ ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annu
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,48.6609,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2019,53.42012,Units
 ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2018,53.20611,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2017,53.56455,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2016,52.24891,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2015,52.10783,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2014,50.68133,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2013,50.3864,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2016,7.725,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2017,7.275,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2018,7.2,Units
@@ -13392,7 +13392,6 @@ BEL,Belgium,Employment rate,Total,From 25 to 54 years,Annual,2011,79.35,Units
 BEL,Belgium,Employment rate,Total,From 25 to 54 years,Annual,2012,79.275,Units
 BEL,Belgium,Employment rate,Total,From 25 to 54 years,Annual,2013,79.05,Units
 BEL,Belgium,Employment rate,Total,From 25 to 54 years,Annual,2014,79.125,Units
-ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2011,21.15,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2010,19.675,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2023,10.75,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2022,11.475,Units
@@ -13405,6 +13404,7 @@ ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2016,18.225,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2015,20.9,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2014,23.725,Units
 ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2013,25.725,Units
+ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2012,24.75,Units
 ISL,Iceland,Unemployment rate,Total,15 years or over,Annual,2016,2.968629,Units
 ISL,Iceland,Unemployment rate,Total,15 years or over,Annual,2017,2.743788,Units
 ISL,Iceland,Unemployment rate,Total,15 years or over,Annual,2018,2.711352,Units
@@ -13973,11 +13973,6 @@ EA20,Euro area (20 countries),Unemployment rate,Female,From 25 to 54 years,Annua
 EA20,Euro area (20 countries),Unemployment rate,Female,From 25 to 54 years,Annual,2013,11.63141,Units
 EA20,Euro area (20 countries),Unemployment rate,Female,From 25 to 54 years,Annual,2014,11.37212,Units
 EA20,Euro area (20 countries),Unemployment rate,Female,From 25 to 54 years,Annual,2015,10.68865,Units
-GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2016,23.14989,Units
-GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2015,24.47292,Units
-GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2014,26.12286,Units
-GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2013,27.18192,Units
-GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2012,24.04458,Units
 GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2011,17.42458,Units
 GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2010,12.31447,Units
 GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2023,11.025,Units
@@ -13986,6 +13981,11 @@ GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2021,14.475,Units
 GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2020,17.52439,Units
 GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2019,17.69588,Units
 GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2018,19.29995,Units
+GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2017,21.06624,Units
+GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2016,23.14989,Units
+GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2015,24.47292,Units
+GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2014,26.12286,Units
+GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2013,27.18192,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2016,56.59849,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2015,56.6488,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2014,56.94604,Units
@@ -14231,6 +14231,12 @@ CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2012,76.75,Units
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2013,77.275,Units
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2014,76.425,Units
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2015,76.675,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2017,29.32448,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2016,29.39891,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2015,28.98068,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2014,28.94697,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2013,28.53125,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2012,28.38899,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2011,28.18627,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2010,28.13396,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2023,30.31729,Units
@@ -14238,12 +14244,6 @@ CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2022,30.50399,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2021,30.16386,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2020,31.05898,Units
 CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2019,29.48771,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2018,29.71981,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2017,29.32448,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2016,29.39891,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2015,28.98068,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2014,28.94697,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2013,28.53125,Units
 PRT,Portugal,Inactivity rate,Total,15 years or over,Annual,2022,41.65,Units
 PRT,Portugal,Inactivity rate,Total,15 years or over,Annual,2021,42.55,Units
 PRT,Portugal,Inactivity rate,Total,15 years or over,Annual,2020,42.0,Units
@@ -15120,6 +15120,11 @@ AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,20
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2012,55.6,Units
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2013,55.575,Units
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2014,55.625,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2017,52.41211,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2016,52.51976,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2015,52.58687,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2014,52.56354,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2013,52.557,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2012,52.48654,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2011,52.57543,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2023,51.33083,Units
@@ -15127,11 +15132,6 @@ OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2022,52.0082,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2021,52.91752,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2020,54.45802,Units
 OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2019,51.76636,Units
-OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2018,52.20314,Units
-OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2017,52.41211,Units
-OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2016,52.51976,Units
-OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2015,52.58687,Units
-OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2014,52.56354,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2011,22.54089,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2010,22.71335,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2023,14.9,Units
@@ -15145,11 +15145,6 @@ EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,F
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2015,22.62701,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2014,24.16879,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2013,25.16147,Units
-MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2016,3.391151,Units
-MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2015,3.766864,Units
-MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2014,4.071817,Units
-MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2013,4.14267,Units
-MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2012,4.042171,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2011,4.248602,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2010,4.31842,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2023,2.441918,Units
@@ -15157,6 +15152,11 @@ MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2022,2.951493,Uni
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2021,3.673153,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2019,3.057538,Units
 MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2018,2.974466,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2017,3.124873,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2016,3.391151,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2015,3.766864,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2014,4.071817,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2013,4.14267,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2016,73.8,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2017,74.475,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2018,72.225,Units
@@ -16007,18 +16007,18 @@ DNK,Denmark,Employment rate,Female,From 15 to 64 years,Annual,2017,70.45,Units
 DNK,Denmark,Employment rate,Female,From 15 to 64 years,Annual,2018,71.25,Units
 DNK,Denmark,Employment rate,Female,From 15 to 64 years,Annual,2019,72.0,Units
 DNK,Denmark,Employment rate,Female,From 15 to 64 years,Annual,2020,71.375,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2017,53.23094,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2016,53.01715,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2015,53.1541,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2014,53.42508,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2013,52.59977,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2012,52.73439,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2011,53.83886,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2010,54.35994,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2023,48.7979,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2022,50.2792,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2021,51.75625,Units
 MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2019,51.14929,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2018,52.66664,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2017,53.23094,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2016,53.01715,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2015,53.1541,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2014,53.42508,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2013,52.59977,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,48.31407,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,43.43904,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,37.85526,Units
@@ -16278,11 +16278,6 @@ EST,Estonia,Employment rate,Total,From 25 to 54 years,Annual,2014,81.85,Units
 EST,Estonia,Employment rate,Total,From 25 to 54 years,Annual,2015,83.65,Units
 EST,Estonia,Employment rate,Total,From 25 to 54 years,Annual,2016,83.25,Units
 EST,Estonia,Employment rate,Total,From 25 to 54 years,Annual,2017,84.775,Units
-ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2016,34.65,Units
-ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2015,34.45,Units
-ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2014,34.4,Units
-ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2013,33.85,Units
-ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2012,33.5,Units
 ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2011,33.725,Units
 ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2010,33.95,Units
 ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2023,34.775,Units
@@ -16291,6 +16286,11 @@ ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2021,35.325,Units
 ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2020,36.575,Units
 ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2019,35.175,Units
 ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2018,35.25,Units
+ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2017,35.1,Units
+ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2016,34.65,Units
+ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2015,34.45,Units
+ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2014,34.4,Units
+ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2013,33.85,Units
 NOR,Norway,Inactivity rate,Total,15 years or over,Annual,2016,35.475,Units
 NOR,Norway,Inactivity rate,Total,15 years or over,Annual,2017,36.275,Units
 NOR,Norway,Inactivity rate,Total,15 years or over,Annual,2018,35.9,Units
@@ -16368,6 +16368,11 @@ SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2017,8.75,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2018,8.725,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2019,8.725,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2020,8.825,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2022,4.553834,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2021,5.643949,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2020,6.517996,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2019,4.922782,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2018,5.005904,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2017,5.424777,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2016,5.903034,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2015,6.276927,Units
@@ -16375,11 +16380,6 @@ OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2014,6.78103,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2013,7.250953,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2012,7.265287,Units
 OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2011,7.223326,Units
-OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2023,4.388809,Units
-OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2022,4.553834,Units
-OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2021,5.643949,Units
-OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2020,6.517996,Units
-OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2019,4.922782,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2016,26.0054,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2017,25.94885,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2018,26.25268,Units
@@ -17660,6 +17660,11 @@ SWE,Sweden,Inactivity rate,Total,From 15 to 24 years,Annual,2012,47.425,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 24 years,Annual,2013,45.5,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 24 years,Annual,2014,44.525,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 24 years,Annual,2015,44.85,Units
+CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2016,14.40833,Units
+CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2015,14.65,Units
+CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2014,14.875,Units
+CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2013,14.825,Units
+CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2012,15.80833,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2011,15.775,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2010,17.00833,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2023,11.51667,Units
@@ -17668,11 +17673,6 @@ CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2021,14.55833,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2020,20.60833,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2019,12.05833,Units
 CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2018,11.95833,Units
-CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2017,12.825,Units
-CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2016,14.40833,Units
-CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2015,14.65,Units
-CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2014,14.875,Units
-CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2013,14.825,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 24 years,Annual,2011,58.45394,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 24 years,Annual,2010,59.01708,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 24 years,Annual,2023,68.63966,Units
@@ -18474,11 +18474,6 @@ CHL,Chile,Unemployment rate,Female,15 years or over,Annual,2011,8.675,Units
 CHL,Chile,Unemployment rate,Female,15 years or over,Annual,2012,8.011866,Units
 CHL,Chile,Unemployment rate,Female,15 years or over,Annual,2013,7.052308,Units
 CHL,Chile,Unemployment rate,Female,15 years or over,Annual,2014,7.069492,Units
-MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2016,18.15506,Units
-MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2015,18.0378,Units
-MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2014,17.795,Units
-MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2013,17.56258,Units
-MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2012,17.27999,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2011,17.63837,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2010,17.55214,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2023,18.31937,Units
@@ -18486,6 +18481,11 @@ MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2022,18.59938,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2021,19.31035,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2019,18.12227,Units
 MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2018,18.18438,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2017,18.18916,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2016,18.15506,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2015,18.0378,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2014,17.795,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2013,17.56258,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2011,57.37276,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2010,57.33683,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2023,63.53333,Units
@@ -18763,6 +18763,12 @@ SWE,Sweden,Inactivity rate,Female,From 15 to 74 years,Annual,2015,30.5,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 74 years,Annual,2016,30.35,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 74 years,Annual,2017,29.775,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 74 years,Annual,2018,29.375,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2011,27.27864,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2010,27.52098,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2023,24.52967,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2022,26.05148,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2021,27.15989,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2020,29.34792,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2019,23.63249,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2018,23.64209,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2017,23.3353,Units
@@ -18770,12 +18776,6 @@ ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2016,24.2135,U
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2015,24.4466,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2014,25.89442,Units
 ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2013,26.20932,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2012,26.67907,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2011,27.27864,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2010,27.52098,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2023,24.52967,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2022,26.05148,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2021,27.15989,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2011,14.91608,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2010,16.00997,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2023,6.1,Units
@@ -18802,8 +18802,6 @@ LUX,Luxembourg,Inactivity rate,Female,15 years or over,Annual,2011,49.75,Units
 LUX,Luxembourg,Inactivity rate,Female,15 years or over,Annual,2012,48.1,Units
 LUX,Luxembourg,Inactivity rate,Female,15 years or over,Annual,2013,47.525,Units
 LUX,Luxembourg,Inactivity rate,Female,15 years or over,Annual,2014,46.55,Units
-ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2017,36.1,Units
-ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2016,35.7,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2015,35.175,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2014,34.975,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2013,34.375,Units
@@ -18815,6 +18813,8 @@ ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2022,36.925,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2021,37.15,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2020,37.925,Units
 ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2019,36.575,Units
+ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2018,36.275,Units
+ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2017,36.1,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 24 years,Annual,2021,54.875,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 24 years,Annual,2022,56.575,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 24 years,Annual,2023,57.15,Units
@@ -19528,11 +19528,6 @@ LTU,Lithuania,Labour force participation rate,Female,From 15 to 74 years,Annual,
 LTU,Lithuania,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,61.15,Units
 LTU,Lithuania,Labour force participation rate,Female,From 15 to 74 years,Annual,2013,61.1,Units
 LTU,Lithuania,Labour force participation rate,Female,From 15 to 74 years,Annual,2014,62.35,Units
-HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2016,5.133825,Units
-HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2015,6.629987,Units
-HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2014,7.557556,Units
-HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2013,10.21247,Units
-HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2012,11.33995,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2011,11.06397,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2010,11.60574,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2023,4.1,Units
@@ -19541,6 +19536,11 @@ HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2021,3.875,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2020,4.061656,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2019,3.361097,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2018,3.48208,Units
+HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2017,3.811883,Units
+HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2016,5.133825,Units
+HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2015,6.629987,Units
+HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2014,7.557556,Units
+HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2013,10.21247,Units
 ITA,Italy,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,72.25,Units
 ITA,Italy,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,72.45,Units
 ITA,Italy,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,75.675,Units
@@ -22459,13 +22459,13 @@ BEL,Belgium,Employment rate,Total,From 15 to 64 years,Annual,2015,61.8,Units
 SVK,Slovak Republic,Labour force participation rate,Female,From 15 to 74 years,Annual,2021,60.65,Units
 USA,United States,Inactivity rate,Male,15 years or over,Annual,2016,30.80748,Units
 POL,Poland,Employment rate,Female,From 15 to 74 years,Annual,2017,50.875,Units
-OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2012,66.20966,Units
+OECD,OECD,Employment rate,Female,From 25 to 54 years,Annual,2017,68.86289,Units
 NOR,Norway,Labour force participation rate,Total,From 15 to 64 years,Annual,2022,80.425,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,From 55 to 64 years,Annual,2012,7.219827,Units
 LVA,Latvia,Unemployment rate,Female,15 years or over,Annual,2018,6.418394,Units
 AUT,Austria,Labour force participation rate,Total,From 15 to 24 years,Annual,2015,57.875,Units
 DEU,Germany,Inactivity rate,Total,From 15 to 24 years,Annual,2015,51.575,Units
-OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2013,56.7526,Units
+OECD,OECD,Inactivity rate,Female,From 15 to 24 years,Annual,2019,55.50289,Units
 CHL,Chile,Unemployment rate,Total,From 15 to 24 years,Annual,2015,15.29049,Units
 CZE,Czechia,Inactivity rate,Female,15 years or over,Annual,2016,48.15,Units
 CRI,Costa Rica,Employment rate,Total,From 55 to 64 years,Annual,2013,54.93439,Units
@@ -22479,7 +22479,7 @@ SVN,Slovenia,Unemployment rate,Female,15 years or over,Annual,2016,8.59227,Units
 USA,United States,Unemployment rate,Total,From 15 to 24 years,Annual,2023,7.916667,Units
 SWE,Sweden,Unemployment rate,Male,15 years or over,Annual,2021,8.508437,Units
 SVN,Slovenia,Inactivity rate,Total,From 15 to 74 years,Annual,2012,37.325,Units
-ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2017,53.56455,Units
+ZAF,South Africa,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,49.36948,Units
 LTU,Lithuania,Unemployment rate,Total,From 55 to 64 years,Annual,2015,8.75,Units
 LVA,Latvia,Employment rate,Male,From 15 to 64 years,Annual,2018,73.5,Units
 DEU,Germany,Employment rate,Total,From 15 to 74 years,Annual,2015,64.225,Units
@@ -22529,7 +22529,7 @@ BEL,Belgium,Inactivity rate,Male,From 15 to 64 years,Annual,2015,27.6894,Units
 FIN,Finland,Employment rate,Female,15 years or over,Annual,2015,50.7,Units
 LUX,Luxembourg,Labour force participation rate,Total,15 years or over,Annual,2013,59.375,Units
 BEL,Belgium,Employment rate,Total,From 25 to 54 years,Annual,2015,78.525,Units
-ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2012,24.75,Units
+ESP,Spain,Unemployment rate,Male,From 15 to 64 years,Annual,2011,21.15,Units
 ISL,Iceland,Unemployment rate,Total,15 years or over,Annual,2015,3.966664,Units
 POL,Poland,Inactivity rate,Total,From 15 to 64 years,Annual,2016,32.23269,Units
 FIN,Finland,Labour force participation rate,Total,From 25 to 54 years,Annual,2015,85.425,Units
@@ -22574,7 +22574,7 @@ ISL,Iceland,Labour force participation rate,Male,From 55 to 64 years,Annual,2015
 ISL,Iceland,Inactivity rate,Female,From 55 to 64 years,Annual,2015,16.75,Units
 SVK,Slovak Republic,Unemployment rate,Total,From 15 to 64 years,Annual,2016,9.715026,Units
 EA20,Euro area (20 countries),Unemployment rate,Female,From 25 to 54 years,Annual,2016,10.04304,Units
-GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2017,21.06624,Units
+GRC,Greece,Unemployment rate,Total,From 25 to 54 years,Annual,2012,24.04458,Units
 MEX,Mexico,Inactivity rate,Female,15 years or over,Annual,2017,56.93367,Units
 SVK,Slovak Republic,Labour force participation rate,Female,From 55 to 64 years,Annual,2016,51.625,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Male,From 15 to 74 years,Annual,2018,30.55,Units
@@ -22594,7 +22594,7 @@ LVA,Latvia,Inactivity rate,Female,From 15 to 74 years,Annual,2012,37.95,Units
 LUX,Luxembourg,Inactivity rate,Male,From 25 to 54 years,Annual,2015,6.075,Units
 FRA,France,Employment rate,Male,From 15 to 24 years,Annual,2016,31.15,Units
 CHE,Switzerland,Employment rate,Male,From 55 to 64 years,Annual,2016,77.225,Units
-CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2012,28.38899,Units
+CAN,Canada,Inactivity rate,Male,15 years or over,Annual,2018,29.71981,Units
 PRT,Portugal,Inactivity rate,Total,15 years or over,Annual,2023,40.55,Units
 ITA,Italy,Inactivity rate,Female,From 15 to 24 years,Annual,2012,75.975,Units
 CHE,Switzerland,Inactivity rate,Male,From 25 to 54 years,Annual,2021,5.35,Units
@@ -22663,9 +22663,9 @@ LTU,Lithuania,Inactivity rate,Total,From 25 to 54 years,Annual,2016,10.675,Units
 NZL,New Zealand,Labour force participation rate,Male,From 55 to 64 years,Annual,2012,82.78433,Units
 CRI,Costa Rica,Labour force participation rate,Female,15 years or over,Annual,2019,50.55862,Units
 AUT,Austria,Labour force participation rate,Female,From 15 to 24 years,Annual,2015,54.4,Units
-OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2013,52.557,Units
+OECD,OECD,Inactivity rate,Total,From 15 to 24 years,Annual,2018,52.20314,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 24 years,Annual,2012,24.47042,Units
-MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2017,3.124873,Units
+MEX,Mexico,Unemployment rate,Female,From 25 to 54 years,Annual,2012,4.042171,Units
 BEL,Belgium,Inactivity rate,Female,From 15 to 24 years,Annual,2015,72.725,Units
 SVN,Slovenia,Inactivity rate,Female,From 55 to 64 years,Annual,2021,49.425,Units
 LUX,Luxembourg,Inactivity rate,Total,From 15 to 64 years,Annual,2015,29.125,Units
@@ -22732,7 +22732,7 @@ DEU,Germany,Labour force participation rate,Total,15 years or over,Annual,2014,6
 CHE,Switzerland,Labour force participation rate,Total,15 years or over,Annual,2020,67.85,Units
 BEL,Belgium,Inactivity rate,Female,15 years or over,Annual,2015,52.0,Units
 DNK,Denmark,Employment rate,Female,From 15 to 64 years,Annual,2021,72.5,Units
-MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2018,52.66664,Units
+MEX,Mexico,Inactivity rate,Female,From 15 to 64 years,Annual,2012,52.73439,Units
 CRI,Costa Rica,Labour force participation rate,Total,From 15 to 24 years,Annual,2013,47.9506,Units
 EST,Estonia,Inactivity rate,Total,From 55 to 64 years,Annual,2018,27.78589,Units
 FRA,France,Employment rate,Female,From 55 to 64 years,Annual,2015,49.0,Units
@@ -22753,14 +22753,14 @@ FRA,France,Inactivity rate,Male,From 15 to 74 years,Annual,2018,33.9,Units
 COL,Colombia,Labour force participation rate,Female,From 15 to 64 years,Annual,2015,63.60583,Units
 GBR,United Kingdom,Employment rate,Total,From 15 to 74 years,Annual,2021,65.95,Units
 EST,Estonia,Employment rate,Total,From 25 to 54 years,Annual,2018,84.9,Units
-ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2017,35.1,Units
+ESP,Spain,Inactivity rate,Total,From 15 to 74 years,Annual,2012,33.5,Units
 NOR,Norway,Inactivity rate,Total,15 years or over,Annual,2015,35.05,Units
 GRC,Greece,Employment rate,Female,From 25 to 54 years,Annual,2012,53.2,Units
 ISR,Israel,Labour force participation rate,Total,From 15 to 24 years,Annual,2017,48.29167,Units
 GBR,United Kingdom,Unemployment rate,Female,From 15 to 64 years,Annual,2016,4.825,Units
 CRI,Costa Rica,Labour force participation rate,Total,15 years or over,Annual,2013,62.28086,Units
 SWE,Sweden,Inactivity rate,Total,From 25 to 54 years,Annual,2021,9.075,Units
-OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2018,5.005904,Units
+OECD,OECD,Unemployment rate,Total,From 25 to 54 years,Annual,2023,4.388809,Units
 KOR,Korea,Inactivity rate,Male,15 years or over,Annual,2015,25.88794,Units
 GRC,Greece,Inactivity rate,Female,15 years or over,Annual,2018,55.7,Units
 BRA,Brazil,Inactivity rate,Total,From 15 to 24 years,Annual,2013,47.27538,Units
@@ -22861,7 +22861,7 @@ AUT,Austria,Labour force participation rate,Total,From 25 to 54 years,Annual,201
 OECD,OECD,Unemployment rate,Total,From 15 to 64 years,Annual,2014,7.660373,Units
 LTU,Lithuania,Employment rate,Total,From 15 to 24 years,Annual,2021,31.125,Units
 SWE,Sweden,Inactivity rate,Total,From 15 to 24 years,Annual,2016,45.175,Units
-CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2012,15.80833,Units
+CAN,Canada,Unemployment rate,Male,From 15 to 24 years,Annual,2017,12.825,Units
 NZL,New Zealand,Labour force participation rate,Total,From 15 to 24 years,Annual,2012,58.32116,Units
 EA20,Euro area (20 countries),Labour force participation rate,Female,15 years or over,Annual,2016,51.1,Units
 CZE,Czechia,Unemployment rate,Male,15 years or over,Annual,2015,4.233178,Units
@@ -22924,7 +22924,7 @@ EST,Estonia,Employment rate,Male,From 25 to 54 years,Annual,2015,87.45,Units
 HUN,Hungary,Unemployment rate,Female,From 15 to 24 years,Annual,2012,26.26365,Units
 SWE,Sweden,Inactivity rate,Male,From 15 to 64 years,Annual,2016,16.11713,Units
 CHL,Chile,Unemployment rate,Female,15 years or over,Annual,2015,7.026814,Units
-MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2017,18.18916,Units
+MEX,Mexico,Inactivity rate,Male,From 15 to 64 years,Annual,2012,17.27999,Units
 ISR,Israel,Labour force participation rate,Total,15 years or over,Annual,2012,63.56667,Units
 CHE,Switzerland,Unemployment rate,Male,15 years or over,Annual,2017,4.571538,Units
 JPN,Japan,Labour force participation rate,Male,15 years or over,Annual,2015,70.37534,Units
@@ -22947,10 +22947,10 @@ ESP,Spain,Inactivity rate,Female,From 15 to 74 years,Annual,2012,39.375,Units
 NOR,Norway,Inactivity rate,Total,From 25 to 54 years,Annual,2016,13.65,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Employment rate,Male,From 15 to 64 years,Annual,2018,72.5,Units
 SWE,Sweden,Inactivity rate,Female,From 15 to 74 years,Annual,2019,28.95,Units
-ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2020,29.34792,Units
+ZAF,South Africa,Inactivity rate,Total,From 25 to 54 years,Annual,2012,26.67907,Units
 LVA,Latvia,Unemployment rate,Total,From 55 to 64 years,Annual,2012,14.55587,Units
 LUX,Luxembourg,Inactivity rate,Female,15 years or over,Annual,2015,45.45,Units
-ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2018,36.275,Units
+ESP,Spain,Inactivity rate,Male,15 years or over,Annual,2016,35.7,Units
 SWE,Sweden,Labour force participation rate,Female,From 15 to 24 years,Annual,2020,51.925,Units
 CZE,Czechia,Employment rate,Total,From 15 to 24 years,Annual,2018,28.375,Units
 ITA,Italy,Labour force participation rate,Female,From 15 to 24 years,Annual,2017,22.15,Units
@@ -23006,7 +23006,7 @@ POL,Poland,Unemployment rate,Male,From 15 to 24 years,Annual,2018,11.55215,Units
 GBR,United Kingdom,Inactivity rate,Male,From 15 to 24 years,Annual,2015,35.075,Units
 PRT,Portugal,Labour force participation rate,Male,From 25 to 54 years,Annual,2017,91.9,Units
 LTU,Lithuania,Labour force participation rate,Female,From 15 to 74 years,Annual,2015,63.25,Units
-HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2017,3.811883,Units
+HUN,Hungary,Unemployment rate,Male,From 15 to 74 years,Annual,2012,11.33995,Units
 ITA,Italy,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,72.975,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Inactivity rate,Female,From 25 to 54 years,Annual,2012,21.475,Units
 JPN,Japan,Inactivity rate,Male,From 15 to 74 years,Annual,2019,19.77735,Units
@@ -23293,6 +23293,11 @@ KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2012,20.44182,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2013,19.60209,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2014,17.93495,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2015,18.19881,Units
+ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2016,69.2,Units
+ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2015,69.05,Units
+ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2014,68.8,Units
+ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2013,68.75,Units
+ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,68.375,Units
 ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2011,67.325,Units
 ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2010,66.225,Units
 ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2023,70.5,Units
@@ -23301,11 +23306,6 @@ ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2021
 ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2020,67.575,Units
 ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2019,68.975,Units
 ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2018,68.6,Units
-ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2017,68.825,Units
-ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2016,69.2,Units
-ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2015,69.05,Units
-ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2014,68.8,Units
-ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2013,68.75,Units
 NOR,Norway,Inactivity rate,Total,From 15 to 64 years,Annual,2017,22.675,Units
 NOR,Norway,Inactivity rate,Total,From 15 to 64 years,Annual,2018,22.125,Units
 NOR,Norway,Inactivity rate,Total,From 15 to 64 years,Annual,2019,21.75,Units
@@ -25141,7 +25141,6 @@ NLD,Netherlands,Unemployment rate,Female,15 years or over,Annual,2012,6.22919,Un
 NLD,Netherlands,Unemployment rate,Female,15 years or over,Annual,2013,7.302037,Units
 NLD,Netherlands,Unemployment rate,Female,15 years or over,Annual,2014,7.746375,Units
 NLD,Netherlands,Unemployment rate,Female,15 years or over,Annual,2015,7.274314,Units
-CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2017,11.24167,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2016,12.6,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2015,12.75833,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2014,13.21667,Units
@@ -25154,6 +25153,7 @@ CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2022,10.09167,Unit
 CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2021,13.63333,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2020,20.08333,Units
 CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2019,10.70833,Units
+CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2018,10.69167,Units
 CZE,Czechia,Labour force participation rate,Female,15 years or over,Annual,2021,51.9,Units
 CZE,Czechia,Labour force participation rate,Female,15 years or over,Annual,2022,52.25,Units
 CZE,Czechia,Labour force participation rate,Female,15 years or over,Annual,2023,51.775,Units
@@ -25465,6 +25465,11 @@ AUT,Austria,Labour force participation rate,Male,From 15 to 74 years,Annual,2012
 AUT,Austria,Labour force participation rate,Male,From 15 to 74 years,Annual,2013,72.125,Units
 AUT,Austria,Labour force participation rate,Male,From 15 to 74 years,Annual,2014,71.75,Units
 AUT,Austria,Labour force participation rate,Male,From 15 to 74 years,Annual,2015,72.125,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2017,5.900411,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2016,6.487845,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2015,6.926733,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2014,7.49966,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2013,8.087558,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2012,8.121861,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2011,8.195727,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2023,4.827766,Units
@@ -25472,11 +25477,6 @@ OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2022,4.951602,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2021,6.177255,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2020,7.118723,Units
 OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2019,5.440761,Units
-OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2018,5.465154,Units
-OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2017,5.900411,Units
-OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2016,6.487845,Units
-OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2015,6.926733,Units
-OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2014,7.49966,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2011,10.07985,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2010,9.95803,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2023,6.348392,Units
@@ -25555,6 +25555,11 @@ LUX,Luxembourg,Labour force participation rate,Male,15 years or over,Annual,2014
 LUX,Luxembourg,Labour force participation rate,Male,15 years or over,Annual,2015,65.4,Units
 LUX,Luxembourg,Labour force participation rate,Male,15 years or over,Annual,2016,64.275,Units
 LUX,Luxembourg,Labour force participation rate,Male,15 years or over,Annual,2017,63.625,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2016,3.849379,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2015,4.250906,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2014,4.804971,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2013,4.915288,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2012,4.92588,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2011,5.21859,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2010,5.400202,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2023,2.76693,Units
@@ -25563,11 +25568,6 @@ MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2021,4.086453,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2020,4.714087,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2019,3.471814,Units
 MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2018,3.207048,Units
-MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2017,3.324253,Units
-MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2016,3.849379,Units
-MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2015,4.250906,Units
-MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2014,4.804971,Units
-MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2013,4.915288,Units
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2017,95.175,Units
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2018,95.275,Units
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2019,95.4,Units
@@ -26746,6 +26746,7 @@ PRT,Portugal,Labour force participation rate,Male,From 15 to 74 years,Annual,202
 PRT,Portugal,Labour force participation rate,Male,From 15 to 74 years,Annual,2019,68.875,Units
 PRT,Portugal,Labour force participation rate,Male,From 15 to 74 years,Annual,2018,68.575,Units
 PRT,Portugal,Labour force participation rate,Male,From 15 to 74 years,Annual,2017,68.425,Units
+HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2017,34.85,Units
 HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2016,35.65,Units
 HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2015,36.9,Units
 HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2014,38.15,Units
@@ -26758,7 +26759,6 @@ HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2022,32.25,Units
 HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2021,32.975,Units
 HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2020,33.725,Units
 HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2019,33.575,Units
-HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2018,34.225,Units
 NOR,Norway,Unemployment rate,Female,15 years or over,Annual,2016,3.90976,Units
 NOR,Norway,Unemployment rate,Female,15 years or over,Annual,2017,3.689486,Units
 NOR,Norway,Unemployment rate,Female,15 years or over,Annual,2018,3.538916,Units
@@ -27625,12 +27625,6 @@ FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2012,55.95,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2013,55.875,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2014,56.2,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2015,56.575,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2014,56.88614,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2013,57.31367,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2012,57.45499,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2011,56.66257,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2010,56.49748,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2023,58.71442,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2022,57.79974,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2021,56.3998,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2020,53.11408,Units
@@ -27638,6 +27632,12 @@ MEX,Mexico,Employment rate,Total,15 years or over,Annual,2019,58.07803,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2018,57.67549,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2017,57.38667,Units
 MEX,Mexico,Employment rate,Total,15 years or over,Annual,2016,57.37212,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2015,57.21422,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2014,56.88614,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2013,57.31367,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2012,57.45499,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2011,56.66257,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2010,56.49748,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2016,24.025,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2017,24.45,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2018,26.35,Units
@@ -28206,6 +28206,11 @@ CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2016,7.733333,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2015,7.533333,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2014,7.5,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2013,7.575,Units
+GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2011,17.05,Units
+GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2010,16.925,Units
+GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2023,14.95,Units
+GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2022,14.75,Units
+GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2021,16.925,Units
 GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2020,18.6,Units
 GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2019,14.55,Units
 GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2018,15.2,Units
@@ -28214,11 +28219,6 @@ GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2016,14.65,Units
 GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2015,14.75,Units
 GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2014,15.9,Units
 GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2013,16.25,Units
-GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2012,16.55,Units
-GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2011,17.05,Units
-GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2010,16.925,Units
-GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2023,14.95,Units
-GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2022,14.75,Units
 IRL,Ireland,Employment rate,Female,From 15 to 64 years,Annual,2019,64.05,Units
 IRL,Ireland,Employment rate,Female,From 15 to 64 years,Annual,2020,60.95,Units
 IRL,Ireland,Employment rate,Female,From 15 to 64 years,Annual,2021,65.45,Units
@@ -29838,6 +29838,11 @@ ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2022,3.941667,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2021,5.216667,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2020,4.675,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2019,3.775,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2017,44.9645,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2016,44.42987,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2015,44.05288,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2014,43.53495,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2013,42.97919,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2012,43.05107,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2011,42.98703,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2023,46.40094,Units
@@ -29845,11 +29850,12 @@ OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2022,45.95713,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2021,44.16168,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2020,41.83003,Units
 OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2019,45.5842,Units
-OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2018,45.46139,Units
-OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2017,44.9645,Units
-OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2016,44.42987,Units
-OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2015,44.05288,Units
-OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2014,43.53495,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2017,82.33334,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2016,82.05833,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2015,82.13333,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2014,81.76667,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2013,81.98333,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,81.86667,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2011,81.825,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2010,81.68333,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2023,83.21667,Units
@@ -29857,12 +29863,6 @@ CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2022,
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2021,82.825,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2020,81.34167,Units
 CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2019,82.64167,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2018,82.23333,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2017,82.33334,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2016,82.05833,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2015,82.13333,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2014,81.76667,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2013,81.98333,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 24 years,Annual,2017,7.95,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 24 years,Annual,2018,6.725,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 24 years,Annual,2019,5.625,Units
@@ -30670,6 +30670,10 @@ AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2022,73.74618,Un
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2023,74.13752,Units
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2010,66.14607,Units
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2011,66.6507,Units
+GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2016,6.5,Units
+GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2015,6.5,Units
+GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2014,6.725,Units
+GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2013,6.375,Units
 GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2012,6.375,Units
 GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2011,6.275,Units
 GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2010,5.55,Units
@@ -30679,10 +30683,6 @@ GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2021,9.35,Units
 GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2020,10.65,Units
 GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2019,6.575,Units
 GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2018,6.475,Units
-GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2017,6.675,Units
-GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2016,6.5,Units
-GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2015,6.5,Units
-GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2014,6.725,Units
 BEL,Belgium,Inactivity rate,Female,From 25 to 54 years,Annual,2016,20.1,Units
 BEL,Belgium,Inactivity rate,Female,From 25 to 54 years,Annual,2017,20.35,Units
 BEL,Belgium,Inactivity rate,Female,From 25 to 54 years,Annual,2018,19.725,Units
@@ -30787,11 +30787,6 @@ EST,Estonia,Employment rate,Total,From 15 to 64 years,Annual,2012,67.975,Units
 EST,Estonia,Employment rate,Total,From 15 to 64 years,Annual,2013,69.175,Units
 EST,Estonia,Employment rate,Total,From 15 to 64 years,Annual,2014,70.225,Units
 EST,Estonia,Employment rate,Total,From 15 to 64 years,Annual,2015,72.075,Units
-MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2016,61.04717,Units
-MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2015,60.74515,Units
-MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2014,60.40805,Units
-MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2013,60.8422,Units
-MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2012,60.90891,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2011,60.02428,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2010,59.66136,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2023,63.70166,Units
@@ -30799,6 +30794,11 @@ MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2022,62.53553,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2021,61.03192,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2019,62.26349,Units
 MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2018,61.59449,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2017,61.19406,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2016,61.04717,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2015,60.74515,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2014,60.40805,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2013,60.8422,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2016,7.977566,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2017,7.218387,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2018,6.081872,Units
@@ -30903,11 +30903,6 @@ EST,Estonia,Unemployment rate,Total,From 55 to 64 years,Annual,2014,5.423447,Uni
 EST,Estonia,Unemployment rate,Total,From 55 to 64 years,Annual,2015,6.281119,Units
 EST,Estonia,Unemployment rate,Total,From 55 to 64 years,Annual,2016,8.279881,Units
 EST,Estonia,Unemployment rate,Total,From 55 to 64 years,Annual,2017,5.667585,Units
-CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2016,78.25,Units
-CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2015,78.25,Units
-CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2014,78.075,Units
-CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2013,78.41666,Units
-CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,78.16666,Units
 CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,78.01667,Units
 CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,78.0,Units
 CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,80.19167,Units
@@ -30916,6 +30911,11 @@ CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2021
 CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2020,77.66666,Units
 CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2019,79.2,Units
 CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2018,78.69167,Units
+CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2017,78.65833,Units
+CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2016,78.25,Units
+CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2015,78.25,Units
+CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2014,78.075,Units
+CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2013,78.41666,Units
 ISL,Iceland,Inactivity rate,Male,15 years or over,Annual,2017,13.3,Units
 ISL,Iceland,Inactivity rate,Male,15 years or over,Annual,2018,14.45,Units
 ISL,Iceland,Inactivity rate,Male,15 years or over,Annual,2019,15.15,Units
@@ -31592,6 +31592,11 @@ AUS,Australia,Inactivity rate,Total,From 55 to 64 years,Annual,2012,36.37322,Uni
 AUS,Australia,Inactivity rate,Total,From 55 to 64 years,Annual,2013,36.15762,Units
 AUS,Australia,Inactivity rate,Total,From 55 to 64 years,Annual,2014,35.96238,Units
 AUS,Australia,Inactivity rate,Total,From 55 to 64 years,Annual,2015,35.12539,Units
+CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2016,65.53429,Units
+CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2015,64.5945,Units
+CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2014,64.225,Units
+CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2013,64.2695,Units
+CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,63.22029,Units
 CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2011,62.37748,Units
 CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2010,61.89647,Units
 CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2023,67.98956,Units
@@ -31600,11 +31605,6 @@ CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2021
 CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,65.96441,Units
 CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2019,66.78787,Units
 CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2018,66.36987,Units
-CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2017,65.76357,Units
-CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2016,65.53429,Units
-CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2015,64.5945,Units
-CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2014,64.225,Units
-CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2013,64.2695,Units
 ISL,Iceland,Employment rate,Male,From 25 to 54 years,Annual,2017,92.575,Units
 ISL,Iceland,Employment rate,Male,From 25 to 54 years,Annual,2018,91.65,Units
 ISL,Iceland,Employment rate,Male,From 25 to 54 years,Annual,2019,91.075,Units
@@ -31978,11 +31978,6 @@ ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2021,37.4544,Un
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2020,39.34864,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2019,34.20771,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2018,34.38058,Units
-HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2016,5.119285,Units
-HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2015,6.817803,Units
-HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2014,7.728486,Units
-HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2013,10.18524,Units
-HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2012,11.00812,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2011,11.03269,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2010,11.17377,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2023,4.105979,Units
@@ -31991,6 +31986,11 @@ HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2021,4.047547,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2020,4.250233,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2019,3.418887,Units
 HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2018,3.707886,Units
+HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2017,4.157162,Units
+HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2016,5.119285,Units
+HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2015,6.817803,Units
+HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2014,7.728486,Units
+HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2013,10.18524,Units
 ITA,Italy,Inactivity rate,Male,From 15 to 64 years,Annual,2011,27.74954,Units
 ITA,Italy,Inactivity rate,Male,From 15 to 64 years,Annual,2010,27.54514,Units
 ITA,Italy,Inactivity rate,Male,From 15 to 64 years,Annual,2023,24.325,Units
@@ -32017,6 +32017,12 @@ LUX,Luxembourg,Inactivity rate,Total,From 15 to 24 years,Annual,2012,73.25,Units
 LUX,Luxembourg,Inactivity rate,Total,From 15 to 24 years,Annual,2013,74.075,Units
 LUX,Luxembourg,Inactivity rate,Total,From 15 to 24 years,Annual,2014,73.675,Units
 LUX,Luxembourg,Inactivity rate,Total,From 15 to 24 years,Annual,2015,64.85,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2017,55.525,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2016,54.6,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2015,54.15,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2014,52.875,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2013,52.4,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2012,50.725,Units
 LVA,Latvia,Employment rate,Total,15 years or over,Annual,2011,49.05,Units
 LVA,Latvia,Employment rate,Total,15 years or over,Annual,2010,47.425,Units
 LVA,Latvia,Employment rate,Total,15 years or over,Annual,2023,57.225,Units
@@ -32024,12 +32030,6 @@ LVA,Latvia,Employment rate,Total,15 years or over,Annual,2022,56.975,Units
 LVA,Latvia,Employment rate,Total,15 years or over,Annual,2021,55.65,Units
 LVA,Latvia,Employment rate,Total,15 years or over,Annual,2020,56.675,Units
 LVA,Latvia,Employment rate,Total,15 years or over,Annual,2019,57.35,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2018,56.875,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2017,55.525,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2016,54.6,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2015,54.15,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2014,52.875,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2013,52.4,Units
 BEL,Belgium,Unemployment rate,Total,From 55 to 64 years,Annual,2017,5.965639,Units
 BEL,Belgium,Unemployment rate,Total,From 55 to 64 years,Annual,2018,4.400113,Units
 BEL,Belgium,Unemployment rate,Total,From 55 to 64 years,Annual,2019,4.159766,Units
@@ -32327,7 +32327,6 @@ FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2012
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2013,38.525,Units
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2014,37.8,Units
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2015,38.5,Units
-ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2012,74.61475,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2011,74.52033,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2010,73.86201,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2023,73.0167,Units
@@ -32340,6 +32339,7 @@ ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2017,73.12759,
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2016,73.57864,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2015,73.36305,Units
 ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2014,74.71558,Units
+ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2013,74.22691,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2016,39.575,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2015,39.975,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2014,40.725,Units
@@ -32925,18 +32925,18 @@ ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annua
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2020,41.90217,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2019,44.51708,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2018,45.20503,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2015,72.2234,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2014,72.01782,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,71.88611,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,71.68539,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,71.24954,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,75.71072,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2022,74.93037,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,73.6377,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2020,72.59157,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2019,74.18148,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2018,73.57349,Units
 OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2017,73.12137,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2016,72.67022,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2015,72.2234,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2014,72.01782,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,71.88611,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,71.68539,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,71.24954,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,63.425,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,65.175,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,56.575,Units
@@ -33197,11 +33197,6 @@ EST,Estonia,Labour force participation rate,Total,From 15 to 24 years,Annual,201
 EST,Estonia,Labour force participation rate,Total,From 15 to 24 years,Annual,2013,39.925,Units
 EST,Estonia,Labour force participation rate,Total,From 15 to 24 years,Annual,2014,39.45,Units
 EST,Estonia,Labour force participation rate,Total,From 15 to 24 years,Annual,2015,41.025,Units
-HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2016,4.489055,Units
-HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2015,5.464505,Units
-HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2014,5.993011,Units
-HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2013,7.417354,Units
-HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2012,7.976166,Units
 HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2011,8.351416,Units
 HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2010,7.255801,Units
 HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2023,3.05,Units
@@ -33210,6 +33205,11 @@ HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2021,2.575,Units
 HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2020,2.787953,Units
 HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2019,2.155036,Units
 HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2018,2.966741,Units
+HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2017,4.271974,Units
+HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2016,4.489055,Units
+HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2015,5.464505,Units
+HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2014,5.993011,Units
+HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2013,7.417354,Units
 POL,Poland,Inactivity rate,Male,From 15 to 24 years,Annual,2011,62.15,Units
 POL,Poland,Inactivity rate,Male,From 15 to 24 years,Annual,2010,61.525,Units
 POL,Poland,Inactivity rate,Male,From 15 to 24 years,Annual,2023,63.85,Units
@@ -33979,7 +33979,7 @@ AUS,Australia,Employment rate,Female,15 years or over,Annual,2015,55.51594,Units
 ITA,Italy,Inactivity rate,Male,15 years or over,Annual,2012,40.75,Units
 TUR,Türkiye,Inactivity rate,Total,From 15 to 64 years,Annual,2023,40.45,Units
 KOR,Korea,Inactivity rate,Male,From 55 to 64 years,Annual,2016,18.28531,Units
-ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2012,68.375,Units
+ESP,Spain,Labour force participation rate,Female,From 15 to 64 years,Annual,2017,68.825,Units
 NOR,Norway,Inactivity rate,Total,From 15 to 64 years,Annual,2016,21.95,Units
 NLD,Netherlands,Unemployment rate,Male,From 15 to 64 years,Annual,2016,6.590353,Units
 BEL,Belgium,Unemployment rate,Total,15 years or over,Annual,2015,8.481071,Units
@@ -34123,7 +34123,7 @@ IRL,Ireland,Inactivity rate,Total,From 15 to 24 years,Annual,2015,52.675,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Labour force participation rate,Male,From 15 to 74 years,Annual,2016,68.975,Units
 IRL,Ireland,Unemployment rate,Female,From 55 to 64 years,Annual,2021,5.35,Units
 NLD,Netherlands,Unemployment rate,Female,15 years or over,Annual,2016,6.509373,Units
-CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2018,10.69167,Units
+CAN,Canada,Unemployment rate,Total,From 15 to 24 years,Annual,2017,11.24167,Units
 CZE,Czechia,Labour force participation rate,Female,15 years or over,Annual,2020,51.8,Units
 LVA,Latvia,Employment rate,Female,From 15 to 64 years,Annual,2020,70.05,Units
 TUR,Türkiye,Employment rate,Female,From 15 to 74 years,Annual,2016,29.45,Units
@@ -34148,14 +34148,14 @@ GRC,Greece,Unemployment rate,Total,From 15 to 24 years,Annual,2012,55.87182,Unit
 CHE,Switzerland,Employment rate,Total,15 years or over,Annual,2015,64.85,Units
 NOR,Norway,Employment rate,Male,From 55 to 64 years,Annual,2015,75.575,Units
 AUT,Austria,Labour force participation rate,Male,From 15 to 74 years,Annual,2016,72.875,Units
-OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2013,8.087558,Units
+OECD,OECD,Unemployment rate,Male,From 15 to 64 years,Annual,2018,5.465154,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Female,15 years or over,Annual,2012,10.98138,Units
 NLD,Netherlands,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,85.075,Units
 KOR,Korea,Labour force participation rate,Total,From 55 to 64 years,Annual,2015,67.88459,Units
 ITA,Italy,Unemployment rate,Female,From 55 to 64 years,Annual,2012,4.237189,Units
 NOR,Norway,Inactivity rate,Total,From 55 to 64 years,Annual,2016,25.925,Units
 LUX,Luxembourg,Labour force participation rate,Male,15 years or over,Annual,2018,63.95,Units
-MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2012,4.92588,Units
+MEX,Mexico,Unemployment rate,Male,15 years or over,Annual,2017,3.324253,Units
 CHE,Switzerland,Labour force participation rate,Male,From 25 to 54 years,Annual,2016,95.55,Units
 BEL,Belgium,Inactivity rate,Total,From 25 to 54 years,Annual,2015,14.825,Units
 SVN,Slovenia,Employment rate,Female,From 55 to 64 years,Annual,2016,33.175,Units
@@ -34247,7 +34247,7 @@ DNK,Denmark,Inactivity rate,Total,From 15 to 64 years,Annual,2015,23.05,Units
 POL,Poland,Employment rate,Total,From 15 to 64 years,Annual,2017,65.25,Units
 DEU,Germany,Employment rate,Total,From 15 to 64 years,Annual,2019,75.65,Units
 PRT,Portugal,Labour force participation rate,Male,From 15 to 74 years,Annual,2016,67.65,Units
-HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2017,34.85,Units
+HUN,Hungary,Inactivity rate,Male,15 years or over,Annual,2018,34.225,Units
 NOR,Norway,Unemployment rate,Female,15 years or over,Annual,2015,3.99969,Units
 FIN,Finland,Employment rate,Total,From 15 to 64 years,Annual,2015,67.55,Units
 PRT,Portugal,Employment rate,Male,From 25 to 54 years,Annual,2012,77.5,Units
@@ -34315,7 +34315,7 @@ LUX,Luxembourg,Labour force participation rate,Male,From 15 to 74 years,Annual,2
 PRT,Portugal,Unemployment rate,Male,15 years or over,Annual,2017,8.411907,Units
 COL,Colombia,Labour force participation rate,Male,From 15 to 24 years,Annual,2016,60.95667,Units
 FIN,Finland,Employment rate,Male,From 55 to 64 years,Annual,2016,59.0,Units
-MEX,Mexico,Employment rate,Total,15 years or over,Annual,2015,57.21422,Units
+MEX,Mexico,Employment rate,Total,15 years or over,Annual,2023,58.71442,Units
 BEL,Belgium,Employment rate,Male,From 15 to 24 years,Annual,2015,25.0,Units
 SWE,Sweden,Employment rate,Female,From 15 to 24 years,Annual,2021,41.65,Units
 ESP,Spain,Labour force participation rate,Total,15 years or over,Annual,2012,59.775,Units
@@ -34360,7 +34360,7 @@ KOR,Korea,Employment rate,Female,From 55 to 64 years,Annual,2015,53.22309,Units
 CHL,Chile,Labour force participation rate,Male,From 15 to 24 years,Annual,2015,41.83998,Units
 MEX,Mexico,Labour force participation rate,Female,From 15 to 64 years,Annual,2017,46.76906,Units
 CAN,Canada,Unemployment rate,Male,15 years or over,Annual,2012,7.791667,Units
-GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2021,16.925,Units
+GRC,Greece,Inactivity rate,Total,From 25 to 54 years,Annual,2012,16.55,Units
 IRL,Ireland,Employment rate,Female,From 15 to 64 years,Annual,2018,63.05,Units
 CHL,Chile,Inactivity rate,Total,From 15 to 64 years,Annual,2015,32.06908,Units
 ITA,Italy,Employment rate,Total,15 years or over,Annual,2017,44.225,Units
@@ -34487,8 +34487,8 @@ COL,Colombia,Inactivity rate,Total,From 15 to 24 years,Annual,2015,45.60083,Unit
 GRC,Greece,Inactivity rate,Female,From 15 to 74 years,Annual,2012,49.8,Units
 CHE,Switzerland,Inactivity rate,Male,From 15 to 24 years,Annual,2016,32.225,Units
 ISR,Israel,Unemployment rate,Male,From 15 to 64 years,Annual,2018,4.116667,Units
-OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2013,42.97919,Units
-CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,81.86667,Units
+OECD,OECD,Employment rate,Male,From 15 to 24 years,Annual,2018,45.46139,Units
+CAN,Canada,Labour force participation rate,Male,From 15 to 64 years,Annual,2018,82.23333,Units
 CZE,Czechia,Unemployment rate,Total,From 15 to 24 years,Annual,2016,10.475,Units
 EA20,Euro area (20 countries),Inactivity rate,Male,From 55 to 64 years,Annual,2016,32.9387,Units
 SWE,Sweden,Unemployment rate,Male,From 25 to 54 years,Annual,2016,5.6348,Units
@@ -34552,7 +34552,7 @@ FRA,France,Labour force participation rate,Male,From 15 to 24 years,Annual,2016,
 SWE,Sweden,Unemployment rate,Male,From 15 to 74 years,Annual,2016,7.359866,Units
 G7,G7,Employment rate,Male,From 25 to 54 years,Annual,2021,86.12048,Units
 AUS,Australia,Employment rate,Female,From 15 to 64 years,Annual,2012,66.57001,Units
-GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2013,6.375,Units
+GRC,Greece,Inactivity rate,Male,From 25 to 54 years,Annual,2017,6.675,Units
 BEL,Belgium,Inactivity rate,Female,From 25 to 54 years,Annual,2015,19.7,Units
 USA,United States,Inactivity rate,Total,15 years or over,Annual,2012,36.29924,Units
 FIN,Finland,Labour force participation rate,Female,From 15 to 64 years,Annual,2015,73.175,Units
@@ -34561,7 +34561,7 @@ TUR,Türkiye,Inactivity rate,Total,From 25 to 54 years,Annual,2011,37.7,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 64 years,Annual,2012,76.9,Units
 USA,United States,Labour force participation rate,Female,From 15 to 74 years,Annual,2012,62.63691,Units
 EST,Estonia,Employment rate,Total,From 15 to 64 years,Annual,2016,72.4,Units
-MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2017,61.19406,Units
+MEX,Mexico,Employment rate,Total,From 15 to 64 years,Annual,2012,60.90891,Units
 BEL,Belgium,Unemployment rate,Total,From 15 to 64 years,Annual,2015,8.722411,Units
 EST,Estonia,Inactivity rate,Female,From 15 to 74 years,Annual,2015,33.65,Units
 SVN,Slovenia,Unemployment rate,Female,From 15 to 64 years,Annual,2021,5.375,Units
@@ -34570,7 +34570,7 @@ OECD,OECD,Labour force participation rate,Female,15 years or over,Annual,2019,52
 CHL,Chile,Labour force participation rate,Total,From 15 to 24 years,Annual,2015,36.0395,Units
 ITA,Italy,Labour force participation rate,Total,15 years or over,Annual,2013,48.8,Units
 EST,Estonia,Unemployment rate,Total,From 55 to 64 years,Annual,2018,5.824887,Units
-CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2017,78.65833,Units
+CAN,Canada,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,78.16666,Units
 ISL,Iceland,Inactivity rate,Male,15 years or over,Annual,2016,12.275,Units
 CHL,Chile,Inactivity rate,Female,15 years or over,Annual,2015,49.74282,Units
 FIN,Finland,Labour force participation rate,Female,From 55 to 64 years,Annual,2016,66.775,Units
@@ -34624,7 +34624,7 @@ JPN,Japan,Inactivity rate,Female,From 25 to 54 years,Annual,2014,25.33758,Units
 HUN,Hungary,Inactivity rate,Female,From 25 to 54 years,Annual,2017,13.7,Units
 BRA,Brazil,Employment rate,Total,15 years or over,Annual,2012,58.91872,Units
 AUS,Australia,Inactivity rate,Total,From 55 to 64 years,Annual,2016,34.76467,Units
-CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2012,63.22029,Units
+CAN,Canada,Labour force participation rate,Total,From 55 to 64 years,Annual,2017,65.76357,Units
 ISL,Iceland,Employment rate,Male,From 25 to 54 years,Annual,2016,93.175,Units
 HUN,Hungary,Unemployment rate,Male,From 15 to 24 years,Annual,2017,9.745775,Units
 EA20,Euro area (20 countries),Unemployment rate,Male,From 15 to 24 years,Annual,2021,16.9,Units
@@ -34654,10 +34654,10 @@ KOR,Korea,Unemployment rate,Female,From 55 to 64 years,Annual,2018,2.239825,Unit
 AUT,Austria,Labour force participation rate,Male,From 55 to 64 years,Annual,2016,61.525,Units
 ISR,Israel,Inactivity rate,Male,From 15 to 24 years,Annual,2012,49.625,Units
 ZAF,South Africa,Inactivity rate,Male,From 15 to 64 years,Annual,2017,33.88187,Units
-HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2017,4.157162,Units
+HUN,Hungary,Unemployment rate,Total,15 years or over,Annual,2012,11.00812,Units
 ITA,Italy,Inactivity rate,Male,From 15 to 64 years,Annual,2012,26.9938,Units
 LUX,Luxembourg,Inactivity rate,Total,From 15 to 24 years,Annual,2016,69.3,Units
-LVA,Latvia,Employment rate,Total,15 years or over,Annual,2012,50.725,Units
+LVA,Latvia,Employment rate,Total,15 years or over,Annual,2018,56.875,Units
 BEL,Belgium,Unemployment rate,Total,From 55 to 64 years,Annual,2016,5.694333,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 64 years,Annual,2017,3.454359,Units
 COL,Colombia,Inactivity rate,Female,From 15 to 24 years,Annual,2021,63.90583,Units
@@ -34681,7 +34681,7 @@ KOR,Korea,Labour force participation rate,Male,From 25 to 54 years,Annual,2016,9
 LTU,Lithuania,Inactivity rate,Male,15 years or over,Annual,2021,31.95,Units
 COL,Colombia,Employment rate,Female,From 15 to 64 years,Annual,2015,55.92667,Units
 FRA,France,Labour force participation rate,Total,From 15 to 24 years,Annual,2016,38.375,Units
-ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2013,74.22691,Units
+ZAF,South Africa,Inactivity rate,Total,From 15 to 24 years,Annual,2012,74.61475,Units
 LVA,Latvia,Inactivity rate,Total,15 years or over,Annual,2017,39.175,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Labour force participation rate,Female,From 55 to 64 years,Annual,2012,42.8,Units
 ITA,Italy,Inactivity rate,Female,From 55 to 64 years,Annual,2012,68.02734,Units
@@ -34727,7 +34727,7 @@ EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Total,
 CHE,Switzerland,Inactivity rate,Female,From 55 to 64 years,Annual,2016,32.075,Units
 JPN,Japan,Labour force participation rate,Female,From 15 to 64 years,Annual,2021,73.4986,Units
 ZAF,South Africa,Labour force participation rate,Total,From 55 to 64 years,Annual,2017,45.39262,Units
-OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,75.71072,Units
+OECD,OECD,Labour force participation rate,Female,From 25 to 54 years,Annual,2016,72.67022,Units
 NOR,Norway,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,59.4,Units
 NLD,Netherlands,Inactivity rate,Female,From 25 to 54 years,Annual,2021,14.925,Units
 JPN,Japan,Employment rate,Male,From 15 to 24 years,Annual,2015,39.93798,Units
@@ -34748,7 +34748,7 @@ NZL,New Zealand,Unemployment rate,Male,From 55 to 64 years,Annual,2017,2.905022,
 LUX,Luxembourg,Employment rate,Male,15 years or over,Annual,2016,60.425,Units
 ISL,Iceland,Labour force participation rate,Total,15 years or over,Annual,2016,83.8,Units
 EST,Estonia,Labour force participation rate,Total,From 15 to 24 years,Annual,2016,42.9,Units
-HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2017,4.271974,Units
+HUN,Hungary,Unemployment rate,Female,From 55 to 64 years,Annual,2012,7.976166,Units
 POL,Poland,Inactivity rate,Male,From 15 to 24 years,Annual,2012,62.225,Units
 CRI,Costa Rica,Inactivity rate,Male,From 15 to 24 years,Annual,2018,45.16014,Units
 AUT,Austria,Inactivity rate,Total,From 15 to 74 years,Annual,2015,32.825,Units
@@ -34963,11 +34963,6 @@ SWE,Sweden,Labour force participation rate,Total,From 55 to 64 years,Annual,2012
 SWE,Sweden,Labour force participation rate,Total,From 55 to 64 years,Annual,2013,77.525,Units
 SWE,Sweden,Labour force participation rate,Total,From 55 to 64 years,Annual,2014,78.2,Units
 SWE,Sweden,Labour force participation rate,Total,From 55 to 64 years,Annual,2015,78.65,Units
-ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2018,59.75,Units
-ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2017,57.8,Units
-ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2016,55.7,Units
-ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2015,54.0,Units
-ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2014,51.15,Units
 ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2013,50.5,Units
 ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2012,52.1,Units
 ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2011,53.75,Units
@@ -34976,6 +34971,11 @@ ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2023,66.275,Units
 ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2022,64.7,Units
 ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2021,62.725,Units
 ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2020,61.625,Units
+ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2019,61.075,Units
+ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2018,59.75,Units
+ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2017,57.8,Units
+ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2016,55.7,Units
+ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2015,54.0,Units
 PRT,Portugal,Inactivity rate,Total,From 15 to 74 years,Annual,2017,35.325,Units
 PRT,Portugal,Inactivity rate,Total,From 15 to 74 years,Annual,2016,36.15,Units
 PRT,Portugal,Inactivity rate,Total,From 15 to 74 years,Annual,2015,36.4,Units
@@ -36013,6 +36013,11 @@ AUT,Austria,Unemployment rate,Female,15 years or over,Annual,2010,4.630231,Units
 AUT,Austria,Unemployment rate,Female,15 years or over,Annual,2011,4.585085,Units
 AUT,Austria,Unemployment rate,Female,15 years or over,Annual,2012,4.785796,Units
 AUT,Austria,Unemployment rate,Female,15 years or over,Annual,2013,5.294496,Units
+LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2013,42.525,Units
+LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,44.0,Units
+LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,41.1,Units
+LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,42.225,Units
+LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,37.025,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,38.975,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,35.325,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2020,37.95,Units
@@ -36021,11 +36026,6 @@ LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2018,
 LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2017,42.825,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2016,43.175,Units
 LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2015,45.25,Units
-LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2014,45.275,Units
-LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2013,42.525,Units
-LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,44.0,Units
-LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,41.1,Units
-LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,42.225,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2023,5.580342,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2022,6.021815,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2021,7.562507,Units
@@ -36608,11 +36608,6 @@ CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2016,17.82479,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2015,17.81848,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2014,17.98173,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2013,17.25439,Units
-MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2016,55.48463,Units
-MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2015,55.23062,Units
-MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2014,54.58028,Units
-MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,55.53725,Units
-MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,55.20097,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2011,53.88631,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2010,53.21337,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2023,60.54816,Units
@@ -36620,6 +36615,11 @@ MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,202
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2021,57.16681,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2019,57.56192,Units
 MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2018,56.07273,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2017,55.36281,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2016,55.48463,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2015,55.23062,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2014,54.58028,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2013,55.53725,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2017,17.75,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2018,19.7,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2019,21.45,Units
@@ -36827,11 +36827,6 @@ EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,F
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 74 years,Annual,2020,6.972424,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 74 years,Annual,2019,6.53816,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 74 years,Annual,2018,7.133386,Units
-MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2016,63.61483,Units
-MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2015,63.60873,Units
-MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2014,63.58984,Units
-MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2013,64.11512,Units
-MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,64.17203,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2011,63.42744,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2010,63.13813,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2023,65.60546,Units
@@ -36839,6 +36834,11 @@ MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2022
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2021,63.74552,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2019,64.61736,Units
 MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2018,63.7768,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2017,63.45775,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2016,63.61483,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2015,63.60873,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2014,63.58984,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2013,64.11512,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2011,57.46632,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2010,56.93691,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2023,68.13333,Units
@@ -38299,7 +38299,7 @@ CAN,Canada,Labour force participation rate,Male,From 25 to 54 years,Annual,2017,
 AUS,Australia,Employment rate,Total,From 15 to 64 years,Annual,2016,72.38227,Units
 FIN,Finland,Inactivity rate,Female,From 15 to 24 years,Annual,2016,47.5,Units
 SWE,Sweden,Labour force participation rate,Total,From 55 to 64 years,Annual,2016,79.7,Units
-ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2019,61.075,Units
+ESP,Spain,Employment rate,Male,From 55 to 64 years,Annual,2014,51.15,Units
 PRT,Portugal,Inactivity rate,Total,From 15 to 74 years,Annual,2018,34.875,Units
 CRI,Costa Rica,Inactivity rate,Male,15 years or over,Annual,2012,24.05482,Units
 LUX,Luxembourg,Unemployment rate,Total,15 years or over,Annual,2018,5.582682,Units
@@ -38380,7 +38380,7 @@ GBR,United Kingdom,Inactivity rate,Male,From 15 to 74 years,Annual,2015,24.425,U
 FRA,France,Employment rate,Total,From 15 to 64 years,Annual,2021,67.25,Units
 NOR,Norway,Inactivity rate,Male,From 15 to 64 years,Annual,2016,19.875,Units
 AUT,Austria,Unemployment rate,Female,15 years or over,Annual,2014,5.381805,Units
-LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,37.025,Units
+LVA,Latvia,Labour force participation rate,Male,From 15 to 24 years,Annual,2014,45.275,Units
 MEX,Mexico,Unemployment rate,Male,From 15 to 24 years,Annual,2010,9.327394,Units
 NLD,Netherlands,Unemployment rate,Total,From 15 to 74 years,Annual,2014,8.399511,Units
 CHE,Switzerland,Unemployment rate,Female,15 years or over,Annual,2016,5.006649,Units
@@ -38426,7 +38426,7 @@ IRL,Ireland,Inactivity rate,Female,15 years or over,Annual,2016,44.425,Units
 NLD,Netherlands,Labour force participation rate,Male,From 55 to 64 years,Annual,2021,82.1,Units
 TUR,Türkiye,Inactivity rate,Female,From 15 to 74 years,Annual,2021,65.375,Units
 CAN,Canada,Inactivity rate,Female,From 25 to 54 years,Annual,2012,17.5176,Units
-MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2017,55.36281,Units
+MEX,Mexico,Labour force participation rate,Female,From 25 to 54 years,Annual,2012,55.20097,Units
 ISL,Iceland,Inactivity rate,Total,From 15 to 24 years,Annual,2016,17.025,Units
 PRT,Portugal,Employment rate,Female,From 15 to 24 years,Annual,2016,22.225,Units
 DEU,Germany,Unemployment rate,Female,From 15 to 74 years,Annual,2015,4.25,Units
@@ -38443,7 +38443,7 @@ FIN,Finland,Inactivity rate,Female,From 15 to 74 years,Annual,2015,37.325,Units
 GBR,United Kingdom,Labour force participation rate,Female,From 55 to 64 years,Annual,2014,56.4,Units
 HUN,Hungary,Inactivity rate,Total,From 25 to 54 years,Annual,2017,10.175,Units
 EU27_2020,European Union (27 countries from 01/02/2020),Unemployment rate,Male,From 15 to 74 years,Annual,2017,8.01618,Units
-MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2017,63.45775,Units
+MEX,Mexico,Labour force participation rate,Total,From 15 to 64 years,Annual,2012,64.17203,Units
 ISR,Israel,Employment rate,Female,From 15 to 64 years,Annual,2012,62.35833,Units
 SVK,Slovak Republic,Unemployment rate,Female,From 55 to 64 years,Annual,2016,9.825737,Units
 GBR,United Kingdom,Inactivity rate,Total,From 25 to 54 years,Annual,2011,14.725,Units
@@ -38798,19 +38798,6 @@ NZL,New Zealand,Employment rate,Male,15 years or over,Annual,2020,72.225,Units
 NZL,New Zealand,Employment rate,Male,15 years or over,Annual,2021,72.825,Units
 NZL,New Zealand,Employment rate,Male,15 years or over,Annual,2022,73.55,Units
 NZL,New Zealand,Employment rate,Male,15 years or over,Annual,2023,74.0,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2010,77.84161,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2011,77.92185,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2012,78.51231,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2013,78.25211,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2014,78.10523,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2015,78.34047,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2016,78.56933,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2017,78.98473,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2018,79.08022,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2019,78.90898,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2021,77.27067,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2022,78.66234,Units
-MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2023,79.31955,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2010,53.56667,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2011,53.18333,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2012,53.125,Units
@@ -38825,6 +38812,19 @@ USA,United States,Employment rate,Female,15 years or over,Annual,2020,51.49166,U
 USA,United States,Employment rate,Female,15 years or over,Annual,2021,53.16667,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2022,54.725,Units
 USA,United States,Employment rate,Female,15 years or over,Annual,2023,55.35,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2010,77.84161,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2011,77.92185,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2012,78.51231,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2013,78.25211,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2014,78.10523,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2015,78.34047,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2016,78.56933,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2017,78.98473,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2018,79.08022,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2019,78.90898,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2021,77.27067,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2022,78.66234,Units
+MEX,Mexico,Employment rate,Male,From 15 to 64 years,Annual,2023,79.31955,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2018,31.125,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2017,30.975,Units
 TUR,Türkiye,Labour force participation rate,Female,From 15 to 24 years,Annual,2016,30.35,Units
@@ -40570,19 +40570,6 @@ AUT,Austria,Employment rate,Female,From 15 to 74 years,Annual,2017,59.975,Units
 AUT,Austria,Employment rate,Female,From 15 to 74 years,Annual,2016,59.5,Units
 AUT,Austria,Employment rate,Female,From 15 to 74 years,Annual,2015,58.85,Units
 AUT,Austria,Employment rate,Female,From 15 to 74 years,Annual,2014,58.475,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2016,57.22765,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2017,56.74421,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2018,56.62974,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,57.38511,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,55.99072,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,56.18397,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,55.90059,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2010,41.36619,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2011,41.8908,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2012,42.31428,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2013,42.78966,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2014,43.02605,Units
-USA,United States,Inactivity rate,Female,15 years or over,Annual,2015,43.32299,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2016,43.20154,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2017,42.96755,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2018,42.92112,Units
@@ -40591,6 +40578,19 @@ USA,United States,Inactivity rate,Female,15 years or over,Annual,2020,43.79076,U
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2021,43.90823,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2022,43.2107,Units
 USA,United States,Inactivity rate,Female,15 years or over,Annual,2023,42.66913,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,61.2135,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,60.7259,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,60.8258,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2013,59.80194,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2014,58.87883,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2015,57.9364,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2016,57.22765,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2017,56.74421,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2018,56.62974,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2019,57.38511,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2021,55.99072,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2022,56.18397,Units
+MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2023,55.90059,Units
 FRA,France,Unemployment rate,Total,From 15 to 74 years,Annual,2018,9.025,Units
 FRA,France,Unemployment rate,Total,From 15 to 74 years,Annual,2017,9.425,Units
 FRA,France,Unemployment rate,Total,From 15 to 74 years,Annual,2016,10.05,Units
@@ -40614,12 +40614,12 @@ ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2020,53.6,Units
 ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2021,55.0,Units
 ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2022,56.425,Units
 ESP,Spain,Employment rate,Total,From 15 to 74 years,Annual,2023,57.3,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2010,61.2135,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2011,60.7259,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2012,60.8258,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2013,59.80194,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2014,58.87883,Units
-MEX,Mexico,Labour force participation rate,Male,From 15 to 24 years,Annual,2015,57.9364,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2010,41.36619,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2011,41.8908,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2012,42.31428,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2013,42.78966,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2014,43.02605,Units
+USA,United States,Inactivity rate,Female,15 years or over,Annual,2015,43.32299,Units
 COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2017,49.455,Units
 COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2016,49.52833,Units
 COL,Colombia,Inactivity rate,Female,From 55 to 64 years,Annual,2015,50.49,Units
@@ -41338,20 +41338,6 @@ CHL,Chile,Labour force participation rate,Male,15 years or over,Annual,2021,68.4
 CHL,Chile,Labour force participation rate,Male,15 years or over,Annual,2020,67.33094,Units
 CHL,Chile,Labour force participation rate,Male,15 years or over,Annual,2019,73.56979,Units
 CHL,Chile,Labour force participation rate,Male,15 years or over,Annual,2018,74.16377,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2015,75.5534,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2016,75.7865,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2017,76.6647,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2018,76.35791,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2019,76.36751,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,70.65208,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,72.8401,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,73.94852,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,75.47032,Units
-GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2010,13.11135,Units
-GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2011,18.30326,Units
-GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2012,25.01721,Units
-GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2013,28.01253,Units
-GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2014,26.81194,Units
 GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2015,25.15233,Units
 GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2016,24.05004,Units
 GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2017,22.00678,Units
@@ -41361,6 +41347,20 @@ GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2020,17.81859,Unit
 GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2021,14.95,Units
 GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2022,12.575,Units
 GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2023,11.175,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,72.47903,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,72.72136,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,73.32093,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2013,73.79068,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2014,74.10558,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2015,75.5534,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2016,75.7865,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2017,76.6647,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2018,76.35791,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2019,76.36751,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2020,70.65208,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2021,72.8401,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2022,73.94852,Units
+ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2023,75.47032,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2016,43.625,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2017,43.05,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2018,42.825,Units
@@ -41369,11 +41369,11 @@ ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2020,44.75,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2021,44.05,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2022,43.2,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2023,42.15,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2010,72.47903,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2011,72.72136,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2012,73.32093,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2013,73.79068,Units
-ZAF,South Africa,Labour force participation rate,Total,From 25 to 54 years,Annual,2014,74.10558,Units
+GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2010,13.11135,Units
+GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2011,18.30326,Units
+GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2012,25.01721,Units
+GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2013,28.01253,Units
+GRC,Greece,Unemployment rate,Total,From 15 to 64 years,Annual,2014,26.81194,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2010,46.1,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2011,45.975,Units
 ITA,Italy,Inactivity rate,Total,From 15 to 74 years,Annual,2012,44.9,Units
