@@ -2,6 +2,8 @@ vars:
   - top: ../..
 stages:
   download:
+    # OECD data has changed format
+    frozen: true
     cmd: PYTHONPATH=${top} python download.py
     always_changed: true
     deps:
@@ -16,6 +18,8 @@ stages:
       - ${top}/data/raw/oecd/wage_levels.csv:
           cache: false
   transform:
+    # OECD data has changed format
+    frozen: true
     cmd: papermill --no-progress-bar --no-report-mode transform.ipynb ${top}/output/oecd-transform.ipynb
     deps:
       - transform.ipynb
