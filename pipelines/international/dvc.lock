@@ -10,7 +10,7 @@ stages:
     outs:
     - path: ../../data/raw/oecd/lfs_by_sex_and_age.csv
       hash: md5
-      md5: 5566b749aa8f13bee7f9cae477a6d5be
+      md5: 49c93653b433a2c6fda94913d93d27ed
       size: 14646241
     - path: ../../data/raw/oecd/neet.csv
       hash: md5
@@ -61,3 +61,19 @@ stages:
       hash: md5
       md5: 178a1099adcae644aae8906c213275fb
       size: 36454
+  transform-wage-levels:
+    cmd: python transform-wage-levels.py
+    deps:
+    - path: ../../data/raw/oecd/wage_levels.csv
+      hash: md5
+      md5: 8329b37e17a5cd59af592a22033002b9
+      size: 1199573
+    - path: transform-wage-levels.py
+      hash: md5
+      md5: 5fe78fcafac6ef560734872b685d7927
+      size: 570
+    outs:
+    - path: ../../data/processed/oecd/wage_levels.csv
+      hash: md5
+      md5: 96c2f9ab4f68c3d7b8a9564b5e69dee3
+      size: 292799

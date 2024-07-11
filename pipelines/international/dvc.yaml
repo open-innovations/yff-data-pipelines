@@ -35,3 +35,12 @@ stages:
     outs:
       - ${top}/data/processed/oecd/neet.csv:
           cache: false
+
+  transform-wage-levels:
+    cmd: python transform-wage-levels.py
+    deps:
+      - transform-wage-levels.py
+      - ${top}/data/raw/oecd/wage_levels.csv
+    outs:
+      - ${top}/data/processed/oecd/wage_levels.csv:
+          cache: false
