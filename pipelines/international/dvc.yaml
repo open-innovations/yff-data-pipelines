@@ -1,31 +1,16 @@
 vars:
   - top: ../..
   # OECD data has changed format
-# stages:
-#   download:
-#     cmd: PYTHONPATH=${top} python download.py
-#     always_changed: true
-#     deps:
-#       - download.py
-#     outs:
-#       - ${top}/data/raw/oecd/lfs_by_sex_and_age.csv:
-#           cache: false
-#       - ${top}/data/raw/oecd/employment_rate_by_age_group.csv:
-#           cache: false
-#       - ${top}/data/raw/oecd/neet.csv:
-#           cache: false
-#       - ${top}/data/raw/oecd/wage_levels.csv:
-#           cache: false
-#   transform:
-#     frozen: true
-#     cmd: papermill --no-progress-bar --no-report-mode transform.ipynb ${top}/output/oecd-transform.ipynb
-#     deps:
-#       - transform.ipynb
-#       - ${top}/data/raw/oecd/
-#     outs:
-#       - ${top}/data/processed/oecd/lfs_by_sex_and_age.csv:
-#           cache: false
-#       - ${top}/data/processed/oecd/neet.csv:
-#           cache: false
-#       - ${top}/data/processed/oecd/wage_levels.csv:
-#           cache: false
+stages:
+  download:
+    cmd: PYTHONPATH=${top} python download.py
+    always_changed: true
+    deps:
+      - download.py
+    outs:
+      - ${top}/data/raw/oecd/lfs_by_sex_and_age.csv:
+          cache: false
+      - ${top}/data/raw/oecd/neet.csv:
+          cache: false
+      - ${top}/data/raw/oecd/wage_levels.csv:
+          cache: false
