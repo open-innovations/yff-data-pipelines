@@ -5,25 +5,21 @@ stages:
     deps:
     - path: download.py
       hash: md5
-      md5: 6c64821c5ee9a93c2d271053bc4bdc92
-      size: 2264
+      md5: 38376e2793d553ed4070fd13ff4b872a
+      size: 2876
     outs:
-    - path: ../../data/raw/oecd/employment_rate_by_age_group.csv
-      hash: md5
-      md5: 422e4e4705e0254e81e16ac0be7a4480
-      size: 1469892
     - path: ../../data/raw/oecd/lfs_by_sex_and_age.csv
       hash: md5
-      md5: 93706a0b4acd3051bd7c734d079439a2
+      md5: 7026faadc5f830a18643d10c9c03b0b4
       size: 14646241
     - path: ../../data/raw/oecd/neet.csv
       hash: md5
-      md5: b21d918b01028defcbbe0756448f7262
-      size: 435195
+      md5: 9e6babef70a79f41648d1f368cc6d68c
+      size: 238059
     - path: ../../data/raw/oecd/wage_levels.csv
       hash: md5
-      md5: ab1803623fcda221c1542c3bb1588936
-      size: 72501
+      md5: 8329b37e17a5cd59af592a22033002b9
+      size: 1199573
   transform:
     cmd: papermill --no-progress-bar --no-report-mode transform.ipynb ../../output/oecd-transform.ipynb
     deps:
@@ -49,3 +45,19 @@ stages:
       hash: md5
       md5: 5a3c4bc30dfacee031b8d18a252949b3
       size: 55196
+  transform-neet:
+    cmd: python transform-neet.py
+    deps:
+    - path: ../../data/raw/oecd/neet.csv
+      hash: md5
+      md5: 9e6babef70a79f41648d1f368cc6d68c
+      size: 238059
+    - path: transform-neet.py
+      hash: md5
+      md5: 1002aeb886a2c57070f64e50d88f9b6c
+      size: 526
+    outs:
+    - path: ../../data/processed/oecd/neet.csv
+      hash: md5
+      md5: 178a1099adcae644aae8906c213275fb
+      size: 36454
