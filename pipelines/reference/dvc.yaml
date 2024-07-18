@@ -1,0 +1,11 @@
+vars:
+  - TOP: ../..
+stages:
+  download:
+    cmd: PYTHONPATH=${TOP} python download.py
+    deps:
+      - download.py
+    outs:
+      - ${TOP}/data/reference/uk-constituencies-2023.hexjson:
+          cache: false
+          persist: false

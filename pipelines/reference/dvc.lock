@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  download:
+    cmd: PYTHONPATH=../.. python download.py
+    deps:
+    - path: download.py
+      hash: md5
+      md5: c8571ff8ac70afd05bca924a4ab75126
+      size: 1550
+    outs:
+    - path: ../../data/reference/uk-constituencies-2023.hexjson
+      hash: md5
+      md5: 1712389cc5a3a7c37fb1752124ff5fdd
+      size: 69992
