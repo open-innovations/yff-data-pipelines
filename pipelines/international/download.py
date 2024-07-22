@@ -33,7 +33,7 @@ def download():
     # https://data-explorer.oecd.org/vis?tm=neet&pg=0&snb=3&vw=tb&df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bid%5D=DSD_CWB%40DF_CWB&df%5Bag%5D=OECD.WISE.CWB&df%5Bvs%5D=1.0&dq=.A3_5.&lom=LASTNOBSERVATIONS&lo=5&pd=1997%2C&to%5BTIME_PERIOD%5D=false
     download_url_to_file(
         # 'https://stats.oecd.org/sdmx-json/data/DP_LIVE/.NEET.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en',
-        'https://sdmx.oecd.org/public/rest/data/OECD.WISE.CWB,DSD_CWB@DF_CWB,1.0/.A3_5.?dimensionAtObservation=AllDimensions&format=csvfilewithlabels',
+        'https://sdmx.oecd.org/archive/rest/data/OECD,DF_DP_LIVE,/.NEET.15_29_WOMEN+15_29_MEN+15_29..A?startPeriod=1950&endPeriod=2022&dimensionAtObservation=AllDimensions&format=csvfilewithlabels',
         local_file=output_dir / 'neet.csv'
     )
 
