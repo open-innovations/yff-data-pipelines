@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  process:
+    cmd: papermill neet.ipynb -
+    deps:
+    - path: ../../../data/raw/education/key-stage-4-performance.zip
+      hash: md5
+      md5: 9d96dbbaa9afba21ca19ebb58c78c44f
+      size: 10924962
+    outs:
+    - path: ../../../data/processed/areas/attainment_scores_pcon_2010.csv
+      hash: md5
+      md5: 1ef58b359286f2b8a928bd15c9504aaa
+      size: 24983

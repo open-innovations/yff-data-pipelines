@@ -1,0 +1,10 @@
+vars:
+  - TOP: ../../..
+stages:
+  process:
+    cmd: papermill neet.ipynb -
+    deps:
+      - ${TOP}/data/raw/education/key-stage-4-performance.zip
+    outs:
+      - ${TOP}/data/processed/areas/attainment_scores_pcon_2010.csv:
+          cache: false
