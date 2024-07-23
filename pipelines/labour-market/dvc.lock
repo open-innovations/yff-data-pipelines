@@ -5,17 +5,17 @@ stages:
     deps:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: a90939a7ca9192b9b56b5052b16c8325
-      size: 107122624
+      md5: 3a1807793c556dd9b66a9a00fd88531f
+      size: 223279333
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: 3017929cab60cc18e2ea49d9889839ad
-      size: 6420
+      md5: ba04bfbcf4b7f55ab6700068a01d784c
+      size: 232904
     outs:
-    - path: ../../data/processed/labour-market/most_recent_by_pcon_2010.csv
+    - path: ../../data/processed/labour-market/most_recent_by_pcon.csv
       hash: md5
-      md5: 0b507ad441f9c7f5fdfd26c0f3010d1b
-      size: 1182616
+      md5: 1d0071636f87d2336aa293a872827ea4
+      size: 2401777
   download-latest-monthly:
     cmd: python get-lms.py
     deps:
@@ -81,13 +81,13 @@ stages:
     deps:
     - path: download-from-nomis-api.py
       hash: md5
-      md5: 09e4dd8737a30270fd5d22969eda4c1c
-      size: 6586
+      md5: 354fbbe4cd4fc6574153a77b1ba26398
+      size: 12022
     outs:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: a90939a7ca9192b9b56b5052b16c8325
-      size: 107122624
+      md5: 3a1807793c556dd9b66a9a00fd88531f
+      size: 223279333
   process-lms:
     cmd: papermill --no-progress-bar --no-report-mode process-lms.ipynb ../../output/process-lms.ipynb
     deps:
@@ -129,8 +129,8 @@ stages:
       size: 1652825
     - path: process-x10.ipynb
       hash: md5
-      md5: 64cf88b52598cdb412dd415f4bd4d5ad
-      size: 3791
+      md5: 71bda47a6b698bd716037ba0c36d5c8e
+      size: 3725
     outs:
     - path: ../../data/metadata/codes/x10-codes.csv
       hash: md5
