@@ -14,7 +14,10 @@ stages:
       - latest-by-pcon.ipynb
       - ${top}/data/raw/lfs_by_pcon.csv
     outs:
-      - ${top}/data/processed/labour-market/most_recent_by_pcon.csv:
+      - ${top}/data/processed/labour-market/labour_market_by_pcon.parquet:
+          cache: false
+          persist: false
+      - ${top}/data/processed/labour-market/labour_market_by_pcon.csv:
           cache: false
           persist: false
 
