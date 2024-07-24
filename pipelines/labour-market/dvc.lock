@@ -5,7 +5,7 @@ stages:
     deps:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: 46d2a0306d4b9d43133241be60953d1f
+      md5: 29f7ed200f9486461296ba7f8d189c13
       size: 223279333
     - path: latest-by-pcon.ipynb
       hash: md5
@@ -14,8 +14,8 @@ stages:
     outs:
     - path: ../../data/processed/labour-market/most_recent_by_pcon.csv
       hash: md5
-      md5: 1ebbffa56627907095e39ca5b61b2838
-      size: 2402400
+      md5: 67bd40b362d8c3c707f571026008ba40
+      size: 2402983
   download-latest-monthly:
     cmd: python get-lms.py
     deps:
@@ -86,7 +86,7 @@ stages:
     outs:
     - path: ../../data/raw/lfs_by_pcon.csv
       hash: md5
-      md5: 46d2a0306d4b9d43133241be60953d1f
+      md5: 29f7ed200f9486461296ba7f8d189c13
       size: 223279333
   process-lms:
     cmd: papermill --no-progress-bar --no-report-mode process-lms.ipynb ../../output/process-lms.ipynb
