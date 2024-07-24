@@ -16800,60 +16800,65 @@ date,date_name,geography_name,geography_code,variable_name,variable_code,value,n
 2024-03-01,Apr 2023-Mar 2024,West Dunbartonshire,S14000106,Unemployment rate - aged 16-64,84,2.9,Normal Value
 2024-03-01,Apr 2023-Mar 2024,West Dunbartonshire,S14000106,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,% of economically inactive student,1493,12.8,Normal Value
-2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,% who are economically inactive - aged 16-19,112,47.7,Normal Value
+2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,% who are economically inactive - aged 16+,110,51.1,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,% who are economically inactive - aged 16-24,1219,48.9,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,% who are economically inactive - aged 16-64,111,34.6,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,% who are economically inactive - aged 20-24,113,49.7,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Economic activity rate - aged 16-19,19,52.3,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Economic activity rate - aged 16-64,18,65.4,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Economic activity rate - aged 20-24,20,50.3,Normal Value
+2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Unemployment rate - aged 16+,83,5.1,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Unemployment rate - aged 16-19,85,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Unemployment rate - aged 16-24,1213,32.7,Normal Value
-2023-06-01,Jul 2022-Jun 2023,"Ayr, Carrick and Cumnock",S14000107,Unemployment rate - aged 20-24,86,43.7,Normal Value
+2024-03-01,Apr 2023-Mar 2024,"Ayr, Carrick and Cumnock",S14000107,Unemployment rate - aged 16-64,84,5.5,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,% of economically inactive student,1493,16.7,Normal Value
-2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,% who are economically inactive - aged 16-19,112,82.3,Normal Value
+2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,% who are economically inactive - aged 16+,110,46.1,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,% who are economically inactive - aged 16-24,1219,39.0,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,% who are economically inactive - aged 16-64,111,23.8,Normal Value
 2023-09-01,Oct 2022-Sep 2023,"Berwickshire, Roxburgh and Selkirk",S14000108,% who are economically inactive - aged 20-24,113,18.0,Normal Value
 2023-12-01,Jan 2023-Dec 2023,"Berwickshire, Roxburgh and Selkirk",S14000108,Economic activity rate - aged 16-19,19,36.1,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,Economic activity rate - aged 16-64,18,76.2,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,Economic activity rate - aged 20-24,20,78.4,Normal Value
+2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,Unemployment rate - aged 16+,83,8.7,Normal Value
 2022-12-01,Jan 2022-Dec 2022,"Berwickshire, Roxburgh and Selkirk",S14000108,Unemployment rate - aged 16-19,85,27.7,Normal Value
 2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,Unemployment rate - aged 16-24,1213,39.0,Normal Value
-2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,Unemployment rate - aged 20-24,86,42.6,Normal Value
+2024-03-01,Apr 2023-Mar 2024,"Berwickshire, Roxburgh and Selkirk",S14000108,Unemployment rate - aged 16-64,84,9.2,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,% of economically inactive student,1493,12.5,Normal Value
-2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,% who are economically inactive - aged 16-19,112,38.6,Normal Value
+2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,% who are economically inactive - aged 16+,110,53.1,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,% who are economically inactive - aged 16-24,1219,44.4,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,% who are economically inactive - aged 16-64,111,32.4,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,% who are economically inactive - aged 20-24,113,48.2,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Economic activity rate - aged 16-19,19,61.4,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Economic activity rate - aged 16-64,18,67.6,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Economic activity rate - aged 20-24,20,51.8,Normal Value
+2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Unemployment rate - aged 16+,83,5.4,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Unemployment rate - aged 16-19,85,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Unemployment rate - aged 16-24,1213,19.9,Normal Value
-2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
+2024-03-01,Apr 2023-Mar 2024,Central Ayrshire,S14000109,Unemployment rate - aged 16-64,84,5.3,Normal Value
 2023-12-01,Jan 2023-Dec 2023,Kilmarnock and Loudoun,S14000110,% of economically inactive student,1493,11.9,Normal Value
-2023-12-01,Jan 2023-Dec 2023,Kilmarnock and Loudoun,S14000110,% who are economically inactive - aged 16-19,112,64.3,Normal Value
+2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,% who are economically inactive - aged 16+,110,45.3,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,% who are economically inactive - aged 16-24,1219,37.7,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,% who are economically inactive - aged 16-64,111,25.3,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,% who are economically inactive - aged 20-24,113,35.2,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,Economic activity rate - aged 16-19,19,57.8,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,Economic activity rate - aged 16-64,18,74.7,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,Economic activity rate - aged 20-24,20,64.8,Normal Value
+2023-06-01,Jul 2022-Jun 2023,Kilmarnock and Loudoun,S14000110,Unemployment rate - aged 16+,83,1.8,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,Unemployment rate - aged 16-19,85,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,Unemployment rate - aged 16-24,1213,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
-2024-03-01,Apr 2023-Mar 2024,Kilmarnock and Loudoun,S14000110,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
+2023-06-01,Jul 2022-Jun 2023,Kilmarnock and Loudoun,S14000110,Unemployment rate - aged 16-64,84,1.9,Normal Value
 2022-12-01,Jan 2022-Dec 2022,West Aberdeenshire and Kincardine,S14000111,% of economically inactive student,1493,16.4,Normal Value
-2022-12-01,Jan 2022-Dec 2022,West Aberdeenshire and Kincardine,S14000111,% who are economically inactive - aged 16-19,112,39.2,Normal Value
+2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,% who are economically inactive - aged 16+,110,26.8,Normal Value
 2023-03-01,Apr 2022-Mar 2023,West Aberdeenshire and Kincardine,S14000111,% who are economically inactive - aged 16-24,1219,27.6,Normal Value
 2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,% who are economically inactive - aged 16-64,111,12.5,Normal Value
 2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,% who are economically inactive - aged 20-24,113,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,Economic activity rate - aged 16-19,19,100.0,Normal Value
 2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,Economic activity rate - aged 16-64,18,87.5,Normal Value
 2023-09-01,Oct 2022-Sep 2023,West Aberdeenshire and Kincardine,S14000111,Economic activity rate - aged 20-24,20,76.7,Normal Value
+2022-12-01,Jan 2022-Dec 2022,West Aberdeenshire and Kincardine,S14000111,Unemployment rate - aged 16+,83,3.3,Normal Value
 2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,Unemployment rate - aged 16-19,85,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
 2022-03-01,Apr 2021-Mar 2022,West Aberdeenshire and Kincardine,S14000111,Unemployment rate - aged 16-24,1213,30.4,Normal Value
-2024-03-01,Apr 2023-Mar 2024,West Aberdeenshire and Kincardine,S14000111,Unemployment rate - aged 20-24,86,,Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2)
+2022-12-01,Jan 2022-Dec 2022,West Aberdeenshire and Kincardine,S14000111,Unemployment rate - aged 16-64,84,3.5,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Ynys Mon,W07000041,% of economically inactive student,1493,28.4,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Ynys Mon,W07000041,% who are economically inactive - aged 16+,110,43.0,Normal Value
 2024-03-01,Apr 2023-Mar 2024,Ynys Mon,W07000041,% who are economically inactive - aged 16-19,112,50.7,Normal Value
