@@ -9,17 +9,17 @@ stages:
       size: 296467459
     - path: latest-by-pcon.ipynb
       hash: md5
-      md5: ee0018f0453e5ed33c3c2bfcffd07e13
-      size: 251429
+      md5: 4bb7f2a3697dbdec0dc7f3484fdbdf8c
+      size: 6304
     outs:
     - path: ../../data/processed/labour-market/labour_market_by_pcon.csv
       hash: md5
-      md5: b695996aab2b99a0ad4837e8a678f1b5
-      size: 31733113
+      md5: 9be8a513166544e53345266be1ade0a0
+      size: 31717747
     - path: ../../data/processed/labour-market/labour_market_by_pcon.parquet
       hash: md5
-      md5: 7d05749697d979208456c01f75d28a63
-      size: 324894
+      md5: ba154f1ce44734715186b4a973d6f624
+      size: 324892
   download-latest-monthly:
     cmd: python get-lms.py
     deps:
