@@ -5,8 +5,8 @@ stages:
     deps:
     - path: download.py
       hash: md5
-      md5: 5348c2381e262116853c4107234a8e5d
-      size: 1549
+      md5: d517506b898f29f8eefd7ae659510813
+      size: 1568
     outs:
     - path: ../../data/reference/uk-constituencies-2023.hexjson
       hash: md5
