@@ -17,8 +17,8 @@ stages:
     deps:
     - path: nomis.py
       hash: md5
-      md5: 7c40270bf7ad1e4922e0def3948438b6
-      size: 17151
+      md5: 5634de69833ddf74af241cc7f0ea40fa
+      size: 17373
     outs:
     - path: ../data/raw/census-employment.csv
       hash: md5
