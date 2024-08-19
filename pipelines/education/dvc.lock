@@ -10,7 +10,7 @@ stages:
     outs:
     - path: ../../data/raw/education/16-18-destination-measures.zip
       hash: md5
-      md5: cd0693d60485056e9dc9a0d810c5a1d7
+      md5: 880e691bc67ea2daa6bdf06a6c2ac2b4
       size: 17304456
     - path: ../../data/raw/education/key-stage-4-performance.zip
       hash: md5
@@ -21,7 +21,7 @@ stages:
     deps:
     - path: ../../data/raw/education/
       hash: md5
-      md5: 7174cbb98070dd927535341cae9c2e32.dir
+      md5: 4337b20d0b646ceea3204af81047b37f.dir
       size: 28229418
       nfiles: 2
     - path: transform.ipynb
