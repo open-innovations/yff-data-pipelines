@@ -5,7 +5,7 @@ stages:
     deps:
     - path: ../../../data/raw/education/key-stage-4-performance.zip
       hash: md5
-      md5: a214b2f55aa0169a2cfb23c5c561bf68
+      md5: ff4e9d89890ae5667cb611743db510ec
       size: 10924962
     outs:
     - path: ../../../data/processed/areas/attainment_scores_pcon_2010.csv
