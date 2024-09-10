@@ -7,8 +7,8 @@ stages:
     deps:
     - path: ../../data/raw/unem.csv
       hash: md5
-      md5: c7c73616eeeb3f9ba7e5f29d3b44ebbc
-      size: 992899
+      md5: c77024dc6674bfd0fd24efb38e20e0df
+      size: 993322
     - path: process.ipynb
       hash: md5
       md5: 7252295e9f7ec2a8bf7f27667cb9551f
@@ -16,12 +16,12 @@ stages:
     outs:
     - path: ../../data/metadata/codes/unem-codes.csv
       hash: md5
-      md5: e0e14f8c23fdb59880b5fe2962fe6546
+      md5: c51406f3b1d46d935e76bf976fea8ef4
       size: 33842
     - path: ../../data/processed/unem.csv
       hash: md5
-      md5: 11b39ff1c5b5340bbd959c5a151259fe
-      size: 3725897
+      md5: 13ba7474b25c640f5e301db6af69c385
+      size: 3730421
   process@mm23:
     cmd: papermill process.ipynb ../../output/ons-process-mm23.ipynb -p dataset mm23
       -p url 
@@ -51,8 +51,8 @@ stages:
     deps:
     - path: ../../data/raw/lms.csv
       hash: md5
-      md5: 4751753e62530e1a4d89224087fe68f6
-      size: 5760888
+      md5: cf1f1fb912ac58fb4662d5dc3b62362e
+      size: 5765962
     - path: process.ipynb
       hash: md5
       md5: 7252295e9f7ec2a8bf7f27667cb9551f
@@ -60,12 +60,12 @@ stages:
     outs:
     - path: ../../data/metadata/codes/lms-codes.csv
       hash: md5
-      md5: a2f5a546b53594b76fd53137c17828ad
+      md5: 6d9ec056c7c01af46321c4626d5462be
       size: 176969
     - path: ../../data/processed/lms.csv
       hash: md5
-      md5: 2e44ea778966f5a6c12e79749e876228
-      size: 18771940
+      md5: 18090607af76b552e486802b220490ae
+      size: 18806212
   download@mm23:
     cmd: PYTHONPATH=../.. python download.py mm23 
       https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/consumerpriceindices/current/mm23.csv
@@ -90,8 +90,8 @@ stages:
     outs:
     - path: ../../data/raw/unem.csv
       hash: md5
-      md5: c7c73616eeeb3f9ba7e5f29d3b44ebbc
-      size: 992899
+      md5: c77024dc6674bfd0fd24efb38e20e0df
+      size: 993322
   download@lms:
     cmd: PYTHONPATH=../.. python download.py lms 
       https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics/current/lms.csv
@@ -103,5 +103,5 @@ stages:
     outs:
     - path: ../../data/raw/lms.csv
       hash: md5
-      md5: 4751753e62530e1a4d89224087fe68f6
-      size: 5760888
+      md5: cf1f1fb912ac58fb4662d5dc3b62362e
+      size: 5765962

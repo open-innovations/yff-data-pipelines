@@ -1,19 +1,19 @@
 date,Sector,key_youth_sectors,wanted_youth_sectors,variable,value
-2024-05-01,Water supply sewerage waste & remediation activities,False,False,Growth since previous quarter (%),25.4
-2024-05-01,Professional scientific & technical activities,False,True,Growth since previous quarter (%),1.2
-2024-05-01,Manufacturing,False,False,Growth since previous quarter (%),1.1
-2024-05-01,Human health & social work activities,True,False,Growth since previous quarter (%),-2.3
-2024-05-01,Education,False,False,Growth since previous quarter (%),-4.0
-2024-05-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),-4.7
-2024-05-01,Accommodation & food service activities,True,False,Growth since previous quarter (%),-7.9
-2024-05-01,Electricity gas steam & air conditioning supply,False,False,Growth since previous quarter (%),-12.2
-2024-05-01,Real estate activities,False,False,Growth since previous quarter (%),-13.5
-2024-05-01,Water supply sewerage waste & remediation activities,False,False,Growth since pre-coronavirus January to March 2020 (%),1.4
-2024-05-01,Professional scientific & technical activities,False,True,Growth since pre-coronavirus January to March 2020 (%),-7.4
-2024-05-01,Manufacturing,False,False,Growth since pre-coronavirus January to March 2020 (%),-12.3
-2024-05-01,Human health & social work activities,True,False,Growth since pre-coronavirus January to March 2020 (%),-13.0
-2024-05-01,Education,False,False,Growth since pre-coronavirus January to March 2020 (%),-10.7
-2024-05-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),-21.4
-2024-05-01,Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),-20.3
-2024-05-01,Electricity gas steam & air conditioning supply,False,False,Growth since pre-coronavirus January to March 2020 (%),-33.8
-2024-05-01,Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),2.9
+2024-06-01,Real estate activities,False,False,Growth since previous quarter (%),-15.8
+2024-06-01,Administrative & support service activities,False,False,Growth since previous quarter (%),-15.6
+2024-06-01,Human health & social work activities,True,False,Growth since previous quarter (%),-4.8
+2024-06-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since previous quarter (%),-2.8
+2024-06-01,Construction,False,False,Growth since previous quarter (%),-2.4
+2024-06-01,Electricity gas steam & air conditioning supply,False,False,Growth since previous quarter (%),-2.2
+2024-06-01,Accommodation & food service activities,True,False,Growth since previous quarter (%),-2.1
+2024-06-01,Manufacturing,False,False,Growth since previous quarter (%),-1.9
+2024-06-01,Professional scientific & technical activities,False,True,Growth since previous quarter (%),-1.3
+2024-06-01,Real estate activities,False,False,Growth since pre-coronavirus January to March 2020 (%),5.8
+2024-06-01,Administrative & support service activities,False,False,Growth since pre-coronavirus January to March 2020 (%),-6.0
+2024-06-01,Human health & social work activities,True,False,Growth since pre-coronavirus January to March 2020 (%),-14.6
+2024-06-01,Wholesale & retail trade; repair of motor vehicles and motor cycles,False,False,Growth since pre-coronavirus January to March 2020 (%),-21.6
+2024-06-01,Construction,False,False,Growth since pre-coronavirus January to March 2020 (%),1.1
+2024-06-01,Electricity gas steam & air conditioning supply,False,False,Growth since pre-coronavirus January to March 2020 (%),-29.0
+2024-06-01,Accommodation & food service activities,True,False,Growth since pre-coronavirus January to March 2020 (%),-17.5
+2024-06-01,Manufacturing,False,False,Growth since pre-coronavirus January to March 2020 (%),-12.9
+2024-06-01,Professional scientific & technical activities,False,True,Growth since pre-coronavirus January to March 2020 (%),-7.8
