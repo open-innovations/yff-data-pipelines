@@ -14,14 +14,14 @@ stages:
       size: 17304241
     - path: ../../data/raw/education/key-stage-4-performance.zip
       hash: md5
-      md5: bc15973fe6d6b79dd0ff4c7cf6cc6351
+      md5: f24a6e3bef40bd244682650f26923d0b
       size: 10924962
   transform:
     cmd: papermill transform.ipynb ../../output/education-transform.ipynb
     deps:
     - path: ../../data/raw/education/
       hash: md5
-      md5: 03bc0d13be8d9fa3eb5d6c9c2c8587cb.dir
+      md5: ff3df41fcd7c973d4e30f752519584f5.dir
       size: 28229203
       nfiles: 2
     - path: transform.ipynb
