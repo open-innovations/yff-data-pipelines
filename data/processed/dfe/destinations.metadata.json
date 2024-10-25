@@ -4,7 +4,8 @@
     201819,
     201920,
     202021,
-    202122
+    202122,
+    202223
   ],
   "lad_code":[
     "E06000001",
@@ -335,7 +336,7 @@
     "E09000033"
   ],
   "breakdown_topic":[
-    "Disadvantage Y11 Status",
+    "Disadvantage status",
     "Total"
   ],
   "breakdown":[
@@ -348,6 +349,7 @@
     "Percentage"
   ],
   "version":[
+    "Provisional",
     "Revised"
   ],
   "variable":[
