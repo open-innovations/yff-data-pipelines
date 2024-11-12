@@ -26,8 +26,8 @@ stages:
       size: 7596612
     - path: ../data/raw/claimants-by-pcon-2010-latest.csv
       hash: md5
-      md5: 8733afcf1ac1f8f55f5a9d68acd81021
-      size: 427370
+      md5: f6607e3960248ad559611eba9434310d
+      size: 424769
     - path: ../data/raw/population-estimates-by-pcon-2010-latest.csv
       hash: md5
       md5: 9aac6feb9b7be6aab6a9a63a1175ffb7
@@ -74,7 +74,7 @@ stages:
     deps:
     - path: ../data/metadata/codes/
       hash: md5
-      md5: 9d73b23628948b24f46dcfe6aefddd05.dir
+      md5: 1b5b102b230063d2db3e8c8349f5dc85.dir
       size: 596924
       nfiles: 5
     - path: metadata.ipynb
@@ -84,5 +84,5 @@ stages:
     outs:
     - path: ../data/metadata/metadata.csv
       hash: md5
-      md5: c011c322af5151f2fdfec9f085a9ef65
+      md5: b47172f55986c3079c3802f02a21718c
       size: 201

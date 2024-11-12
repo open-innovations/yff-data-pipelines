@@ -5,8 +5,8 @@ stages:
     deps:
     - path: ../../data/raw/claimants-by-pcon-2010-latest.csv
       hash: md5
-      md5: 8733afcf1ac1f8f55f5a9d68acd81021
-      size: 427370
+      md5: f6607e3960248ad559611eba9434310d
+      size: 424769
     - path: ../../data/raw/population-estimates-by-pcon-2010-latest.csv
       hash: md5
       md5: 9aac6feb9b7be6aab6a9a63a1175ffb7
@@ -18,5 +18,5 @@ stages:
     outs:
     - path: ../../data/processed/claimants/claimants-per-population-latest.csv
       hash: md5
-      md5: e526d6cb9e143050305599acac941066
-      size: 93656
+      md5: 6cb320ccd5b774a267097ca448b29dcd
+      size: 93675
