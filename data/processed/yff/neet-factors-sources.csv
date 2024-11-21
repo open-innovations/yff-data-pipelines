@@ -4325,65 +4325,65 @@ E09000030,Tower Hamlets,London Cosmopolitan,School Absences,6.150389244654967
 E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Absences,6.770535098870899
 E09000032,Wandsworth,London Cosmopolitan,School Absences,6.493081099420249
 E09000033,Westminster,,School Absences,7.345093911410758
-E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10480807022140706
-E06000002,Middlesbrough,Manufacturing Traits,School Exclusions,0.17743080198722497
-E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Exclusions,0.3067769824300456
-E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Exclusions,0.11802341833090038
-E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Exclusions,0.18782870022539444
-E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Exclusions,0.14179182858943387
-E06000007,Warrington,Town Living,School Exclusions,0.03369788316024876
-E06000008,Blackburn with Darwen,Manufacturing Traits,School Exclusions,0.0651206541007923
-E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Exclusions,0.12713588283157037
-E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Exclusions,0.04963482946890732
-E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Exclusions,0.07903749890225696
-E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10365701965337093
-E06000013,North Lincolnshire,Country Living,School Exclusions,0.08476628723661904
-E06000014,York,Larger Towns and Cities,School Exclusions,0.043130489335006274
-E06000015,Derby,Manufacturing Traits,School Exclusions,0.04554771122751082
-E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03369101965870997
-E06000017,Rutland,English and Welsh Countryside,School Exclusions,0.1520013511231211
-E06000018,Nottingham,University Towns and Cities,School Exclusions,0.17899512966740208
-E06000019,"Herefordshire, County of",English and Welsh Countryside,School Exclusions,0.10617965597791462
-E06000020,Telford and Wrekin,Manufacturing Traits,School Exclusions,0.08940259906127271
-E06000021,Stoke-on-Trent,Manufacturing Traits,School Exclusions,0.13789706968726914
-E06000022,Bath and North East Somerset,Larger Towns and Cities,School Exclusions,0.04713218765861794
-E06000023,"Bristol, City of",Larger Towns and Cities,School Exclusions,0.02275978670828456
-E06000024,North Somerset,English and Welsh Countryside,School Exclusions,0.08015903552648454
-E06000025,South Gloucestershire,Town Living,School Exclusions,0.06947546027492432
-E06000026,Plymouth,Larger Towns and Cities,School Exclusions,0.11480763343198286
-E06000027,Torbay,Remoter Coastal Living,School Exclusions,0.19824552708529514
-E06000030,Swindon,Suburban Traits,School Exclusions,0.10966716016888743
-E06000031,Peterborough,Suburban Traits,School Exclusions,0.11529688949043787
-E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Exclusions,0.04539722572509458
-E06000033,Southend-on-Sea,Manufacturing Traits,School Exclusions,0.03232375472734913
-E06000034,Thurrock,Suburban Traits,School Exclusions,0.05826374053214216
-E06000035,Medway,Suburban Traits,School Exclusions,0.07783535773540075
-E06000036,Bracknell Forest,Rural-Urban Fringe,School Exclusions,0.005360780529645117
-E06000037,West Berkshire,Thriving Rural,School Exclusions,0.06366087477531457
-E06000038,Reading,University Towns and Cities,School Exclusions,0.06355124348599754
-E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Exclusions,0.07555152614082805
-E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Exclusions,0.12452192475317975
-E06000041,Wokingham,Thriving Rural,School Exclusions,0.04129955947136564
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03503240497460151
+E06000002,Middlesbrough,Manufacturing Traits,School Exclusions,0.059247946071202866
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10227325554367533
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Exclusions,0.039305736568816065
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Exclusions,0.06271427376870976
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Exclusions,0.04901274331326144
+E06000007,Warrington,Town Living,School Exclusions,0.011227812311806555
+E06000008,Blackburn with Darwen,Manufacturing Traits,School Exclusions,0.021711073853836225
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Exclusions,0.04238006441769792
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Exclusions,0.01658060542896395
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Exclusions,0.026352775825720307
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03457910315638053
+E06000013,North Lincolnshire,Country Living,School Exclusions,0.028252387999461857
+E06000014,York,Larger Towns and Cities,School Exclusions,0.014376829778335425
+E06000015,Derby,Manufacturing Traits,School Exclusions,0.015187874001397286
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Exclusions,0.011226305478998388
+E06000017,Rutland,English and Welsh Countryside,School Exclusions,0.05053624571845696
+E06000018,Nottingham,University Towns and Cities,School Exclusions,0.059650972449574124
+E06000019,"Herefordshire, County of",English and Welsh Countryside,School Exclusions,0.03536067892503536
+E06000020,Telford and Wrekin,Manufacturing Traits,School Exclusions,0.029821179427646366
+E06000021,Stoke-on-Trent,Manufacturing Traits,School Exclusions,0.045972859593961135
+E06000022,Bath and North East Somerset,Larger Towns and Cities,School Exclusions,0.0157187076804024
+E06000023,"Bristol, City of",Larger Towns and Cities,School Exclusions,0.007580351728320194
+E06000024,North Somerset,English and Welsh Countryside,School Exclusions,0.02677835023939845
+E06000025,South Gloucestershire,Town Living,School Exclusions,0.023125970464832005
+E06000026,Plymouth,Larger Towns and Cities,School Exclusions,0.03825652273712668
+E06000027,Torbay,Remoter Coastal Living,School Exclusions,0.06603493247928155
+E06000030,Swindon,Suburban Traits,School Exclusions,0.03649934757416211
+E06000031,Peterborough,Suburban Traits,School Exclusions,0.03849243539965189
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Exclusions,0.01512884734993024
+E06000033,Southend-on-Sea,Manufacturing Traits,School Exclusions,0.01079260922120532
+E06000034,Thurrock,Suburban Traits,School Exclusions,0.019435086810054417
+E06000035,Medway,Suburban Traits,School Exclusions,0.02597970848032379
+E06000036,Bracknell Forest,Rural-Urban Fringe,School Exclusions,0.0017891648178630217
+E06000037,West Berkshire,Thriving Rural,School Exclusions,0.021209966188818603
+E06000038,Reading,University Towns and Cities,School Exclusions,0.021167903813045074
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Exclusions,0.02519780275160006
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Exclusions,0.041527623285131626
+E06000041,Wokingham,Thriving Rural,School Exclusions,0.013768257282834425
 E06000042,Milton Keynes,Suburban Traits,School Exclusions,0.0
-E06000043,Brighton and Hove,University Towns and Cities,School Exclusions,0.012739259212076817
-E06000044,Portsmouth,Larger Towns and Cities,School Exclusions,0.03308701885960075
-E06000045,Southampton,Larger Towns and Cities,School Exclusions,0.04494516689638641
-E06000046,Isle of Wight,Remoter Coastal Living,School Exclusions,0.04156275976724855
-E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10350557023397705
-E06000049,Cheshire East,Country Living,School Exclusions,0.05870214885441867
-E06000050,Cheshire West and Chester,Town Living,School Exclusions,0.0836055374086172
-E06000051,Shropshire,English and Welsh Countryside,School Exclusions,0.13626040878122633
-E06000052,Cornwall,,School Exclusions,0.10750809670353298
+E06000043,Brighton and Hove,University Towns and Cities,School Exclusions,0.004251745873149162
+E06000044,Portsmouth,Larger Towns and Cities,School Exclusions,0.01103157481859188
+E06000045,Southampton,Larger Towns and Cities,School Exclusions,0.014986512139074832
+E06000046,Isle of Wight,Remoter Coastal Living,School Exclusions,0.013856447206936143
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Exclusions,0.034506242905788874
+E06000049,Cheshire East,Country Living,School Exclusions,0.019588406037977762
+E06000050,Cheshire West and Chester,Town Living,School Exclusions,0.02788929894085523
+E06000051,Shropshire,English and Welsh Countryside,School Exclusions,0.04541517034893989
+E06000052,Cornwall,,School Exclusions,0.03581453443343645
 E06000053,Isles of Scilly,,School Exclusions,0.0
-E06000054,Wiltshire,Country Living,School Exclusions,0.004254957024934048
-E06000055,Bedford,Suburban Traits,School Exclusions,0.1638055300746953
-E06000056,Central Bedfordshire,Thriving Rural,School Exclusions,0.09441857470869724
-E06000057,Northumberland,English and Welsh Countryside,School Exclusions,0.17327981399837689
-E06000058,"Bournemouth, Christchurch and Poole",,School Exclusions,0.14413047600986156
-E06000059,Dorset,,School Exclusions,0.049540716276189486
-E06000060,Buckinghamshire,,School Exclusions,0.018189672813260272
-E06000061,North Northamptonshire,,School Exclusions,0.12101071035093107
-E06000062,West Northamptonshire,,School Exclusions,0.06322635033419642
+E06000054,Wiltshire,Country Living,School Exclusions,0.001417635384179189
+E06000055,Bedford,Suburban Traits,School Exclusions,0.05467647927214671
+E06000056,Central Bedfordshire,Thriving Rural,School Exclusions,0.031499896193523905
+E06000057,Northumberland,English and Welsh Countryside,School Exclusions,0.05780346820809249
+E06000058,"Bournemouth, Christchurch and Poole",,School Exclusions,0.048073881965968755
+E06000059,Dorset,,School Exclusions,0.016508233481448874
+E06000060,Buckinghamshire,,School Exclusions,0.006073765886693897
+E06000061,North Northamptonshire,,School Exclusions,0.04033787485625869
+E06000062,West Northamptonshire,,School Exclusions,0.021079363804724787
 E07000008,Cambridge,University Towns and Cities,School Exclusions,
 E07000009,East Cambridgeshire,Country Living,School Exclusions,
 E07000010,Fenland,Country Living,School Exclusions,
@@ -4565,134 +4565,134 @@ E07000243,Stevenage,Suburban Traits,School Exclusions,
 E07000244,East Suffolk,,School Exclusions,
 E07000245,West Suffolk,,School Exclusions,
 E07000246,Somerset West and Taunton,,School Exclusions,
-E08000001,Bolton,Manufacturing Traits,School Exclusions,0.14235821122162326
-E08000002,Bury,Manufacturing Traits,School Exclusions,0.14047349847534862
-E08000003,Manchester,University Towns and Cities,School Exclusions,0.07762022936231155
-E08000004,Oldham,Manufacturing Traits,School Exclusions,0.07900280898876404
-E08000005,Rochdale,Manufacturing Traits,School Exclusions,0.1974807856532878
-E08000006,Salford,Manufacturing Traits,School Exclusions,0.09856153436334576
-E08000007,Stockport,Town Living,School Exclusions,0.12981593954286244
-E08000008,Tameside,Manufacturing Traits,School Exclusions,0.18997672116233644
-E08000009,Trafford,Suburban Traits,School Exclusions,0.09680765241442894
-E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Exclusions,0.158955910650046
-E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.09897723523589574
-E08000012,Liverpool,Larger Towns and Cities,School Exclusions,0.11442550505050506
-E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Exclusions,0.09193542455779061
-E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Exclusions,0.07970509116269801
-E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Exclusions,0.07476782622383127
-E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.20227343950314805
-E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Exclusions,0.08984913703038154
-E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Exclusions,0.11615958539963366
-E08000019,Sheffield,Larger Towns and Cities,School Exclusions,0.11020735753902179
-E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Exclusions,0.10774314035339749
-E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Exclusions,0.12228873012808136
-E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Exclusions,0.09797372522823425
-E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Exclusions,0.11604365216532518
-E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.10491473830422318
-E08000026,Coventry,Larger Towns and Cities,School Exclusions,0.08751458576429405
-E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.1402319058981121
-E08000028,Sandwell,Manufacturing Traits,School Exclusions,0.08681811604688178
-E08000029,Solihull,Town Living,School Exclusions,0.09165448735415789
-E08000030,Walsall,Manufacturing Traits,School Exclusions,0.09339915750147723
-E08000031,Wolverhampton,Manufacturing Traits,School Exclusions,0.16412174093694817
-E08000032,Bradford,Manufacturing Traits,School Exclusions,0.0647578058062845
-E08000033,Calderdale,Manufacturing Traits,School Exclusions,0.17189631650750342
-E08000034,Kirklees,Manufacturing Traits,School Exclusions,0.07571371308956487
-E08000035,Leeds,Larger Towns and Cities,School Exclusions,0.00617250611463887
-E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Exclusions,0.0960916566571191
-E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Exclusions,0.10069794090072572
+E08000001,Bolton,Manufacturing Traits,School Exclusions,0.04746835443037974
+E08000002,Bury,Manufacturing Traits,School Exclusions,0.04689358587244945
+E08000003,Manchester,University Towns and Cities,School Exclusions,0.026015616698361745
+E08000004,Oldham,Manufacturing Traits,School Exclusions,0.026361266512404443
+E08000005,Rochdale,Manufacturing Traits,School Exclusions,0.06582224436063473
+E08000006,Salford,Manufacturing Traits,School Exclusions,0.03282207772622839
+E08000007,Stockport,Town Living,School Exclusions,0.04328468958694039
+E08000008,Tameside,Manufacturing Traits,School Exclusions,0.06342740242453479
+E08000009,Trafford,Suburban Traits,School Exclusions,0.032303716465665766
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Exclusions,0.05336104362967435
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03301263912469345
+E08000012,Liverpool,Larger Towns and Cities,School Exclusions,0.03825487419862634
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Exclusions,0.032218890183152
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Exclusions,0.026592208482914506
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Exclusions,0.024940765681506424
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.06752515549806935
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Exclusions,0.029987725954028117
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03873630261991493
+E08000019,Sheffield,Larger Towns and Cities,School Exclusions,0.03675501186547666
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Exclusions,0.03591724666368687
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Exclusions,0.04077253218884121
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03264821547822216
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Exclusions,0.038722646981281306
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03497852843852893
+E08000026,Coventry,Larger Towns and Cities,School Exclusions,0.02917069431972225
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Exclusions,0.04678411574529889
+E08000028,Sandwell,Manufacturing Traits,School Exclusions,0.028981462597812438
+E08000029,Solihull,Town Living,School Exclusions,0.03058255637109039
+E08000030,Walsall,Manufacturing Traits,School Exclusions,0.031174846352542977
+E08000031,Wolverhampton,Manufacturing Traits,School Exclusions,0.05471255133630212
+E08000032,Bradford,Manufacturing Traits,School Exclusions,0.02159052408506002
+E08000033,Calderdale,Manufacturing Traits,School Exclusions,0.05731753916698509
+E08000034,Kirklees,Manufacturing Traits,School Exclusions,0.025253525590239266
+E08000035,Leeds,Larger Towns and Cities,School Exclusions,0.0020588999812125378
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03208945552833437
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Exclusions,0.03358230559898095
 E09000001,City of London,,School Exclusions,0.0
-E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.035664133027216195
-E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Exclusions,0.019585441488493553
-E09000004,Bexley,Suburban Traits,School Exclusions,0.06608782844511292
-E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03549801628732512
-E09000006,Bromley,Rural-Urban Fringe,School Exclusions,0.06584640854874516
-E09000007,Camden,London Cosmopolitan,School Exclusions,0.05925520762113132
-E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Exclusions,0.026136957658128592
-E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Exclusions,0.0684880793721309
-E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Exclusions,0.01591793420587195
-E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Exclusions,0.024986938645707925
-E09000012,Hackney,London Cosmopolitan,School Exclusions,0.08779117406063444
-E09000013,Hammersmith and Fulham,London Cosmopolitan,School Exclusions,0.03452357466956007
-E09000014,Haringey,London Cosmopolitan,School Exclusions,0.015838238787846792
-E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Exclusions,0.06245283509849332
-E09000016,Havering,Suburban Traits,School Exclusions,0.009658802791394007
-E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Exclusions,0.07042253521126761
-E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Exclusions,0.07937557878026194
-E09000019,Islington,London Cosmopolitan,School Exclusions,0.04619713577758179
-E09000020,Kensington and Chelsea,London Cosmopolitan,School Exclusions,0.037383177570093455
-E09000021,Kingston upon Thames,University Towns and Cities,School Exclusions,0.029720994167254895
-E09000022,Lambeth,London Cosmopolitan,School Exclusions,0.03831312771954791
-E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.03903099060654159
-E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Exclusions,0.01790638541703972
-E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.031626553654448275
-E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Exclusions,0.06013642377278741
-E09000027,Richmond upon Thames,Rural-Urban Fringe,School Exclusions,0.017572221831728404
-E09000028,Southwark,London Cosmopolitan,School Exclusions,0.01175972529281716
-E09000029,Sutton,Suburban Traits,School Exclusions,0.1106874923133686
-E09000030,Tower Hamlets,London Cosmopolitan,School Exclusions,0.019568620629674727
-E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Exclusions,0.059170197155096915
-E09000032,Wandsworth,London Cosmopolitan,School Exclusions,0.029840057292910005
-E09000033,Westminster,,School Exclusions,0.01827151470856934
-E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Suspensions,14.181842001834141
-E06000002,Middlesbrough,Manufacturing Traits,School Suspensions,27.411087453670845
-E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Suspensions,24.2167890675839
-E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Suspensions,10.858154486442837
-E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Suspensions,11.10693713999499
-E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Suspensions,4.936456254595106
-E06000007,Warrington,Town Living,School Suspensions,5.2721869926171
-E06000008,Blackburn with Darwen,Manufacturing Traits,School Suspensions,5.491841829166817
-E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Suspensions,10.338689991863303
-E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Suspensions,8.974449880640053
-E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Suspensions,5.5919030473346805
-E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Suspensions,8.396218591923045
-E06000013,North Lincolnshire,Country Living,School Suspensions,9.469605231290869
-E06000014,York,Larger Towns and Cities,School Suspensions,7.888958594730239
-E06000015,Derby,Manufacturing Traits,School Suspensions,6.939193805511273
-E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Suspensions,4.7133736502535255
-E06000017,Rutland,English and Welsh Countryside,School Suspensions,3.9013680121601078
-E06000018,Nottingham,University Towns and Cities,School Suspensions,16.078341589310245
-E06000019,"Herefordshire, County of",English and Welsh Countryside,School Suspensions,5.474623062221278
-E06000020,Telford and Wrekin,Manufacturing Traits,School Suspensions,11.858616175484531
-E06000021,Stoke-on-Trent,Manufacturing Traits,School Suspensions,12.826889928589017
-E06000022,Bath and North East Somerset,Larger Towns and Cities,School Suspensions,8.215502864186789
-E06000023,"Bristol, City of",Larger Towns and Cities,School Suspensions,10.617440499414748
-E06000024,North Somerset,English and Welsh Countryside,School Suspensions,5.194305502116198
-E06000025,South Gloucestershire,Town Living,School Suspensions,8.431343357649745
-E06000026,Plymouth,Larger Towns and Cities,School Suspensions,10.049494846412898
-E06000027,Torbay,Remoter Coastal Living,School Suspensions,10.7300391534916
-E06000030,Swindon,Suburban Traits,School Suspensions,6.127652574436585
-E06000031,Peterborough,Suburban Traits,School Suspensions,9.208712434518885
-E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Suspensions,4.403530895334174
-E06000033,Southend-on-Sea,Manufacturing Traits,School Suspensions,5.372208035685425
-E06000034,Thurrock,Suburban Traits,School Suspensions,4.988023564446171
-E06000035,Medway,Suburban Traits,School Suspensions,7.865467729051023
-E06000036,Bracknell Forest,Rural-Urban Fringe,School Suspensions,6.180979950680819
-E06000037,West Berkshire,Thriving Rural,School Suspensions,6.002846015578191
-E06000038,Reading,University Towns and Cities,School Suspensions,5.596746176333517
-E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Suspensions,3.8168631006346327
-E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Suspensions,4.860802276972338
-E06000041,Wokingham,Thriving Rural,School Suspensions,1.7793226872246697
-E06000042,Milton Keynes,Suburban Traits,School Suspensions,7.852296293313469
-E06000043,Brighton and Hove,University Towns and Cities,School Suspensions,4.879136278225421
-E06000044,Portsmouth,Larger Towns and Cities,School Suspensions,6.514466379912504
-E06000045,Southampton,Larger Towns and Cities,School Suspensions,5.782944807335051
-E06000046,Isle of Wight,Remoter Coastal Living,School Suspensions,7.510984443652773
-E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Suspensions,6.445945577860704
-E06000049,Cheshire East,Country Living,School Suspensions,6.236658602533087
-E06000050,Cheshire West and Chester,Town Living,School Suspensions,5.002722040752839
-E06000051,Shropshire,English and Welsh Countryside,School Suspensions,8.082260913449407
-E06000052,Cornwall,,School Suspensions,6.2300942039697365
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.011882305761433006
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Exclusions,0.006531287588920759
+E09000004,Bexley,Suburban Traits,School Exclusions,0.022029443490679264
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Exclusions,0.011833413382894453
+E09000006,Bromley,Rural-Urban Fringe,School Exclusions,0.021961611103790572
+E09000007,Camden,London Cosmopolitan,School Exclusions,0.019792332754788224
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Exclusions,0.008713179555395491
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Exclusions,0.022822318994337596
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Exclusions,0.005306134481030569
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Exclusions,0.008335038227516234
+E09000012,Hackney,London Cosmopolitan,School Exclusions,0.029252881408818765
+E09000013,Hammersmith and Fulham,London Cosmopolitan,School Exclusions,0.011497084667816376
+E09000014,Haringey,London Cosmopolitan,School Exclusions,0.005278484019389631
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Exclusions,0.02081165452653486
+E09000016,Havering,Suburban Traits,School Exclusions,0.0032207156430158783
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Exclusions,0.02350564453112592
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Exclusions,0.02644181332079796
+E09000019,Islington,London Cosmopolitan,School Exclusions,0.01539408866995074
+E09000020,Kensington and Chelsea,London Cosmopolitan,School Exclusions,0.012436882819690073
+E09000021,Kingston upon Thames,University Towns and Cities,School Exclusions,0.00990148027130056
+E09000022,Lambeth,London Cosmopolitan,School Exclusions,0.012771159073908522
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.01301461975619279
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Exclusions,0.00597186059288632
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Exclusions,0.010537518835814918
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Exclusions,0.02003617961576332
+E09000027,Richmond upon Thames,Rural-Urban Fringe,School Exclusions,0.00584644886695821
+E09000028,Southwark,London Cosmopolitan,School Exclusions,0.003923445726975259
+E09000029,Sutton,Suburban Traits,School Exclusions,0.03693004628565801
+E09000030,Tower Hamlets,London Cosmopolitan,School Exclusions,0.006534808747930644
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Exclusions,0.019729780920512658
+E09000032,Wandsworth,London Cosmopolitan,School Exclusions,0.00994648789512423
+E09000033,Westminster,,School Exclusions,0.006102677549774963
+E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",School Suspensions,4.740322298125766
+E06000002,Middlesbrough,Manufacturing Traits,School Suspensions,9.15314935748894
+E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",School Suspensions,8.073388808826492
+E06000004,Stockton-on-Tees,"Services, Manufacturing and Mining Legacy",School Suspensions,3.6161277643310785
+E06000005,Darlington,"Services, Manufacturing and Mining Legacy",School Suspensions,3.708504055523037
+E06000006,Halton,"Services, Manufacturing and Mining Legacy",School Suspensions,1.8012183167623583
+E06000007,Warrington,Town Living,School Suspensions,1.7566422716926438
+E06000008,Blackburn with Darwen,Manufacturing Traits,School Suspensions,1.8309672283401883
+E06000009,Blackpool,"Services, Manufacturing and Mining Legacy",School Suspensions,3.4463468384471945
+E06000010,"Kingston upon Hull, City of",Manufacturing Traits,School Suspensions,2.997931372084577
+E06000011,East Riding of Yorkshire,English and Welsh Countryside,School Suspensions,1.8644588896697118
+E06000012,North East Lincolnshire,"Services, Manufacturing and Mining Legacy",School Suspensions,2.8009073556668236
+E06000013,North Lincolnshire,Country Living,School Suspensions,3.156195345082739
+E06000014,York,Larger Towns and Cities,School Suspensions,2.629652864910079
+E06000015,Derby,Manufacturing Traits,School Suspensions,2.313872604112876
+E06000016,Leicester,Ethnically Diverse Metropolitan  Living,School Suspensions,1.568314875416075
+E06000017,Rutland,English and Welsh Countryside,School Suspensions,1.2970969734403952
+E06000018,Nottingham,University Towns and Cities,School Suspensions,5.358183281080931
+E06000019,"Herefordshire, County of",English and Welsh Countryside,School Suspensions,1.823196605374823
+E06000020,Telford and Wrekin,Manufacturing Traits,School Suspensions,3.9555664426528065
+E06000021,Stoke-on-Trent,Manufacturing Traits,School Suspensions,4.276296886159706
+E06000022,Bath and North East Somerset,Larger Towns and Cities,School Suspensions,2.7398916618301414
+E06000023,"Bristol, City of",Larger Towns and Cities,School Suspensions,3.5362340812613704
+E06000024,North Somerset,English and Welsh Countryside,School Suspensions,1.7352370955130196
+E06000025,South Gloucestershire,Town Living,School Suspensions,2.806501701410684
+E06000026,Plymouth,Larger Towns and Cities,School Suspensions,3.3487209569231555
+E06000027,Torbay,Remoter Coastal Living,School Suspensions,3.5741407204411137
+E06000030,Swindon,Suburban Traits,School Suspensions,2.039401045706308
+E06000031,Peterborough,Suburban Traits,School Suspensions,3.0743740795287184
+E06000032,Luton,Ethnically Diverse Metropolitan  Living,School Suspensions,1.4674981929432331
+E06000033,Southend-on-Sea,Manufacturing Traits,School Suspensions,1.7937316525643239
+E06000034,Thurrock,Suburban Traits,School Suspensions,1.663859376349659
+E06000035,Medway,Suburban Traits,School Suspensions,2.6253179095906147
+E06000036,Bracknell Forest,Rural-Urban Fringe,School Suspensions,2.062907034996064
+E06000037,West Berkshire,Thriving Rural,School Suspensions,1.9999750470986015
+E06000038,Reading,University Towns and Cities,School Suspensions,1.8641867291355025
+E06000039,Slough,Ethnically Diverse Metropolitan  Living,School Suspensions,1.272992995010835
+E06000040,Windsor and Maidenhead,Rural-Urban Fringe,School Suspensions,1.6210604375231739
+E06000041,Wokingham,Thriving Rural,School Suspensions,0.5931824179354498
+E06000042,Milton Keynes,Suburban Traits,School Suspensions,2.620685947747554
+E06000043,Brighton and Hove,University Towns and Cities,School Suspensions,1.6284186694161291
+E06000044,Portsmouth,Larger Towns and Cities,School Suspensions,2.1719945087272015
+E06000045,Southampton,Larger Towns and Cities,School Suspensions,1.928264561894295
+E06000046,Isle of Wight,Remoter Coastal Living,School Suspensions,2.5040579595391743
+E06000047,County Durham,"Services, Manufacturing and Mining Legacy",School Suspensions,2.148921679909194
+E06000049,Cheshire East,Country Living,School Suspensions,2.0811197445196985
+E06000050,Cheshire West and Chester,Town Living,School Suspensions,1.6688178180190816
+E06000051,Shropshire,English and Welsh Countryside,School Suspensions,2.6937924190306384
+E06000052,Cornwall,,School Suspensions,2.0754522704176424
 E06000053,Isles of Scilly,,School Suspensions,0.0
-E06000054,Wiltshire,Country Living,School Suspensions,6.786656454769807
-E06000055,Bedford,Suburban Traits,School Suspensions,4.982964224872231
-E06000056,Central Bedfordshire,Thriving Rural,School Suspensions,5.364691744812343
-E06000057,Northumberland,English and Welsh Countryside,School Suspensions,9.166282818977429
-E06000058,"Bournemouth, Christchurch and Poole",,School Suspensions,8.786269675706428
-E06000059,Dorset,,School Suspensions,6.708638662400661
-E06000060,Buckinghamshire,,School Suspensions,4.000591164366431
-E06000061,North Northamptonshire,,School Suspensions,7.75913450250149
-E06000062,West Northamptonshire,,School Suspensions,7.137050641295839
+E06000054,Wiltshire,Country Living,School Suspensions,2.2611284377658065
+E06000055,Bedford,Suburban Traits,School Suspensions,1.663258499458703
+E06000056,Central Bedfordshire,Thriving Rural,School Suspensions,1.7897668291774946
+E06000057,Northumberland,English and Welsh Countryside,School Suspensions,3.0577302992609936
+E06000058,"Bournemouth, Christchurch and Poole",,School Suspensions,2.930609146688595
+E06000059,Dorset,,School Suspensions,2.2354899506128683
+E06000060,Buckinghamshire,,School Suspensions,1.335848884704739
+E06000061,North Northamptonshire,,School Suspensions,2.585236337802609
+E06000062,West Northamptonshire,,School Suspensions,2.37945866186191
 E07000008,Cambridge,University Towns and Cities,School Suspensions,
 E07000009,East Cambridgeshire,Country Living,School Suspensions,
 E07000010,Fenland,Country Living,School Suspensions,
@@ -4874,75 +4874,75 @@ E07000243,Stevenage,Suburban Traits,School Suspensions,
 E07000244,East Suffolk,,School Suspensions,
 E07000245,West Suffolk,,School Suspensions,
 E07000246,Somerset West and Taunton,,School Suspensions,
-E08000001,Bolton,Manufacturing Traits,School Suspensions,8.338394958621214
-E08000002,Bury,Manufacturing Traits,School Suspensions,7.431390687634906
-E08000003,Manchester,University Towns and Cities,School Suspensions,7.9708322856424445
-E08000004,Oldham,Manufacturing Traits,School Suspensions,5.378774578651686
-E08000005,Rochdale,Manufacturing Traits,School Suspensions,10.21829632792485
-E08000006,Salford,Manufacturing Traits,School Suspensions,12.077783697389451
-E08000007,Stockport,Town Living,School Suspensions,7.033242153090083
-E08000008,Tameside,Manufacturing Traits,School Suspensions,14.687073555775559
-E08000009,Trafford,Suburban Traits,School Suspensions,3.581883139333871
-E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Suspensions,6.621768593658496
-E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Suspensions,6.711599189329312
-E08000012,Liverpool,Larger Towns and Cities,School Suspensions,8.04135101010101
-E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Suspensions,6.839995587099621
-E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Suspensions,3.835807512204842
-E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Suspensions,5.282937195025972
-E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Suspensions,13.489644169681775
-E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Suspensions,20.18471310961595
-E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Suspensions,9.549658222758344
-E08000019,Sheffield,Larger Towns and Cities,School Suspensions,10.400220414715077
-E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Suspensions,12.845376622132834
-E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Suspensions,5.383922250112634
-E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Suspensions,4.399910932977065
-E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Suspensions,8.051454249172881
-E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Suspensions,6.517027711282521
-E08000026,Coventry,Larger Towns and Cities,School Suspensions,7.560573821127051
-E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Suspensions,6.601364644815605
-E08000028,Sandwell,Manufacturing Traits,School Suspensions,4.786250582806797
-E08000029,Solihull,Town Living,School Suspensions,6.22259654685526
-E08000030,Walsall,Manufacturing Traits,School Suspensions,4.223929245372929
-E08000031,Wolverhampton,Manufacturing Traits,School Suspensions,5.605069076555521
-E08000032,Bradford,Manufacturing Traits,School Suspensions,10.32339051945723
-E08000033,Calderdale,Manufacturing Traits,School Suspensions,10.875852660300136
-E08000034,Kirklees,Manufacturing Traits,School Suspensions,8.849596935821493
-E08000035,Leeds,Larger Towns and Cities,School Suspensions,8.469449952548858
-E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Suspensions,13.151621546706089
-E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Suspensions,7.986388416264453
+E08000001,Bolton,Manufacturing Traits,School Suspensions,2.780379746835443
+E08000002,Bury,Manufacturing Traits,School Suspensions,2.4807850672522647
+E08000003,Manchester,University Towns and Cities,School Suspensions,2.671547342926134
+E08000004,Oldham,Manufacturing Traits,School Suspensions,1.7947628950528691
+E08000005,Rochdale,Manufacturing Traits,School Suspensions,3.4058564007685193
+E08000006,Salford,Manufacturing Traits,School Suspensions,4.0220351462356625
+E08000007,Stockport,Town Living,School Suspensions,2.345102646549592
+E08000008,Tameside,Manufacturing Traits,School Suspensions,4.903563548003823
+E08000009,Trafford,Suburban Traits,School Suspensions,1.1952375092296332
+E08000010,Wigan,"Services, Manufacturing and Mining Legacy",School Suspensions,2.2229087385730133
+E08000011,Knowsley,"Services, Manufacturing and Mining Legacy",School Suspensions,2.238571338741118
+E08000012,Liverpool,Larger Towns and Cities,School Suspensions,2.6919119522297756
+E08000013,St. Helens,"Services, Manufacturing and Mining Legacy",School Suspensions,2.4151775756524327
+E08000014,Sefton,"Services, Manufacturing and Mining Legacy",School Suspensions,1.2872290918760803
+E08000015,Wirral,"Services, Manufacturing and Mining Legacy",School Suspensions,1.762261996180125
+E08000016,Barnsley,"Services, Manufacturing and Mining Legacy",School Suspensions,4.503262130751526
+E08000017,Doncaster,"Services, Manufacturing and Mining Legacy",School Suspensions,6.736777505021201
+E08000018,Rotherham,"Services, Manufacturing and Mining Legacy",School Suspensions,3.1845710326949295
+E08000019,Sheffield,Larger Towns and Cities,School Suspensions,3.4685544893050904
+E08000021,Newcastle upon Tyne,Larger Towns and Cities,School Suspensions,4.282133963348445
+E08000022,North Tyneside,"Services, Manufacturing and Mining Legacy",School Suspensions,1.7950643776824033
+E08000023,South Tyneside,"Services, Manufacturing and Mining Legacy",School Suspensions,1.4662016769310677
+E08000024,Sunderland,"Services, Manufacturing and Mining Legacy",School Suspensions,2.686692591616135
+E08000025,Birmingham,Ethnically Diverse Metropolitan  Living,School Suspensions,2.172774224273128
+E08000026,Coventry,Larger Towns and Cities,School Suspensions,2.5201191994646317
+E08000027,Dudley,"Services, Manufacturing and Mining Legacy",School Suspensions,2.202344791950339
+E08000028,Sandwell,Manufacturing Traits,School Suspensions,1.5977372991423635
+E08000029,Solihull,Town Living,School Suspensions,2.0763076109237586
+E08000030,Walsall,Manufacturing Traits,School Suspensions,1.4098665207599028
+E08000031,Wolverhampton,Manufacturing Traits,School Suspensions,1.8685375127258625
+E08000032,Bradford,Manufacturing Traits,School Suspensions,3.4418617010675683
+E08000033,Calderdale,Manufacturing Traits,School Suspensions,3.626471605073057
+E08000034,Kirklees,Manufacturing Traits,School Suspensions,2.9511963238789414
+E08000035,Leeds,Larger Towns and Cities,School Suspensions,2.825068136721253
+E08000036,Wakefield,"Services, Manufacturing and Mining Legacy",School Suspensions,4.391935672983764
+E08000037,Gateshead,"Services, Manufacturing and Mining Legacy",School Suspensions,2.6634242371605583
 E09000001,City of London,,School Suspensions,0.0
-E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Suspensions,2.9110848583465216
-E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Suspensions,3.693487840705076
-E09000004,Bexley,Suburban Traits,School Suspensions,6.26011257719742
-E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Suspensions,3.422426393819169
-E09000006,Bromley,Rural-Urban Fringe,School Suspensions,5.65150317944087
-E09000007,Camden,London Cosmopolitan,School Suspensions,4.070376954282328
-E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Suspensions,5.131556020212581
-E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Suspensions,3.096771805123649
-E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Suspensions,4.699327909444641
-E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Suspensions,5.215455557322309
-E09000012,Hackney,London Cosmopolitan,School Suspensions,6.818447852042608
-E09000013,Hammersmith and Fulham,London Cosmopolitan,School Suspensions,5.56322746103768
-E09000014,Haringey,London Cosmopolitan,School Suspensions,4.960008447060686
-E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Suspensions,2.6204168726742827
-E09000016,Havering,Suburban Traits,School Suspensions,4.520319706372395
-E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Suspensions,3.840883136657785
-E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Suspensions,4.828681042465935
-E09000019,Islington,London Cosmopolitan,School Suspensions,9.478812313636555
-E09000020,Kensington and Chelsea,London Cosmopolitan,School Suspensions,5.36822429906542
-E09000021,Kingston upon Thames,University Towns and Cities,School Suspensions,1.5975034364899505
-E09000022,Lambeth,London Cosmopolitan,School Suspensions,4.575682110506007
-E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Suspensions,5.250969269600062
-E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Suspensions,2.6143322708877985
-E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Suspensions,3.053543755336981
-E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Suspensions,3.8349856531674713
-E09000027,Richmond upon Thames,Rural-Urban Fringe,School Suspensions,3.314121037463977
-E09000028,Southwark,London Cosmopolitan,School Suspensions,4.929676842748954
-E09000029,Sutton,Suburban Traits,School Suspensions,4.860410773582585
-E09000030,Tower Hamlets,London Cosmopolitan,School Suspensions,2.8004870412245606
-E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Suspensions,4.37149416581856
-E09000032,Wandsworth,London Cosmopolitan,School Suspensions,3.327166388159465
-E09000033,Westminster,,School Suspensions,5.837748949387904
+E09000002,Barking and Dagenham,Ethnically Diverse Metropolitan  Living,School Suspensions,0.9698932077769691
+E09000003,Barnet,Ethnically Diverse Metropolitan  Living,School Suspensions,1.2316919844773064
+E09000004,Bexley,Suburban Traits,School Suspensions,2.0867200437550326
+E09000005,Brent,Ethnically Diverse Metropolitan  Living,School Suspensions,1.1408802667390594
+E09000006,Bromley,Rural-Urban Fringe,School Suspensions,1.8849337073081969
+E09000007,Camden,London Cosmopolitan,School Suspensions,1.3595810115404525
+E09000008,Croydon,Ethnically Diverse Metropolitan  Living,School Suspensions,1.710687586042648
+E09000009,Ealing,Ethnically Diverse Metropolitan  Living,School Suspensions,1.031938910203427
+E09000010,Enfield,Ethnically Diverse Metropolitan  Living,School Suspensions,1.5664888128998027
+E09000011,Greenwich,Ethnically Diverse Metropolitan  Living,School Suspensions,1.739749797307025
+E09000012,Hackney,London Cosmopolitan,School Suspensions,2.2719737894182575
+E09000013,Hammersmith and Fulham,London Cosmopolitan,School Suspensions,1.8526730721852673
+E09000014,Haringey,London Cosmopolitan,School Suspensions,1.6530452454055193
+E09000015,Harrow,Ethnically Diverse Metropolitan  Living,School Suspensions,0.8732223378425252
+E09000016,Havering,Suburban Traits,School Suspensions,1.507294920931431
+E09000017,Hillingdon,Ethnically Diverse Metropolitan  Living,School Suspensions,1.2820105584814083
+E09000018,Hounslow,Ethnically Diverse Metropolitan  Living,School Suspensions,1.6085436436818756
+E09000019,Islington,London Cosmopolitan,School Suspensions,3.15858710255262
+E09000020,Kensington and Chelsea,London Cosmopolitan,School Suspensions,1.7859363729074946
+E09000021,Kingston upon Thames,University Towns and Cities,School Suspensions,0.5322045645824051
+E09000022,Lambeth,London Cosmopolitan,School Suspensions,1.525241283683932
+E09000023,Lewisham,Ethnically Diverse Metropolitan  Living,School Suspensions,1.75090017786647
+E09000024,Merton,Ethnically Diverse Metropolitan  Living,School Suspensions,0.8718916465614026
+E09000025,Newham,Ethnically Diverse Metropolitan  Living,School Suspensions,1.016343691714349
+E09000026,Redbridge,Ethnically Diverse Metropolitan  Living,School Suspensions,1.2777357972109638
+E09000027,Richmond upon Thames,Rural-Urban Fringe,School Suspensions,1.1026402563083184
+E09000028,Southwark,London Cosmopolitan,School Suspensions,1.6447084487480286
+E09000029,Sutton,Suburban Traits,School Suspensions,1.6216393657880053
+E09000030,Tower Hamlets,London Cosmopolitan,School Suspensions,0.9352037408149633
+E09000031,Waltham Forest,Ethnically Diverse Metropolitan  Living,School Suspensions,1.4576362144074753
+E09000032,Wandsworth,London Cosmopolitan,School Suspensions,1.1090334003063518
+E09000033,Westminster,,School Suspensions,1.949805477153101
 E06000001,Hartlepool,"Services, Manufacturing and Mining Legacy",Socially renting households,23.4
 E06000002,Middlesbrough,Manufacturing Traits,Socially renting households,23.2
 E06000003,Redcar and Cleveland,"Services, Manufacturing and Mining Legacy",Socially renting households,18.9
