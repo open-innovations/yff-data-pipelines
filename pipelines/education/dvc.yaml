@@ -13,7 +13,9 @@ stages:
       - ${top}/${raw}/16-18-destination-measures.zip:
           cache: false
   transform:
+    # TODO Fix this stage
     cmd: papermill transform.ipynb ${top}/output/education-transform.ipynb
+    frozen: true
     deps:
       - transform.ipynb
       - ${top}/${raw}/
@@ -36,4 +38,3 @@ stages:
           cache: false
       - ${top}/data/processed/dfe/destinations.metadata.json:
           cache: false
-

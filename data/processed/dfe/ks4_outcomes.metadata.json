@@ -1,5 +1,5 @@
 {
-  "new_la_code":[
+  "new_la_code": [
     "E06000001",
     "E06000002",
     "E06000003",
@@ -157,40 +157,40 @@
     "E10000032",
     "E10000034"
   ],
-  "time_period":[
+  "time_period": [
     201819,
     201920,
     202021,
     202122,
     202223
   ],
-  "time_identifier":[
+  "time_identifier": [
     "Academic year"
   ],
-  "geographic_level":[
+  "geographic_level": [
     "Local authority"
   ],
-  "version":[
+  "version": [
     "Final",
     "Revised"
   ],
-  "education_investment_area_flag":[
+  "education_investment_area_flag": [
     "0",
     "1"
   ],
-  "priority_area_flag":[
+  "priority_area_flag": [
     "0",
     "1"
   ],
-  "establishment_type":[
+  "establishment_type": [
     "State-funded schools (LA)"
   ],
-  "gender":[
+  "gender": [
     "Boys",
     "Girls",
     "Total"
   ],
-  "variable":[
+  "variable": [
     "avg_att8",
     "avg_p8score"
   ]
