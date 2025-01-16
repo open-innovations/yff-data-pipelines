@@ -55,6 +55,31 @@ pipenv run dvc repro -R pipelines
 
 This will recursively find all stage definitions and run them as a job.
 
+Individual pipelines can be run by specifying the path to a `dvc.yaml` file
+
+```
+pipenv run dvc repro pipelines/education/dvc.yaml
+```
+
+Individual stages within a pipeline can be run by specifying the path to a `dvc.yaml` file followed by the stage name:
+
+```
+pipenv run dvc repro pipelines/education/dvc.yaml:transform
+```
+
+By default this will check the dependencies.
+Pipelines can be run in isolation by providing the `-s` flag.
+
+```
+pipenv run dvc repro -s pipelines/education/dvc.yaml:transform
+```
+
+To force a pipeline to run, use the `-f` flag.
+
+```
+pipenv run dvc repro -f pipelines/education/dvc.yaml:transform
+```
+
 ## Data directory
 
 Raw data is stored in `data/raw`
