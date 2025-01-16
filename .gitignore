@@ -2,3 +2,5 @@ __pycache__/
 /SCRATCH/
 
 .env
+
+*.tar.gz
