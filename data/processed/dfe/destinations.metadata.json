@@ -1,5 +1,5 @@
 {
-  "time_period": [
+  "time_period":[
     201718,
     201819,
     201920,
@@ -7,7 +7,7 @@
     202122,
     202223
   ],
-  "lad_code": [
+  "lad_code":[
     "E06000001",
     "E06000002",
     "E06000003",
@@ -335,24 +335,24 @@
     "E09000032",
     "E09000033"
   ],
-  "breakdown_topic": [
+  "breakdown_topic":[
     "Disadvantage status",
     "Total"
   ],
-  "breakdown": [
+  "breakdown":[
     "Disadvantaged",
     "Not disadvantaged",
     "Total"
   ],
-  "data_type": [
+  "data_type":[
     "Number of pupils",
     "Percentage"
   ],
-  "version": [
+  "version":[
     "Provisional",
     "Revised"
   ],
-  "variable": [
+  "variable":[
     "all_notsust",
     "appl2",
     "appl3",

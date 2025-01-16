@@ -1,5 +1,5 @@
 {
-  "new_la_code": [
+  "new_la_code":[
     "E06000001",
     "E06000002",
     "E06000003",
@@ -158,52 +158,54 @@
     "E10000032",
     "E10000034"
   ],
-  "time_period": [
+  "time_period":[
     201819,
     201920,
     202021,
     202122,
-    202223
+    202223,
+    202324
   ],
-  "time_identifier": [
+  "time_identifier":[
     "Academic year"
   ],
-  "geographic_level": [
+  "geographic_level":[
     "Local authority"
   ],
-  "version": [
+  "version":[
     "Final",
+    "Provisional",
     "Revised"
   ],
-  "education_investment_area_flag": [
+  "education_investment_area_flag":[
     "0",
     "1",
     "z"
   ],
-  "priority_area_flag": [
+  "priority_area_flag":[
     "0",
     "1",
     "z"
   ],
-  "establishment_type": [
+  "establishment_type_group":[
     "State-funded schools (LA)"
   ],
-  "gender": [
+  "sex":[
     "Boys",
     "Girls",
     "Total"
   ],
-  "breakdown": [
+  "breakdown":[
     "Disadvantage",
     "Ethnicity major",
     "Ethnicity minor",
     "First language",
     "Free school meals",
-    "SEN description",
+    "SEN provision",
     "SEN status",
     "Total"
   ],
-  "ethnicity_major": [
+  "ethnicity_major":[
     "Asian",
     "Black",
     "Chinese",
@@ -213,33 +215,33 @@
     "Unclassified",
     "White"
   ],
-  "free_school_meals": [
+  "free_school_meals":[
     "FSM",
     "FSM all other",
     "Total"
   ],
-  "sen_status": [
+  "sen_status":[
+    "Any SEN",
+    "No identified SEN",
+    "Total"
+  ],
+  "sen_provision":[
     "No SEN",
     "SEN State EHC",
     "SEN Supp",
     "Total"
   ],
-  "sen_description": [
-    "Any SEN",
-    "No identified SEN",
-    "Total"
-  ],
-  "disadvantage": [
+  "disadvantage":[
     "Disadvantaged",
     "Disadvantaged all other",
     "Total"
   ],
-  "first_language": [
+  "first_language":[
     "English",
     "Other than English",
     "Total"
   ],
-  "variable": [
+  "variable":[
     "avg_att8",
     "avg_p8score",
     "ethnicity_minor"

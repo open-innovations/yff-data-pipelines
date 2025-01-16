@@ -10,24 +10,24 @@ stages:
     outs:
     - path: ../../data/raw/education/16-18-destination-measures.zip
       hash: md5
-      md5: 95ef26a046fa4207a2faaf52a094a1c6
+      md5: 34fb9090154dfd5c90bbf9d0f5558771
       size: 19704289
     - path: ../../data/raw/education/key-stage-4-performance.zip
       hash: md5
-      md5: 79350f84cf4e8a030a7d311afbc68987
+      md5: eec1ee670688f730cdfd65db2412654f
       size: 7626620
   transform:
     cmd: papermill transform.ipynb ../../output/education-transform.ipynb
     deps:
     - path: ../../data/raw/education/
       hash: md5
-      md5: 570c6898e2bf7c14dfdb866b9bb8d1a0.dir
+      md5: 91eb2f3ff721ef17727210b3223fbd91.dir
       size: 27330909
       nfiles: 2
     - path: transform.ipynb
       hash: md5
-      md5: 684c6e69f6917b4bc47ba9c52bac839f
-      size: 20382
+      md5: 6b17e22b87344ce26584190ff7664624
+      size: 16606
     outs:
     - path: ../../data/processed/dfe/destinations.csv
       hash: md5
@@ -35,33 +35,33 @@ stages:
       size: 6198726
     - path: ../../data/processed/dfe/destinations.metadata.json
       hash: md5
-      md5: b7c2749c73b59d193803096611a41e73
-      size: 6036
+      md5: 42e95363089ab29894b55b70184ec2e2
+      size: 6028
     - path: ../../data/processed/dfe/destinations.parquet
       hash: md5
       md5: 191daa24ed0e1dfe51ab5ae2a68bdcdb
       size: 166066
     - path: ../../data/processed/dfe/ks4_char_outcomes.csv
       hash: md5
-      md5: 5246a735aa00bcdc2b01d1a578751522
-      size: 23707387
+      md5: 7fb7256657e46d74ab21e5f2bfe0e4b6
+      size: 31625564
     - path: ../../data/processed/dfe/ks4_char_outcomes.metadata.json
       hash: md5
-      md5: d4e4de7b11a510921243779420757734
-      size: 3984
+      md5: 944112452d01028cf35069d4566fffd2
+      size: 3996
     - path: ../../data/processed/dfe/ks4_char_outcomes.parquet
       hash: md5
-      md5: ce4eb0e916ffe6dbfb3285b9669e0672
-      size: 169975
+      md5: f6f1a90aa392432c9664bcdc714ab583
+      size: 225748
     - path: ../../data/processed/dfe/ks4_outcomes.csv
       hash: md5
-      md5: ec15396dd6d9b780f03a0860f96a3137
-      size: 473820
+      md5: 5095efde3b7a82e159ac6fb831417c16
+      size: 572672
     - path: ../../data/processed/dfe/ks4_outcomes.metadata.json
       hash: md5
-      md5: 8952b1380dc94e262022b2721b800d91
-      size: 3189
+      md5: 2531ab6906b7b4c273698f301cb846ba
+      size: 3212
     - path: ../../data/processed/dfe/ks4_outcomes.parquet
       hash: md5
-      md5: 673e45ad35463069c727c3304b4a39e8
-      size: 17336
+      md5: ba4426a553addb3e1358f0cefeb2a21a
+      size: 18591
