@@ -3,7 +3,7 @@ name: pipeline
 "on":
   workflow_dispatch:
   schedule:
-    - cron: "35 8 * * 1-5"
+    - cron: "50 7 * * 1-5"
 
 jobs:
   run-pipeline:
