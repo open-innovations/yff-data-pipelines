@@ -23,13 +23,14 @@ stages:
 
   download-x10:
     cmd: PYTHONPATH=${top} python download-x10.py
+    frozen: true
     deps:
       - download-x10.py
     outs:
       - ${top}/data/raw/x10.xlsx:
           cache: false
   process-x10:
-    # frozen: true
+    frozen: true
     cmd: papermill process-x10.ipynb ${top}/output/process-x10.ipynb
     deps:
       - process-x10.ipynb
